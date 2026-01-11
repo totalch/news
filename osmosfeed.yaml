@@ -3,7 +3,7 @@
 # https://github.com/osmoscraft/osmosfeed/blob/master/docs/osmosfeed-yaml-reference.md
 #########################
 
-cacheUrl: https://totalch.github.io/news/cache.json
+# cacheUrl: https://totalch.github.io/news/cache.json
 sources:
   - href: http://www.bbc.co.uk/zhongwen/simp/index.xml
   - href: https://feeds.feedburner.com/rsscna/mainland

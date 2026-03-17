@@ -1,20 +1,750 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-16T02:35:13.378Z</id>
+    <id>urn:2026-03-17T02:21:23.898Z</id>
     <title>osmos::feed</title>
-    <updated>2026-03-16T02:35:13.378Z</updated>
+    <updated>2026-03-17T02:21:23.898Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[航班全面停飛！ 杜拜機場驚遭無人機攻擊 燃料槽起火濃煙沖天]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5371540</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5371540"/>
-        <updated>2026-03-16T02:29:56.000Z</updated>
-        <summary type="html"><![CDATA[杜拜國際機場（DXB）附近一座燃料儲存槽驚傳遭無人機襲擊，引發猛烈火災。杜拜民航局基於安全考量，正式宣布暫時停止所有航班起降，目前大批旅客受阻。
-
-綜合外媒報導，社群媒體流傳...…]]></summary>
+        <title type="html"><![CDATA[阿聯被伊朗外長指責後遭襲 石油設施起火、機場運作受擾]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5372533</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5372533"/>
+        <updated>2026-03-17T02:11:26.000Z</updated>
+        <summary type="html"><![CDATA[伊朗外交部長阿拉奇（Abbas Araghchi）15日表示，美國在中東的基地被用於發動空襲，且有飛彈從阿拉伯聯合大公國發射，襲擊伊朗的哈格島（Kharg Island）。隔日...…]]></summary>
         <author>
             <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「誰不想發篇學術垃圾」：從《新青年》到性別意識，中國年輕人自建學術自娛平台潮始末]]></title>
+        <id>https://www.bbc.com/zhongwen/articles/c0ljr423x9wo/trad#0</id>
+        <link href="https://www.bbc.com/zhongwen/articles/c0ljr423x9wo/trad?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-03-17T01:56:44.000Z</updated>
+        <summary type="html"><![CDATA[面對中國學術逐漸封鎖，年輕人開始自己建立自娛學術平台、探索學術表達的邊界。]]></summary>
+        <author>
+            <name>BBC Chinese</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[伊朗戰事持續延長！ 川普坦言：本週還不會結束]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5372573</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5372573"/>
+        <updated>2026-03-17T01:50:50.000Z</updated>
+        <summary type="html"><![CDATA[伊朗戰爭進入第3週，美國總統川普被問戰爭是否會在本週結束時坦言「我不這麼認為」，但他也強調戰爭很快就會結束。
+
+綜合外媒報導，美國總統川普於當地時間16日在白宮受訪，有記者詢...…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美駐伊拉克大使館遇襲！攔截後上空出現爆炸]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5372568</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5372568"/>
+        <updated>2026-03-17T01:46:06.000Z</updated>
+        <summary type="html"><![CDATA[美國駐伊拉克巴格達大使館於當地時間17日凌晨遭受攻擊，美方的反火箭炮、火炮和迫擊炮系統（C-RAM）隨即攔截，在巴格達上空發生了爆炸。
+
+據《CNN》報導，從社群媒體瘋傳的影...…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[華盛頓官員稱美中醞釀設立委員會監管兩國貿易]]></title>
+        <id>https://cn.nytimes.com/business/20260317/trump-administration-china-managed-trade/zh-hant/</id>
+        <link href="https://cn.nytimes.com/business/20260317/trump-administration-china-managed-trade/zh-hant/?utm_source=RSS"/>
+        <updated>2026-03-17T01:45:16.000Z</updated>
+        <summary type="html"><![CDATA[川普政府官員週一透露，美中兩國政府已討論成立一個「美中貿易委員會」來監督和調整兩國之間的貿易。官員表示，這將納入川普與習近平即將舉行的會晤議程。
+
+                    
+Ludovic Marin/Agence France-Presse — Getty Images
+                    
+美國財政部長史考特·貝森特（左）和美國貿易代表賈米森·格里爾週日及週一在巴黎與中方官員舉行了會談。]]></summary>
+        <author>
+            <name>ANA SWANSON</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美白宮：伊朗試圖重啟談判 但川普拒絕]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5372549</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5372549"/>
+        <updated>2026-03-17T01:33:07.000Z</updated>
+        <summary type="html"><![CDATA[美國白宮2名官員16日透露，伊朗外交部長阿拉奇（Abbas Araghchi）近來嘗試聯繫美方中東特使魏科夫（Steve Witkoff），希望能重啟談判，但遭到川普拒絕。
+...…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[古巴電網崩潰 全島逾千萬人面臨斷電危機]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5372472</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5372472"/>
+        <updated>2026-03-17T01:24:28.000Z</updated>
+        <summary type="html"><![CDATA[由於美國石油封鎖，古巴能源與經濟持續面臨巨大挑戰，16日更發生「全島停電」，導致古巴約有1100萬人陷入斷電窘境。
+
+綜合外媒報導，古巴國家電力營運公司「UNE」表示，在美國...…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[越共總書記蘇林：國際複雜多變  越中應加強團結合作]]></title>
+        <id>CNA/2026-03-17/202603170027</id>
+        <link href="https://www.cna.com.tw/news/acn/202603170027.aspx"/>
+        <updated>2026-03-17T01:22:09.000Z</updated>
+        <summary type="html"><![CDATA[（中央社台北17日電）越共總書記蘇林昨天在河內會見到訪的中國外交部長王毅等中方官員表示，當前國際形勢複雜多變，不確定、難預料因素增多，越中應加強團結合作，維護兩國正當利益。]]></summary>
+        <author>
+            <name>中央社即時新聞 兩岸透視</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[川普稱因戰爭原因將要求推遲訪華行程]]></title>
+        <id>https://cn.nytimes.com/usa/20260317/trump-china-visit-delay/zh-hant/</id>
+        <link href="https://cn.nytimes.com/usa/20260317/trump-china-visit-delay/zh-hant/?utm_source=RSS"/>
+        <updated>2026-03-17T01:04:53.000Z</updated>
+        <summary type="html"><![CDATA[川普稱將要求推遲原定於本月底訪問北京、會見中國領導人習近平的計劃。此前他還曾表示，若中國不派遣軍艦參與霍爾木茲海峽護航，他可能取消訪華行程。
+
+                    
+Associated Press]]></summary>
+        <author>
+            <name>《紐約時報》</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[畫面曝！李在明啟用南韓新型總統專機「空軍二號」]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5372483</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5372483"/>
+        <updated>2026-03-17T00:41:00.000Z</updated>
+        <summary type="html"><![CDATA[首次上稿 08:13更新時間 08:41
+
+南韓總統府青瓦台16日表示，總統李在明和第一夫人金惠景15日出席在慶尚南道昌原市舉行的「三一五義舉」66周年紀念儀式時，首度搭乘了...…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美伊戰爭傷亡持續擴大  美軍已累積13死200傷]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5372465</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5372465"/>
+        <updated>2026-03-16T23:43:09.000Z</updated>
+        <summary type="html"><![CDATA[隨著美國對伊朗發動攻擊已有17天，美國軍方16日表示，目前受傷美軍人數已上升至200人，而死亡人數則是達到13人。
+
+根據《路透》報導，負責掌管中東美軍部隊的美國中央司令部（...…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[石油封鎖加強施壓！ 川普自認很榮幸將接管古巴]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5372464</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5372464"/>
+        <updated>2026-03-16T23:27:38.000Z</updated>
+        <summary type="html"><![CDATA[美國總統川普（Donald Trump）16日表示，他認為自己將「榮幸地」（Honor）接管古巴。華府正透過石油封鎖加強對哈瓦那共產主義政權施壓。
+
+《國會山莊報》（The ...…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[川普扯下了美國文明的遮羞布？]]></title>
+        <id>https://cn.nytimes.com/opinion/20260317/iran-war-trump/zh-hant/</id>
+        <link href="https://cn.nytimes.com/opinion/20260317/iran-war-trump/zh-hant/?utm_source=RSS"/>
+        <updated>2026-03-16T22:44:57.000Z</updated>
+        <summary type="html"><![CDATA[川普的伊朗戰爭可能鬆開了文明國家為保護人性而套上的枷鎖，其遺產令人膽寒。在一些人眼中，川普正帶領美國走向一個流氓國家。
+
+                    
+Majid Saeedi/Getty Images
+                    
+德黑蘭一座居民樓樓體側面被炸開。]]></summary>
+        <author>
+            <name>紀思道</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[先忙中東、不去中國！川普：川習會延後約1個月]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5372456</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5372456"/>
+        <updated>2026-03-16T22:42:38.000Z</updated>
+        <summary type="html"><![CDATA[美國總統川普（Donald Trump）16日表示，由於伊朗戰爭仍在持續，他已要求北京將他與中國國家主席習近平原定4月初舉行的高峰會延後約一個月。
+
+綜合媒體報導，川普16日...…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[給伊朗經濟致命一擊 美媒：川普瞄準掌控石油出口樞紐]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5372396</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5372396"/>
+        <updated>2026-03-16T22:07:40.000Z</updated>
+        <summary type="html"><![CDATA[首次上稿 03-16 22:46更新時間 03-17 06:07
+美國新聞網「Axios」引述官員報導，繼13日宣布轟炸伊朗位於南部波斯灣外海的石油樞紐哈格島（Kharg I...…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[川普「下大棋」！中學者：逼北京「解封荷姆茲」是系統性擠壓中國]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5372441</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5372441"/>
+        <updated>2026-03-16T22:07:28.000Z</updated>
+        <summary type="html"><![CDATA[美國總統川普威脅，除非中國協助打破伊朗對荷姆茲海峽（Strait of Hormuz）的封鎖，否則將延後他的北京訪問行程。此舉將北京極力試圖切割的兩大危機——中東穩定的瓦解與...…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[拒絕川普+1！德總理拒涉入中東戰爭 不派軍艦赴荷姆茲海峽]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5372436</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5372436"/>
+        <updated>2026-03-16T22:02:43.000Z</updated>
+        <summary type="html"><![CDATA[首次上稿 03-17 02:13更新時間 03-17 06:02
+德國總理梅爾茨（Friedrich Merz）16日表示，由美國和以色列空襲伊朗所引發的中東戰爭，「不是北...…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[護航荷姆茲？川普批盟邦反應冷淡 但預期英法可望加入]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5372442</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5372442"/>
+        <updated>2026-03-16T22:01:12.000Z</updated>
+        <summary type="html"><![CDATA[美國總統川普16日批評盟邦，指責他們對其呼籲在美伊戰爭期間協助保護荷姆茲海峽（Strait of Hormuz）航運的反應冷淡，疾呼其他國家展現更多「熱忱」，並預期法國與英國...…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[謠言終結站》高麗菜傷腎？ 不實AI訊息]]></title>
+        <id>https://news.ltn.com.tw/news/world/paper/1747128</id>
+        <link href="https://news.ltn.com.tw/news/world/paper/1747128"/>
+        <updated>2026-03-16T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[網傳內容：近期流傳YouTube影片宣稱，許多洗腎病人與食用高麗菜有關，高麗菜加上3種食物會傷腎？
+查證結果：台灣事實查核中心指出，網傳影片顯為AI生成，有多處破綻。據官方統計，高血糖、高血壓、高血脂才是慢性腎病元凶。腎臟科醫師表示，高麗菜是生鮮蔬菜，不會傷腎；高麗菜和瓜類或海帶一起吃，並無傷身疑…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[施壓習近平協助護航荷姆茲航運 川普放話 不排除延後川習會]]></title>
+        <id>https://news.ltn.com.tw/news/world/paper/1747113</id>
+        <link href="https://news.ltn.com.tw/news/world/paper/1747113"/>
+        <updated>2026-03-16T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[〔編譯林家宇／綜合報導〕伊朗封鎖重要能源運輸航道荷姆茲海峽，擾亂全球石油、天然氣價格和供應穩定。美國總統川普要求各國協助維護荷姆茲航運自由及安全，尤其是針對中國，揚言若北京拒絕，不排除延後原訂三月卅一日至四月二日的訪問中國行程。
+川普十五日接受「金融時報」電話訪問，強調中國依賴中東石油，要求北京出…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[菲捍衛黃岩島 批中滲透介選]]></title>
+        <id>https://news.ltn.com.tw/news/world/paper/1747127</id>
+        <link href="https://news.ltn.com.tw/news/world/paper/1747127"/>
+        <updated>2026-03-16T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[駁中國使館「引述」菲前外交官說法
+〔國際新聞中心／綜合報導〕菲律賓政府十六日拒絕中國對整個南海的主權主張，並駁斥中國大使館聲稱一名菲國外交官曾承認，有爭議的黃岩島（Scarborough Shoal，菲稱馬辛洛克灘）不屬於菲國領土的說法。這是菲律賓官員與中國駐馬尼拉大使館之間，針對南海爭端最新的…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中英對照讀新聞》US Starts Second Trade Probe in Trump’s Tariff Policy Revival 川普關稅政策捲土重來，美啟動第2波貿易調查]]></title>
+        <id>https://news.ltn.com.tw/news/world/paper/1747160</id>
+        <link href="https://news.ltn.com.tw/news/world/paper/1747160"/>
+        <updated>2026-03-16T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[◎魏國金
+
+President Donald Trump’s administration began its second tariff investigation in as many days, continuing its effort to rebuild his key trade …]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[伊朗首用硫磺石飛彈 可精準打擊全中東]]></title>
+        <id>https://news.ltn.com.tw/news/world/paper/1747125</id>
+        <link href="https://news.ltn.com.tw/news/world/paper/1747125"/>
+        <updated>2026-03-16T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[伊朗宣稱，在對以色列和中東地區美國資產的新一波「真實承諾行動」（Operation True Promise）中，首度使用「硫磺石」（Sejjil）中程彈道飛彈。硫磺石飛彈採用2段式固體燃料，僅需極少準備即可從輸具上發射，代表伊朗飛彈計畫的重大進展，射程估計達2000至2500公里，酬載最重可達10…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[川普放話擬延後訪中 提高談判籌碼]]></title>
+        <id>https://news.ltn.com.tw/news/world/paper/1747126</id>
+        <link href="https://news.ltn.com.tw/news/world/paper/1747126"/>
+        <updated>2026-03-16T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[〔編譯林家宇／綜合報導〕美國總統川普在接受「金融時報」電話訪問時，要求仰賴中東石油的中國出手，維護荷姆茲海峽航運安全，否則不排除延後訪問中國行程。專家認為，川普延後訪中，反而讓北京得以避免被推到中東衝突的浪尖上，也可免於盛大接待川普所產生的負面觀感。
+中東衝突 北京可避免被推到台前
+「彭博」指出…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[以軍地面攻勢 鎖定真主黨黎南據點]]></title>
+        <id>https://news.ltn.com.tw/news/world/paper/1747123</id>
+        <link href="https://news.ltn.com.tw/news/world/paper/1747123"/>
+        <updated>2026-03-16T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[〔國際新聞中心／綜合報導〕以色列軍方十六日表示，已開始對黎巴嫩南部的真主黨（Hezbollah）據點，展開其所稱的「有限度地面行動」，並警告，在確保邊境附近以色列居民的安全之前，遭以軍驅離的黎巴嫩流離失所者，將無法返家。
+
+為了報復伊朗最高領袖哈米尼（Ayatollah Ali Khamenei…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[穆吉塔巴傳重傷送俄 普廷撐起「暗殺保護傘」]]></title>
+        <id>https://news.ltn.com.tw/news/world/paper/1747124</id>
+        <link href="https://news.ltn.com.tw/news/world/paper/1747124"/>
+        <updated>2026-03-16T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[〔國際新聞中心／綜合報導〕科威特和英國媒體披露，伊朗新任最高領袖穆吉塔巴．哈米尼（Mojtaba Khamenei）由於傷勢嚴重，已被秘密送往俄羅斯接受手術，並留在當地休養。
+科威特「雅利達日報」（Al-Jarida）引述伊朗高層消息人士報導，基於健康與安全的雙重考量，穆吉塔巴已被秘密送至莫斯科接…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[川普點名中法日韓英 派艦打通荷姆茲]]></title>
+        <id>https://news.ltn.com.tw/news/world/paper/1747122</id>
+        <link href="https://news.ltn.com.tw/news/world/paper/1747122"/>
+        <updated>2026-03-16T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[警告「不會忘記」拒絕協助的國家、北約若不願伸援 會「非常不利」
+〔編譯林家宇／綜合報導〕為有效解決伊朗對關鍵能源航道荷姆茲海峽的實質封鎖，美國總統川普號召特定國家和北大西洋公約組織（NATO）部署軍力，維護海峽航行安全，但遭點名的國家普遍持保留態度，甚至表明不會出動軍艦。
+遭點名國家 暫持保留態…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[古巴國家電力系統癱瘓　1100萬人無電可用]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5372447</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5372447"/>
+        <updated>2026-03-16T20:00:05.000Z</updated>
+        <summary type="html"><![CDATA[古巴電網營運商表示，古巴國家電力系統今天陷入癱瘓，約1100萬人無電可用。受到美國石油封鎖影響，古巴本已老舊的電網在燃料短缺壓力下全面失靈。
+
+路透社報導，國營的聯合電力公司（Union E...…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[白宮幕僚長威爾斯罹乳癌　川普：治療期間繼續工作]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5372446</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5372446"/>
+        <updated>2026-03-16T19:21:03.000Z</updated>
+        <summary type="html"><![CDATA[美國總統川普（Donald Trump）今天指出，現年68歲的白宮幕僚長威爾斯（Susie Wiles）遭診斷出罹患乳癌，但她會在治療期間繼續工作。 
+
+法新社報導，威爾斯是第一位女性白宮幕...…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[川普：伊朗新任最高領袖生死未卜　美方無從談判]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5372445</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5372445"/>
+        <updated>2026-03-16T18:54:03.000Z</updated>
+        <summary type="html"><![CDATA[美國總統川普今天表示，有報導稱伊朗新任最高領袖穆吉塔巴．哈米尼在空襲中受傷，生死未卜；他還說，美方甚至不知道應與誰談判。
+
+法新社報導，川普在白宮對記者說：「我們不知道…他是死了還是沒死。我...…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[川普稱伊朗軍事能力盡毀 籲各國護航荷莫茲海峽]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5372438</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5372438"/>
+        <updated>2026-03-16T17:54:03.000Z</updated>
+        <summary type="html"><![CDATA[美國總統川普今天在白宮發表談話時，重申伊朗軍事能力已被「徹底摧毀」，同時宣揚美國與以色列在這場軍事行動取得成功，並再次呼籲各國協助維護荷莫茲海峽安全。
+
+綜合英國廣播公司（BBC）和路透社等...…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[白宮幕僚長威爾斯罹患早期乳癌 川普力挺讚其堅韌不拔]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5372432</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5372432"/>
+        <updated>2026-03-16T17:15:06.000Z</updated>
+        <summary type="html"><![CDATA[美國總統川普16日在社群平台發文表示，白宮幕僚長威爾斯（Susie Wiles）被診斷出罹患早期乳癌，但她將在治療期間繼續工作。
+
+川普表示，威爾斯的預後情況「極佳」，並...…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[駁斥攔截飛彈耗盡傳聞 以軍稱已為長期作戰做好準備]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5372431</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5372431"/>
+        <updated>2026-03-16T17:05:20.000Z</updated>
+        <summary type="html"><![CDATA[在與伊朗開戰2週多後，以色列軍方否認其飛彈攔截系統即將耗盡的報導，並表示已「為長期戰鬥做好準備」。
+
+《紐約時報》報導，以色列軍方發言人修夏尼（Nadav Shoshan...…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[伊朗威脅波斯灣咽喉 替代路線難解全球原油渴求]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5372428</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5372428"/>
+        <updated>2026-03-16T16:34:33.000Z</updated>
+        <summary type="html"><![CDATA[伊朗對穿越荷姆茲海峽（Strait of Hormuz）油輪的威脅，已迫使該地區國家尋求替代路線。在和平時期，全球約有20％的出口量通過這個咽喉要道。但分析人士警告，這些路線...…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[白宮官員：川習會很可能因伊朗戰爭延期]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5372419</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5372419"/>
+        <updated>2026-03-16T15:53:03.000Z</updated>
+        <summary type="html"><![CDATA[美國官員今天證實，由於美國對伊朗發動的戰爭，總統川普（Donald Trump）和中國國家主席習近平之間的峰會很可能會延後舉行。
+
+法新社報導，白宮新聞秘書李威特（Karoline Le...…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[歐盟提議仿效黑海倡議 盼解除荷姆茲海峽油氣封鎖]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5372423</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5372423"/>
+        <updated>2026-03-16T15:40:24.000Z</updated>
+        <summary type="html"><![CDATA[面對美國總統川普呼籲歐洲為荷姆茲海峽（Strait of Hormuz）的商船提供護航，歐盟外交與安全政策高級代表卡拉斯（Kaja Kallas）16日表示，她已與聯合國討論...…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中國扣押巴拿馬籍船數量激增  疑報復長和港口被接管]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5372354</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5372354"/>
+        <updated>2026-03-16T15:34:39.000Z</updated>
+        <summary type="html"><![CDATA[航運媒體勞氏日報報導，中國港口以檢查為由，3月8日至12日共扣押28艘巴拿馬籍船舶，占扣押總數的75.7%，遠超歷史水準。此舉似乎是巴拿馬政府剝奪香港長江和記集團在巴拿馬兩個港口的經營權後，...…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[西恩潘獲奧斯卡男配角獎但缺席 人在烏克蘭照曝光]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5372329</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5372329"/>
+        <updated>2026-03-16T15:20:49.000Z</updated>
+        <summary type="html"><![CDATA[美國男星西恩潘15日剛榮獲本屆奧斯卡最佳男配角獎，一名烏克蘭高官向法新社證實，西恩潘目前人在烏克蘭，以表達支持這個飽受戰爭摧殘的國家。
+
+法新社報導，西恩潘（Sean Penn）一向公開...…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[歐盟強調不屈服壓力 拒重新進口俄羅斯能源]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5372416</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5372416"/>
+        <updated>2026-03-16T14:59:00.000Z</updated>
+        <summary type="html"><![CDATA[中東戰火助漲國際能源價格，負責歐盟能源政策的執行委員約根森（Dan Jorgensen）今天表示，儘管面臨壓力，歐盟不會屈服，不打算重新進口俄羅斯的能源。
+
+歐盟各國能源部長今天於布魯塞...…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄羅斯罕見尖峰時段襲基輔 稱挫敗烏克蘭大規模無人機攻擊]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5372391</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5372391"/>
+        <updated>2026-03-16T14:44:25.000Z</updated>
+        <summary type="html"><![CDATA[俄羅斯今天罕見在白天空襲烏克蘭首都基輔，無人機殘骸墜落在市中心歷史悠久的獨立廣場（Maidan），爆炸聲不斷迴盪。俄方另宣稱成功挫敗烏方至少一年來最大規模的無人機攻擊。
+
+法新社報導，烏...…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[貝森特：川習會可能因伊朗戰爭而非貿易議題延後]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5372385</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5372385"/>
+        <updated>2026-03-16T14:35:26.000Z</updated>
+        <summary type="html"><![CDATA[路透報導，美國財政部長貝森特16日指出，美國總統川普與中國國家主席習近平原訂本月底的會面可能因中東戰火，而非貿易分歧延後，因為川普或許需要留在美國因應與伊朗的戰爭。
+
+貝森...…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[船舶追蹤網站：1艘非伊朗籍油輪通過荷姆茲海峽]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5372372</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5372372"/>
+        <updated>2026-03-16T14:27:00.000Z</updated>
+        <summary type="html"><![CDATA[伊朗戰爭導致荷姆茲海峽（Strait of Hormuz）航運受擾之際，船舶追蹤網站MarineTraffic今天表示，1艘巴基斯坦籍油輪在自動識別系統（AIS）開啟狀態下通過此海峽。
+...…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[川普不排除延後訪問中國 專家認為反讓北京鬆一口氣]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5372384</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5372384"/>
+        <updated>2026-03-16T14:21:25.000Z</updated>
+        <summary type="html"><![CDATA[美國總統川普在接受「金融時報」電話訪問時，要求仰賴中東石油的中國出手，維護荷姆茲海峽航運安全，否則不排除延後訪問中國行程。專家認為，川普延後訪中，反而讓北京得以避免被推到中東衝...…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中國國務院2026重點工作：更好應對外部衝擊挑戰]]></title>
+        <id>CNA/2026-03-16/202603160304</id>
+        <link href="https://www.cna.com.tw/news/acn/202603160304.aspx"/>
+        <updated>2026-03-16T14:09:24.000Z</updated>
+        <summary type="html"><![CDATA[（中央社台北16日電）中國全國兩會上週閉幕後，中國國務院總理李強今天在國務院全體會議提出6項2026年重點工作，其中包括「更好應對新形勢下的外部衝擊挑戰」。他要求各部門以更高標準體現對形勢變化的敏銳把握，要善於「變中尋機、化危為機」。]]></summary>
+        <author>
+            <name>中央社即時新聞 兩岸透視</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[因應能源短缺 韓解除燃煤發電上限、提高核能發電量]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5372288</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5372288"/>
+        <updated>2026-03-16T13:59:59.000Z</updated>
+        <summary type="html"><![CDATA[韓國執政的共同民主黨今天表示，政府將解除燃煤發電原本設定的8成上限，並將核能機組運轉率提高至類似水準。這項措施今天起生效。
+
+法新社報導，中東戰爭已進入第三週，韓國是全球第八大原油消費國...…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[被嗆是日本首相的傀儡 小野田紀美「1表情」KO挑釁記者]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5372297</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5372297"/>
+        <updated>2026-03-16T13:31:34.000Z</updated>
+        <summary type="html"><![CDATA[擔任日本經濟安全保障擔當大臣的小野田紀美，自去年上任以來，多次在例行記者會以邏輯清晰、簡單犀利的直球方式，回應各種刁鑽問題，與記者交鋒過程也時常成為熱門話題。近日社群媒體瘋傳一段...…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中國扣押巴拿馬籍船數量激增　疑報復長和港口被接管]]></title>
+        <id>CNA/2026-03-16/202603160295</id>
+        <link href="https://www.cna.com.tw/news/acn/202603160295.aspx"/>
+        <updated>2026-03-16T13:23:00.000Z</updated>
+        <summary type="html"><![CDATA[（中央社台北16日電）航運媒體勞氏日報報導，中國港口以檢查為由，3月8日至12日共扣押28艘巴拿馬籍船舶，占扣押總數的75.7%，遠超歷史水準。此舉似乎是巴拿馬政府剝奪香港長江和記集團在巴拿馬兩個港口的經營權後，北京方面採取的最新報復行動。]]></summary>
+        <author>
+            <name>中央社即時新聞 兩岸透視</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[沈有忠：兩岸交流核心為去風險化與去政治化]]></title>
+        <id>CNA/2026-03-16/202603160292</id>
+        <link href="https://www.cna.com.tw/news/acn/202603160292.aspx"/>
+        <updated>2026-03-16T13:05:54.000Z</updated>
+        <summary type="html"><![CDATA[（中央社記者張淑伶台北16日電）陸委會副主委沈有忠近日接見德國議員，呼籲推動「台灣議題國際化」，並指兩岸交流核心為「去風險化」與「去政治化」，台灣對中國投資占比已降至3.8%，經濟表現反而更穩健。]]></summary>
+        <author>
+            <name>中央社即時新聞 兩岸透視</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中國海警擾金門水域　海巡：毫無意義　徒耗油料]]></title>
+        <id>CNA/2026-03-16/202603160247</id>
+        <link href="https://www.cna.com.tw/news/acn/202603160247.aspx"/>
+        <updated>2026-03-16T10:09:16.000Z</updated>
+        <summary type="html"><![CDATA[（中央社記者吳玟嶸金門16日電）4艘中國海警船今天下午侵擾金門水域，海巡調度巡防艇併行對應。海巡署表示，近期國際原油供應鏈面臨緊迫挑戰，中國海警船編隊航行毫無意義，徒耗油料，應停止侵擾行為。]]></summary>
+        <author>
+            <name>中央社即時新聞 兩岸透視</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中國外貿晴雨表　春季廣交會3萬多家企業參展]]></title>
+        <id>CNA/2026-03-16/202603160237</id>
+        <link href="https://www.cna.com.tw/news/acn/202603160237.aspx"/>
+        <updated>2026-03-16T09:48:54.000Z</updated>
+        <summary type="html"><![CDATA[（中央社記者李雅雯上海16日電）第139屆廣交會將於4月15日開幕，預估將有3萬多家企業參展。中美總商會、英中貿易協會、馬來西亞－中國總商會等多個廣交會全球合作夥伴確認組團與會。]]></summary>
+        <author>
+            <name>中央社即時新聞 兩岸透視</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中國啟動氫能綜合應用試點  2030年拚氫能汽車翻倍]]></title>
+        <id>CNA/2026-03-16/202603160232</id>
+        <link href="https://www.cna.com.tw/news/acn/202603160232.aspx"/>
+        <updated>2026-03-16T09:41:44.000Z</updated>
+        <summary type="html"><![CDATA[（中央社台北16日電）中國今天啟動氫能綜合應用試點工作，將透過獎勵城市群擴大氫能應用規模，推動氫能成為新的經濟增長點。其中要求2030年氫燃料電池汽車保有量較2025年翻倍到10萬輛；氫燃料每公斤價格降至人民幣25元（約新台幣110元）。]]></summary>
+        <author>
+            <name>中央社即時新聞 兩岸透視</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[鄉林：38號文拉抬中國房市　第2季起推案量迎爆發期]]></title>
+        <id>CNA/2026-03-16/202603160200</id>
+        <link href="https://www.cna.com.tw/news/acn/202603160200.aspx"/>
+        <updated>2026-03-16T08:47:35.000Z</updated>
+        <summary type="html"><![CDATA[（中央社記者何秀玲台北16日電）中國自然資源部在全國兩會發布「38號文」，鄉林建設董事長賴正鎰表示，鄉林南京房產有超過新台幣60億元價值，將待價而沽；成都金牛區開發案可售樓地板面積約70萬平方米，整體銷售金額約人民幣210億元，推案量今年第2季起將迎爆發成長。]]></summary>
+        <author>
+            <name>中央社即時新聞 兩岸透視</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美中科技戰  中國再有晶片製造商準備生產7奈米晶片]]></title>
+        <id>CNA/2026-03-16/202603160195</id>
+        <link href="https://www.cna.com.tw/news/acn/202603160195.aspx"/>
+        <updated>2026-03-16T08:40:25.000Z</updated>
+        <summary type="html"><![CDATA[（中央社台北16日電）美中科技戰持續，繼中芯國際後，路透社報導，中國第二大晶圓代工廠上海華虹集團已發展先進晶片製造技術，旗下的上海華力微電子正準備生產7奈米製程晶片，目前仍未知生產技術的效率。]]></summary>
+        <author>
+            <name>中央社即時新聞 兩岸透視</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[廣告變AI引用內容  中國官媒批GEO軟體投餵假資料]]></title>
+        <id>CNA/2026-03-16/202603160188</id>
+        <link href="https://www.cna.com.tw/news/acn/202603160188.aspx"/>
+        <updated>2026-03-16T08:06:09.000Z</updated>
+        <summary type="html"><![CDATA[（中央社台北16日電）中國央視昨天在節目中曝光，有些公司藉由向人工智慧（AI）大模型投餵虛假資料，幫助客戶產品廣告成為AI的回答內容。利用這項GEO（生成式引擎優化）技術的多家企業今天發表聲明，宣稱會合規經營。]]></summary>
+        <author>
+            <name>中央社即時新聞 兩岸透視</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[伊朗民眾如何繞過網絡封鎖聯繫海外家人]]></title>
+        <id>https://www.bbc.com/zhongwen/articles/cg7elz5lv5eo/trad#0</id>
+        <link href="https://www.bbc.com/zhongwen/articles/cg7elz5lv5eo/trad?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-03-16T07:53:52.000Z</updated>
+        <summary type="html"><![CDATA[伊朗民眾正千方百計以各種科技手段，突破政權對電話與網絡連線的封鎖。]]></summary>
+        <author>
+            <name>BBC Chinese</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[川普施壓延後川習會  中國：美中保持溝通]]></title>
+        <id>CNA/2026-03-16/202603160178</id>
+        <link href="https://www.cna.com.tw/news/acn/202603160178.aspx"/>
+        <updated>2026-03-16T07:45:48.000Z</updated>
+        <summary type="html"><![CDATA[（中央社記者呂佳蓉北京16日電）美國總統川普施壓北約盟國和中國協助疏通荷莫茲海峽，並表示他可能延後本月底與中國國家主席習近平的會談。中國外交部今天對此回應稱，中美雙方就川普訪中保持著溝通。]]></summary>
+        <author>
+            <name>中央社即時新聞 兩岸透視</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[上海台商新春祈福　共許和平安定]]></title>
+        <id>CNA/2026-03-16/202603160137</id>
+        <link href="https://www.cna.com.tw/news/acn/202603160137.aspx"/>
+        <updated>2026-03-16T06:03:20.000Z</updated>
+        <summary type="html"><![CDATA[（中央社記者李雅雯上海16日電）上海台商、台青今天上午在上海龍華寺新春祈福。上海台商協會會長張簡珍表示，為家人、為企業也為兩岸祈福，希望和平安定；上海台辦主任金梅指出，將持續推動台滬民間交流合作。]]></summary>
+        <author>
+            <name>中央社即時新聞 兩岸透視</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中國力推電動車及可再生能源發展  受能源衝擊較小]]></title>
+        <id>CNA/2026-03-16/202603160123</id>
+        <link href="https://www.cna.com.tw/news/acn/202603160123.aspx"/>
+        <updated>2026-03-16T05:23:50.000Z</updated>
+        <summary type="html"><![CDATA[（中央社台北16日電）伊朗封鎖荷莫茲海峽（Strait of Hormuz）導致石油供應緊張及油價急升，紐約時報報導，中國數十年來投入數千億美元發展電動車及可再生能源，擴大國內供給並加速開發太陽能、風能、水能和核能等替代能源，令中國在此次美伊戰爭中，受石油和天然氣中斷的衝擊較小。]]></summary>
+        <author>
+            <name>中央社即時新聞 兩岸透視</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中東地緣衝突  中國官方仍稱能源保障能力強]]></title>
+        <id>CNA/2026-03-16/202603160113</id>
+        <link href="https://www.cna.com.tw/news/acn/202603160113.aspx"/>
+        <updated>2026-03-16T04:59:27.000Z</updated>
+        <summary type="html"><![CDATA[（中央社記者呂佳蓉北京16日電）中國國家統計局新聞發言人付凌暉表示，近期中東地區地緣政治衝突造成國際油價波動，引發市場擔憂，但中國能源供給保障能力較強，應對外部市場波動具有較好基礎和條件。]]></summary>
+        <author>
+            <name>中央社即時新聞 兩岸透視</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中國國家統計局：1至2月經濟良好開局但挑戰仍不少]]></title>
+        <id>CNA/2026-03-16/202603160110</id>
+        <link href="https://www.cna.com.tw/news/acn/202603160110.aspx"/>
+        <updated>2026-03-16T04:51:20.000Z</updated>
+        <summary type="html"><![CDATA[（中央社記者呂佳蓉北京16日電）中國國家統計局今天表示，今年1至2月份主要經濟指標明顯回升，經濟運行起步有力，實現良好開局，但仍指出外部環境變化影響加深，地緣政治風險持續上升，新挑戰仍然不少。]]></summary>
+        <author>
+            <name>中央社即時新聞 兩岸透視</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全球掀起「無AI」標誌設計競賽]]></title>
+        <id>https://www.bbc.com/zhongwen/articles/c309gpjpeygo/trad#6</id>
+        <link href="https://www.bbc.com/zhongwen/articles/c309gpjpeygo/trad?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-03-16T04:36:49.000Z</updated>
+        <summary type="html"><![CDATA[隨著這項技術的日益普及，人們對它的抵制情緒也隨之高漲，導致人們紛紛嘗試設計一個可以全球使用的「無AI」標誌。]]></summary>
+        <author>
+            <name>BBC Chinese</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[繼續戰鬥還是設法抽身？川普面臨嚴峻選擇]]></title>
+        <id>https://cn.nytimes.com/usa/20260316/trump-stark-choices-iran-war/zh-hant/</id>
+        <link href="https://cn.nytimes.com/usa/20260316/trump-stark-choices-iran-war/zh-hant/?utm_source=RSS"/>
+        <updated>2026-03-16T04:32:25.000Z</updated>
+        <summary type="html"><![CDATA[兩個選項都極具挑戰，且會導致嚴重後果。繼續戰鬥將使更多美國人的生命處於危險之中，加劇財政成本；撤軍則可能會冒下讓伊朗政府將核燃料武器化的風險。
+
+                    
+Doug Mills/The New York Times
+                    
+川普總統公開糾結於走與留之間的選擇，時而暗示戰爭已基本勝利，時而又似乎承認前方仍有激戰。]]></summary>
+        <author>
+            <name>DAVID E. SANGER,ERIC SCHMITT,TYLER PAGER,RONEN BERGMAN,JULIAN E. BARNES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《Kpop獵魔女團》：奧斯卡最佳動畫片如何俘獲全球影迷的心？]]></title>
+        <id>https://www.bbc.com/zhongwen/articles/c2e487x9njyo/trad#1</id>
+        <link href="https://www.bbc.com/zhongwen/articles/c2e487x9njyo/trad?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-03-16T04:18:13.000Z</updated>
+        <summary type="html"><![CDATA[《Kpop獵魔女團》在各種舞台上獲得了認可。它拿下金球獎最佳動畫片和最佳原創歌曲；成為首支獲得葛萊美獎的Kpop歌曲；如今又贏下了它所入圍的兩個奧斯卡獎項。]]></summary>
+        <author>
+            <name>BBC Chinese</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[香港國際影視展將揭幕  文策院組織藝人業者參加]]></title>
+        <id>CNA/2026-03-16/202603160098</id>
+        <link href="https://www.cna.com.tw/news/acn/202603160098.aspx"/>
+        <updated>2026-03-16T04:06:54.000Z</updated>
+        <summary type="html"><![CDATA[（中央社記者張謙香港16日電）一年一度的香港國際影視展（FILMART）將於17至20日在會議展覽中心舉行，台灣文策院今年仍將組織龐大的導演、藝人及業者參展並在會場設立台灣館。]]></summary>
+        <author>
+            <name>中央社即時新聞 兩岸透視</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中國人形機器人之夢：當熱度退潮，留下的是泡沫還是繁榮？]]></title>
+        <id>https://www.bbc.com/zhongwen/articles/c99j81pe98ro/trad#0</id>
+        <link href="https://www.bbc.com/zhongwen/articles/c99j81pe98ro/trad?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-03-16T03:52:17.000Z</updated>
+        <summary type="html"><![CDATA[就算舞跳得再好，連一杯水都不能幫人拿，那還有什麼意義？]]></summary>
+        <author>
+            <name>BBC Chinese</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中國2026年前兩月房價續降  銷售額年減逾2成]]></title>
+        <id>CNA/2026-03-16/202603160089</id>
+        <link href="https://www.cna.com.tw/news/acn/202603160089.aspx"/>
+        <updated>2026-03-16T03:43:35.000Z</updated>
+        <summary type="html"><![CDATA[（中央社台北16日電）中國房價整體持續下探。官方今天公布2月份房價，一線、二線、三線城市新建商品住宅售價年減幅度都擴大。1至2月份，全國房地產開發投資額年減11.1%，新建住宅銷售額年減更達21.8%。]]></summary>
+        <author>
+            <name>中央社即時新聞 兩岸透視</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[王毅與越南外長：向國際發出中越團結互信積極訊號]]></title>
+        <id>CNA/2026-03-16/202603160084</id>
+        <link href="https://www.cna.com.tw/news/acn/202603160084.aspx"/>
+        <updated>2026-03-16T03:31:24.000Z</updated>
+        <summary type="html"><![CDATA[（中央社台北16日電）中越外交、國防、公安「3+3」戰略對話機制首次部長級會議正在越南舉行。中國外長王毅與越南外長黎懷忠會面時表示，面對當前變亂交織的國際局勢，兩國要加強戰略協作，在危局中護安全，向國際社會發出中越團結互信的積極訊號。]]></summary>
+        <author>
+            <name>中央社即時新聞 兩岸透視</name>
         </author>
     </entry>
     <entry>
@@ -48,25 +778,13 @@ Gilles Sabrié for The New York Times
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[部分國家積極響應防衛荷姆茲海峽 川普：少數國家不想介入]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5371520</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5371520"/>
-        <updated>2026-03-16T02:08:07.000Z</updated>
-        <summary type="html"><![CDATA[在伊朗被美國與以色列持續攻擊後，伊朗襲擊行駛於荷姆茲海峽（Strait of Hormuz）的船隻作為反制，使得這條能源運輸要道難以航行，美國總統川普15日表示，在美國向多個國家...…]]></summary>
+        <title type="html"><![CDATA[美籲派艦護航荷莫茲海峽　分析指中國不會參與]]></title>
+        <id>CNA/2026-03-16/202603160048</id>
+        <link href="https://www.cna.com.tw/news/acn/202603160048.aspx"/>
+        <updated>2026-03-16T02:14:08.000Z</updated>
+        <summary type="html"><![CDATA[（中央社台北16日電）美國總統川普點名中國等國派遣軍艦至荷莫茲海峽護航。學者專家分析認為，中國主張以政治手段解決中東衝突，不太可能派軍艦去為油輪護航。]]></summary>
         <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不理川普？澳洲稱不會派軍艦護航荷姆茲海峽]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5371505</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5371505"/>
-        <updated>2026-03-16T02:05:30.000Z</updated>
-        <summary type="html"><![CDATA[掌握全球約5分之1石油供應量出入的荷姆茲海峽，因受到伊朗威脅幾乎沒有船隻通過。對此，美國總統川普呼籲透過荷姆茲海峽取得石油的各國協助護航，但澳洲方面指稱不會派遣軍艦。
-
-據澳...…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
+            <name>中央社即時新聞 兩岸透視</name>
         </author>
     </entry>
     <entry>
@@ -103,82 +821,6 @@ Kevin Frayer/Getty Images]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[港媒：中國將以頂級規格紀念江澤民百年誕辰]]></title>
-        <id>CNA/2026-03-16/202603160039</id>
-        <link href="https://www.cna.com.tw/news/acn/202603160039.aspx"/>
-        <updated>2026-03-16T01:39:48.000Z</updated>
-        <summary type="html"><![CDATA[（中央社記者張謙香港16日電）據報導，中國今年8月將以頂級規格紀念已故國家主席江澤民的百年誕辰。]]></summary>
-        <author>
-            <name>中央社即時新聞 兩岸透視</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[稱伊朗境內仍有數千目標有待打擊  以軍：軍事行動至少再3週]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5371427</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5371427"/>
-        <updated>2026-03-16T01:36:16.000Z</updated>
-        <summary type="html"><![CDATA[美國與以色列持續空襲伊朗，以色列國防軍（IDF）發言人德夫林（Effie Defrin）指出，以色列軍方計畫對伊朗的軍事行動至少再持續三週，還有「數千個目標」尚未鎖定。
-
-根...…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[川普：北約若不協助保護荷姆茲海峽 將面臨非常糟糕的未來]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5371479</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5371479"/>
-        <updated>2026-03-16T01:27:30.000Z</updated>
-        <summary type="html"><![CDATA[控制全球約5分之1石油供應的荷姆茲海峽，在伊朗飛彈與無人機威脅下難以通航，美國總統川普15日接受英媒電話採訪時，強調北約若不協助保護這處海峽，將面臨非常糟糕的未來。
-
-據《金...…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[古巴遭封鎖總統放軟低頭 矢板明夫曝缺乏自信「北韓中國也愛撂狠話」]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5371398</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5371398"/>
-        <updated>2026-03-16T01:24:18.000Z</updated>
-        <summary type="html"><![CDATA[古巴總統狄亞士-卡奈（Miguel Diaz-Canel）13日證實，古巴政府已經和美國舉行會談，希望緩解兩國的對立分歧。日本資深媒體人矢板明夫指出，古巴、北韓和中國的多位政治人...…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美中巴黎經貿會談  中國商務部：就301調查提交涉]]></title>
-        <id>CNA/2026-03-16/202603160033</id>
-        <link href="https://www.cna.com.tw/news/acn/202603160033.aspx"/>
-        <updated>2026-03-16T01:16:35.000Z</updated>
-        <summary type="html"><![CDATA[（中央社台北16日電）美中經濟官員15至16日於法國巴黎進行新一輪經貿磋商。中國商務部表示，美方此前以「未禁止進口強迫勞動產品」為由對中國發起301調查，是捏造事實，企圖構建貿易壁壘，中方已在新一輪經貿磋商中向美方提出交涉。]]></summary>
-        <author>
-            <name>中央社即時新聞 兩岸透視</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[川普要求中國協助荷姆茲海峽通行 否則延後川習會]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5371462</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5371462"/>
-        <updated>2026-03-16T01:04:31.000Z</updated>
-        <summary type="html"><![CDATA[伊朗陷入戰火後屢屢襲擊荷姆茲海峽船隻，使得這處能源運輸要道難以航行，美國總統川普15日表示，他要求中國協助解決荷姆茲海峽通行問題，否則就延後和習近平會晤的時間。
-
-據《金融時...…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美國猶太會堂攻擊嫌犯身世曝！ 哥哥是真主黨指揮官、死於以軍空襲]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5371407</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5371407"/>
-        <updated>2026-03-16T00:26:37.000Z</updated>
-        <summary type="html"><![CDATA[美國密西根州底特律近郊一座猶太會堂12日發生攻擊事件，一名出生於黎巴嫩的男子加札利（Ayman Mohammad Ghazali）駕車衝撞教堂並開槍，最後自戕身亡。黎巴嫩官員證實...…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[霍爾木茲海峽「鎖喉」影響：日韓面臨危機、中國提前囤油、俄羅斯大賺一筆]]></title>
         <id>https://www.bbc.com/zhongwen/articles/c627y7x7n7vo/trad#0</id>
         <link href="https://www.bbc.com/zhongwen/articles/c627y7x7n7vo/trad?at_medium=RSS&amp;at_campaign=rss"/>
@@ -189,499 +831,8 @@ Kevin Frayer/Getty Images]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[美官員預測衝突數週內結束  伊朗仍嘴硬：我們沒要求停火]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5371397</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5371397"/>
-        <updated>2026-03-15T23:29:10.000Z</updated>
-        <summary type="html"><![CDATA[美國與以色列持續攻擊伊朗，而在衝突導致油價升高、使得經濟不確定性提高之際，美國能源部長萊特（Chris Wright）預測對伊朗戰爭將在幾週內結束，不過伊朗外交部長阿拉奇（Abb...…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[高市訪美在即 美日可望深化第一島鏈安全承諾]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5371387</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5371387"/>
-        <updated>2026-03-15T22:00:55.000Z</updated>
-        <summary type="html"><![CDATA[日本首相高市早苗本週將訪問美國，預定19日與美國總統川普舉行峰會。國防安全研究院所長蘇紫雲表示，此行時機點正好在川普與習近平可能會晤之前，顯示華府對東亞安全的優先關...…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[台日安全合作 蘇紫雲：台灣越強 朋友願意相挺]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5371386</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5371386"/>
-        <updated>2026-03-15T21:46:59.000Z</updated>
-        <summary type="html"><![CDATA[國防安全研究院所長蘇紫雲表示，外界常提到中國可能在2027年前後具備攻台能力，但所謂「時間窗口」並非固定，關鍵取決於台灣自身防衛能力，只要實力持續提升，這個時間點可...…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[伊朗媒體：勞工部長宣布最低工資將調漲逾6成]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5371393</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5371393"/>
-        <updated>2026-03-15T21:45:05.000Z</updated>
-        <summary type="html"><![CDATA[當地媒體今天報導，伊朗勞工部長宣布，最低工資將調漲逾60%。惡劣經濟情勢於數個月前在當地引爆一波反政府抗爭。
-
-法新社報導，伊朗每年都會根據通膨情況調整最低工資。在美國、以色列與伊朗進行中的...…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中英對照讀新聞》Toucan seen flying around Sin City has been rescued 在拉斯維加斯上空盤旋的巨嘴鳥已被救起]]></title>
-        <id>https://news.ltn.com.tw/news/world/paper/1747022</id>
-        <link href="https://news.ltn.com.tw/news/world/paper/1747022"/>
-        <updated>2026-03-15T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[◎盧永山
-
-A toucan that has been seen flying around Las Vegas for months has been saved, a bird rescue group said Wednesday.
-1個鳥類救援組織週三表示，1隻在拉斯維加斯上空盤旋數…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日在九州部署反艦飛彈 阻中侵台野心]]></title>
-        <id>https://news.ltn.com.tw/news/world/paper/1746989</id>
-        <link href="https://news.ltn.com.tw/news/world/paper/1746989"/>
-        <updated>2026-03-15T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[壯大第一島鏈盟軍飛彈網 跨越中國「戰略門檻」
-〔編譯盧永山／綜合報導〕香港「南華早報」十五日報導，日本將於三月底在九州熊本縣的陸上自衛隊健軍駐屯地，部署國產增程改良型12式（Type12）陸基反艦飛彈，此舉可能被中國解讀為跨越「戰略門檻」，因為這項部署融入沿著「第一島鏈」不斷壯大的盟軍飛彈網，再加…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美伊都拒停戰斡旋 路透︰為長期衝突做準備]]></title>
-        <id>https://news.ltn.com.tw/news/world/paper/1746987</id>
-        <link href="https://news.ltn.com.tw/news/world/paper/1746987"/>
-        <updated>2026-03-15T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[〔編譯孫宇青／綜合報導〕伊朗戰事牽動全球能源供應和經濟走向，各國無不繃緊神經。然而，「路透」十五日獨家披露，儘管中東盟友提議斡旋美國與伊朗談判停止衝突，但美國總統川普已斷然拒絕。德黑蘭也強調，除非美國與以色列停止過去兩週以來的大規模空襲，否則拒絕任何停火可能性。
-
-三名知情人士透露，在美伊開戰前…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中國助抗美以 伊朗外長認了]]></title>
-        <id>https://news.ltn.com.tw/news/world/paper/1746988</id>
-        <link href="https://news.ltn.com.tw/news/world/paper/1746988"/>
-        <updated>2026-03-15T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[〔國際新聞中心／綜合報導〕伊朗外交部長阿拉奇（Abbas Araghchi）表示，在伊朗對抗美國與以色列的戰爭中，中國一直提供協助；數日前，他才剛證實伊朗也獲得俄羅斯的援助，但未披露細節。
-澤倫斯基︰俄供伊朗見證者無人機
-烏克蘭總統澤倫斯基（Volodymyr Zelenskyy）則向美國有線電…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[揚言再轟哈格島》川普籲各國軍艦 前進荷姆茲護航]]></title>
-        <id>https://news.ltn.com.tw/news/world/paper/1746985</id>
-        <link href="https://news.ltn.com.tw/news/world/paper/1746985"/>
-        <updated>2026-03-15T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[「條件還不夠好」 尚未準備與伊朗達成停戰協議
-〔編譯孫宇青／綜合報導〕美國和以色列對伊朗的軍事打擊進入第三週之際，美國總統川普十四日威脅，美軍不排除再次襲擊伊朗南部波斯灣外海的石油樞紐「哈格島」（Kharg Island），並呼籲各國調派軍艦保護油輪通過荷姆茲海峽。伊朗方面則矢言加強反擊力道，甚至…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[供應鏈衝擊遠超過中東 前英相蘇納克籲嚇阻台海爆衝突]]></title>
-        <id>https://news.ltn.com.tw/news/world/paper/1746971</id>
-        <link href="https://news.ltn.com.tw/news/world/paper/1746971"/>
-        <updated>2026-03-15T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[〔國際新聞中心／綜合報導〕前英國首相蘇納克（Rishi Sunak）警告，伊朗干擾荷姆茲海峽航運，為全世界敲響警鐘，顯示一旦台灣海峽爆發衝突，對全球供應鏈的衝擊將更為嚴重，因此嚇阻台海生變至關重要。
-
-荷姆茲海峽危機 為全世界敲響警鐘
-
-蘇納克十四日在「泰晤士報」撰文指出，台灣海峽、馬六甲海…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[謠言終結站》網傳國中教育會考招募表單 來源不明勿填]]></title>
-        <id>https://news.ltn.com.tw/news/world/paper/1746990</id>
-        <link href="https://news.ltn.com.tw/news/world/paper/1746990"/>
-        <updated>2026-03-15T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[網傳內容：今年5月16、17日將舉行的國中教育會考，網路社群近來流傳1份標題為「115學年度國中教育會考現場工作人員報名處」之 Google 表單，蒐集姓名、電話、LINE ID、電子郵件及緊急聯絡人等個人資料。
-查證結果：全國試務會表示，該表單並非由試務會或各考區試務會建立，亦非國中教育會考試務…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[保護荷姆茲安全 美可陸海空並進]]></title>
-        <id>https://news.ltn.com.tw/news/world/paper/1746986</id>
-        <link href="https://news.ltn.com.tw/news/world/paper/1746986"/>
-        <updated>2026-03-15T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[〔編譯孫宇青／綜合報導〕伊朗透過封鎖全球能源供應的重要動脈荷姆茲海峽，企圖挫敗美國和以色列的軍事行動，促使美國研擬派軍艦為油輪護航。華爾街日報指出，確保該海峽安全需要兩個條件配合，一是更積極運用空中力量搜尋並摧毀伊朗攻勢，二是派遣地面部隊控制海峽附近地區。
-
-運用空中力量 搜尋摧毀伊朗攻勢
-…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[出口民調：哈薩克新憲公投過關　總統可望突破任期限制]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5371392</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5371392"/>
-        <updated>2026-03-15T21:06:04.000Z</updated>
-        <summary type="html"><![CDATA[根據出口民調，哈薩克選民今天在公投中通過新憲法，可能讓總統托卡葉夫有機會透過法規漏洞繼續在這個中亞能源與礦產大國掌權至2029年之後。
-
-路透社報導，兩項出口民調結果顯示，約有87%選民支持...…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[以色列軍方：伊朗境內仍有數千個目標待打擊]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5371390</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5371390"/>
-        <updated>2026-03-15T20:30:05.000Z</updated>
-        <summary type="html"><![CDATA[伊朗戰爭進入第3週之際，以色列軍方表示，目前在伊朗境內仍有數千個目標待打擊，而且每天都會發現新的目標。
-
-法新社報導，以色列軍方發言人德弗林（Effie Defrin）在電視簡報中表示：「我...…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美官員預測伊朗戰爭數週內結束　德黑蘭稱從未要求停火]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5371388</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5371388"/>
-        <updated>2026-03-15T20:00:04.000Z</updated>
-        <summary type="html"><![CDATA[在高油價升高經濟不確定性之際，美國官員今天預測對伊朗的戰爭將於數週內結束，強調能源價格屆時就會回落。伊朗則聲稱依然「穩定且強大」，並做好自衛準備。
-   
-路透社報導，美國總統川普週末威脅將...…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[德國：對歐盟紅海護航行動擴至荷莫茲海峽態度保留]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5371385</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5371385"/>
-        <updated>2026-03-15T19:12:04.000Z</updated>
-        <summary type="html"><![CDATA[德國外交部長瓦德福今天表示，對於歐洲聯盟「盾牌」海軍任務範圍可能擴大至荷莫茲海峽一事，他抱持懷疑態度。
-
-路透社報導，瓦德福（Johann Wadephul）指出，盾牌（Aspides）任務...…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[教宗良十四世再促中東停火　批評以神之名發動戰爭]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5371383</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5371383"/>
-        <updated>2026-03-15T18:36:03.000Z</updated>
-        <summary type="html"><![CDATA[羅馬天主教教宗良十四世今天再次呼籲中東和平，同時批評那些以宗教之名發動戰爭的人，表示「上主不能被黑暗徵召」。
-
-法新社報導，教宗良十四世（Pope Leo XIV）對羅馬郊區進行牧靈訪問時表...…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[向中國學的？伊朗女足隊長撤回庇護申請 母親疑遭革命衛隊施壓]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5371367</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5371367"/>
-        <updated>2026-03-15T17:44:37.000Z</updated>
-        <summary type="html"><![CDATA[伊朗官方媒體15日聲稱，前往澳洲參加亞洲盃（Asian Cup）的伊朗國家女子足球隊隊長，已撤回其庇護申請，成為該隊第5位改變心意的成員。
-
-《法新社》報導，1名前球員及...…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[國際能源總署：亞洲和大洋洲戰略石油儲備立即釋出]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5371369</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5371369"/>
-        <updated>2026-03-15T17:36:03.000Z</updated>
-        <summary type="html"><![CDATA[國際能源總署今天指出，亞洲和大洋洲的戰略石油儲備將「立即」釋出，美洲和歐洲則最快將於3月底開始釋出。
-
-法新社報導，國際能源總署（International Energy Agency, I...…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[遭傳死訊與AI合成 以總理納坦雅胡拍片秀手指闢謠]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5371366</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5371366"/>
-        <updated>2026-03-15T17:18:10.000Z</updated>
-        <summary type="html"><![CDATA[以色列總理納坦雅胡（Benjamin Netanyahu）15日發布一段簡短影片，反擊社群媒體上流傳他已死亡的謠言。
-
-納坦雅胡在官方X帳號上嘲諷地說道：「我愛死咖啡了」...…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[反擊起手式  伊朗攻擊阿聯意在重挫美以安全軸心]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5371322</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5371322"/>
-        <updated>2026-03-15T17:09:13.000Z</updated>
-        <summary type="html"><![CDATA[伊朗昨天呼籲民眾撤離阿聯3大港，今早海灣國家也發布遭攻擊消息。中東地區專家指出，阿聯與美、以長期的密切合作關係，卻在這場美、以對伊戰爭中，成為海灣國家中遭攻擊最密集的目標國。
-
-自2月底...…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[伊朗官媒：女足隊長撤回澳洲庇護申請　改變心意第5人]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5371365</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5371365"/>
-        <updated>2026-03-15T17:06:03.000Z</updated>
-        <summary type="html"><![CDATA[伊朗國營媒體今天報導，到澳洲參加女足亞洲盃的伊朗女子足球隊隊長甘巴里已經撤回對澳洲的庇護申請，成為第5位改變心意的團隊成員。
-
-路透社報導，伊朗通訊社（IRNA）指出，甘巴里（Zahra G...…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黎巴嫩：以色列與真主黨作戰兩週 已釀850人死亡]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5371349</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5371349"/>
-        <updated>2026-03-15T16:58:47.000Z</updated>
-        <summary type="html"><![CDATA[黎巴嫩衛生部今天表示，在以色列與黎巴嫩激進組織真主黨（Hezbollah）作戰的兩週期間，以色列的攻擊已導致黎巴嫩境內850人喪生。
-
-法新社報導，衛生部聲明指出，死者包括66名女性、1...…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美以政權更迭承諾跳票！伊朗民眾感遭背叛 憂政府報復]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5371354</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5371354"/>
-        <updated>2026-03-15T15:56:21.000Z</updated>
-        <summary type="html"><![CDATA[在對伊朗開戰之初，以色列與美國表示，他們正在為伊朗人民起義推翻政府鋪路。許多伊朗人當時對這場攻勢額手稱慶，視其為推翻在今年年初殺害數千名抗議者的統治者之最後手段。
-
-如今...…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[伊朗外長稱中俄持續協助德黑蘭 軍事合作未停]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5371309</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5371309"/>
-        <updated>2026-03-15T15:51:24.000Z</updated>
-        <summary type="html"><![CDATA[伊朗外交部長阿拉奇表示，在伊朗與美國及以色列交戰之際，中國仍持續提供德黑蘭協助；他數天前才證實，俄羅斯也在幫助伊朗。根據阿拉奇的說法，伊朗與中俄的軍事合作仍持續進行。
-
-「紐約郵報」（N...…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[哲學巨擘哈伯瑪斯辭世  一生以理性對話捍衛民主]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5371345</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5371345"/>
-        <updated>2026-03-15T15:25:17.000Z</updated>
-        <summary type="html"><![CDATA[德國哲學與社會學家哈伯瑪斯14日辭世，享壽96歲。他年輕時因唇顎裂飽受困擾，因而思考人如何透過溝通理解彼此，進而發展出以理性對話與公共辯論形成社會共識的「溝通行動理論」，一生未間斷地在報紙發...…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[歐盟延長對俄制裁半年 援烏貸款內部分歧]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5371299</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5371299"/>
-        <updated>2026-03-15T15:13:42.000Z</updated>
-        <summary type="html"><![CDATA[歐盟理事會宣布延長一項對俄羅斯的制裁至今年9月15日。這份名單上共有約2600名個人與實體，因涉及破壞烏克蘭領土完整等原因而被制裁。
-
-經過數週的談判，歐盟成員國在制裁時間到期前做出決議...…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技巨頭拚AI算力在美國狂蓋資料中心 引發地方反彈]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5371343</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5371343"/>
-        <updated>2026-03-15T15:05:04.000Z</updated>
-        <summary type="html"><![CDATA[資料中心對地方城市而言理當是個禮物，如今卻被愈來愈多美國城市首長視為麻煩。
-
-法新社報導，在期中選舉日益接近之際，科技巨頭承諾的就業和稅收紅利，已被各種負面衝擊的討論給取代，包括燃氣渦輪...…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[擔憂家人遭報復 伊朗女足又4人放棄澳洲庇護返國]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5371346</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5371346"/>
-        <updated>2026-03-15T15:02:56.000Z</updated>
-        <summary type="html"><![CDATA[澳洲內政部長柏克（Tony Burke）15日表示，獲坎培拉核發人道簽證的伊朗國家女子足球隊成員中，又有4人決定返回伊朗。如今，最初尋求庇護的7人中，僅剩2人堅持留下來的決定...…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[卓榮泰為何能順利訪日？ 她揭牽線人萩生田光一向卓揆提出1條件！]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5371260</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5371260"/>
-        <updated>2026-03-15T14:57:32.000Z</updated>
-        <summary type="html"><![CDATA[我國行政院長卓榮泰本月7日現身東京巨蛋為經典賽台灣隊應援，引發台日社群熱烈討論。日本知名時政評論家櫻井良子近日直言，多虧公明黨沒有繼續與自民黨聯合執政（兩黨自1999年至2025...…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[烏克蘭助波灣國家反制伊朗無人機 澤倫斯基：拿經驗換資金與技術]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5371258</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5371258"/>
-        <updated>2026-03-15T14:46:21.000Z</updated>
-        <summary type="html"><![CDATA[烏克蘭總統澤倫斯基今日（15）表示，烏方已向中東多國派遣軍事專家，協助應對伊朗自殺式無人機威脅，並希望能以此換取急需的資金與技術。
-
-據《路透》報導，澤倫斯基證實已向卡達、阿...…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美中業者應用AI技術探勘採礦  競相鎖定非洲礦藏]]></title>
-        <id>CNA/2026-03-15/202603150193</id>
-        <link href="https://www.cna.com.tw/news/acn/202603150193.aspx"/>
-        <updated>2026-03-15T13:40:42.000Z</updated>
-        <summary type="html"><![CDATA[（中央社台北15日電）人工智慧（AI）技術如今應用到礦產領域，美中兩國不但都擁有AI採礦技術，且競相鎖定礦藏豐富的非洲作為目標。中國媒體報導，目前已有中國業者在納米比亞等5個非洲國家應用AI技術採礦；而美國業者也在非洲的尚比亞以AI大規模開採銅礦。]]></summary>
-        <author>
-            <name>中央社即時新聞 兩岸透視</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中國將北斗衛星訊號引入地下  讓隧道也收得到導航]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5371219</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5371219"/>
-        <updated>2026-03-15T13:33:02.000Z</updated>
-        <summary type="html"><![CDATA[中國官媒報導，中國準備為其自行研發的北斗衛星導航系統，進行名為「引星入地」的工程，讓不見天日的隧道、地下停車場、地下礦場等地也能接受到北斗衛星訊號。此外，中國也正在為北斗系統升級，建設下一代...…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美中巴黎貿易會談登場　301及強迫勞動調查似成變數]]></title>
-        <id>CNA/2026-03-15/202603150178</id>
-        <link href="https://www.cna.com.tw/news/acn/202603150178.aspx"/>
-        <updated>2026-03-15T11:49:04.000Z</updated>
-        <summary type="html"><![CDATA[（中央社台北15日電）綜合新華社及路透社報導，新一輪美中經貿會談已於台北時間傍晚5時左右在巴黎登場，預料雙方會談將聚焦關稅、稀土供應、高科技出口管制和農產品採購。不過，美國在會談前接連宣布對中國等多國展開301調查及強迫勞動調查，為會談增添變數。]]></summary>
-        <author>
-            <name>中央社即時新聞 兩岸透視</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[杜正勝談研究中國歷史：台灣有優勢  更應知己知彼]]></title>
-        <id>CNA/2026-03-15/202603150169</id>
-        <link href="https://www.cna.com.tw/news/acn/202603150169.aspx"/>
-        <updated>2026-03-15T11:18:45.000Z</updated>
-        <summary type="html"><![CDATA[（中央社記者張淑伶台北15日電）中央研究院院士杜正勝今天出席畢生研究結晶叢書「再訪古代中國」新書分享會。他表示，無論政治態度如何，面對帶有威脅的中國，台灣人是「知己知彼百戰百勝」，而且台灣進行中國研究具有優勢。]]></summary>
-        <author>
-            <name>中央社即時新聞 兩岸透視</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中國將北斗衛星訊號引入地下  讓隧道也收得到導航]]></title>
-        <id>CNA/2026-03-15/202603150166</id>
-        <link href="https://www.cna.com.tw/news/acn/202603150166.aspx"/>
-        <updated>2026-03-15T11:08:38.000Z</updated>
-        <summary type="html"><![CDATA[（中央社台北15日電）中國官媒報導，中國準備為其自行研發的北斗衛星導航系統，進行名為「引星入地」的工程，讓不見天日的隧道、地下停車場、地下礦場等地也能接受到北斗衛星訊號。此外，中國也正在為北斗系統升級，建設下一代系統。]]></summary>
-        <author>
-            <name>中央社即時新聞 兩岸透視</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中國民企首例  蘇寧創辦人張近東償債1兆元資產清零]]></title>
-        <id>CNA/2026-03-15/202603150153</id>
-        <link href="https://www.cna.com.tw/news/acn/202603150153.aspx"/>
-        <updated>2026-03-15T10:12:10.000Z</updated>
-        <summary type="html"><![CDATA[（中央社台北15日電）以家電零售起家而大舉跨業擴張的中國蘇寧集團創辦人張近東，由於投資連連失利深陷債務，今年1月遭法院判決無償轉讓蘇寧所有股權及個人財產，以抵償人民幣2387.12億元（約新台幣1.11兆元）的債務，資產從此清零，成為中國大型民企創辦人因重整而資產清零的首例。]]></summary>
-        <author>
-            <name>中央社即時新聞 兩岸透視</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本列裝戰斧飛彈　中共軍媒稱威脅亞太和平穩定]]></title>
-        <id>CNA/2026-03-15/202603150126</id>
-        <link href="https://www.cna.com.tw/news/acn/202603150126.aspx"/>
-        <updated>2026-03-15T08:12:09.000Z</updated>
-        <summary type="html"><![CDATA[（中央社台北15日電）中共解放軍報旗下「鈞正平工作室」日前評論稱，美製戰斧及挪威製JSM飛彈已開始交付日本自衛隊，這是外國製進攻性飛彈首次列裝日本，國際社會須高度警惕，堅決守護來之不易的亞太和平與穩定。]]></summary>
-        <author>
-            <name>中央社即時新聞 兩岸透視</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[川普對委內瑞拉及伊朗行動　中國強化對美要強硬想法]]></title>
-        <id>CNA/2026-03-15/202603150124</id>
-        <link href="https://www.cna.com.tw/news/acn/202603150124.aspx"/>
-        <updated>2026-03-15T08:10:05.000Z</updated>
-        <summary type="html"><![CDATA[（中央社台北15日電）美國總統川普將訪問中國，與中國國家主席習近平會面。華爾街日報報導，川普對委內瑞拉及伊朗的行動加強了中國長久以來的想法，就是美國會用盡所有方法確保其在全球的主導地位，威脅中國的核心利益，而中國必須對美國採取強硬態度。]]></summary>
-        <author>
-            <name>中央社即時新聞 兩岸透視</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[習近平談海洋政策：推進一帶一路國際港口聯盟建設]]></title>
-        <id>CNA/2026-03-15/202603150119</id>
-        <link href="https://www.cna.com.tw/news/acn/202603150119.aspx"/>
-        <updated>2026-03-15T07:38:54.000Z</updated>
-        <summary type="html"><![CDATA[（中央社台北15日電）新華社今天報導，中共總書記習近平在黨刊「求是」雜誌發表有關中國海洋政策的文章說，推進「中國式現代化」必須「高效開發利用海洋」，走出一條具有中國特色的「向海圖強之路」。其中的做法包括「推進『一帶一路國際港口』聯盟建設」。]]></summary>
-        <author>
-            <name>中央社即時新聞 兩岸透視</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美中巴黎經貿會談  中國官媒：是機遇也是考驗]]></title>
-        <id>CNA/2026-03-15/202603150118</id>
-        <link href="https://www.cna.com.tw/news/acn/202603150118.aspx"/>
-        <updated>2026-03-15T07:35:51.000Z</updated>
-        <summary type="html"><![CDATA[（中央社記者呂佳蓉北京15日電）中國國務院副總理何立峰15至16日在法國巴黎與美國財政部長貝森特會面。中國官媒新華社今天發表評論，指新一輪經貿磋商「是機遇也是考驗」。]]></summary>
-        <author>
-            <name>中央社即時新聞 兩岸透視</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[揭露消費亂象  中國央視315晚會聚焦食安問題]]></title>
-        <id>CNA/2026-03-15/202603150102</id>
-        <link href="https://www.cna.com.tw/news/acn/202603150102.aspx"/>
-        <updated>2026-03-15T06:03:14.000Z</updated>
-        <summary type="html"><![CDATA[（中央社記者呂佳蓉北京15日電）中國官媒央視的一檔揭露消費領域亂象的節目「3．15」晚會今天晚間8時將播出。節目將關注食品安全、曝光不法商家躲避監管行為，以及展示投資理財騙局。]]></summary>
-        <author>
-            <name>中央社即時新聞 兩岸透視</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中共加強社會治理  推進社工人員與黨組織建設]]></title>
-        <id>CNA/2026-03-15/202603150097</id>
-        <link href="https://www.cna.com.tw/news/acn/202603150097.aspx"/>
-        <updated>2026-03-15T05:54:04.000Z</updated>
-        <summary type="html"><![CDATA[（中央社記者張淑伶台北15日電）中共加強對基層社會的掌握和治理，除了到處可見的黨群服務中心，近日並頒發文件，表示要推進社會工作專業人員建設，包括強化思想政治引領，以及加大在社會工作服務機構中組建黨組織力度。]]></summary>
-        <author>
-            <name>中央社即時新聞 兩岸透視</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美伊戰爭持續  中國官媒：美目標變成打通荷莫茲海峽]]></title>
-        <id>CNA/2026-03-15/202603150081</id>
-        <link href="https://www.cna.com.tw/news/acn/202603150081.aspx"/>
-        <updated>2026-03-15T04:30:28.000Z</updated>
-        <summary type="html"><![CDATA[（中央社台北15日電）美國和以色列聯手攻擊伊朗，戰爭持續逾2週。美國總統川普日前稱希望中國等國派遣船艦前往荷莫茲海峽，令該海峽不再受伊朗威脅。具中國官媒新華社背景的微信公眾號「牛彈琴」發文表示，美國不再提推翻伊朗政權，目標變成打通荷莫茲海峽。]]></summary>
-        <author>
-            <name>中央社即時新聞 兩岸透視</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[古巴能源危機加劇  抗議者洗劫一座共產黨建築]]></title>
-        <id>https://www.bbc.com/zhongwen/articles/c4g21w1w610o/trad#0</id>
+        <id>https://www.bbc.com/zhongwen/articles/c4g21w1w610o/trad#1</id>
         <link href="https://www.bbc.com/zhongwen/articles/c4g21w1w610o/trad?at_medium=RSS&amp;at_campaign=rss"/>
         <updated>2026-03-15T04:14:15.000Z</updated>
         <summary type="html"><![CDATA[隨著全島遭受輪流停電，以及食物、燃料和藥品短缺的困擾，加上美國長期石油封鎖造成局勢持續惡化，古巴民眾的不滿情緒正日益升高。]]></summary>
@@ -690,63 +841,13 @@ A toucan that has been seen flying around Las Vegas for months has been saved, a
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[港媒：中國「烤串」學院招生  重構年輕人職業認知]]></title>
-        <id>CNA/2026-03-15/202603150069</id>
-        <link href="https://www.cna.com.tw/news/acn/202603150069.aspx"/>
-        <updated>2026-03-15T03:46:02.000Z</updated>
-        <summary type="html"><![CDATA[（中央社台北15日電）中國首個燒烤產業學院最近在湖南岳陽正式招生，短短兩天就接到眾多查詢電話，有高中畢業生計劃學成創業。港媒分析，這反映就業困境與AI時代雙重背景下，中國年輕人職業選擇的巨大轉向。]]></summary>
-        <author>
-            <name>中央社即時新聞 兩岸透視</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[讓國際象棋改頭換面進入數字時代的女性]]></title>
-        <id>https://www.bbc.com/zhongwen/articles/clyzrjp8nj5o/trad#0</id>
+        <id>https://www.bbc.com/zhongwen/articles/clyzrjp8nj5o/trad#1</id>
         <link href="https://www.bbc.com/zhongwen/articles/clyzrjp8nj5o/trad?at_medium=RSS&amp;at_campaign=rss"/>
         <updated>2026-03-15T02:34:48.000Z</updated>
         <summary type="html"><![CDATA[女性內容創作者正幫助國際象棋擺脫「老男人遊戲」的形象，並將這項古老運動帶入數字時代。]]></summary>
         <author>
             <name>BBC Chinese</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[謝鋒：中國開放不是限時促銷  而是長期穩定]]></title>
-        <id>CNA/2026-03-15/202603150037</id>
-        <link href="https://www.cna.com.tw/news/acn/202603150037.aspx"/>
-        <updated>2026-03-15T02:14:54.000Z</updated>
-        <summary type="html"><![CDATA[（中央社台北15日電）中國國務院副總理何立峰15至16日在法國巴黎與美國財政部長貝森特會面前，中國駐美國大使謝鋒表示，中國的開放不是「黑色星期五」式的限時促銷，而是長期穩定、不斷擴大的共贏契機。]]></summary>
-        <author>
-            <name>中央社即時新聞 兩岸透視</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中越邊境國防交流  海軍艦艇聯合巡邏訓練]]></title>
-        <id>CNA/2026-03-15/202603150033</id>
-        <link href="https://www.cna.com.tw/news/acn/202603150033.aspx"/>
-        <updated>2026-03-15T02:04:45.000Z</updated>
-        <summary type="html"><![CDATA[（中央社台北15日電）中國和越南將舉行邊境國防友好交流活動，雙方將組織海軍艦艇進行聯合巡邏和訓練。]]></summary>
-        <author>
-            <name>中央社即時新聞 兩岸透視</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[國台辦批賴總統談話　陸委會：暴露中共對民主恐懼]]></title>
-        <id>CNA/2026-03-14/202603140214</id>
-        <link href="https://www.cna.com.tw/news/acn/202603140214.aspx"/>
-        <updated>2026-03-14T13:24:53.000Z</updated>
-        <summary type="html"><![CDATA[（中央社記者廖文綺台北14日電）總統賴清德今天表示，總統直選象徵「主權在民」，是確立民主台灣的重要里程碑，中國大陸國台辦對此嚴詞批判。陸委會表示，中共否定台灣民主選舉的意義，暴露其對普世民主價值的恐懼。]]></summary>
-        <author>
-            <name>中央社即時新聞 兩岸透視</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中國行動電源風險高　調查：電商平台充斥假3C認證易起火]]></title>
-        <id>CNA/2026-03-14/202603140209</id>
-        <link href="https://www.cna.com.tw/news/acn/202603140209.aspx"/>
-        <updated>2026-03-14T12:47:41.000Z</updated>
-        <summary type="html"><![CDATA[（中央社台北14日電）中國製行動電源去年傳出起火爆炸災情，還引發多起飛安事故。儘管官方其後下架問題產品，將多家廠商列入黑名單，嚴禁銷售未獲3C認證的行動電源，但陸媒調查發現，中國電商平台迄今仍充斥大量貼上假3C認證的劣質行動電源，極易短路起火。]]></summary>
-        <author>
-            <name>中央社即時新聞 兩岸透視</name>
         </author>
     </entry>
     <entry>
@@ -781,7 +882,7 @@ Andrea Verdelli for The New York Times
     </entry>
     <entry>
         <title type="html"><![CDATA[中共軍機「擾台」飛行出現罕見「空窗期」，對背後動機的五個解讀]]></title>
-        <id>https://www.bbc.com/zhongwen/articles/c2lr8ejq0w8o/trad#0</id>
+        <id>https://www.bbc.com/zhongwen/articles/c2lr8ejq0w8o/trad#1</id>
         <link href="https://www.bbc.com/zhongwen/articles/c2lr8ejq0w8o/trad?at_medium=RSS&amp;at_campaign=rss"/>
         <updated>2026-03-13T08:27:50.000Z</updated>
         <summary type="html"><![CDATA[自2月27日起，中共解放軍軍機進入台灣ADIZ連續7至9天零偵測，創2022年以來最長空窗期。今年迄今總架次約460架，較去年減46.5%，遠低於常態。但海上活動未減，每日5–8艘軍艦與海警持續施壓。專家解讀為兩會季節低谷、軍內整肅、反腐預算控制及川習會前外交姿態甚至伊朗戰爭因素？]]></summary>
@@ -800,18 +901,8 @@ Andrea Verdelli for The New York Times
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[伊朗新任最高領袖穆傑塔巴誓言繼續封鎖霍爾木茲海峽]]></title>
-        <id>https://www.bbc.com/zhongwen/articles/c3v743lv42ro/trad#1</id>
-        <link href="https://www.bbc.com/zhongwen/articles/c3v743lv42ro/trad?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-03-13T06:49:28.000Z</updated>
-        <summary type="html"><![CDATA[據稱來自穆傑塔巴・哈梅內伊的訊息聲言，伊朗將繼續以區內美軍基地為攻擊目標。]]></summary>
-        <author>
-            <name>BBC Chinese</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[任務完成了嗎？那句困擾當今伊朗衝突的2003年豪言]]></title>
-        <id>https://www.bbc.com/zhongwen/articles/c1kgx8y478mo/trad#1</id>
+        <id>https://www.bbc.com/zhongwen/articles/c1kgx8y478mo/trad#3</id>
         <link href="https://www.bbc.com/zhongwen/articles/c1kgx8y478mo/trad?at_medium=RSS&amp;at_campaign=rss"/>
         <updated>2026-03-13T06:15:58.000Z</updated>
         <summary type="html"><![CDATA[這些衝突之間確實存在著相互呼應之處，但也存在著深刻的差異。]]></summary>
@@ -821,7 +912,7 @@ Andrea Verdelli for The New York Times
     </entry>
     <entry>
         <title type="html"><![CDATA[中國男子涉嫌企圖從肯亞走私兩千蟻后被捕]]></title>
-        <id>https://www.bbc.com/zhongwen/articles/c78x0npypn6o/trad#1</id>
+        <id>https://www.bbc.com/zhongwen/articles/c78x0npypn6o/trad#6</id>
         <link href="https://www.bbc.com/zhongwen/articles/c78x0npypn6o/trad?at_medium=RSS&amp;at_campaign=rss"/>
         <updated>2026-03-13T05:36:53.000Z</updated>
         <summary type="html"><![CDATA[據檢察官稱，嫌犯將部分螞蟻裝入試管中，有些則藏匿在衛生紙筒內。]]></summary>
@@ -945,16 +1036,6 @@ Mike Kai Chen for The New York Times
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[巴西女性向BBC透露，愛潑斯坦曾利用模特兒經紀人招募女孩]]></title>
-        <id>https://www.bbc.com/zhongwen/articles/crrxv49x1z9o/trad#1</id>
-        <link href="https://www.bbc.com/zhongwen/articles/crrxv49x1z9o/trad?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-03-12T08:44:37.000Z</updated>
-        <summary type="html"><![CDATA[巴西女性告訴BBC，一名模特兒經紀人利用商業機構招募女孩，並安排她們獲得美國簽證去探訪愛潑斯坦。]]></summary>
-        <author>
-            <name>BBC Chinese</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[哪些國家能從對伊朗的戰爭中得益？哪些國家會受到衝擊？]]></title>
         <id>https://www.bbc.com/zhongwen/articles/cd6z9e3p3vwo/trad#1</id>
         <link href="https://www.bbc.com/zhongwen/articles/cd6z9e3p3vwo/trad?at_medium=RSS&amp;at_campaign=rss"/>
@@ -1033,21 +1114,6 @@ Haiyun Jiang/The New York Times
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[烏克蘭達成里程碑式成就：製造「去中國化」的無人機]]></title>
-        <id>https://cn.nytimes.com/world/20260312/ukraine-drones-china/zh-hant/</id>
-        <link href="https://cn.nytimes.com/world/20260312/ukraine-drones-china/zh-hant/?utm_source=RSS"/>
-        <updated>2026-03-12T00:56:22.000Z</updated>
-        <summary type="html"><![CDATA[鑒於中國在全球製造業的主導地位，不含中國元素的無人機很難做到。但烏克蘭已把重點放在生產的自給自足上，以在中國供應可能被切斷的情況下能夠繼續製造無人機。
-
-                    
-Nicole Tung for The New York Times
-                    
-2024年，頓涅茨克地區的烏克蘭無人機操作員。一名烏克蘭指揮官稱，俄軍傷亡現在大部分是由無人機造成的。]]></summary>
-        <author>
-            <name>MARIA VARENIKOVA</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[那些曾被視為無藥可治的疾病，AI解鎖新療法]]></title>
         <id>https://www.bbc.com/zhongwen/articles/c204jn30m03o/trad#6</id>
         <link href="https://www.bbc.com/zhongwen/articles/c204jn30m03o/trad?at_medium=RSS&amp;at_campaign=rss"/>
@@ -1106,48 +1172,6 @@ Arash Khamooshi for The New York Times
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[拉美國家為何表面附和美國，私下兌現中國支票]]></title>
-        <id>https://cn.nytimes.com/opinion/20260311/trump-latin-america-china/zh-hant/</id>
-        <link href="https://cn.nytimes.com/opinion/20260311/trump-latin-america-china/zh-hant/?utm_source=RSS"/>
-        <updated>2026-03-11T04:27:54.000Z</updated>
-        <summary type="html"><![CDATA[華盛頓的拉美政策一直在忽視與危言聳聽之間搖擺，中國則保持著耐心和財大氣粗的存在。川普需要明白，夥伴國家無法單靠威脅來領導。
-
-                    
-Photo illustration by Philotheus Nisch for The New York Times; source photograph by Eric Lee for The New York Times]]></summary>
-        <author>
-            <name>OLIVER STUENKEL</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[他是說唱歌手、是「憤青」，也是尼泊爾史上最年輕的總理]]></title>
-        <id>https://cn.nytimes.com/world/20260311/balendra-shah-nepal-prime-minister/zh-hant/</id>
-        <link href="https://cn.nytimes.com/world/20260311/balendra-shah-nepal-prime-minister/zh-hant/?utm_source=RSS"/>
-        <updated>2026-03-11T03:54:35.000Z</updated>
-        <summary type="html"><![CDATA[沙阿是一名說唱歌手，四年前以獨立候選人身份成功當選加德滿都市長。本週，他領導的國家自由黨在尼泊爾大選中取得壓倒性勝利，獲得該國現代選舉史上最廣泛的授權。
-
-                    
-Hannah Reyes Morales for The New York Times
-                    
-上個月，巴倫德拉·沙阿在尼泊爾加德滿都參加競選活動。]]></summary>
-        <author>
-            <name>HANNAH BEECH,BINOD GHIMIRE,SAJAL PRADHAN</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[逃離卡達：一段歷時62小時、游遍四大洲的回家之路]]></title>
-        <id>https://cn.nytimes.com/world/20260311/canceled-flights-middle-east-iran-war/zh-hant/</id>
-        <link href="https://cn.nytimes.com/world/20260311/canceled-flights-middle-east-iran-war/zh-hant/?utm_source=RSS"/>
-        <updated>2026-03-10T17:25:36.000Z</updated>
-        <summary type="html"><![CDATA[美國和以色列對伊朗發動襲擊後，米勒醫生被滯留在卡達。他決定要不惜一切代價離開這個地區，隨後經歷了一段歷時62個小時、耗資近1萬美元，游遍四大洲的旅途。
-
-                    
-                    
-因以色列和美國對伊朗的襲擊，傑伊·米勒醫生在從印度回美國途中滯留在卡達杜哈。]]></summary>
-        <author>
-            <name>CHRISTINE CHUNG</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[中國為何即將通過一項促進「民族團結」的新法律？]]></title>
         <id>https://www.bbc.com/zhongwen/articles/c0ljyj84k87o/trad#4</id>
         <link href="https://www.bbc.com/zhongwen/articles/c0ljyj84k87o/trad?at_medium=RSS&amp;at_campaign=rss"/>
@@ -1168,41 +1192,11 @@ Hannah Reyes Morales for The New York Times
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[特朗普稱美以伊戰爭「很快結束」，油價稍回落]]></title>
-        <id>https://www.bbc.com/zhongwen/articles/cn9e484xdgwo/trad#3</id>
-        <link href="https://www.bbc.com/zhongwen/articles/cn9e484xdgwo/trad?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-03-10T05:04:54.000Z</updated>
-        <summary type="html"><![CDATA[美國總統特朗普多次談及對伊朗的戰事，形容「很快結束」，又指仍有尚未攻擊的伊朗目標，但「一天之內就能全部摧毀」。]]></summary>
-        <author>
-            <name>BBC Chinese</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[從敲窗人到蠟燭鐘：那些沒有鬧鐘前叫你起床的「古董」]]></title>
-        <id>https://www.bbc.com/zhongwen/articles/c8xy285qypgo/trad#6</id>
-        <link href="https://www.bbc.com/zhongwen/articles/c8xy285qypgo/trad?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-03-10T02:17:19.000Z</updated>
-        <summary type="html"><![CDATA[從每隔一小時就會掉下一根鐵針的蠟燭，到英國工業革命時期的「敲窗員」，歷史上人們想出了各種巧妙方法，確保能準時起床。]]></summary>
-        <author>
-            <name>BBC Chinese</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[穆傑塔巴‧哈梅內伊：伊朗新任最高領袖是誰？]]></title>
         <id>https://www.bbc.com/zhongwen/articles/cdjmpjj1g8wo/trad#3</id>
         <link href="https://www.bbc.com/zhongwen/articles/cdjmpjj1g8wo/trad?at_medium=RSS&amp;at_campaign=rss"/>
         <updated>2026-03-09T03:35:11.000Z</updated>
         <summary type="html"><![CDATA[外界普遍認為，這位一向行事低調的56歲接班人，將繼續奉行其父的強硬路線。]]></summary>
-        <author>
-            <name>BBC Chinese</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中國的下一場增長賭局全力押註AI、機器人等「未來產業」]]></title>
-        <id>https://www.bbc.com/zhongwen/articles/cewz7yxrqdgo/trad#6</id>
-        <link href="https://www.bbc.com/zhongwen/articles/cewz7yxrqdgo/trad?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-03-09T00:12:54.000Z</updated>
-        <summary type="html"><![CDATA[在房地產退潮後，中國政府把科技推向經濟政策核心，但專家提醒，創新不是砸錢就行。]]></summary>
         <author>
             <name>BBC Chinese</name>
         </author>

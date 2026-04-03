@@ -6,54 +6,94 @@
       "siteUrl": "https://www.bbc.com/zhongwen/trad",
       "articles": [
         {
+          "id": "https://www.bbc.com/zhongwen/articles/c4gvdl8k1xjo/trad#2",
+          "author": null,
+          "description": "美國航太總署（Nasa）的阿爾忒彌斯二號（Artemis II）在佛羅里達時間4月1日已成功發射升空，開啟前往月球的旅程。",
+          "link": "https://www.bbc.com/zhongwen/articles/c4gvdl8k1xjo/trad?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-04-02T09:48:33.000Z",
+          "wordCount": 1124,
+          "title": "阿爾忒彌斯2號啟航：睽違54年 人類再度飛向月球",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_zhongwen/9789/live/a101e2b0-2e76-11f1-934f-036468834728.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/zhongwen/articles/c8ej4r86119o/trad#0",
+          "author": null,
+          "description": "與他人相處的時間能同時提升心理與生理健康，神經科學家表示。",
+          "link": "https://www.bbc.com/zhongwen/articles/c8ej4r86119o/trad?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-04-02T08:27:14.000Z",
+          "wordCount": 1529,
+          "title": "社交如何改變大腦，並讓你感覺更好",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_zhongwen/83c6/live/4e4f5550-247d-11f1-a673-e3b236a15253.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/zhongwen/articles/cz67gxpzde8o/trad#0",
+          "author": null,
+          "description": "有專家指出，波斯灣國家不會因對伊戰爭而偏離軌道，但其發展方向將因此重新校準並趨向軍事化。",
+          "link": "https://www.bbc.com/zhongwen/articles/cz67gxpzde8o/trad?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-04-02T06:57:42.000Z",
+          "wordCount": 1507,
+          "title": "導彈無人機籠罩下的海灣富豪天堂會不會變成地獄？",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_zhongwen/6cf8/live/0596fb50-2dd9-11f1-ae65-97b179e2f0f5.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/zhongwen/articles/cdxdkqknqwqo/trad#0",
+          "author": null,
+          "description": "在2月28日對伊朗發動空襲之前，美國同樣一再聲稱希望通過談判解決核問題，隨後卻突然發動了打擊。這一先例令不少分析人士對他當前「即將撤離」的說辭持審慎態度，認為不排除是在為地面進攻製造煙幕。",
+          "link": "https://www.bbc.com/zhongwen/articles/cdxdkqknqwqo/trad?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-04-02T06:49:39.000Z",
+          "wordCount": 1592,
+          "title": "特朗普演講未能安撫油價股市   為何各界認為他未澄清停戰關鍵問題",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_zhongwen/031c/live/d4254860-2e5f-11f1-a79a-77e93010d956.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/zhongwen/articles/czreyg0e5nzo/trad#1",
+          "author": null,
+          "description": "特朗普批評北約成員國對美國在伊朗的目標缺乏支持。",
+          "link": "https://www.bbc.com/zhongwen/articles/czreyg0e5nzo/trad?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-04-02T05:01:41.000Z",
+          "wordCount": 1545,
+          "title": "特朗普再提退出北約：這對同盟前景有何啟示",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_zhongwen/8e7f/live/6b402fe0-2de7-11f1-934f-036468834728.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/zhongwen/articles/cp8d61nl2j4o/trad#0",
+          "author": null,
+          "description": "北京與伊斯蘭堡的官員提出了一項五點計劃，旨在促成停火，並重新開放至關重要的霍爾木茲海峽。此前中國官方反應一直較為低調，為何選擇在此時介入？",
+          "link": "https://www.bbc.com/zhongwen/articles/cp8d61nl2j4o/trad?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-04-02T03:59:47.000Z",
+          "wordCount": 1551,
+          "title": "中國試圖在伊朗戰爭中扮演和平調解者，這會奏效嗎？",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_zhongwen/c986/live/ee232120-2d96-11f1-bcc4-a5db6c57338c.jpg"
+        },
+        {
           "id": "https://www.bbc.com/zhongwen/articles/cpd547jdgn6o/trad#0",
           "author": null,
           "description": "經歷六年改造，重新構建的敘事登場。港英殖民歷史被淡化，港督照片牆、港英旗被拆走；展板不再提「六七暴動」，「六四事件」亦被淡化為「春夏之交的政治風波」。",
           "link": "https://www.bbc.com/zhongwen/articles/cpd547jdgn6o/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-04-02T02:00:39.000Z",
-          "wordCount": 1490,
+          "wordCount": 1491,
           "title": "「香港故事」展館重開：淡化港英歷史不提「六四」，六年改造重樹敘事",
           "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_zhongwen/f809/live/504f2720-2df8-11f1-b297-95b0a0a8331e.jpg"
         },
         {
-          "id": "https://www.bbc.com/zhongwen/articles/cjw8lwj707yo/trad#0",
+          "id": "https://www.bbc.com/zhongwen/articles/cjw8lwj707yo/trad#6",
           "author": null,
           "description": "在搬家或經歷分手時，你的臉上突然冒痘或濕疹惡化嗎？這可能不是巧合。",
           "link": "https://www.bbc.com/zhongwen/articles/cjw8lwj707yo/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-04-02T00:29:38.000Z",
-          "wordCount": 1519,
+          "wordCount": 1499,
           "title": "壓力對皮膚有什麼影響——以及你能怎麼做？",
           "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_zhongwen/955b/live/a2eb14e0-f62a-11f0-b385-5f48925de19a.jpg"
         },
         {
-          "id": "https://www.bbc.com/zhongwen/articles/czjw4p8grewo/trad#0",
+          "id": "https://www.bbc.com/zhongwen/articles/czjw4p8grewo/trad#1",
           "author": null,
           "description": "這個地區共有2400萬名移工，是全球最大海外務工目的地。其中多數來自亞洲——印度、巴基斯坦、孟加拉、斯里蘭卡、菲律賓及印尼。據報導，迄今已有至少12名南亞移工因戰火喪生。",
           "link": "https://www.bbc.com/zhongwen/articles/czjw4p8grewo/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-04-01T08:32:59.000Z",
-          "wordCount": 1785,
+          "wordCount": 1765,
           "title": "伊朗戰爭添風險　亞洲外勞糾結應否繼續在波斯灣「拼命」",
           "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_zhongwen/1a30/live/58ff5b10-28f3-11f1-a95f-75471ca6e71e.jpg"
-        },
-        {
-          "id": "https://www.bbc.com/zhongwen/articles/clye3gr64ggo/trad#1",
-          "author": null,
-          "description": "目擊者告訴BBC，他們在德黑蘭及其他伊朗城市看到執行安保任務的兒童，其中一些甚至持械。",
-          "link": "https://www.bbc.com/zhongwen/articles/clye3gr64ggo/trad?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-04-01T06:49:00.000Z",
-          "wordCount": 1655,
-          "title": "報告和目擊者指伊朗安全部隊在戰爭期間使用兒童",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_zhongwen/97c6/live/903a1ed0-2cef-11f1-b297-95b0a0a8331e.jpg"
-        },
-        {
-          "id": "https://www.bbc.com/zhongwen/articles/cdxdkqknqwqo/trad#0",
-          "author": null,
-          "description": "他還說，如果法國或其他國家想要石油，可以自己去霍爾木茲海峽「各憑本事」，美國將與此毫無關係。",
-          "link": "https://www.bbc.com/zhongwen/articles/cdxdkqknqwqo/trad?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-04-01T04:56:41.000Z",
-          "wordCount": 1593,
-          "title": "特朗普稱很快且無需協議結束伊朗戰事，美方地面部隊仍在集結",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_zhongwen/2a99/live/f948d600-2d80-11f1-a3c9-97e81c3d22f8.jpg"
         },
         {
           "id": "https://www.bbc.com/zhongwen/articles/cvge9v370d9o/trad#1",
@@ -61,7 +101,7 @@
           "description": "由於部分地區房價較低，很多人發現，將親屬的骨灰安置在一間空置公寓內，比承擔高昂的喪葬費用更能夠負擔得起。",
           "link": "https://www.bbc.com/zhongwen/articles/cvge9v370d9o/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-04-01T03:42:06.000Z",
-          "wordCount": 1443,
+          "wordCount": 1424,
           "title": "中國禁止將空置住房改為「骨灰公寓」",
           "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_zhongwen/c129/live/18c95360-2ceb-11f1-bdf5-ddbf94ae98c3.jpg"
         },
@@ -71,7 +111,7 @@
           "description": "研究香港房屋問題的學者分析稱，難以量化社會環境或文化帶來的影響，但強調「香港人能否上樓」的議題並非近年才出現，置業率下降不是因為短期缺乏信心導致，主要源自長期房屋供應及金融體系的結構性問題。",
           "link": "https://www.bbc.com/zhongwen/articles/c2evx4gk13lo/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-04-01T00:11:48.000Z",
-          "wordCount": 1527,
+          "wordCount": 1510,
           "title": "不想買還是買不起？——香港青年置業率持續下降",
           "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_zhongwen/40bd/live/1a087f50-28a7-11f1-a79a-77e93010d956.jpg"
         },
@@ -81,17 +121,17 @@
           "description": "在內捲加劇與就業率低迷的中國，張雪峰被很多家庭視為「救命稻草」。支持者認為，他為草根家庭提供了關鍵信息，改變了他們的人生軌跡；而批評者指責他透過功利主義，販賣「教育憂慮」。",
           "link": "https://www.bbc.com/zhongwen/articles/cvgepgl89xgo/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-03-31T09:23:22.000Z",
-          "wordCount": 1076,
+          "wordCount": 1077,
           "title": "張雪峰去世引發萬人送別 中國網紅「升學規劃師」背後的教育焦慮",
           "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_zhongwen/a9ba/live/fdde4770-2ce2-11f1-b297-95b0a0a8331e.jpg"
         },
         {
-          "id": "https://www.bbc.com/zhongwen/articles/c5yvg1dljgeo/trad#0",
+          "id": "https://www.bbc.com/zhongwen/articles/c5yvg1dljgeo/trad#1",
           "author": null,
           "description": "「鄭習會」背後仍折射出國民黨內部乃至台灣的「親美」或「親中」路線之爭。這趟訪問不只是兩岸互動，更被視為對國民黨2026年地方選舉，甚至未來大選的一次提前測試。",
           "link": "https://www.bbc.com/zhongwen/articles/c5yvg1dljgeo/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-03-31T08:57:26.000Z",
-          "wordCount": 1882,
+          "wordCount": 1863,
           "title": "「鄭習會」將在特朗普訪華前登場   背後的美中台角力與國民黨路線之爭",
           "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_zhongwen/2500/live/c7c4ef90-2cd3-11f1-8a0e-7754bc50f231.jpg"
         },
@@ -101,7 +141,7 @@
           "description": "從與中國的競賽到月球探索，美國正在投入時間、精力和金錢，朝著月球甚至更遠的地方進發。",
           "link": "https://www.bbc.com/zhongwen/articles/c4gjr19w2q5o/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-03-31T08:51:11.000Z",
-          "wordCount": 1626,
+          "wordCount": 1628,
           "title": "登月後再登火星？NASA 任務為何至關重要？",
           "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_zhongwen/d91a/live/1ce46b10-29e4-11f1-a79a-77e93010d956.jpg"
         },
@@ -111,7 +151,7 @@
           "description": "雖然兩次危機都與石油有關，但專家表示，20 世紀 70 年代和今天發生的事情之間存在一些重要的差異。",
           "link": "https://www.bbc.com/zhongwen/articles/c30rq424212o/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-03-31T07:00:58.000Z",
-          "wordCount": 1859,
+          "wordCount": 1840,
           "title": "1970年代的石油危機是什麼樣子？我們會否面臨更糟糕的局面？",
           "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_zhongwen/e9e7/live/befaf650-2c2b-11f1-b8c9-f5058c0aec9a.jpg"
         },
@@ -121,17 +161,17 @@
           "description": "一連串奇特的美容療法正在社交媒體上流行。但科學研究是否顯示，這些結論可以完全信任？",
           "link": "https://www.bbc.com/zhongwen/articles/cgme8rxrel0o/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-03-31T04:11:21.000Z",
-          "wordCount": 1556,
+          "wordCount": 1537,
           "title": "從三文魚精子到鳥糞  奇特護膚潮流背後的科學原理",
           "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_zhongwen/54cb/live/ac099a20-2cb1-11f1-876f-f90bb38506f7.png"
         },
         {
-          "id": "https://www.bbc.com/zhongwen/articles/c74vnkn89q1o/trad#1",
+          "id": "https://www.bbc.com/zhongwen/articles/c74vnkn89q1o/trad#6",
           "author": null,
           "description": "一個可比擬的情境是位於黑海的蛇島。俄羅斯在2022年2月全面入侵烏克蘭初期奪取該島，但最終在烏克蘭本土持續騷擾性火力攻擊下被迫撤離。",
           "link": "https://www.bbc.com/zhongwen/articles/c74vnkn89q1o/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-03-31T03:33:56.000Z",
-          "wordCount": 1553,
+          "wordCount": 1534,
           "title": "美軍會怎樣嘗試攻佔伊朗的石油樞紐哈爾克島？",
           "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_zhongwen/422b/live/289593e0-2c3b-11f1-b297-95b0a0a8331e.jpg"
         },
@@ -141,7 +181,7 @@
           "description": "「如果它成功，將可能成為一個可在全國複製推廣的模板；如果它失敗，則將徹底暴露單純依靠自上而下的頂層設計來打造創新活力與城市生機的根本局限。」",
           "link": "https://www.bbc.com/zhongwen/articles/cpd5zj8e3p9o/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-03-31T00:19:54.000Z",
-          "wordCount": 1452,
+          "wordCount": 1433,
           "title": "雄安新區十年：領導人「個人設想」、洪水爭議與「疏解」暗戰",
           "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_zhongwen/78b0/live/373e8040-2c1e-11f1-a165-7f32552c9375.jpg"
         },
@@ -151,19 +191,9 @@
           "description": "研究人員對中國超過58,000個從事螞蟻銷售的網上群落進行了六個月的監測，發現超過四分之一的交易物種並非中國本土物種，儘管進口這些物種是非法的。",
           "link": "https://www.bbc.com/zhongwen/articles/c9qdw458z2jo/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-03-30T08:23:25.000Z",
-          "wordCount": 1562,
+          "wordCount": 1543,
           "title": "螞蟻寵物黑市蘊含生態危機   220美元一隻的蟻后如何成為中國非洲走私熱點",
           "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_zhongwen/7761/live/aa82d2e0-2a1b-11f1-b297-95b0a0a8331e.jpg"
-        },
-        {
-          "id": "https://www.bbc.com/zhongwen/articles/cn4vwyk3np3o/trad#1",
-          "author": null,
-          "description": "有分析指，裁員同時也向股市投資者傳達一個訊號——在面對AI開發「真實且巨大的」成本時，公司高層並非毫無節制地開空頭支票。",
-          "link": "https://www.bbc.com/zhongwen/articles/cn4vwyk3np3o/trad?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-03-30T03:38:13.000Z",
-          "wordCount": 1522,
-          "title": "科技公司大佬眾口一詞改口風：大裁員都怪AI",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_zhongwen/6255/live/1413e9f0-23dd-11f1-934f-036468834728.jpg"
         },
         {
           "id": "https://www.bbc.com/zhongwen/articles/c1d9gq1kzk2o/trad#6",
@@ -191,7 +221,7 @@
           "description": "親子教育專家分享，如何讓孩子的熒幕使用時間保持在可控範圍內。",
           "link": "https://www.bbc.com/zhongwen/articles/cde59x42255o/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-03-27T08:47:19.000Z",
-          "wordCount": 1808,
+          "wordCount": 1789,
           "title": "孩子刷手機停不下來？別慌，試試用這五個方法來應對",
           "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_zhongwen/9877/live/55f3caf0-2902-11f1-be8b-2136d1c912ba.jpg"
         },
@@ -201,7 +231,7 @@
           "description": "香港當局最新修訂《香港國安法》的實施細則，包括警方可要求任何涉嫌干犯危害國家安全的「指明人士」提供電子設備的密碼或其他解密方法，引起外界擔憂。",
           "link": "https://www.bbc.com/zhongwen/articles/cwyv7wx9jd2o/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-03-27T08:21:38.000Z",
-          "wordCount": 1460,
+          "wordCount": 1441,
           "title": "香港國安法新細則：「強制解鎖」電子設備為何引起廣泛關注",
           "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_zhongwen/8d5a/live/0cde9850-29b5-11f1-bd05-4d2c4ed50be6.jpg"
         },
@@ -211,7 +241,7 @@
           "description": "這個判刑意味著，柯文哲將失去2028年總統選舉的參選資格。案件可上訴至更高級的法院進行二審，預料不會在短時間落幕。外界關注判刑將如何震盪民眾黨及台灣政壇的權力分配。",
           "link": "https://www.bbc.com/zhongwen/articles/cvg083r7570o/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-03-26T14:41:58.000Z",
-          "wordCount": 1572,
+          "wordCount": 1553,
           "title": "柯文哲「京華城」貪污案：一審判囚17年，喪失2028總統參選資格",
           "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_zhongwen/d085/live/0312faa0-291a-11f1-babf-516204a6f1ce.jpg"
         },
@@ -221,19 +251,9 @@
           "description": "明陽集團表示，英國政府未批准其在蘇格蘭阿德西爾建立風力渦輪機設施的計劃。",
           "link": "https://www.bbc.com/zhongwen/articles/c5yj41r1y00o/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-03-26T05:14:40.000Z",
-          "wordCount": 1535,
+          "wordCount": 1516,
           "title": "明陽集團計劃：中國公司在高地港口計劃被英國政府阻止",
           "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_zhongwen/2575/live/c1cc6620-2857-11f1-937e-1d8f354c3b9a.png"
-        },
-        {
-          "id": "https://www.bbc.com/zhongwen/articles/ce84x7meyk5o/trad#6",
-          "author": null,
-          "description": "作為「中國風」潮流的一部分，早上喝熱水正席捲網絡——但這項流傳了數百年的習慣真的能改善健康嗎？",
-          "link": "https://www.bbc.com/zhongwen/articles/ce84x7meyk5o/trad?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-03-25T06:45:33.000Z",
-          "wordCount": 1551,
-          "title": "「中國風」：早上喝熱水真的對身體有好處嗎？",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_zhongwen/5baf/live/07d62670-1ef2-11f1-8cb7-433d6fa8d367.png"
         },
         {
           "id": "https://www.bbc.com/zhongwen/articles/czx9deey2e1o/trad#3",
@@ -241,7 +261,7 @@
           "description": "美國對能源基礎設施的威脅，以及伊朗對其海灣鄰國的報復，顯示局勢已出現明顯的轉變。",
           "link": "https://www.bbc.com/zhongwen/articles/czx9deey2e1o/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-03-25T06:06:49.000Z",
-          "wordCount": 1838,
+          "wordCount": 1819,
           "title": "伊朗戰爭顯示國際衝突的規範已被顛覆",
           "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_zhongwen/50fe/live/5001efa0-27a4-11f1-a79a-77e93010d956.jpg"
         },
@@ -251,19 +271,9 @@
           "description": "美國總統特朗普表示，美方已經在與伊朗的一位「最高層人士」接觸，但德黑蘭否認任何談判已經開始。",
           "link": "https://www.bbc.com/zhongwen/articles/c62j784n11zo/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-03-25T03:59:43.000Z",
-          "wordCount": 1594,
+          "wordCount": 1575,
           "title": "分析：美伊談判小窗口已開，但迅速結束戰爭仍不太可能",
           "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_zhongwen/5e3a/live/a33b24e0-27a7-11f1-a8d3-5d54fcb90a80.jpg"
-        },
-        {
-          "id": "https://www.bbc.com/zhongwen/articles/cde570879eyo/trad#6",
-          "author": null,
-          "description": "你吃飯的時間、你吃得多快，甚至你咀嚼的次數，都會影響你從食物中吸收多少卡路里。",
-          "link": "https://www.bbc.com/zhongwen/articles/cde570879eyo/trad?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-03-25T00:18:04.000Z",
-          "wordCount": 1512,
-          "title": "別一味計算卡路里了，吃得聰明一些更有用",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_zhongwen/94ea/live/77a942b0-2759-11f1-a797-4bd7869bf0d1.jpg"
         },
         {
           "id": "https://www.bbc.com/zhongwen/articles/c8r4lzp4m2do/trad#4",
@@ -271,7 +281,7 @@
           "description": "一名不願透露姓名的中國影視產業工作者向BBC中文表示，「番位之爭」從過去不可⾔說的默契，演化到具有合約效益的商業權益；目前已不限於演員，更包括導演､ 編劇､ 攝影等核⼼⼯種｡",
           "link": "https://www.bbc.com/zhongwen/articles/c8r4lzp4m2do/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-03-25T00:17:03.000Z",
-          "wordCount": 1495,
+          "wordCount": 1476,
           "title": "「保姆車」和「流量明星」：中國影視監管當局為何要打擊「撕番位」？",
           "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_zhongwen/8d3b/live/ee03e000-2759-11f1-a797-4bd7869bf0d1.jpg"
         },
@@ -281,7 +291,7 @@
           "description": "BBC走進亞洲最具影響力的航空與國防展覽，看看在無人機技術競賽之中的最新突破。",
           "link": "https://www.bbc.com/zhongwen/articles/cn78m3dldkmo/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-03-24T08:47:28.000Z",
-          "wordCount": 1015,
+          "wordCount": 1016,
           "title": "AI駕駛無人戰機：拆解未來戰場的攻防新技術",
           "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_zhongwen/652d/live/5fcc1200-275c-11f1-934f-036468834728.jpg"
         },
@@ -291,7 +301,7 @@
           "description": "特朗普的選項越來越少。進一步升級可能成為無止境的破壞循環，卻缺乏明確戰略利益，使剩下的只會是最極端的方案。伊朗局勢同樣艱難。該國在衝突前就已面臨經濟壓力和廣泛民怨，若後退將顯得軟弱。",
           "link": "https://www.bbc.com/zhongwen/articles/cy01g4kpkk7o/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-03-24T04:21:55.000Z",
-          "wordCount": 1542,
+          "wordCount": 1523,
           "title": "分析：戰爭持續越久，美國和伊朗就會更加陷入欲罷不能的境地",
           "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_zhongwen/ff5a/live/bde680f0-2608-11f1-934f-036468834728.jpg"
         },
@@ -301,19 +311,9 @@
           "description": "一個是極客，一個是創業者，一個是程序員。他們的情緒各不相同，興奮、恐懼，或者兩者同時發生。他們站的位置不同，聽到的轟鳴聲卻來自同一個方向。",
           "link": "https://www.bbc.com/zhongwen/articles/crm8mmg0y3eo/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-03-24T02:45:14.000Z",
-          "wordCount": 1583,
+          "wordCount": 1564,
           "title": "當AI智能體開始上崗：2026年春天裡，三個中國人的興奮與恐懼",
           "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_zhongwen/3e3a/live/805313b0-2375-11f1-8f74-5f782ec9b448.jpg"
-        },
-        {
-          "id": "https://www.bbc.com/zhongwen/articles/cz90xykyl44o/trad#2",
-          "author": null,
-          "description": "全球最受矚目的男子樂團「防彈少年團」（BTS），在隊員服兵役而休團逾三年之後，正式重返舞台，並在首爾市中心地標前舉行復出演唱會，規模前所未見。這場回歸也折射出當下K-pop風光背後面對的重重困難，以及中國市場在「限韓令」下缺席這場國際娛樂文化盛宴。業內人士把這個韓國「天團」的復出，視為對K-pop產業的壓力測試。",
-          "link": "https://www.bbc.com/zhongwen/articles/cz90xykyl44o/trad?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-03-23T11:47:47.000Z",
-          "wordCount": 1027,
-          "title": "韓團BTS回歸：全球矚目背後有何文化與經濟意義？",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_zhongwen/847f/live/4be756a0-2699-11f1-b297-95b0a0a8331e.jpg"
         },
         {
           "id": "https://www.bbc.com/zhongwen/articles/c0lep1nexx3o/trad#3",
@@ -321,7 +321,7 @@
           "description": "專家表示，海灣國家不願直接捲入戰爭，但不太可能接受無限期地遭受攻擊。",
           "link": "https://www.bbc.com/zhongwen/articles/c0lep1nexx3o/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-03-23T08:11:31.000Z",
-          "wordCount": 1605,
+          "wordCount": 1586,
           "title": "為何海灣國家尚未報復伊朗？",
           "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_zhongwen/a4e5/live/72bb0760-268d-11f1-82d0-fd391f4a7261.jpg"
         },
@@ -331,7 +331,7 @@
           "description": "對於中國來說，這一變數可能提供了調整談判策略的空間，但也存在風險。",
           "link": "https://www.bbc.com/zhongwen/articles/c39w9xm01w7o/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-03-18T08:59:26.000Z",
-          "wordCount": 1689,
+          "wordCount": 1670,
           "title": "特朗普計劃推遲訪華　對中國來說意味著什麼",
           "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_zhongwen/66b6/live/c124f1b0-22a8-11f1-8a6e-abb477324122.jpg"
         },
@@ -341,7 +341,7 @@
           "description": "在中國，軍事風格的減重營隊越來越受歡迎，人們通常自願報名參加一個月，並遵循嚴格的日常安排，包括高強度的運動、強制稱重和零食限制等。一些人甚至稱這些營隊為「胖子監獄」。",
           "link": "https://www.bbc.com/zhongwen/articles/cx2r9rrv9wjo/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-03-17T03:19:52.000Z",
-          "wordCount": 1068,
+          "wordCount": 1069,
           "title": "「胖子監獄」、極限減重：為何中國「軍訓式減肥營」越來越熱門？",
           "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_zhongwen/3408/live/341715b0-21a3-11f1-934f-036468834728.jpg"
         },
@@ -351,7 +351,7 @@
           "description": "就算舞跳得再好，連一杯水都不能幫人拿，那還有什麼意義？",
           "link": "https://www.bbc.com/zhongwen/articles/c99j81pe98ro/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-03-16T03:52:17.000Z",
-          "wordCount": 1480,
+          "wordCount": 1461,
           "title": "中國人形機器人之夢：當熱度退潮，留下的是泡沫還是繁榮？",
           "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_zhongwen/13e4/live/9f7a2da0-1dd5-11f1-8bcf-53d95ce601fe.jpg"
         },
@@ -361,19 +361,9 @@
           "description": "中國是伊朗最大的石油買家，長期以來與伊朗保持密切外交關係。如今德黑蘭遭受攻擊，中國強烈譴責美國空襲，但對伊朗的支持是否僅止於口頭？BBC駐中國記者碧嘉蘭以及中伊關係專家威廉·菲格羅，一同剖析最新局勢。",
           "link": "https://www.bbc.com/zhongwen/articles/cn5gn0zrd0vo/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-03-12T17:37:54.000Z",
-          "wordCount": 1008,
+          "wordCount": 1009,
           "title": "伊朗戰爭激化：中國有何盤算？如何影響習特會談？",
           "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_zhongwen/71c0/live/abc82980-1df9-11f1-9120-a910fc22c6ac.jpg"
-        },
-        {
-          "id": "https://www.bbc.com/zhongwen/articles/ckgznz79e0po/trad#5",
-          "author": null,
-          "description": "中國石油對外依存度長期維持在70%以上，伊朗和委內瑞拉這兩個受制裁來源約佔中國海運原油進口的17%至18%。加上霍爾木茲海峽被封影響合法石油採購，中國原油進口正面臨巨大壓力。",
-          "link": "https://www.bbc.com/zhongwen/articles/ckgznz79e0po/trad?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-03-04T00:20:48.000Z",
-          "wordCount": 1684,
-          "title": "兩月內委內瑞拉伊朗接連巨變  中國原油進口體系面臨壓力測試",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_zhongwen/793a/live/ca33c980-16d6-11f1-863e-5b1b32a487bf.jpg"
         }
       ]
     },
@@ -383,204 +373,204 @@
       "siteUrl": "https://www.cna.com.tw/list/acn.aspx",
       "articles": [
         {
-          "id": "CNA/2026-04-01/202604010377",
+          "id": "CNA/2026-04-02/202604020331",
           "author": null,
-          "description": "（中央社台北1日電）中國新聞週刊今天爆料，河北邯鄲市某中學的喬姓黨委書記涉嫌性侵15歲高一女學生，被家長發現後還試圖以人民幣20萬元私了遭拒，前天被檢方批准逮捕。消息傳出引發中國社群關注與公憤後，這篇報導被下架，有關話題遭微博降熱搜，而涉事相關單位至今默不作聲。",
-          "link": "https://www.cna.com.tw/news/acn/202604010377.aspx",
-          "publishedOn": "2026-04-01T13:37:06.000Z",
-          "wordCount": 794,
-          "title": "中國官媒爆料中學黨委書記性侵學生被捕　報導被下架",
-          "imageUrl": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20240410/1920x1434_wmkn_52625430765_0.jpg"
+          "description": "（中央社記者廖文綺台北2日電）電影「陽光女子合唱團」近日進軍中國市場的宣傳文宣標註「中國台灣地區」惹議。陸委會今日表示，台灣電影要進入中國市場，必須由中國國營發行片商代理，在大陸內部的宣傳，台灣製作團隊無法控制。",
+          "link": "https://www.cna.com.tw/news/acn/202604020331.aspx",
+          "publishedOn": "2026-04-02T12:12:46.000Z",
+          "wordCount": 817,
+          "title": "陽光女子合唱團標中國台灣　陸委會：中國片商管控",
+          "imageUrl": "https://imgcdn.cna.com.tw/www/webphotos/WebOg/600/20260402/799x419_658848577247.jpg"
         },
         {
-          "id": "CNA/2026-04-01/202604010346",
+          "id": "CNA/2026-04-02/202604020315",
           "author": null,
-          "description": "（中央社記者廖文綺台北1日電）由於伊朗實質封鎖荷莫茲海峽（Hormuz Strait），導致能源市場陷入混亂，歐洲研究報告指出，中國擬重啟進口美國石油和液化天然氣，分散採購來源。",
-          "link": "https://www.cna.com.tw/news/acn/202604010346.aspx",
-          "publishedOn": "2026-04-01T11:35:54.000Z",
+          "description": "（中央社記者廖文綺台北2日電）中國大陸國台辦昨日揚言要懲治偵辦徐春鶯案的檢察官，陸委會今日表示，中共對司法人員下手已成為常態做法，他們想要袒護誰，就會懲戒辦案的檢察官，盼在野黨也對此有所反應，不要默許中共恐嚇台灣司法人員。",
+          "link": "https://www.cna.com.tw/news/acn/202604020315.aspx",
+          "publishedOn": "2026-04-02T11:28:12.000Z",
+          "wordCount": 806,
+          "title": "國台辦揚言懲治徐春鶯案檢察官  陸委會：恐嚇成常態",
+          "imageUrl": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20260402/1024x768_wmky_0_C20260402000168.jpg"
+        },
+        {
+          "id": "CNA/2026-04-02/202604020310",
+          "author": null,
+          "description": "（中央社台北2日電）香港壹傳媒集團創辦人黎智英被判20年並放棄上訴後，香港政府宣布，今天向法庭提交申請充公黎智英的罪行相關財產，宣稱此舉是為防範和制止危害國安行為與活動。2021年5月，港府凍結黎智英一批股票與公司銀行帳戶，金額不明。",
+          "link": "https://www.cna.com.tw/news/acn/202604020310.aspx",
+          "publishedOn": "2026-04-02T11:17:01.000Z",
+          "wordCount": 809,
+          "title": "黎智英被判20年　港府申請充公相關財產",
+          "imageUrl": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg"
+        },
+        {
+          "id": "CNA/2026-04-02/202604020305",
+          "author": null,
+          "description": "（中央社記者張謙香港2日電）根據世界貿易組織發表的「全球貿易展望與統計」報告，香港2025年成為全球第5大商品貿易經濟體，較前一年上升兩位；前4大商品貿易經濟體依次是中國大陸、美國、德國與荷蘭。",
+          "link": "https://www.cna.com.tw/news/acn/202604020305.aspx",
+          "publishedOn": "2026-04-02T11:07:50.000Z",
+          "wordCount": 795,
+          "title": "香港成為全球第5大商品貿易經濟體",
+          "imageUrl": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg"
+        },
+        {
+          "id": "CNA/2026-04-02/202604020303",
+          "author": null,
+          "description": "（中央社記者李雅雯上海2日電）Meta去年12月宣布將收購AI新創公司Manus，中國政府關切交易案。中國商務部發言人何亞東今天表示，政府支持企業根據需要展開跨國經營與技術合作，相關行為必須遵守法律法規。",
+          "link": "https://www.cna.com.tw/news/acn/202604020303.aspx",
+          "publishedOn": "2026-04-02T11:00:46.000Z",
+          "wordCount": 809,
+          "title": "Meta收購Manus　北京：必須遵守法律法規",
+          "imageUrl": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg"
+        },
+        {
+          "id": "CNA/2026-04-02/202604020299",
+          "author": null,
+          "description": "（中央社記者廖文綺台北2日電）澎湖籍漁船大進滿8號傳出失聯，疑似因非法售油給中國漁船遭大陸方面查扣。陸委會今日表示，已透過聯繫機制請對方說明事件始末及查扣原因，但陸方無回應。據陸委會掌握，目前相關人員接受偵訊中。",
+          "link": "https://www.cna.com.tw/news/acn/202604020299.aspx",
+          "publishedOn": "2026-04-02T10:53:37.000Z",
+          "wordCount": 806,
+          "title": "大進滿8號傳失聯  陸委會：已聯繫陸方但無回應",
+          "imageUrl": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20260402/1024x768_wmky_0_C20260402000161.jpg"
+        },
+        {
+          "id": "CNA/2026-04-02/202604020295",
+          "author": null,
+          "description": "（中央社記者廖文綺台北2日電）針對國民黨主席鄭麗文將赴中國大陸訪問，陸委會今日表示，北京「召見」鄭麗文的目的，是要將兩岸問題內政化，並阻撓美國對台軍售。期盼鄭麗文能大聲要求北京正視中華民國的存在，並立即停止軍機繞台。",
+          "link": "https://www.cna.com.tw/news/acn/202604020295.aspx",
+          "publishedOn": "2026-04-02T10:46:29.000Z",
           "wordCount": 800,
-          "title": "油價高漲  傳中國擬重啟美國石油與LNG進口",
+          "title": "陸委會：北京召見鄭麗文意在兩岸內政化、阻撓軍購",
+          "imageUrl": "https://i.ytimg.com/vi/x6WxBwmUhVs/hqdefault.jpg?t=2604031030"
+        },
+        {
+          "id": "CNA/2026-04-02/202604020240",
+          "author": null,
+          "description": "（中央社台北2日電）中國製行動電源去年頻傳起火爆炸，重創消費者信心。中國官方啟動整治，近日推出中國首部行動電源安全技術規範的強制性國家標準，明年4月1日實施，技術要求號稱「史上最嚴」。媒體預估，將有7成業者被淘汰，成本也將上升2至3成。",
+          "link": "https://www.cna.com.tw/news/acn/202604020240.aspx",
+          "publishedOn": "2026-04-02T09:03:30.000Z",
+          "wordCount": 809,
+          "title": "中國推出最嚴行動電源標準　成本恐漲3成",
+          "imageUrl": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20260402/2000x1339_wmkn_08585369974127_0.jpg"
+        },
+        {
+          "id": "CNA/2026-04-02/202604020219",
+          "author": null,
+          "description": "（中央社記者李雅雯上海2日電）中國交通運輸部推估，清明連假期間，全國高速公路日均總流量約6100萬輛，較去年同期成長3%左右。旅遊業者樂觀看待清明連假為消費市場帶來利多，親子家庭將為消費主力。",
+          "link": "https://www.cna.com.tw/news/acn/202604020219.aspx",
+          "publishedOn": "2026-04-02T08:17:45.000Z",
+          "wordCount": 800,
+          "title": "清明連假　中國高速公路日均車流量6100萬輛",
           "imageUrl": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg"
         },
         {
-          "id": "CNA/2026-04-01/202604010343",
+          "id": "CNA/2026-04-02/202604020217",
           "author": null,
-          "description": "（中央社台北1日電）中國國企大唐電力集團前總經理寇偉涉及受賄、貪污、濫用職權等案，內蒙古自治區興安盟中級人民法院今天一審判處寇偉死刑，緩期2年執行，並剝奪政治權利終身及沒收個人全部財產。法院調查，寇偉1996至2024年任職電力系統期間，共收受高達人民幣1.54億餘元（約新台幣7.15億元）的財物。",
-          "link": "https://www.cna.com.tw/news/acn/202604010343.aspx",
-          "publishedOn": "2026-04-01T11:25:48.000Z",
-          "wordCount": 792,
-          "title": "中國大唐電力集團前總經理寇偉受賄逾7億  被判死緩",
+          "description": "（中央社台北2日電）阿富汗和巴基斯坦據報正在中國舉行新一輪會談，以結束塔利班2021年在阿富汗重新掌權以來，兩國之間發生的最致命衝突。對此，中國外交部今天表示無可提供的具體消息。",
+          "link": "https://www.cna.com.tw/news/acn/202604020217.aspx",
+          "publishedOn": "2026-04-02T08:14:41.000Z",
+          "wordCount": 800,
+          "title": "阿富汗巴基斯坦傳在北京針對停火對話  中國未證實",
           "imageUrl": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg"
         },
         {
-          "id": "CNA/2026-04-01/202604010334",
+          "id": "CNA/2026-04-02/202604020209",
           "author": null,
-          "description": "（中央社台北1日電）中東戰火引發國際原油價格大漲，繼國際航線燃油附加費全面調漲後，中國多家航空公司今天宣布，4月5日起調漲中國國內航線燃油附加費，漲幅高達5倍。",
-          "link": "https://www.cna.com.tw/news/acn/202604010334.aspx",
-          "publishedOn": "2026-04-01T10:59:28.000Z",
-          "wordCount": 793,
-          "title": "中國多家航空公司國內燃油附加費調漲5倍",
+          "description": "（中央社台北2日電）中國經濟不佳的大背景下，官方持續加強對逃漏稅行為執法。今年除了重點追查明星網紅、醫美、黃金珠寶等領域，因應推動全國統一大市場，還將整治缺乏真實經營的違規「空殼企業」，後者顯示，企業以虛假開票為地方GDP灌水。",
+          "link": "https://www.cna.com.tw/news/acn/202604020209.aspx",
+          "publishedOn": "2026-04-02T08:01:24.000Z",
+          "wordCount": 805,
+          "title": "中國持續追查逃漏稅　鎖定網紅明星與企業虛假開票",
+          "imageUrl": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20260402/2000x1333_wmkn_9752104924998_0.jpg"
+        },
+        {
+          "id": "CNA/2026-04-02/202604020206",
+          "author": null,
+          "description": "（中央社台北2日電）中東戰火前景不明，中國外交部長王毅今天與巴林外長札亞尼（Abdullatif Al Zayani）通話時強調，聯合國安理會的行動應有助於止戰復談，而不能為非法戰爭行為背書。",
+          "link": "https://www.cna.com.tw/news/acn/202604020206.aspx",
+          "publishedOn": "2026-04-02T07:46:17.000Z",
+          "wordCount": 832,
+          "title": "北京：聯合國安理會不能為非法戰爭行為背書",
           "imageUrl": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg"
         },
         {
-          "id": "CNA/2026-04-01/202604010332",
+          "id": "CNA/2026-04-02/202604020161",
           "author": null,
-          "description": "（中央社記者廖文綺台北1日電）國民黨主席鄭麗文將訪問中國大陸，國台辦稱兩岸的事是「家裡事」，要由家裡人商量著辦。陸委會今天表示，中共的說法凸顯其利用鄭麗文訪中遂行其「反介入」與「兩岸內政化」的意圖。",
-          "link": "https://www.cna.com.tw/news/acn/202604010332.aspx",
-          "publishedOn": "2026-04-01T10:54:24.000Z",
-          "wordCount": 794,
-          "title": "國台辦稱鄭麗文訪中屬家事  陸委會：操作兩岸內政化",
+          "description": "（中央社台北2日電）上海交通大學近日推出的130週年校慶影片引發性別歧視的批評，原因是片中交大男學生被期待成為IT男，女學生則成為育兒的「寶媽」。校方隨後刪除影片並道歉。",
+          "link": "https://www.cna.com.tw/news/acn/202604020161.aspx",
+          "publishedOn": "2026-04-02T06:21:41.000Z",
+          "wordCount": 798,
+          "title": "女性只能是「寶媽」？上海交大校慶影片遭批性別歧視",
+          "imageUrl": "https://imgcdn.cna.com.tw/www/webphotos/WebOg/600/20260402/799x419_053631864997.jpg"
+        },
+        {
+          "id": "CNA/2026-04-02/202604020151",
+          "author": null,
+          "description": "（中央社台北2日電）中國人民銀行（央行）日前在會議中表示，目前地緣衝突和經貿衝突多發頻發，通膨走勢和貨幣政策調整存在不確定性，中國面臨供強需弱、外部衝擊等挑戰，強調要繼續實施適度寬鬆的貨幣政策，強化逆周期和跨周期調節力度。",
+          "link": "https://www.cna.com.tw/news/acn/202604020151.aspx",
+          "publishedOn": "2026-04-02T05:59:18.000Z",
+          "wordCount": 800,
+          "title": "中國央行：應對外部衝擊內需疲弱  強化逆周期措施",
           "imageUrl": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg"
         },
         {
-          "id": "CNA/2026-04-01/202604010331",
+          "id": "CNA/2026-04-02/202604020135",
           "author": null,
-          "description": "（中央社台北1日電）中國國家衛生健康委員會等部門今天發布文件，即日起展開為期3年的基層醫療衛生機構醫療品質改善行動，目標是健全「醫療品質管理制度」，並常態化展開「醫療品質管理工作」，在2028年底擴展到全國各村衛生室和各社區衛生服務站，全中國基本建立「基層醫療品質管理工作體系」。",
-          "link": "https://www.cna.com.tw/news/acn/202604010331.aspx",
-          "publishedOn": "2026-04-01T10:44:22.000Z",
-          "wordCount": 787,
-          "title": "中國衛健委：展開基層醫療機構品質改善3年行動",
+          "description": "（中央社記者呂佳蓉北京2日電）中國今年兩會期間設定的GDP成長率目標為4%至5%，引起外界關注。中國官媒經濟日報今天駁斥「經濟失速論」，稱這一目標未脫離實際強行「拔高」，也未保守「壓低」，而是與經濟內在規律保持一致。",
+          "link": "https://www.cna.com.tw/news/acn/202604020135.aspx",
+          "publishedOn": "2026-04-02T05:15:44.000Z",
+          "wordCount": 800,
+          "title": "中國下調經濟成長目標引關注  官媒駁經濟失速論",
           "imageUrl": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg"
         },
         {
-          "id": "CNA/2026-04-01/202604010302",
+          "id": "CNA/2026-04-02/202604020114",
           "author": null,
-          "description": "（中央社台北1日電）中國百度的無人駕駛計程車「蘿蔔快跑」昨晚在湖北武漢市突然全面停駛不動，許多乘客被困在高架道路上2小時飽受驚嚇，武漢多處路段也因此出現堵車。警方通報稱，初步判斷為系統故障所致。事件再度引發無人駕駛計程車的安全疑慮。",
-          "link": "https://www.cna.com.tw/news/acn/202604010302.aspx",
-          "publishedOn": "2026-04-01T09:52:20.000Z",
-          "wordCount": 796,
-          "title": "百度無人駕駛計程車系統癱瘓  多名乘客被困受驚",
+          "description": "（中央社台北2日電）新華社今天報導，中國山西一家煤業公司1日發生事故，導致4人死亡。",
+          "link": "https://www.cna.com.tw/news/acn/202604020114.aspx",
+          "publishedOn": "2026-04-02T04:28:59.000Z",
+          "wordCount": 800,
+          "title": "中國山西一煤業公司事故  4人罹難",
           "imageUrl": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg"
         },
         {
-          "id": "CNA/2026-04-01/202604010282",
+          "id": "CNA/2026-04-02/202604020097",
           "author": null,
-          "description": "（中央社記者呂佳蓉北京1日電）日本防衛省3月31日正式在熊本與靜岡部署長程飛彈。有中國學者分析指出，這代表日本國家安全戰略非常重大的變化，而中國也要保持足夠清醒。",
-          "link": "https://www.cna.com.tw/news/acn/202604010282.aspx",
-          "publishedOn": "2026-04-01T09:37:38.000Z",
-          "wordCount": 794,
-          "title": "日本部署長程飛彈  中國學者：屬安全戰略重大變化",
-          "imageUrl": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg"
-        },
-        {
-          "id": "CNA/2026-04-01/202604010281",
-          "author": null,
-          "description": "（中央社台北1日電）針對日本陸上自衛隊昨天正式宣布在熊本、靜岡二縣部署長程飛彈，中國外交部發言人毛寧今天說，中方對日方這一動向「嚴重關切」，敦促日方在軍事安全領域「恪守承諾，慎重行事」。她並聲稱，日方部署進攻性武器「遠遠超出自衛和專守防衛的範疇」。",
-          "link": "https://www.cna.com.tw/news/acn/202604010281.aspx",
-          "publishedOn": "2026-04-01T09:35:36.000Z",
-          "wordCount": 792,
-          "title": "日本正式部署長程飛彈  中國：嚴重關切",
-          "imageUrl": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg"
-        },
-        {
-          "id": "CNA/2026-04-01/202604010247",
-          "author": null,
-          "description": "（中央社台北1日電）華爾街日報報導，美國加州法院3月31日裁定，已故中共領導人毛澤東秘書李銳的日記可繼續保存在史丹佛大學，不會被送回中國，為這一曠日持久的日記爭奪戰畫上句號。外界先前擔心，李銳日記被送回中國後恐遭封禁。",
-          "link": "https://www.cna.com.tw/news/acn/202604010247.aspx",
-          "publishedOn": "2026-04-01T08:38:21.000Z",
+          "description": "（中央社台北2日電）中共黨刊日前發文警告，盲目追求擴大出口和貿易順差會對經濟發展帶來不容忽視的潛在風險，包括一定程度上擠壓內需相關產業的發展空間。分析稱，這篇文章進一步顯示北京正日益重視歐盟等貿易夥伴對中國巨額順差的關切。",
+          "link": "https://www.cna.com.tw/news/acn/202604020097.aspx",
+          "publishedOn": "2026-04-02T03:47:23.000Z",
           "wordCount": 802,
-          "title": "毛澤東前秘書李銳日記案  美法院裁定留存史丹佛大學",
+          "title": "黨刊籲減少貿易順差  分析：北京重視貿易夥伴關切",
           "imageUrl": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg"
         },
         {
-          "id": "CNA/2026-04-01/202604010226",
+          "id": "CNA/2026-04-02/202604020095",
           "author": null,
-          "description": "（中央社記者李雅雯上海1日電）太子集團創始人陳志今年1月在柬埔寨被捕後，遣送回中國。中國公安部今天宣布，又一名核心骨幹成員李雄被捕，從柬埔寨金邊押解回中國。",
-          "link": "https://www.cna.com.tw/news/acn/202604010226.aspx",
-          "publishedOn": "2026-04-01T08:00:37.000Z",
-          "wordCount": 794,
-          "title": "太子集團成員李雄　從柬埔寨被押解赴中",
+          "description": "（中央社記者張謙香港2日電）香港機場管理局公布，香港機場在「Global Travel Awards 2026」中脫穎而出，贏得「全球最佳機場」殊榮。",
+          "link": "https://www.cna.com.tw/news/acn/202604020095.aspx",
+          "publishedOn": "2026-04-02T03:44:18.000Z",
+          "wordCount": 809,
+          "title": "香港國際機場獲選全球最佳機場",
           "imageUrl": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg"
         },
         {
-          "id": "CNA/2026-04-01/202604010222",
+          "id": "CNA/2026-04-02/202604020078",
           "author": null,
-          "description": "（中央社記者呂佳蓉北京1日電）電影「陽光女子合唱團」近日進軍中國市場的宣傳文宣標註「中國台灣地區」惹議。中國大陸國台辦發言人張晗今天聲稱，業者標注「正常合理」，符合「一個中國」原則的表述，將維護台灣業者「正當合法權益」。",
-          "link": "https://www.cna.com.tw/news/acn/202604010222.aspx",
-          "publishedOn": "2026-04-01T07:56:28.000Z",
-          "wordCount": 796,
-          "title": "陽光女子合唱團被標註中國台灣  國台辦宣稱符合表述",
-          "imageUrl": "https://imgcdn.cna.com.tw/www/webphotos/WebCover/800/20260401/800x600_895950857201.jpg"
-        },
-        {
-          "id": "CNA/2026-04-01/202604010214",
-          "author": null,
-          "description": "（中央社記者張謙香港1日電）一項調查顯示，去年下半年，受訪港人對港府的滿意度下跌至37.9%；而對「一國兩制」的評分也微跌至6.11分。",
-          "link": "https://www.cna.com.tw/news/acn/202604010214.aspx",
-          "publishedOn": "2026-04-01T07:46:11.000Z",
-          "wordCount": 789,
-          "title": "智庫調查：港人對港府滿意度下跌至37.9%",
+          "description": "（中央社記者李雅雯上海2日電）中國豬價持續走低，創近8年新低。中國商務部今天表示，正與相關單位展開中央儲備凍豬肉收儲工作，將持續關注豬肉市場行情，做好儲備調控，保障市場平穩運作。",
+          "link": "https://www.cna.com.tw/news/acn/202604020078.aspx",
+          "publishedOn": "2026-04-02T03:30:43.000Z",
+          "wordCount": 802,
+          "title": "中國豬價創新低　官方啟動收儲調節供需",
           "imageUrl": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg"
         },
         {
-          "id": "CNA/2026-04-01/202604010151",
+          "id": "CNA/2026-04-02/202604020071",
           "author": null,
-          "description": "（中央社記者李雅雯上海1日電）南京博物院（南博）去年5月爆出館藏文物被盜賣事件，相關涉事20多人遭查處。中國國家文物局今天表示，要求國有博物館展開館藏文物盤點工作，必須做到逐件清點、全面核實。",
-          "link": "https://www.cna.com.tw/news/acn/202604010151.aspx",
-          "publishedOn": "2026-04-01T05:43:57.000Z",
-          "wordCount": 792,
-          "title": "南博文物盜賣事件後　中國官方要求各館清點館藏",
-          "imageUrl": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg"
-        },
-        {
-          "id": "CNA/2026-04-01/202604010137",
-          "author": null,
-          "description": "（中央社台北1日電）韓國政府從3月30日起放寬中國公民多次往返韓國簽證，曾經訪韓的中國公民可申領有效期為5年的多次往返簽證，希望吸引更多中國回頭客。",
-          "link": "https://www.cna.com.tw/news/acn/202604010137.aspx",
-          "publishedOn": "2026-04-01T05:19:28.000Z",
-          "wordCount": 798,
-          "title": "韓國放寬中國公民入境簽證  盼吸更多回頭客",
-          "imageUrl": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20260401/2000x1299_wmkn_4514105946147_0.jpg"
-        },
-        {
-          "id": "CNA/2026-04-01/202604010112",
-          "author": null,
-          "description": "（中央社記者李雅雯上海1日電）中國茶飲品牌霸王茶姬去年淨利大幅下滑。霸王茶姬創始人、董事長兼全球執行長張俊杰直言，去年茶飲市場競爭超乎預期，低估外賣平台大打價格戰對於實體門市的衝擊。",
-          "link": "https://www.cna.com.tw/news/acn/202604010112.aspx",
-          "publishedOn": "2026-04-01T04:11:32.000Z",
-          "wordCount": 800,
-          "title": "外賣大戰衝擊　中國茶飲霸王茶姬2025年淨利大降",
-          "imageUrl": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20260401/1024x768_wmky_0_C20260401000026.jpg"
-        },
-        {
-          "id": "CNA/2026-04-01/202604010110",
-          "author": null,
-          "description": "（中央社記者廖文綺台北1日電）中國航線燃油附加費將於5日上調，機票出現量價齊升現象，清明連假機票預訂量年增20%，票價也較去年漲超過10%。除了連假因素外，旅客提前囤票也是原因之一。",
-          "link": "https://www.cna.com.tw/news/acn/202604010110.aspx",
-          "publishedOn": "2026-04-01T04:10:28.000Z",
-          "wordCount": 794,
-          "title": "中國民航燃油費將漲又碰清明連假  機票量價齊升",
-          "imageUrl": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg"
-        },
-        {
-          "id": "CNA/2026-04-01/202604010107",
-          "author": null,
-          "description": "（中央社記者呂佳蓉北京1日電）澎湖籍漁船大進滿8號傳出失聯，疑似因非法售油給中國漁船遭大陸方面查扣。中國大陸國台辦今天僅表示，有關部門正在核實。",
-          "link": "https://www.cna.com.tw/news/acn/202604010107.aspx",
-          "publishedOn": "2026-04-01T04:04:21.000Z",
-          "wordCount": 798,
-          "title": "澎湖漁船大進滿8號傳失聯  國台辦：有關部門正核實",
-          "imageUrl": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20260328/1709x958_wmkn_452944326819_202603283006000000.jpg"
-        },
-        {
-          "id": "CNA/2026-04-01/202604010104",
-          "author": null,
-          "description": "（中央社記者呂佳蓉北京1日電）國民黨主席鄭麗文將到中國訪問。中國大陸國台辦發言人張晗表示，這是時隔10年再有國民黨主席訪問大陸，符合兩岸關係發展需要，國共兩黨加強交流對話，將對台海和平穩定，與推動兩岸關係和平發展產生「重要積極」影響。",
-          "link": "https://www.cna.com.tw/news/acn/202604010104.aspx",
-          "publishedOn": "2026-04-01T04:01:15.000Z",
-          "wordCount": 800,
-          "title": "鄭麗文率團訪中  國台辦：符合兩岸關係發展需要",
-          "imageUrl": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20260401/1024x768_wmky_0_C20260401000025.jpg"
-        },
-        {
-          "id": "CNA/2026-04-01/202604010094",
-          "author": null,
-          "description": "（中央社台北1日電）日中關係持續緊張之際，中共「解放軍報」刊文表示，截至2024年底，日本囤積約44.4噸核原料分離鈈，足夠製造約5500枚核彈頭，並指日本是全球唯一擁有完整核燃料循環系統的無核國家，能夠在短時間內發展核武。",
-          "link": "https://www.cna.com.tw/news/acn/202604010094.aspx",
-          "publishedOn": "2026-04-01T03:45:54.000Z",
-          "wordCount": 798,
-          "title": "解放軍報：日囤積44噸核原料  足夠製5500枚核彈頭",
-          "imageUrl": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg"
+          "description": "非典就業潮專題3（中央社記者李雅雯-呂佳蓉上海-北京2日電）中國2026政府工作報告將支持靈活就業、新就業型態人員參加職工保險，納為年度施政目標；目前實務狀況為保費基數太高、納保意願低落，政府如何落實這份支持是個難題。",
+          "link": "https://www.cna.com.tw/news/acn/202604020071.aspx",
+          "publishedOn": "2026-04-02T03:15:28.000Z",
+          "wordCount": 821,
+          "title": "中國靈活就業保障難題　社保好貴繳不起",
+          "imageUrl": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20260402/1024x768_wmky_0_C20260402000021.jpg"
         }
       ]
     },
@@ -590,404 +580,404 @@
       "siteUrl": "https://news.ltn.com.tw/list/breakingnews/world",
       "articles": [
         {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5390784",
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5391917",
           "author": null,
-          "description": "美國總統川普於美東時間1日晚間9點針對伊朗問題發表全國演說，川普在演說中提到，美國核心戰略目標已接近完成，美軍很快地就會完成在伊朗的任務，而戰爭即將結束，可能會再持續兩到三週。\r...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5390784",
-          "publishedOn": "2026-04-02T01:52:03.000Z",
-          "wordCount": 10503,
-          "title": "戰爭估2至3週內結束 川普要把伊朗打回「石器時代」",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/02/phpYBOzzZ.jpg"
+          "description": "路透報導，由德國雕塑家帝利（Jacques Tilly）創作的嘉年華花車近日引發關注，其描繪了俄羅斯總統普廷（Vladimir Putin）與俄羅斯東正教牧首基里爾（Patria...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5391917",
+          "publishedOn": "2026-04-03T02:20:51.000Z",
+          "wordCount": 10552,
+          "title": "德國雕塑家創作「普廷大戰東正教牧首」花車 遭俄法院重判8年6月",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/03/phpkoYZlD.png"
         },
         {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5390731",
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5392001",
           "author": null,
-          "description": "美國總統川普1日晚上9時（格林威治標準時間2日凌晨1時）發表全國演說，稱美國在伊朗戰爭中的目標即將完成，並稱讚美軍在衝突中取得壓倒性勝利。而伊朗在川普發表演說前表示，美國對該國...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5390731",
-          "publishedOn": "2026-04-02T01:42:09.000Z",
-          "wordCount": 10520,
-          "title": "自詡壓倒性勝利！川普演說誇讚美軍表現 伊朗仍拒絕談判",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/02/phpMvmK7e.jpg"
-        },
-        {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5390770",
-          "author": null,
-          "description": "美國總統川普於美東時間1日晚間9點針對伊朗問題發表全國演說，向美國民眾通報美國在對伊朗戰爭中為實現目標所取得的進展。川普在演說中批評前總統歐巴馬與伊朗談判達成的核子協議是個錯誤，...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5390770",
-          "publishedOn": "2026-04-02T01:41:47.000Z",
-          "wordCount": 10502,
-          "title": "川普提「午夜鐵鎚行動」摧毀核設施 稱歐巴馬政策助伊朗核武發展",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/02/phpZHOW48.jpg"
-        },
-        {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5390761",
-          "author": null,
-          "description": "首次上稿 09:12更新時間 09:35\r\n\r\n印尼周邊海域在當地時間今晨（2日）6點48分發生規模7.4強震，震源深度35公里，太平洋海嘯預警中心一度發布海嘯威脅資訊，預估印尼...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5390761",
-          "publishedOn": "2026-04-02T01:34:40.000Z",
-          "wordCount": 10508,
-          "title": "印尼7.4強震一度發布海嘯威脅警報 現已解除",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/02/phpCxk56M.jpg"
-        },
-        {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5390756",
-          "author": null,
-          "description": "美國總統川普於美東時間1日晚間9點（台灣時間2日上午9點）針對伊朗問題向全美發表演說，向美國民眾通報美國在對伊朗戰爭中為實現目標所取得的進展。川普提到，在「史詩怒火行動」行動中已...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5390756",
-          "publishedOn": "2026-04-02T01:27:36.000Z",
-          "wordCount": 10507,
-          "title": "川普全美演說：美國出兵非奪取資源 「史詩怒火」成功削弱伊朗",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/02/phpc0vUBe.jpg"
-        },
-        {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5390738",
-          "author": null,
-          "description": "美國總統川普（Donald Trump）1日在白宮出席復活節午餐活動時表示，實際上已被伊朗封鎖的荷姆茲海峽（Strait of Hormuz）應由歐洲和亞洲國家負責管理，並對尚未...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5390738",
-          "publishedOn": "2026-04-02T01:24:49.000Z",
+          "description": "伊朗封鎖荷姆茲海峽的舉動，令油價上漲和能源運輸遭受威脅。聯合國安理會今（3）日將對巴林提出的決議草案進行投票表決，該草案授權使用「防禦性」武力保護荷姆茲海峽的航運免受伊朗襲擊。...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5392001",
+          "publishedOn": "2026-04-03T02:10:59.000Z",
           "wordCount": 10504,
-          "title": "不滿南韓拒護航荷姆茲海峽！川普怒轟「美軍卻在核武旁駐紮」",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/02/phpqY7d6a.jpg"
+          "title": "關鍵時刻！聯合國將投票表決草案 擬授權防禦性護航荷姆茲海峽",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/03/phpqfVBE1.png"
         },
         {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5390716",
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5391962",
           "author": null,
-          "description": "法國總統馬克宏本週訪問日本，昨日他先與日本首相高市早苗會晤，兩人在聯合記者會上還逗趣擺出日本經典漫畫《七龍珠》招牌必殺技「龜派氣功」的手勢，引發外界討論。\r\n\r\n高市早苗1日在東...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5390716",
-          "publishedOn": "2026-04-02T01:20:10.000Z",
-          "wordCount": 10579,
-          "title": "馬克宏也愛《七龍珠》！ 會高市早苗較量「龜派氣功」",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/02/phpjUJHfi.jpg"
+          "description": "墨西哥當局表示，1架小型飛機2日在中部普埃布拉州 （Puebla）墜毀，造成4人死亡。\r\n\r\n根據《法新社》報導，該單引擎飛機2日中午12時左右起飛後不久便墜毀，地點位於普埃布...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5391962",
+          "publishedOn": "2026-04-03T01:34:38.000Z",
+          "wordCount": 10601,
+          "title": "影片曝光！ 墨西哥墜機事故4人死亡",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/03/phpNG4rbt.png"
         },
         {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5390684",
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5391927",
           "author": null,
-          "description": "美國與伊朗之間對於有無談判始終存在著不同看法，伊朗外交部長阿拉奇（Abbas Araghchi）1日接受《半島電視台》（Al Jazeera）專訪時提到，伊朗對於美國的信任度是「...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5390684",
-          "publishedOn": "2026-04-02T00:58:23.000Z",
-          "wordCount": 10513,
-          "title": "對美國「零信任」！伊朗外長嗆聲：美軍想打地面戰？我等你",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/02/phpWFtDEg.jpg"
+          "description": "美國國家航太總署（NASA）的「阿提米絲二號」（Artemis II）月球任務於台灣時間2日清晨在佛羅里達州甘迺迪太空中心啟航。4名太空人在地球軌道對搭乘的「獵戶座」（Orion...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5391927",
+          "publishedOn": "2026-04-03T00:46:27.000Z",
+          "wordCount": 10516,
+          "title": "NASA阿提米絲2號脫離地球軌道 4太空人正式奔向月球",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/03/phps0EKAn.jpg"
         },
         {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5390682",
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5391916",
           "author": null,
-          "description": "南太平洋庫克群島（Cook Islands）因富含戰略礦產，成為美中礦產競爭的焦點。紐西蘭2日宣布，已與庫克群島簽署一項防務與安全宣言，試圖在庫克群島先前與中國簽署全面戰略夥伴協...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5390682",
-          "publishedOn": "2026-04-02T00:54:36.000Z",
-          "wordCount": 10529,
-          "title": "抗衡中國布局 紐西蘭與庫克群島簽防務宣言修復關係",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/02/phpxdD8BF.jpg"
+          "description": "美國與伊朗交戰之際，五角大廈2日表示，國防部長赫格塞斯（Pete Hegseth）已要求美國陸軍最高階軍官、陸軍參謀長喬治上將（Gen.Randy George）離職，但並未說明...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5391916",
+          "publishedOn": "2026-04-02T23:55:30.000Z",
+          "wordCount": 10535,
+          "title": "中東戰事未歇先換將 美防長要求陸軍參謀長下台",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/03/phpQxml4z.jpg"
         },
         {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5390669",
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5391906",
           "author": null,
-          "description": "美國總統川普近日宣稱，由於盟友未能支持美國對伊朗的軍事行動，他正強烈考慮讓美國退出北大西洋公約組織。對此共和黨參院大老麥康奈與民主黨參議員昆斯發出聯合聲明表達不同意見，強調與盟邦...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5390669",
-          "publishedOn": "2026-04-01T23:47:24.000Z",
+          "description": "伊朗軍方證實，已鎖定阿拉伯聯合大公國、巴林及以色列，作為2日最新一波攻擊的目標，以回應美國和以色列空襲伊朗2座最大鋼鐵廠。同天，葉門叛軍亦宣稱朝以色列發射飛彈。\r\n\r\n法新社報導...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5391906",
+          "publishedOn": "2026-04-02T23:23:56.000Z",
+          "wordCount": 10522,
+          "title": "伊朗狂轟中東3國美以目標 亞馬遜資料中心遭殃",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/03/phpWDzgKM.jpg"
+        },
+        {
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5391904",
+          "author": null,
+          "description": "波斯灣國家2日在倫敦呼籲聯合國安理會（UN Security Council）授權使用武力，以保護荷姆茲海峽（Strait of Hormuz），遭中國、法國、俄羅斯等理事國強烈...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5391904",
+          "publishedOn": "2026-04-02T22:47:09.000Z",
           "wordCount": 10517,
-          "title": "川普揚言退出北約 共和黨大老與民主黨參議員跨黨派聯手反對",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/02/phpponMVK.jpg"
+          "title": "捍衛荷姆茲海峽！波灣國家籲聯合國授權動武 俄中法強烈反對",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/03/phpOQTBck.jpg"
         },
         {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5390559",
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5391884",
           "author": null,
-          "description": "首次上稿 4/1 22:13更新時間 4/2 07:44\r\n南韓媒體報導，首爾拍賣行（Seoul Auction）3月31日在首爾江南中心舉行的「當代藝術拍賣會」， 日本藝術家...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5390559",
-          "publishedOn": "2026-04-01T23:44:08.000Z",
-          "wordCount": 10572,
-          "title": "奈良美智《無可奈何》3.18億成交  創南韓藝術品拍賣紀錄",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/01/phpGZMh93.jpg"
+          "description": "菲律賓國家海事委員會（NMC）強烈譴責中國海上武裝力量在整個3月份期間，在南海爭議海域對菲律賓船隻、人員及當地漁民採取的一系列「具侵略性且危險」的行動，其中包括以射控雷達瞄準...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5391884",
+          "publishedOn": "2026-04-02T21:56:01.000Z",
+          "wordCount": 10528,
+          "title": "菲海事委員會強烈譴責中國 斥3月連串海上挑釁危及生命",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/03/5391884_1_1.jpg"
         },
         {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5390668",
+          "id": "https://news.ltn.com.tw/news/world/paper/1749395",
           "author": null,
-          "description": "印尼周邊海域在當地時間今日6點48分發生規模7.4強震，震源深度35公里。太平洋海嘯預警中心表示，印尼、菲律賓和馬來西亞沿海地區等距離震央1000公里的範圍內可能出現海嘯。\r\n\r...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5390668",
-          "publishedOn": "2026-04-01T23:40:38.000Z",
-          "wordCount": 10506,
-          "title": "印尼海域發生規模7.4強震 周邊地區恐出現海嘯",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/02/php7A1B9u.jpg"
+          "description": "〔編譯林家宇／綜合報導〕英國金融時報引述知情人士說法，為了迫使歐洲國家出手打通關鍵能源運輸航道荷姆茲海峽，美國總統川普以烏俄戰爭要脅，若不願加入「志願聯盟」重啟航道，可能退出由美國負責供應武器的「烏克蘭優先需求清單」（PURL）機制。\r\n川普上月要求派出北大西洋公約組織（NATO）協助美方重啟荷姆茲…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1749395",
+          "publishedOn": "2026-04-02T21:30:00.000Z",
+          "wordCount": 10489,
+          "title": "逼歐洲加入護航 川普擬停止烏國軍援",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/03/88.jpg"
         },
         {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5390650",
+          "id": "https://news.ltn.com.tw/news/world/paper/1749350",
           "author": null,
-          "description": "中東戰火導致荷姆茲海峽（Strait of Hormuz）的交通秩序大亂，法國海軍參謀長沃竹（Nicolas Vaujour）1日公開表示，中國遲早將更直接地參與討論，原因是目前...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5390650",
-          "publishedOn": "2026-04-01T23:22:08.000Z",
-          "wordCount": 10507,
-          "title": "荷姆茲海峽通航受阻！法國海軍參謀長：中國遲早須參與討論",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/02/phpLADyRb.jpg"
+          "description": "◎ 張沛元\r\n\r\nThe White House said Tuesday that President Donald Trump is “discussing a range of options” to acquire Greenland, making clear that using the…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1749350",
+          "publishedOn": "2026-04-02T21:30:00.000Z",
+          "wordCount": 10820,
+          "title": "中英對照讀新聞》White House discussing ‘options’ to acquire Greenland",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/03/43.jpg"
         },
         {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5390644",
+          "id": "https://news.ltn.com.tw/news/world/paper/1749342",
           "author": null,
-          "description": "首次上稿 04-02 06:18更新時間 04-02 06:58\r\n美國國家航空暨太空總署（NASA）週一（30日）啟動「阿提米絲二號」（Artemis II）任務的倒數...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5390644",
-          "publishedOn": "2026-04-01T22:58:03.000Z",
-          "wordCount": 10621,
-          "title": "隔53年再奔月！NASA阿提米絲2號載人繞月 06:36升空",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/02/phpsd4LCj.jpg"
+          "description": "〔國際新聞中心／綜合報導〕日本首相高市早苗一日在東京與來訪的法國總統馬克宏（Emmanuel Macron）舉行領袖會談。雙方會後發布聯合聲明，強調台灣海峽和平穩定的重要性，敦促透過建設性對話，和平解決兩岸問題。雙方也針對中東局勢、強化重要礦物供應鏈及雙邊國防合作，達成多項共識。\r\n\r\n這是日法兩國…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1749342",
+          "publishedOn": "2026-04-02T21:30:00.000Z",
+          "wordCount": 10508,
+          "title": "日法峰會首度聲明：台海須和平穩定 敦促透過建設性對話 和平解決兩岸問題",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/03/41.jpg"
         },
         {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5390647",
+          "id": "https://news.ltn.com.tw/news/world/paper/1749396",
           "author": null,
-          "description": "中東戰火尚未平息，伊朗總統裴澤斯基安（Masoud Pezeshkian）1日在一份「致美國民眾的公開信」中強調，伊朗對普通美國人並無敵意，美國與伊朗的戰爭並不符合美國利益。\r\n...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5390647",
-          "publishedOn": "2026-04-01T22:54:54.000Z",
-          "wordCount": 10506,
-          "title": "伊朗總統公開信向美人民溫情喊話！質疑川普不以美國為優先",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/02/phpWF5YNh.jpg"
-        },
-        {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5390615",
-          "author": null,
-          "description": "首次上稿 04-02 00:18更新時間 04-02 06:20\r\n美國總統川普週三（4/1）宣稱，伊朗的「新總統」請求停火，但只有荷姆茲海峽重新開放，美國才會考慮停止對伊朗的行...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5390615",
-          "publishedOn": "2026-04-01T22:20:39.000Z",
-          "wordCount": 10520,
-          "title": "川普稱伊朗「新總統」請求停火  革命衛隊強硬回嗆荒謬",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/01/php2dPaQU.png"
-        },
-        {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5390630",
-          "author": null,
-          "description": "如果美國總統川普在未達成協議的情況下結束對伊朗的戰爭，恐怕會讓德黑蘭牢牢掌控中東能源供應，並使波斯灣阿拉伯油氣生產國，必須去應對一場並非由他們發起或主導的衝突所帶來的餘波。\r...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5390630",
-          "publishedOn": "2026-04-01T22:04:53.000Z",
-          "wordCount": 10523,
-          "title": "川普擬無協議結束對伊戰爭！專家憂伊朗恐趁勢坐大 威脅全球能源供應",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/02/5390630_1_1.jpg"
-        },
-        {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5390633",
-          "author": null,
-          "description": "3名美國官員向美國新聞網站Axios透露，美國與伊朗正商討一項潛在協議，內容包括以停火換取伊朗重新開放荷姆茲海峽（Strait of Hormuz）。\r\n\r\n據報導，這些官員...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5390633",
-          "publishedOn": "2026-04-01T22:00:04.000Z",
-          "wordCount": 10525,
-          "title": "美媒：美伊正商討停火 換取荷姆茲海峽重啟",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/02/5390633_1_1.jpg"
-        },
-        {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5390639",
-          "author": null,
-          "description": "根據英國「經濟學人」（The Economist）與民調業者「輿觀」（YouGov）最新調查，傳統共和黨人對總統川普及其伊朗戰爭的支持率正急劇消蝕。\n\n民調發現，目前反對這場戰爭的美國人數量...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5390639",
-          "publishedOn": "2026-04-01T21:54:03.000Z",
-          "wordCount": 10498,
-          "title": "伊朗戰爭支持率狂瀉48百分點！傳統共和黨人轉向反戰",
-          "imageUrl": "https://news.ltn.com.tw/assets/images/all/250_ltn.png"
-        },
-        {
-          "id": "https://news.ltn.com.tw/news/world/paper/1749239",
-          "author": null,
-          "description": "截至4/1\r\n\r\n◎英國首相施凱爾宣布，本週將主辦約35國參與的會議，討論如何重新開放荷姆茲海峽。\r\n\r\n◎伊朗最高領袖穆吉塔巴‧哈米尼透過國家電視台宣布，將繼續支持中東地區的反以色列勢力。\r\n\r\n◎葉門叛軍「青年運動」聲稱，與伊朗、黎巴嫩真主黨共同對以色列發動飛彈攻擊，這是青年運動自加入中東戰局以…",
-          "link": "https://news.ltn.com.tw/news/world/paper/1749239",
-          "publishedOn": "2026-04-01T21:30:00.000Z",
-          "wordCount": 10495,
+          "description": "截至4/2\r\n\r\n\r\n\r\n◎美國總統川普揚言將對伊朗發動進一步打擊，市場對中東情勢降溫的期望落空，國際油價應聲大漲，來到每桶110美元關卡。\r\n\r\n\r\n\r\n◎英國外交大臣古柏在倫敦召集多國視訊會議，與來自40多個國家的外交官共同討論重新開放荷姆茲海峽的方案，美國並未參加。\r\n\r\n\r\n\r\n◎法國總統馬…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1749396",
+          "publishedOn": "2026-04-02T21:30:00.000Z",
+          "wordCount": 10484,
           "title": "史詩怒火行動日誌",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/02/52.jpg"
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/03/89.jpg"
         },
         {
-          "id": "https://news.ltn.com.tw/news/world/paper/1749238",
+          "id": "https://news.ltn.com.tw/news/world/paper/1749397",
           "author": null,
-          "description": "知情美國官員透露，隨著對伊朗的軍事行動持續，美國第3支航空母艦打擊群正開往中東。繼「林肯號」和「福特號」後，「尼米茲級」核動力航艦「布希號」3月31日離開維吉尼亞州諾福克，前往中東地區部署，接替因發生火災而被迫退出戰鬥的福特號。布希號打擊群包括3艘「勃克級」驅逐艦，搭載的第7艦載機聯隊包括9個飛行中…",
-          "link": "https://news.ltn.com.tw/news/world/paper/1749238",
-          "publishedOn": "2026-04-01T21:30:00.000Z",
-          "wordCount": 10494,
-          "title": "美部署第3支航艦打擊群 布希號接替福特號",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/02/51.jpg"
+          "description": "〔編譯林家宇／綜合報導〕美國國家航太總署（NASA）的「阿提米絲二號」（Artemis II）月球任務，一日在佛羅里達州甘迺迪太空中心啟航。卅二層樓高的「太空發射系統」（SLS）火箭伴隨轟天巨響，載著四名太空人展開為期十天的探月之旅。這是五十三年來人類首次再度載人飛往月球軌道。\r\n執行阿提米絲二號任…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1749397",
+          "publishedOn": "2026-04-02T21:30:00.000Z",
+          "wordCount": 10492,
+          "title": "時隔53年 NASA再啟人類探月之旅",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/03/90.jpg"
         },
         {
-          "id": "https://news.ltn.com.tw/news/world/paper/1749237",
+          "id": "https://news.ltn.com.tw/news/world/paper/1749394",
           "author": null,
-          "description": "〔編譯張沛元／綜合報導〕華爾街日報一日獨家披露，阿拉伯官員表示，阿拉伯聯合大公國（阿聯）正準備協助美國與其他盟國以武力打通目前被伊朗封鎖的重要石油航道荷姆茲海峽，阿聯也將因此成為第一個在這場中東衝突中被伊朗攻擊後加入戰鬥的波斯灣國家。在此同時，阿聯三大航空公司宣布，禁止伊朗公民入境阿聯或經阿聯轉機。…",
-          "link": "https://news.ltn.com.tw/news/world/paper/1749237",
-          "publishedOn": "2026-04-01T21:30:00.000Z",
-          "wordCount": 10507,
-          "title": "打通荷姆茲海峽 阿聯「參戰」硬起來",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/02/50.jpg"
-        },
-        {
-          "id": "https://news.ltn.com.tw/news/world/paper/1749234",
-          "author": null,
-          "description": "〔編譯林家宇、管淑平／綜合報導〕美國總統川普針對伊朗戰事接連釋出前後不一的訊息。他三月卅一日在白宮向媒體表示，無論是否與伊朗達成協議，美軍最快兩到三週內就會離開中東，結束對德黑蘭的戰事。至於攸關全球能源供應穩定的荷姆茲海峽航行安全，川普認為仰賴該航道取得能源的國家應自行解決。\r\n發文指伊朗「新總統」…",
-          "link": "https://news.ltn.com.tw/news/world/paper/1749234",
-          "publishedOn": "2026-04-01T21:30:00.000Z",
-          "wordCount": 10515,
-          "title": "川普預告 最快2週內結束戰爭",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/02/47.jpg"
-        },
-        {
-          "id": "https://news.ltn.com.tw/news/world/paper/1749235",
-          "author": null,
-          "description": "〔國際新聞中心／綜合報導〕英國「每日電訊報」（Daily Telegraph）一日報導，美國總統川普表示，由於盟友未能支持美國對伊朗的軍事行動，他正強烈考慮讓美國退出北大西洋公約組織。\r\n\r\n北約盟國拒絕派遣軍艦，協助重新開放由伊朗控制的重要油氣海上通道荷姆茲海峽，也拒絕讓美國使用軍事基地發動對伊朗…",
-          "link": "https://news.ltn.com.tw/news/world/paper/1749235",
-          "publishedOn": "2026-04-01T21:30:00.000Z",
-          "wordCount": 10510,
-          "title": "盟友袖手 川普強烈考慮退出北約",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/02/48.jpg"
-        },
-        {
-          "id": "https://news.ltn.com.tw/news/world/paper/1749236",
-          "author": null,
-          "description": "〔編譯管淑平／綜合報導〕伊朗總統裴澤斯基安三月卅一日表示，伊朗有「必要的意願」來結束與美國和以色列的戰爭，但德黑蘭尋求保證，不會再起戰端；另一方面，掌握權勢的伊朗伊斯蘭革命衛隊警告，若再有針對伊朗領導階層的「斬首」行動，會報復攻擊Google、Meta、蘋果等美國科技巨頭公司。\r\n裴澤斯基安在革命衛…",
-          "link": "https://news.ltn.com.tw/news/world/paper/1749236",
-          "publishedOn": "2026-04-01T21:30:00.000Z",
+          "description": "〔國際新聞中心／綜合報導〕美國情報公司揭露，伊朗正利用一個由空殼公司組成的秘密網絡，透過中國和俄羅斯的中間商取得「見證者」（Shahed）無人機零件，「有系統地」利用全球供應鏈來規避國際制裁，重建其自殺式無人機部隊。\r\n英國「每日電訊報」二日報導，美國邁進科技（STI）一份新報告揭露，一家伊朗公司扮…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1749394",
+          "publishedOn": "2026-04-02T21:30:00.000Z",
           "wordCount": 10503,
-          "title": "才嗆攻擊科技巨擘 伊朗放話有條件停火",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/02/49.jpg"
+          "title": "秘密網絡走私零件 伊朗重建自殺無人機隊",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/03/87.jpg"
         },
         {
-          "id": "https://news.ltn.com.tw/news/world/paper/1749298",
+          "id": "https://news.ltn.com.tw/news/world/paper/1749392",
           "author": null,
-          "description": "◎孫宇青\r\n\r\nWith science increasingly coming under attack, using humour as a way to get people interested in scientific research is more important than ev…",
-          "link": "https://news.ltn.com.tw/news/world/paper/1749298",
-          "publishedOn": "2026-04-01T21:30:00.000Z",
-          "wordCount": 10859,
-          "title": "中英對照讀新聞》Laughing about science more important than ever: Ig Nobel founder 搞笑諾貝爾獎創始人：用幽默的方式談論科學比以往任何時候都更重要",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/02/107.jpg"
+          "description": "戰後首度發表19分鐘全國演說 \r\n〔編譯張沛元／綜合報導〕美國總統川普一日在電視黃金時段發表中東衝突爆發一個多月以來的首場全國演說，宣布美軍將「結束工作」與估計伊朗戰爭將在三週內結束，但並未提供明確解套方式。此外，川普呼籲美國民眾正確看待這場戰爭、看似放棄發動突擊取得伊朗濃縮鈾，並聲稱打通荷姆茲海峽…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1749392",
+          "publishedOn": "2026-04-02T21:30:00.000Z",
+          "wordCount": 10527,
+          "title": "打趴伊朗 川普：3週內「結束」",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/03/82.jpg"
         },
         {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5390636",
+          "id": "https://news.ltn.com.tw/news/world/paper/1749393",
           "author": null,
-          "description": "伊朗國營新聞電視台（Press TV）今天報導，伊朗總統裴澤斯基安在致美國民眾的公開信中表示，伊朗對普通美國人並無敵意，美伊戰爭不符合美國利益。\n\n路透社及美國有線電視新聞網（CNN）報導，...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5390636",
-          "publishedOn": "2026-04-01T20:30:05.000Z",
-          "wordCount": 10490,
-          "title": "伊朗總統致信美國民眾　溫情攻勢質疑川普師出無名",
-          "imageUrl": "https://news.ltn.com.tw/assets/images/all/250_ltn.png"
-        },
-        {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5390635",
-          "author": null,
-          "description": "美國官員今天表示，一名美國男子涉嫌在社群媒體臉書（Facebook）發布一系列貼文，威脅要殺害總統川普（Donald Trump），目前已遭到逮捕。\n\n法新社報導，這名男子名為艾默羅德（An...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5390635",
-          "publishedOn": "2026-04-01T19:45:04.000Z",
-          "wordCount": 10493,
-          "title": "美國男子臉書威脅殺害川普被捕　最重可吃40年牢飯",
-          "imageUrl": "https://news.ltn.com.tw/assets/images/all/250_ltn.png"
-        },
-        {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5390631",
-          "author": null,
-          "description": "美國新聞網站Axios報導，3名美國官員表示，美國與伊朗正討論一項潛在協議，包括以停火換取伊朗重啟荷莫茲海峽（Strait of Hormuz）。\n\n根據Axios報導，這些官員未透露相關討...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5390631",
-          "publishedOn": "2026-04-01T18:45:04.000Z",
-          "wordCount": 10493,
-          "title": "美媒：美伊正討論協議　以停火換取重啟荷莫茲海峽",
-          "imageUrl": "https://news.ltn.com.tw/assets/images/all/250_ltn.png"
-        },
-        {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5390628",
-          "author": null,
-          "description": "法國總統馬克宏今天造訪東京進行國是訪問期間，與日本首相高市早苗在記者會上輕鬆互動，兩人轉身面對彼此，雙手合攏擺出「龜派氣功」姿勢，這段畫面隨即在網路瘋傳。\n\n法新社、印度媒體「寰宇一家」（W...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5390628",
-          "publishedOn": "2026-04-01T17:36:03.000Z",
-          "wordCount": 10494,
-          "title": "馬克宏會見高市早苗　互擺「龜派氣功」姿勢網路瘋傳",
-          "imageUrl": "https://news.ltn.com.tw/assets/images/all/250_ltn.png"
-        },
-        {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5390627",
-          "author": null,
-          "description": "聽取相關情況簡報的人士告訴路透社，美國副總統范斯（JD Vance）直到3月31日還在就伊朗衝突與中間人討論，顯見他在外交斡旋推動停火的進程中，扮演愈發關鍵的角色。\n\n消息人士今天對路透社表...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5390627",
-          "publishedOn": "2026-04-01T17:30:03.000Z",
-          "wordCount": 10496,
-          "title": "范斯代川普下通牒：對伊朗失耐心 滿足美要求才停火",
-          "imageUrl": "https://news.ltn.com.tw/assets/images/all/250_ltn.png"
-        },
-        {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5390624",
-          "author": null,
-          "description": "美國總統川普1日參加關於出生公民權的最高法院聽證會，使他成為首位在聯邦最高法院出席言詞辯論的現任總統。\r\n\r\n綜合《美聯社》與《法新社》報導，大法官藉此聽取川普對下級法院裁決...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5390624",
-          "publishedOn": "2026-04-01T17:05:01.000Z",
-          "wordCount": 10529,
-          "title": "史無前例！川普親赴最高法院 出席限制出生公民權辯論",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/02/5390624_1.jpg"
-        },
-        {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5390621",
-          "author": null,
-          "description": "美國最高法院今天就出生公民權案進行言詞辯論，總統川普親自前往旁聽，成為出席最高院辯論首位在任總統。他認為重返白宮首日簽署的該行政命令對其強硬移民政策至關重要。\n\n路透社報導，示威民眾早已在國...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5390621",
-          "publishedOn": "2026-04-01T16:18:03.000Z",
+          "description": "〔編譯張沛元／綜合報導〕英國金融時報二日報導，為降低對不時被德黑蘭挾持的荷姆茲海峽的依賴，波斯灣地區國家官員與業界高層認為，重拾新蓋一條涵蓋鐵公路與航道的輸油網的老方案，可能是唯一解方。然此舉並非萬無一失，除工程耗時所費不貲，還牽扯沿途各國能否合作的政治複雜性。\r\n\r\n\r\n上世紀東西輸油管 可避開伊…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1749393",
+          "publishedOn": "2026-04-02T21:30:00.000Z",
           "wordCount": 10506,
-          "title": "川普出席最高法院言詞辯論　開在任總統歷史先例",
+          "title": "荷姆茲海峽開通難期 波灣國家再提新輸油管道",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/03/86.jpg"
+        },
+        {
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5391892",
+          "author": null,
+          "description": "美國總統川普今天下令對特定藥品徵收新關稅，並全面改革金屬關稅，在他對幾乎所有貿易夥伴發動貿易戰一年後，再次加倍推行他的貿易政策。\n\n他簽署的最新兩項命令，對製藥公司施加壓力，要求他們將更多生...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5391892",
+          "publishedOn": "2026-04-02T21:00:05.000Z",
+          "wordCount": 10493,
+          "title": "川普祭新藥品關稅、重整金屬稅　強推製造業回流美國",
           "imageUrl": "https://news.ltn.com.tw/assets/images/all/250_ltn.png"
         },
         {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5390616",
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5391887",
           "author": null,
-          "description": "正在日本進行國是訪問的法國總統馬克宏今天誇讚歐洲的「可預測性」，對比那些「甚至不會事先通知就可能傷害你」的國家。他顯然是在批評美國總統川普。\r\n\r\n法新社報導，馬克宏（Emmanuel Ma...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5390616",
-          "publishedOn": "2026-04-01T15:59:58.000Z",
-          "wordCount": 10517,
-          "title": "馬克宏訪日本！不滿美以對伊朗開戰前 未通知法國",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/01/phpprFew8.jpg"
+          "description": "在英國主導下，約40個國家開會討論荷莫茲海峽（Strait of Hormuz）危機，會議於今天結束，與會者要求「立即且無條件」重新開放這條關鍵航道，但並未取得突破。\n\n法新社報導，英國外交...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5391887",
+          "publishedOn": "2026-04-02T19:45:05.000Z",
+          "wordCount": 10503,
+          "title": "英召集約40國談荷莫茲危機　要求立即無條件重開海峽",
+          "imageUrl": "https://news.ltn.com.tw/assets/images/all/250_ltn.png"
         },
         {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5390531",
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5391881",
           "author": null,
-          "description": "中國瀋陽藥科大學藥學專家張宇所領導的研究團隊，近日在國際頂尖期刊《科學進展》（Science Advances）發表一項突破性研究，豬的精液可與標靶藥物一起製成眼藥水，精準治療眼...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5390531",
-          "publishedOn": "2026-04-01T15:28:56.000Z",
-          "wordCount": 10507,
-          "title": "豬精液竟能治眼癌？中國專家研究登國際期刊 突破眼底給藥瓶頸",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/01/phpvoqQBu.png"
+          "description": "美國總統川普2日宣布，將司法部長邦迪（Pam Bondi）免職，使她成為近期第二位下台的高層政府官員。在對國土安全部部長諾姆（Kristi Noem）的機構管理及移民議程的處...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5391881",
+          "publishedOn": "2026-04-02T19:11:00.000Z",
+          "wordCount": 10535,
+          "title": "You are fired! 美國司法部長邦迪遭拔官 現任副部長接手",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/03/5391881_1_1.jpg"
         },
         {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5390587",
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5391885",
           "author": null,
-          "description": "歐盟執委會今天宣布，預計動用被凍結俄羅斯資產所衍生的14億歐元（約新台幣520億元）利息收益用於援助烏克蘭，維持國家運作、維護必要的公共服務及支持烏克蘭武裝部隊。\r\n\r\n俄羅斯入侵烏克蘭後，...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5390587",
-          "publishedOn": "2026-04-01T15:24:52.000Z",
-          "wordCount": 10599,
-          "title": "歐盟援助烏克蘭 動用俄凍結資產利息520億元",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/01/phpcgqL6l.jpg"
+          "description": "美國白宮官員今天表示，總統川普已解除司法部長邦迪的職務。據悉川普對她的表現日益不滿，包括處理已故性犯罪富豪艾普斯坦相關調查文件的方式，以及未加快起訴川普鎖定的政敵。\n\n路透社報導，據稱川普也...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5391885",
+          "publishedOn": "2026-04-02T18:45:03.000Z",
+          "wordCount": 10499,
+          "title": "不滿艾普斯坦案處置方式　川普撤換美司法部長邦迪",
+          "imageUrl": "https://news.ltn.com.tw/assets/images/all/250_ltn.png"
         },
         {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5390605",
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5391875",
           "author": null,
-          "description": "美國紐約時報1日報導，美國軍方正爭取擴大在格陵蘭的駐地，顯示川普總統對這座島嶼的興趣並未消退。美國北方司令部司令吉洛特上將透露，美方正在與丹麥協商，希望取得格陵蘭3座額外基地...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5390605",
-          "publishedOn": "2026-04-01T15:15:24.000Z",
-          "wordCount": 10505,
-          "title": "擴大格陵蘭軍事部署 美五角大廈爭取新增3基地",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/01/5390605_1_1.jpg"
+          "description": "中國先前被控在針對巴拿馬運河戰略控制權的爭議中，在自家港口扣押懸掛巴拿馬國旗的船舶，美國今天對巴拿馬表達支持。美國國務卿盧比歐表示，中方扣押船舶損害巴拿馬法治。\n\n盧比歐（Marco Rub...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5391875",
+          "publishedOn": "2026-04-02T17:12:03.000Z",
+          "wordCount": 10484,
+          "title": "美支持巴拿馬抗中扣押船舶　盧比歐批北京損害法治",
+          "imageUrl": "https://news.ltn.com.tw/assets/images/all/250_ltn.png"
         },
         {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5390551",
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5391862",
           "author": null,
-          "description": "訪台美國聯邦參議員匡希恆（John Curtis）昨日（3/31）針對我國國防預算案僵局表示，台灣應深刻記取香港被中共扼殺民主的教訓，切勿再對中共抱持「天真的幻想」。他強調，香港...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5390551",
-          "publishedOn": "2026-04-01T15:09:27.000Z",
+          "description": "中東戰火升溫，作為全球原油運輸要道的荷姆茲海峽陷入實質封鎖狀態，國際高度焦慮。2日最新消息指出，英國政府緊急號召約莫40個國家舉行線上會議，商討如何採取聯合行動讓這條關鍵水道重新...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5391862",
+          "publishedOn": "2026-04-02T16:45:21.000Z",
           "wordCount": 10514,
-          "title": "談軍購 美參議員匡希恆：看看香港「台灣人別再天真了」",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/01/phpu9jUUJ.jpg"
+          "title": "40國緊急磋商重開荷姆茲 伊朗保證掛「這1國旗」的船安全通過",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/02/php0miY4H.png"
         },
         {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5390199",
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5391852",
           "author": null,
-          "description": "專門販售動畫、漫畫與遊戲相關商品的日本安利美特（Animate）在今（1日）日本時間0點時，發布一則「將推出一款全新乙女遊戲」的開玩笑貼文，該乙遊題材因出現「BL發展」引起眾多乙...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5390199",
-          "publishedOn": "2026-04-01T14:57:47.000Z",
-          "wordCount": 10559,
-          "title": "愚人節玩笑開大了！ 日本安利美特推新乙女遊戲混入BL引眾怒",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/01/phpzFA1oM.jpg"
+          "description": "阿根廷外交部今（2日）宣布伊朗臨時代辦德黑蘭尼（Mohsen Tehrani）為「不受歡迎人物」（persona non grata），要求他在48小時內離境。此舉是阿根廷政府針...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5391852",
+          "publishedOn": "2026-04-02T15:32:14.000Z",
+          "wordCount": 10515,
+          "title": "革命衛隊列恐怖組織衝突延燒 阿根廷驅逐伊朗臨時代辦",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/02/phpWMY7mz.jpg"
         },
         {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5390550",
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5391749",
           "author": null,
-          "description": "中國新聞週刊今天爆料，河北邯鄲市某中學的喬姓黨委書記涉嫌性侵15歲高一女學生，被家長發現後還試圖以人民幣20萬元私了遭拒，前天被檢方批准逮捕。消息傳出引發中國社群關注與公憤後，這篇報導被下架...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5390550",
-          "publishedOn": "2026-04-01T14:26:33.000Z",
-          "wordCount": 10506,
-          "title": "中國官媒爆料中學黨委書記性侵學生被捕  報導被下架",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/01/php7blw9q.png"
+          "description": "美國國家航空暨太空總署（NASA）的「阿提米絲2號」（Artemis II）載人飛往月球軌道任務，美東時間1日晚間升空後數小時就出狀況，雖非頭號大問題，卻是最與太空人息息相關的...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5391749",
+          "publishedOn": "2026-04-02T15:28:53.000Z",
+          "wordCount": 10513,
+          "title": "阿提米絲2號奔月「創舉」出狀況…太空人緊急修理馬桶",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/02/5391749_1_1.jpg"
+        },
+        {
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5391841",
+          "author": null,
+          "description": "伊朗政府官員2日表示，美國和以色列的攻擊，擊中該國其中一所首屈一指的醫藥健康研究機構，並稱這是對「國際健康安全的直接攻擊」。\r\n\r\n《美國有線電視新聞網》（CNN）2日報導，伊...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5391841",
+          "publishedOn": "2026-04-02T14:55:02.000Z",
+          "wordCount": 10520,
+          "title": "伊朗百年醫學機構被擊中 批美以「直接攻擊國際健康安全」",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/02/5391841_1_1.jpg"
+        },
+        {
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5391836",
+          "author": null,
+          "description": "美國總統川普因伊朗戰爭與荷姆茲海峽問題，與北大西洋公約組織（NATO）鬧僵。英國首相施凱爾強調，工黨政府全心投入北約運作，讚揚其為「全世界所見識到的單一最具效力軍事同盟」。為了...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5391836",
+          "publishedOn": "2026-04-02T14:45:20.000Z",
+          "wordCount": 10508,
+          "title": "川普與歐洲盟友鬧僵 英相施凱爾喊話：北約效力世界之最",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/02/5391836_1_1.jpg"
+        },
+        {
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5391833",
+          "author": null,
+          "description": "英國《金融時報》引述知情人士說法，為了迫使歐洲國家出手打通關鍵能源運輸航道荷姆茲海峽，美國總統川普以烏俄戰爭要脅，若不願加入「志願聯盟」重啟航道，可能退出由美國負責供應武器的「...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5391833",
+          "publishedOn": "2026-04-02T14:35:36.000Z",
+          "wordCount": 10509,
+          "title": "要求歐洲護航荷姆茲海峽 川普威脅停止軍援烏克蘭",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/02/5391833_1_1.jpg"
+        },
+        {
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5391829",
+          "author": null,
+          "description": "伊朗戰爭中，德黑蘭大幅限制荷姆茲海峽航運，國際油價飆漲，衝擊多國燃料、民生物價。菲律賓政府2日說，經兩國外交部長通電話會商，伊朗承諾讓懸掛菲律賓旗的油輪和菲國海員安全通過荷姆茲...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5391829",
+          "publishedOn": "2026-04-02T14:27:37.000Z",
+          "wordCount": 10614,
+          "title": "掛菲律賓旗船舶安了！ 伊朗承諾可通過荷姆茲海峽",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/02/5391829_1_1.jpg"
+        },
+        {
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5391815",
+          "author": null,
+          "description": "伊朗兩大鋼鐵巨頭分別指出，在美國和以色列數波攻擊下，鋼鐵廠已經被迫停擺。\r\n\r\n米珊線上（Mizan Online）網站今天引述胡齊斯坦鋼鐵公司（Khuzestan Steel Compan...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5391815",
+          "publishedOn": "2026-04-02T14:15:02.000Z",
+          "wordCount": 10531,
+          "title": "美、以連環攻擊 伊朗兩大鋼鐵廠停擺",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/02/phpoWxXzh.jpg"
+        },
+        {
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5391807",
+          "author": null,
+          "description": "去年初在荷蘭德倫特博物館（Drents Museum）失竊的羅馬尼亞國寶黃金頭盔，遭竊1年已經失而復得，荷蘭檢方2日在警力戒備下，公開展示尋回、具2500年歷史的「科托法尼斯蒂...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5391807",
+          "publishedOn": "2026-04-02T13:50:49.000Z",
+          "wordCount": 10555,
+          "title": "失而復得！馬尼亞國寶「黃金頭盔」借展遭竊   荷蘭警尋回公開展示",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/02/5391807_1_1.jpg"
+        },
+        {
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5391804",
+          "author": null,
+          "description": "英國《衛報》2日獨家報導指出，根據華府兩名聽取相關討論簡報的人士透露，美國總統川普近幾週私下詢問內閣官員，是否應該撤換國家情報首長加巴德。目前尚不清楚川普是否真的會開除他，但...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5391804",
+          "publishedOn": "2026-04-02T13:47:24.000Z",
+          "wordCount": 10507,
+          "title": "川普私下詢問拔掉她 國家情報首長恐職位不保",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/02/5391804_1_1.jpg"
+        },
+        {
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5391780",
+          "author": null,
+          "description": "法國總統馬克宏2日表示，以軍事行動使荷姆茲海峽重新開放「不切實際」，並對川普在這場戰爭的聲明表達失望。\r\n\r\n《衛報》、《法新社》2日報導，正在南韓訪問的馬克宏說，「有一些人主...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5391780",
+          "publishedOn": "2026-04-02T13:07:15.000Z",
+          "wordCount": 10494,
+          "title": "武力重開荷姆茲不切實際  馬克宏批川普對戰爭「每日1說法」",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/02/5391780_1_1.jpg"
+        },
+        {
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5391748",
+          "author": null,
+          "description": "伊朗國會議長卡利巴夫（Mohammad Bagher Qalibaf）今（2）日宣稱，已有700萬名伊朗人民響應政府號召，準備挺身而出抵禦外敵，他也嗆聲美國「放馬過來」。\r\n\r\n...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5391748",
+          "publishedOn": "2026-04-02T12:53:32.000Z",
+          "wordCount": 10545,
+          "title": "嗆美國放馬過來 伊朗議長：700萬大軍準備好了！",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/02/phpEfVqwb.jpg"
+        },
+        {
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5391676",
+          "author": null,
+          "description": "日本埼玉縣行田市近日爆出一起震驚社會的棄嬰案，一名年僅15歲的國中少女，將自己所生的男嬰埋在自家院子中。案件於3月中旬曝光後，不僅引發社會譁然，也再次引發對未成年懷孕的討論。\r\n...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5391676",
+          "publishedOn": "2026-04-02T12:35:30.000Z",
+          "wordCount": 10503,
+          "title": "日本15歲少女產子埋屍院子家人全不知 曝未成年孤立分娩困境",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/02/phpY48jQH.png"
+        },
+        {
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5391732",
+          "author": null,
+          "description": "法國總統馬克宏（Emmanuel Macron）今（2日）指出，透過軍事行動來迫使伊朗重新開放荷莫茲海峽，是「不切實際」的舉動，合理的做法應該是與伊朗展開談判。\r\n\r\n《美聯社》...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5391732",
+          "publishedOn": "2026-04-02T12:14:37.000Z",
+          "wordCount": 10504,
+          "title": "武力逼迫伊朗開放荷莫茲海峽  馬克宏批：不切實際",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/02/phpmwpC4O.jpg"
+        },
+        {
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5391721",
+          "author": null,
+          "description": "根據美國《有線電視新聞網》（CNN）、《紐約時報》等多家媒體1日報導，多名知情人士透露，由於對美司法部長邦迪（Pamela Bondi ）的領導表現及處理已故淫魔富豪艾普斯坦（...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5391721",
+          "publishedOn": "2026-04-02T11:57:09.000Z",
+          "wordCount": 10529,
+          "title": "不滿淫魔艾普斯坦案處理方式  川普考慮開除司法部長邦迪",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/02/5391721_1_1.jpg"
+        },
+        {
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5391599",
+          "author": null,
+          "description": "日本警察廳今（2日）公布統計2025年赴日外國人（不含永住者等）涉及犯罪的查緝件數高達2萬5480件（較去年增16.9%），涉及人數為1萬2777人（增5.0%），兩項數據皆為連...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5391599",
+          "publishedOn": "2026-04-02T11:45:48.000Z",
+          "wordCount": 10504,
+          "title": "外國人赴日犯罪連3年增長！竊盜案最大宗、「這國」排第1",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/02/phpCK6Lm3.jpg"
+        },
+        {
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5391606",
+          "author": null,
+          "description": "俄羅斯國防部於週四（2日）表示，俄國戰略飛彈部隊已在西伯利亞地區舉行軍事演習，出動可攜帶核彈頭的「亞爾斯」（Yars）洲際彈道飛彈。此次演習被視為向北約（NATO）發出明確的核威...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5391606",
+          "publishedOn": "2026-04-02T11:34:10.000Z",
+          "wordCount": 10500,
+          "title": "向北約核威懾！俄軍西伯利亞演習   出動「亞爾斯」洲際彈道飛彈",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/02/phpOxeXv4.jpg"
+        },
+        {
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5391631",
+          "author": null,
+          "description": "日本首相高市早苗昨（1日）在東京會晤到訪的法國總統馬克宏（Emmanuel Macron），雙方會後發表共同聲明，重申台海和平穩定的重要性，並呼籲透過對話和平解決兩岸僵局。\r\n\r...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5391631",
+          "publishedOn": "2026-04-02T11:08:30.000Z",
+          "wordCount": 10509,
+          "title": "不甩中國跳腳！高市早苗與馬克宏聯合聲明 台海局勢納關切重點",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/02/php8G3nk0.png"
+        },
+        {
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5391613",
+          "author": null,
+          "description": "香港南華早報2日報導，隨著中東衝突升溫，中國網路空間出現「民間志願軍」現象：一批具備科學、技術、工程與數學（STEM）背景的使用者，透過社群平台自發分享軍事分析與技術知識，試...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5391613",
+          "publishedOn": "2026-04-02T10:36:48.000Z",
+          "wordCount": 10502,
+          "title": "跨境指導？中國「民間志願軍」影片詳解 5天後伊朗稱擊中美F-35",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/02/5391613_1_1.jpg"
         }
       ]
     },
@@ -996,6 +986,66 @@
       "feedUrl": "https://cn.nytimes.com/rss/zh-hant/",
       "siteUrl": "https://cn.nytimes.com",
       "articles": [
+        {
+          "id": "https://cn.nytimes.com/usa/20260403/trump-speech-iran-war-whats-next/zh-hant/",
+          "author": "DAVID E. SANGER",
+          "description": "就結束衝突而進行的談判基本未獲進展，川普擬定的戰爭目標似乎難以實現。他試圖安撫民眾，讓人們相信戰爭代價只是暫時的，但市場的反應是深深的懷疑。\n\n                    \nDoug Mills/The New York Times",
+          "link": "https://cn.nytimes.com/usa/20260403/trump-speech-iran-war-whats-next/zh-hant/?utm_source=RSS",
+          "publishedOn": "2026-04-03T02:21:14.000Z",
+          "wordCount": 235,
+          "title": "川普是如何將自己置於伊朗困局無法脫身的",
+          "imageUrl": "https://static01.nyt.com/images/2026/04/02/multimedia/02dc-prexy-top-tlgw/02dc-prexy-top-tlgw-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/business/20260403/trump-iran-china-choke-points/zh-hant/",
+          "author": "ANA SWANSON",
+          "description": "從關稅到對伊開戰，川普在全球舞台上咄咄逼人，但一些國家已經開始利用對戰略要害環節的控制權反擊。中國限制稀土出口、伊朗封鎖霍爾木茲海峽都有效威脅了美國經濟。\n\n                    \nTierney L. Cross/The New York Times\n                    \n川普總統聲稱，他的強硬國際政策只有好處，沒有壞處。",
+          "link": "https://cn.nytimes.com/business/20260403/trump-iran-china-choke-points/zh-hant/?utm_source=RSS",
+          "publishedOn": "2026-04-03T02:10:27.000Z",
+          "wordCount": 236,
+          "title": "中國和伊朗找到反擊川普的有效方式",
+          "imageUrl": "https://static01.nyt.com/images/2026/04/02/multimedia/02dc-trade-chokepoints-01-jkmc/02dc-trade-chokepoints-01-jkmc-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/world/20260403/chinas-aiming-for-the-moon-and-nasa-is-looking-over-its-shoulder/zh-hant/",
+          "author": "SELAM GEBREKIDAN,JOY DONG",
+          "description": "NASA的阿爾忒彌斯2號任務本週啟航，北京也在大力推進自己的太空計劃。中國正以一種獨特而強大的專注力推進著自己的登月願景，其探月工程擁有多項獨特優勢。\n\n                    \nTingshu Wang/Reuters\n                    \n中國「嫦娥六號」月球探測器的模型。",
+          "link": "https://cn.nytimes.com/world/20260403/chinas-aiming-for-the-moon-and-nasa-is-looking-over-its-shoulder/zh-hant/?utm_source=RSS",
+          "publishedOn": "2026-04-03T00:18:41.000Z",
+          "wordCount": 225,
+          "title": "中美開啟新一輪太空競賽：誰能搶佔登月先機？",
+          "imageUrl": "https://static01.nyt.com/images/2026/04/03/multimedia/03int-theworld-china-moon-wvmz/03int-theworld-china-moon-wvmz-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/usa/20260402/heres-the-latest/zh-hant/",
+          "author": "ZOLAN KANNO-YOUNGS",
+          "description": "川普在全國講話中並未發表任何實質性內容，未給出清晰的戰爭退出路徑。他繼續發表矛盾的言論，一邊釋放外交和解的信號，一邊又發出升級打擊的威脅。\n\n                    \nDoug Mills/The New York Times\n                    \n川普在白宮發表全國講話。",
+          "link": "https://cn.nytimes.com/usa/20260402/heres-the-latest/zh-hant/?utm_source=RSS",
+          "publishedOn": "2026-04-02T04:56:30.000Z",
+          "wordCount": 226,
+          "title": "川普稱對伊朗戰爭「即將結束」，未給出明確時間表",
+          "imageUrl": "https://static01.nyt.com/images/2026/04/01/multimedia/01dc-trump-transcript-hfpb/01dc-trump-transcript-hfpb-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/usa/20260402/trump-iran-war/zh-hant/",
+          "author": "黃安偉,JULIAN E. BARNES",
+          "description": "評估指出，德黑蘭認為伊朗在這場戰爭中處於有利地位，無需接受美國的外交要求。評估還認為，儘管伊朗願意保持溝通管道暢通，但並不信任美國，認為川普缺乏誠意。\n\n                    \nArash Khamooshi for The New York Times\n                    \n美國多個情報機構評估認為，伊朗政府目前不願就結束戰爭進行認真談判。",
+          "link": "https://cn.nytimes.com/usa/20260402/trump-iran-war/zh-hant/?utm_source=RSS",
+          "publishedOn": "2026-04-02T04:51:39.000Z",
+          "wordCount": 241,
+          "title": "美情報機構評估稱伊朗目前無意進行實質性談判",
+          "imageUrl": "https://static01.nyt.com/images/2026/04/01/multimedia/01dc-iran-intel-01-tcgp/01dc-intel-01-tcgp-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/usa/20260402/wong-kim-ark-birthright-citizenship/zh-hant/",
+          "author": "AMY QIN",
+          "description": "黃金德促成了1898年的最高法院裁決，這項裁決賦予幾乎所有在美國本土出生的人自動獲得美國公民身份。但直到15年前，他的直系後代甚至都不知道他的名字。\n\n                    \nMinh Connors for The New York Times\n                    \n桑德拉·黃和諾曼·黃是黃金德的孫輩，黃金德在1898年最高法院案件中的勝訴，確立了幾乎所有在美國出生的兒童均自動獲得公民身份的原則。",
+          "link": "https://cn.nytimes.com/usa/20260402/wong-kim-ark-birthright-citizenship/zh-hant/?utm_source=RSS",
+          "publishedOn": "2026-04-02T03:21:33.000Z",
+          "wordCount": 236,
+          "title": "他為所有人贏得了出生公民權，他的後代卻一度不知其人",
+          "imageUrl": "https://static01.nyt.com/images/2026/04/01/multimedia/01nat-scotus-wongkimark-mkv/01scotus-wongkomark-family-mkgv-articleLarge.jpg"
+        },
         {
           "id": "https://cn.nytimes.com/science/20260402/moon-nasa-artemis-launch/zh-hant/",
           "author": "KENNETH CHANG",
@@ -1029,7 +1079,7 @@
         {
           "id": "https://cn.nytimes.com/usa/20260402/trump-says-us-will-be-out-of-iran-within-two-to-three-weeks/zh-hant/",
           "author": "TYLER PAGER,黃安偉",
-          "description": "白宮宣布川普將於週三晚間就這場戰爭發表全國講話。川普與其幕僚近期多次表示，他認為已有足夠理由宣稱已實現主要目標，並希望讓美國從這場衝突中抽身。\n\n                    \nTierney L. Cross/The New York Times\n                    \n川普總統週二對記者表示，他已實現了處理伊朗核計劃的目標，並且美國的汽油價格將會下降。",
+          "description": "川普與其幕僚近期多次表示，他認為已有足夠理由宣稱已實現主要目標，並希望讓美國從這場衝突中抽身。但即便釋放了局勢降級的信號，川普仍未排除軍事升級的可能性。\n\n                    \nTierney L. Cross/The New York Times\n                    \n川普總統週二對記者表示，他已實現了處理伊朗核計劃的目標，並且美國的汽油價格將會下降。",
           "link": "https://cn.nytimes.com/usa/20260402/trump-says-us-will-be-out-of-iran-within-two-to-three-weeks/zh-hant/?utm_source=RSS",
           "publishedOn": "2026-04-02T00:22:23.000Z",
           "wordCount": 232,
@@ -1127,16 +1177,6 @@
           "imageUrl": "https://static01.nyt.com/images/2026/03/30/multimedia/30dc-intel-01-mhtc/30dc-intel-01-mhtc-articleLarge.jpg"
         },
         {
-          "id": "https://cn.nytimes.com/china/20260331/china-xi-taiwan-cheng/zh-hant/",
-          "author": "儲百亮,AMY CHANG CHIEN",
-          "description": "鄭麗文將應邀前往江蘇、上海和北京訪問。習近平此舉旨在抵消美國影響力並影響對台軍售計劃，他還希望表明北京願與一些接受其條件的台灣政治人物對話。\n\n                    \nLam Yik Fei for The New York Times\n                    \n國民黨主席鄭麗文，去年11月攝於其台北辦公室。",
-          "link": "https://cn.nytimes.com/china/20260331/china-xi-taiwan-cheng/zh-hant/?utm_source=RSS",
-          "publishedOn": "2026-03-31T01:48:06.000Z",
-          "wordCount": 244,
-          "title": "「習川會」前，習近平邀請國民黨主席鄭麗文來訪",
-          "imageUrl": "https://static01.nyt.com/images/2026/03/30/multimedia/30int-china-taiwan-01-kfwm/30int-china-taiwan-01-kfwm-articleLarge.jpg"
-        },
-        {
           "id": "https://cn.nytimes.com/business/20260331/helium-chips-iran-war/zh-hant/",
           "author": "MEAGHAN TOBIN,XINYUN WU",
           "description": "伊朗上週襲擊了卡達最大的液化天然氣設施，導致氦氣生產線受損，切斷了全球約三分之一的供應量。一旦失去氦氣，全球頭部晶片製造商將難以維持生產線運轉。\n\n                    \nLam Yik Fei for The New York Times\n                    \n液空公司向半導體行業供應氦氣及其他氣體。",
@@ -1145,56 +1185,6 @@
           "wordCount": 262,
           "title": "伊朗戰爭導致全球氦氣供應短缺，威脅晶片行業",
           "imageUrl": "https://static01.nyt.com/images/2026/03/25/multimedia/Biz-Chips-Helium-01-vfgz/Biz-Chips-Helium-01-vfgz-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/world/20260330/castro-family-cuba-energy-crisis-trump/zh-hant/",
-          "author": "SIMON ROMERO,DAVID C. ADAMS",
-          "description": "在美國石油封鎖導致古巴經濟瀕臨崩潰、人道主義危機持續惡化之際，卡斯楚家族成員紛紛從幕後走向台前。這表明卡斯楚王朝從未真正退出權力舞台，只是進行了演變。\n\n                    \nMauricio Lima for The New York Times",
-          "link": "https://cn.nytimes.com/world/20260330/castro-family-cuba-energy-crisis-trump/zh-hant/?utm_source=RSS",
-          "publishedOn": "2026-03-30T02:51:47.000Z",
-          "wordCount": 263,
-          "title": "古巴困局之下，卡斯楚家族重回權力核心",
-          "imageUrl": "https://static01.nyt.com/images/2026/03/28/multimedia/28int-cuba-castros-hjpw/28int-cuba-castros-hjpw-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/obits/20260330/henry-lee-dead/zh-hant/",
-          "author": "JERÉ LONGMAN",
-          "description": "李昌鈺是著名刑事鑒識專家，曾為多宗轟動一時的案件出庭作證。《紐約時報》曾稱他「或許是世界上最受尊敬的鑒識犯罪學家」，但在職業生涯後期，他的聲譽也曾受到質疑。\n\n                    \nJessica Hill/Associated Press\n                    \n2011年，李昌鈺在康乃狄克州紐黑文大學——他在那裡任教逾50年。儘管他參與過眾多備受關注的案件，但最引人矚目的，莫過於1995年的辛普森案。",
-          "link": "https://cn.nytimes.com/obits/20260330/henry-lee-dead/zh-hant/?utm_source=RSS",
-          "publishedOn": "2026-03-30T02:15:45.000Z",
-          "wordCount": 227,
-          "title": "「華人神探」李昌鈺去世：把刑偵技藝轉向一門科學",
-          "imageUrl": "https://static01.nyt.com/images/2026/03/28/multimedia/00lee-henry1/00lee-henry1-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/usa/20260330/trump-fbi-patel-eric-swalwell/zh-hant/",
-          "author": "黃安偉,DEVLIN BARRETT",
-          "description": "這名議員是川普的知名批評者埃里克·斯沃韋爾，目前正競選加州州長。FBI十多年前曾對一名華裔女子展開調查，她曾協助斯沃韋爾籌款；調查結束後未提出任何指控。\n\n                    \nTierney L. Cross/The New York Times\n                    \n加利福尼亞州眾議員埃里克·斯沃韋爾表示，他正遭到川普政府的針對。斯沃韋爾是眾議院中對川普總統批評最尖銳的人士之一。",
-          "link": "https://cn.nytimes.com/usa/20260330/trump-fbi-patel-eric-swalwell/zh-hant/?utm_source=RSS",
-          "publishedOn": "2026-03-29T19:43:36.000Z",
-          "wordCount": 236,
-          "title": "消息稱FBI調取民主黨議員舊調查文件，涉疑似中國間諜",
-          "imageUrl": "https://static01.nyt.com/images/2025/11/14/multimedia/28dc-fbi-swalwell/28dc-fbi-swalwell-videoLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/world/20260330/cuba-russian-oil-tanlker/zh-hant/",
-          "author": "JACK NICAS,ERIC SCHMITT",
-          "description": "這艘油輪預計於週一晚間抵港。川普政府對古巴實施了長達數月的實質性石油封鎖，這艘油輪將為古巴輸送關鍵的能源補給。這也可能改變美古兩國間的緊張局勢走向。\n\n                    \nAdalberto Roque/Agence France-Presse — Getty Images\n                    \n本月哈瓦那發生停電時的情景。",
-          "link": "https://cn.nytimes.com/world/20260330/cuba-russian-oil-tanlker/zh-hant/?utm_source=RSS",
-          "publishedOn": "2026-03-29T17:40:12.000Z",
-          "wordCount": 235,
-          "title": "美國放行俄羅斯油輪，古巴獲得能源「救命稻草」",
-          "imageUrl": "https://static01.nyt.com/images/2026/03/29/multimedia/29-int-cuba-russia-tanker-wztq/29-int-cuba-russia-tanker-wztq-articleLarge-v3.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/usa/20260330/no-kings-rallies-takeaways/zh-hant/",
-          "author": "TIM BALK",
-          "description": "伊朗戰爭激發了許多年輕選民的參與熱情，但對川普移民打壓政策的反對也仍是焦點。參加期中選舉的民主黨候選人紛紛走上街頭，與選民一起表達對川普政府的不滿。\n\n                    \nLoren Elliott for The New York Times\n                    \n週六，博伊西的愛達荷州議會大廈前的示威者。全美各地舉行了數千場規模不等的抗議集會。",
-          "link": "https://cn.nytimes.com/usa/20260330/no-kings-rallies-takeaways/zh-hant/?utm_source=RSS",
-          "publishedOn": "2026-03-29T17:16:06.000Z",
-          "wordCount": 251,
-          "title": "「不要國王」抗議再度席捲全美，你應該知道的五個關鍵問題",
-          "imageUrl": "https://static01.nyt.com/images/2026/03/29/multimedia/29NAT-PROTEST-INSIDE-PRINT-01-wqpk/29NAT-PROTEST-INSIDE-PRINT-01-wqpk-articleLarge.jpg"
         }
       ]
     }

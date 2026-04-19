@@ -21,7 +21,7 @@
           "description": "雅加達官員證實，美國在與印尼簽署防務協議後已提出希望獲得全面的軍事飛越許可。這條位於東南亞、至關重要的航運航道再度受到全球關注。",
           "link": "https://www.bbc.com/zhongwen/articles/c0mj27g8v2vo/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-04-17T08:50:39.000Z",
-          "wordCount": 1508,
+          "wordCount": 1509,
           "title": "馬六甲海峽：為何全球貿易的另一個「咽喉要道」正引發擔憂",
           "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_zhongwen/7198/live/75659290-3994-11f1-afdb-63f82099d974.jpg"
         },
@@ -31,7 +31,7 @@
           "description": "四名機組人員在一週前濺落返航後，首次舉行記者會，並強調希望與團結。",
           "link": "https://www.bbc.com/zhongwen/articles/c0le2yjryg5o/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-04-17T07:13:50.000Z",
-          "wordCount": 1552,
+          "wordCount": 1553,
           "title": "阿提米絲二號宇航員： 「出發時我們是朋友，回來時成了最好的朋友」",
           "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_zhongwen/a5c8/live/87baadb0-39dd-11f1-8606-05fe34b06e1b.png"
         },
@@ -61,7 +61,7 @@
           "description": "在特朗普關稅與南海主權爭議持續的背景下，越南國家主席蘇林在北京會晤中國國家主席習近平，並先後乘高鐵到訪雄安新區與南寧。",
           "link": "https://www.bbc.com/zhongwen/articles/cx231dzr384o/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-04-17T01:33:45.000Z",
-          "wordCount": 2030,
+          "wordCount": 2031,
           "title": "從兩乘高鐵到共產情誼   盤點越南領導人蘇林訪華四大看點",
           "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_zhongwen/c4bb/live/383e5630-39d6-11f1-8606-05fe34b06e1b.jpg"
         },
@@ -111,7 +111,7 @@
           "description": "官方數據顯示，中國一季度GDP同比增長5%，高於經濟學家原先預測的4.8%左右，但3月出口增速大幅放緩。",
           "link": "https://www.bbc.com/zhongwen/articles/c33l24grv6ro/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-04-16T05:15:35.000Z",
-          "wordCount": 1440,
+          "wordCount": 1441,
           "title": "伊朗戰爭陰影下中國一季度經濟增速超預期",
           "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_zhongwen/84c0/live/a8a89cf0-3706-11f1-b35c-83d779cf62f0.jpg"
         },
@@ -373,12 +373,132 @@
       "siteUrl": "https://www.cna.com.tw/list/acn.aspx",
       "articles": [
         {
+          "id": "CNA/2026-04-19/202604190031",
+          "author": null,
+          "description": "（中央社台北19日電）中國湖北省紀委監委網站昨天公布，武漢大學中南醫院前院長王行環被「雙開」（開除黨籍和公職），指他結交政治騙子、在醫療領域搞「新型隱性腐敗」等。王行環曾在COVID-19疫情期間擔任武漢方艙醫院雷神山醫院院長。",
+          "link": "https://www.cna.com.tw/news/acn/202604190031.aspx",
+          "publishedOn": "2026-04-19T02:28:09.000Z",
+          "wordCount": 789,
+          "title": "武漢抗疫醫院院長王行環  被指醫療新型隱性腐敗",
+          "imageUrl": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg"
+        },
+        {
+          "id": "CNA/2026-04-19/202604190027",
+          "author": null,
+          "description": "（中央社台北19日電）專家分析，日本首相高市早苗去年11月發表「台灣有事」言論以來，中日關係陷入惡性循環，雙方當前任何舉動都可能被對方過度解讀，但兩國擦槍走火的可能性極低。",
+          "link": "https://www.cna.com.tw/news/acn/202604190027.aspx",
+          "publishedOn": "2026-04-19T02:00:00.000Z",
+          "wordCount": 803,
+          "title": "分析：中日關係陷入惡性循環  但擦槍走火機會低",
+          "imageUrl": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20260116/1024x682_wmkn_099458187272_0.jpg"
+        },
+        {
+          "id": "CNA/2026-04-18/202604180180",
+          "author": null,
+          "description": "（中央社台北18日電）中國國家市場監督管理總局昨天公布對7家電商平台「幽靈外賣」系列案的行政處罰決定；其中，拼多多以人民幣15.22億元的罰沒金額高居榜首，被課以最重罰度。行政處罰決定書提到，拼多多在調查過程中，採用暴力、軟對抗等手段，阻礙監管執法。",
+          "link": "https://www.cna.com.tw/news/acn/202604180180.aspx",
+          "publishedOn": "2026-04-18T10:28:16.000Z",
+          "wordCount": 791,
+          "title": "拼多多涉暴力對抗監管　幽靈外賣案被罰最多",
+          "imageUrl": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg"
+        },
+        {
+          "id": "CNA/2026-04-18/202604180172",
+          "author": null,
+          "description": "（中央社記者廖文綺台北18日電）日前多家外媒披露數以千計中國漁船屢在東海集結並排成特定陣形，疑為武力犯台演練的一環，中國官媒環球網17日駁斥此為惡意炒作。",
+          "link": "https://www.cna.com.tw/news/acn/202604180172.aspx",
+          "publishedOn": "2026-04-18T09:58:58.000Z",
+          "wordCount": 791,
+          "title": "外媒揭中國漁船東海陣列式聚集  中國官媒稱惡意炒作",
+          "imageUrl": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg"
+        },
+        {
+          "id": "CNA/2026-04-18/202604180149",
+          "author": null,
+          "description": "（中央社澎湖縣18日電）澎湖籍漁船大進滿8號被查扣在中國福建近1個月，澎湖地區兩岸交流協會理事長陳雙全今天表示，陸方回應案件仍在偵辦中，目前尚無進一步進展，仍待陸方相關單位決定。",
+          "link": "https://www.cna.com.tw/news/acn/202604180149.aspx",
+          "publishedOn": "2026-04-18T09:17:10.000Z",
+          "wordCount": 794,
+          "title": "澎湖漁船遭中國扣押近1月　陳雙全：尚無進展",
+          "imageUrl": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20260418/1709x958_wmkn_12692754490_202603283006000000.jpg"
+        },
+        {
+          "id": "CNA/2026-04-18/202604180145",
+          "author": null,
+          "description": "（中央社台北18日電）日本自衛隊「雷」號護衛艦昨天通過台灣海峽引發中國不滿提出強烈抗議後，共軍東部戰區通報，今天在東海相關海空域，組織海空兵力展開聯合戰備巡航，宣稱這是年度計畫內的正常安排。",
+          "link": "https://www.cna.com.tw/news/acn/202604180145.aspx",
+          "publishedOn": "2026-04-18T09:04:01.000Z",
+          "wordCount": 796,
+          "title": "日本自衛隊艦艇通過台海後　共軍宣布在東海軍演",
+          "imageUrl": "https://imgcdn.cna.com.tw/www/webphotos/WebOg/600/20260418/2000x1049_175011737704.jpg"
+        },
+        {
+          "id": "CNA/2026-04-18/202604180127",
+          "author": null,
+          "description": "（中央社記者李雅雯上海18日電）中國「獻血法」與相關規定賦予捐血者在醫療情境中優先用血，證明曾經捐血的「獻血證」成為仲介轉賣牟利工具，炒作達人民幣2000元（約新台幣9200元），無償捐血成為黑色產業鏈。",
+          "link": "https://www.cna.com.tw/news/acn/202604180127.aspx",
+          "publishedOn": "2026-04-18T08:13:20.000Z",
+          "wordCount": 793,
+          "title": "中國捐血黑色產業鏈　仲介炒作「獻血證」牟利",
+          "imageUrl": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20260418/1200x800_wmky_45679210739_202502130118000000.jpg"
+        },
+        {
+          "id": "CNA/2026-04-18/202604180115",
+          "author": null,
+          "description": "（中央社記者廖文綺台北18日電）中國官方打擊「幽靈外賣」，對拼多多、美團、京東、淘寶閃購、抖音、淘寶、天貓等7家電商平台開出共計新台幣168億元的天價罰單，對此，7家平台皆回應「誠懇接受，堅決服從」。",
+          "link": "https://www.cna.com.tw/news/acn/202604180115.aspx",
+          "publishedOn": "2026-04-18T07:24:54.000Z",
+          "wordCount": 789,
+          "title": "中國重罰「幽靈外賣」電商  7平台回應：誠懇接受",
+          "imageUrl": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg"
+        },
+        {
+          "id": "CNA/2026-04-18/202604180090",
+          "author": null,
+          "description": "（中央社記者李雅雯上海18日電）台企聯第7屆換屆選舉委員會第一次會議推選廈門台協會長韓螢煥、鄭州台協會長王尚卿分別為第7屆會長、監事長候選人，將提交會員大會表決，過往會員大會召開時間多落在5月。",
+          "link": "https://www.cna.com.tw/news/acn/202604180090.aspx",
+          "publishedOn": "2026-04-18T05:28:00.000Z",
+          "wordCount": 791,
+          "title": "台企聯會長換屆改選　廈門台協韓螢煥出線",
+          "imageUrl": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg"
+        },
+        {
+          "id": "CNA/2026-04-18/202604180085",
+          "author": null,
+          "description": "（中央社台北18日電）香港泛民主派初選案其中一名罪成者醫生郭家麒，日前被香港醫務委員會從醫生名冊中無限期除名，即廢止其執業執照，不能再在港執業。郭家麒在臉書發文表示，這是意料中事，「我仍然會以幫助有需要的人為己任」。",
+          "link": "https://www.cna.com.tw/news/acn/202604180085.aspx",
+          "publishedOn": "2026-04-18T05:18:47.000Z",
+          "wordCount": 811,
+          "title": "涉初選案遭廢止執照　香港醫生郭家麒：仍以助人為己任",
+          "imageUrl": "https://imgcdn.cna.com.tw/www/webphotos/WebCover/800/20260418/2001x1499_014145560252.jpg"
+        },
+        {
+          "id": "CNA/2026-04-18/202604180063",
+          "author": null,
+          "description": "（中央社記者廖文綺台北18日電）中國人民銀行（中國央行）行長潘功勝於美東時間16日出席G20財長和央行行長會議時表示，「十五五」時期中國將堅持內需主導，實施提振消費政策措施，並實施適度寬鬆的貨幣政策。",
+          "link": "https://www.cna.com.tw/news/acn/202604180063.aspx",
+          "publishedOn": "2026-04-18T03:58:59.000Z",
+          "wordCount": 798,
+          "title": "G20財長央行行長會議  潘功勝：中國堅持內需主導",
+          "imageUrl": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg"
+        },
+        {
+          "id": "CNA/2026-04-18/202604180029",
+          "author": null,
+          "description": "（中央社台北18日電）基隆籍漁船「全漁6號」16日在釣魚台東北方海域失火沉沒，中國海警宣稱對「中國台灣籍漁船」進行「滅火並展開搜救」，事實上6名船員是由另一台籍漁船救起。海巡署指，海上人道救援無國界，中國不應藉海難事件行政治操作，侵犯台灣主權。",
+          "link": "https://www.cna.com.tw/news/acn/202604180029.aspx",
+          "publishedOn": "2026-04-18T02:30:47.000Z",
+          "wordCount": 803,
+          "title": "中國海警稱救「中國台灣籍漁船」 海巡署反駁",
+          "imageUrl": "https://imgcdn.cna.com.tw/www/webphotos/WebCover/800/20260418/992x743_794634285093.jpg"
+        },
+        {
           "id": "CNA/2026-04-17/202604170318",
           "author": null,
           "description": "（中央社台北17日電）基隆籍漁船「全漁6號」昨天在釣魚台東北方約77浬失火，船上6名船員獲救，台籍62歲張姓船長迄今失聯。中國海警局今晚通報，中國海警艦艇對失事漁船進行滅火並展開搜救，截至目前6人獲救。",
           "link": "https://www.cna.com.tw/news/acn/202604170318.aspx",
           "publishedOn": "2026-04-17T13:57:42.000Z",
-          "wordCount": 795,
+          "wordCount": 807,
           "title": "基隆漁船失火台籍船長失聯　中國海警稱滅火搜救",
           "imageUrl": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg"
         },
@@ -388,7 +508,7 @@
           "description": "（中央社台北17日電）中國外交部指日本自衛隊艦艇今天進入台灣海峽活動，已向日方提出強烈抗議。共軍東部戰區晚間通報，日本「雷」號驅逐艦自凌晨4時2分至下午5時50分通過台灣海峽，東部戰區組織海空兵力全程跟監警戒。",
           "link": "https://www.cna.com.tw/news/acn/202604170294.aspx",
           "publishedOn": "2026-04-17T12:23:46.000Z",
-          "wordCount": 792,
+          "wordCount": 802,
           "title": "共軍：日本「雷」號驅逐艦通過台海  全程跟監警戒",
           "imageUrl": "https://imgcdn.cna.com.tw/www/webphotos/WebOg/600/20260417/2000x1049_6164682467.jpg"
         },
@@ -398,7 +518,7 @@
           "description": "（中央社台北17日電）中國官方打擊「幽靈外賣」，今天對拼多多、美團、淘寶等7家電商平台及相關負責人開出共計約新台幣168億元的天價罰單。官媒新華社發出評論稱，線上不是法外之地，平台不能只賺錢不守門。",
           "link": "https://www.cna.com.tw/news/acn/202604170254.aspx",
           "publishedOn": "2026-04-17T10:24:20.000Z",
-          "wordCount": 781,
+          "wordCount": 791,
           "title": "中國打擊「幽靈外賣」 重罰7家電商平台168億元",
           "imageUrl": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg"
         },
@@ -408,7 +528,7 @@
           "description": "（中央社記者蕭博陽台中17日電）陸委會副主委沈有忠今天表示，中共在「習鄭會」後公布10項促進兩岸交流合作政策，本質是「舊瓶裝舊酒」；若北京真有善意，可依正常管道、不預設政治前提下，與政府對話。",
           "link": "https://www.cna.com.tw/news/acn/202604170249.aspx",
           "publishedOn": "2026-04-17T10:04:09.000Z",
-          "wordCount": 785,
+          "wordCount": 795,
           "title": "中共10項對台措施 沈有忠：舊瓶裝舊酒企圖分化台灣",
           "imageUrl": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20260417/1254x768_wmky_0_C20260417000137.jpg"
         },
@@ -418,7 +538,7 @@
           "description": "（中央社台北17日電）貴州茅台昨天深夜發布2025年財報，營收與獲利均出現2001年上市以來首度衰退。陸股今天開盤，貴州茅台股價下跌逾4%，盤中被源杰科技超越，失去中國大陸股王寶座。",
           "link": "https://www.cna.com.tw/news/acn/202604170203.aspx",
           "publishedOn": "2026-04-17T09:01:30.000Z",
-          "wordCount": 779,
+          "wordCount": 789,
           "title": "貴州茅台2025年營收獲利首度衰退  讓出A股股王",
           "imageUrl": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg"
         },
@@ -428,7 +548,7 @@
           "description": "（中央社記者廖文綺台北17日電）曾駐中國8年的華裔記者馮哲芸近期出版新書「唯紅花綻放：習近平時代的認同與歸屬」，探討少數民族的身分認同問題。她昨日在講座表示，盼透過此書讓人看見中國人也一直在創造自己的文化，切斷共產黨控制中華文化的連結。",
           "link": "https://www.cna.com.tw/news/acn/202604170193.aspx",
           "publishedOn": "2026-04-17T08:30:08.000Z",
-          "wordCount": 781,
+          "wordCount": 791,
           "title": "書寫多元中國人　馮哲芸：盼切斷共產黨控制中華文化",
           "imageUrl": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg"
         },
@@ -438,7 +558,7 @@
           "description": "（中央社台北17日電）中國外交部下午表示，日本自衛隊艦艇今天進入台灣海峽活動，中國軍隊已依法依規處置。中方對此堅決反對，已向日方提出強烈抗議。",
           "link": "https://www.cna.com.tw/news/acn/202604170188.aspx",
           "publishedOn": "2026-04-17T08:11:57.000Z",
-          "wordCount": 781,
+          "wordCount": 791,
           "title": "中國外交部：日本自衛隊艦艇駛入台海  已向日方抗議",
           "imageUrl": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg"
         },
@@ -448,129 +568,9 @@
           "description": "（中央社台北17日電）英國金融時報今天報導，香港英資老牌怡和集團正與香港首富李嘉誠的長和集團磋商，收購長和旗下的百佳超市業務，並將百佳與怡和旗下的惠康超市合併。",
           "link": "https://www.cna.com.tw/news/acn/202604170175.aspx",
           "publishedOn": "2026-04-17T07:49:30.000Z",
-          "wordCount": 779,
+          "wordCount": 789,
           "title": "香港英資怡和集團  擬收購長和旗下百佳超市業務",
           "imageUrl": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg"
-        },
-        {
-          "id": "CNA/2026-04-17/202604170168",
-          "author": null,
-          "description": "（中央社台北17日電）匈牙利國會大選日前落幕，中國國務院總理李強致電馬格雅，祝賀他領導尊重與自由黨勝選，並強調中匈傳統友好，願增進政治互信，推動中匈新時代全天候全面戰略夥伴關係行穩致遠。",
-          "link": "https://www.cna.com.tw/news/acn/202604170168.aspx",
-          "publishedOn": "2026-04-17T07:10:14.000Z",
-          "wordCount": 785,
-          "title": "賀馬格雅匈牙利國會勝選  北京強調兩國關係行穩致遠",
-          "imageUrl": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg"
-        },
-        {
-          "id": "CNA/2026-04-17/202604170167",
-          "author": null,
-          "description": "（中央社台北17日電）據中國商務部，中國商務部長王文濤16日與訪中的義大利副總理兼外長塔加尼會面時表示，中方願與義方深挖合作潛力，並希望義方推動中歐經貿關係健康穩定發展。",
-          "link": "https://www.cna.com.tw/news/acn/202604170167.aspx",
-          "publishedOn": "2026-04-17T07:10:12.000Z",
-          "wordCount": 776,
-          "title": "王文濤見義外長：希望義方推動中歐經貿關係發展",
-          "imageUrl": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg"
-        },
-        {
-          "id": "CNA/2026-04-17/202604170157",
-          "author": null,
-          "description": "（中央社記者李雅雯上海17日電）中國政府將促消費列為政策任務。中國國家發改委副主任王昌林今天表示，中國超大規模市場尚未充分發揮，將讓民眾能消費、敢消費、願消費；鼓勵地方探索中小學春秋假，發展消費環境。",
-          "link": "https://www.cna.com.tw/news/acn/202604170157.aspx",
-          "publishedOn": "2026-04-17T06:42:51.000Z",
-          "wordCount": 779,
-          "title": "中國振消費　國家發改委：鼓勵地方探索春秋假",
-          "imageUrl": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg"
-        },
-        {
-          "id": "CNA/2026-04-17/202604170112",
-          "author": null,
-          "description": "（中央社記者李雅雯上海17日電）越共總書記蘇林14至17日赴中國進行國是訪問。中越聯合聲明今天發布，雙方將積極推進人工智慧、半導體、高鐵等領域合作；越南支持中國在符合協定標準和程序基礎上加入CPTPP。",
-          "link": "https://www.cna.com.tw/news/acn/202604170112.aspx",
-          "publishedOn": "2026-04-17T04:52:17.000Z",
-          "wordCount": 776,
-          "title": "中越聯合聲明：支持中國依規加入CPTPP",
-          "imageUrl": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg"
-        },
-        {
-          "id": "CNA/2026-04-17/202604170106",
-          "author": null,
-          "description": "（中央社記者張謙香港17日電）香港保安局局長鄧炳強今天說，港府過去兩年對反修例（反送中）事件被捕青年推出「特別項目」，目的是讓他們認識國情及明白國家安全問題，以法庭以外的方式予以處理。",
-          "link": "https://www.cna.com.tw/news/acn/202604170106.aspx",
-          "publishedOn": "2026-04-17T04:40:04.000Z",
-          "wordCount": 787,
-          "title": "港府：讓有悔意反送中被捕青年認識國情　取代起訴",
-          "imageUrl": "https://imgcdn.cna.com.tw/www/webphotos/WebCover/800/20260417/853x640_749324530596.jpg"
-        },
-        {
-          "id": "CNA/2026-04-17/202604170062",
-          "author": null,
-          "description": "（中央社台北17日電）最新調查顯示，美國民眾對中國的整體印象出現小幅改善，對中國持正面看法的比例較2023年幾乎翻倍；但與此同時，多數美國人仍將中國視為競爭對手。",
-          "link": "https://www.cna.com.tw/news/acn/202604170062.aspx",
-          "publishedOn": "2026-04-17T03:22:31.000Z",
-          "wordCount": 780,
-          "title": "美智庫調查：美國民眾對中國看法有所好轉",
-          "imageUrl": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg"
-        },
-        {
-          "id": "CNA/2026-04-17/202604170061",
-          "author": null,
-          "description": "（中央社記者李雅雯上海17日電）中國多家銀行發布公告，宣布停發部分信用卡產品，以聯名卡、主題卡為主。根據官方統計，截至2025年底，信用卡和借貸合一卡數量約6.96億張，較歷史高點量縮13.75%。",
-          "link": "https://www.cna.com.tw/news/acn/202604170061.aspx",
-          "publishedOn": "2026-04-17T03:21:28.000Z",
-          "wordCount": 779,
-          "title": "中國掀信用卡停發潮　較歷史高點量縮13.75%",
-          "imageUrl": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg"
-        },
-        {
-          "id": "CNA/2026-04-17/202604170056",
-          "author": null,
-          "description": "（中央社台北17日電）中國駐日本大使館16日表示，大使館於3月接連遭受恐嚇，已與日本交涉近30次，但日方調查未有進展。",
-          "link": "https://www.cna.com.tw/news/acn/202604170056.aspx",
-          "publishedOn": "2026-04-17T03:10:18.000Z",
-          "wordCount": 781,
-          "title": "中國駐日大使館稱接連遭恐嚇  向日方交涉近30次",
-          "imageUrl": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg"
-        },
-        {
-          "id": "CNA/2026-04-17/202604170043",
-          "author": null,
-          "description": "（中央社記者張謙香港17日電）沉寂3年的中國知名房地產商人、SOHO中國創辦人潘石屹近日發文，形容中國大陸近30年房市的發展猶如「龐氏騙局」。",
-          "link": "https://www.cna.com.tw/news/acn/202604170043.aspx",
-          "publishedOn": "2026-04-17T02:02:49.000Z",
-          "wordCount": 802,
-          "title": "潘石屹沉寂多年後發聲　稱中國房市猶如龐氏騙局",
-          "imageUrl": "https://imgcdn.cna.com.tw/www/webphotos/WebOg/600/20260417/2001x1049_336727278990.jpg"
-        },
-        {
-          "id": "CNA/2026-04-17/202604170040",
-          "author": null,
-          "description": "（中央社台北17日電）新華社報導，中國向伊朗提供緊急人道主義援助項目政府間交接證書簽字儀式15日在德黑蘭舉行；另據公布，中國外交部長王毅16日在北京表示，美國和以色列對伊朗的戰爭本不應發生。",
-          "link": "https://www.cna.com.tw/news/acn/202604170040.aspx",
-          "publishedOn": "2026-04-17T01:52:43.000Z",
-          "wordCount": 812,
-          "title": "中國提供伊朗緊急人道援助  批評美以攻伊不應發生",
-          "imageUrl": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg"
-        },
-        {
-          "id": "CNA/2026-04-16/202604160334",
-          "author": null,
-          "description": "（中央社台北16日電）2019年底COVID-19疫情在武漢爆發時擔任湖北省武漢市長的周先旺，繼今年1月間被宣布「雙開」（開除中共黨籍和中國公職）後，今天被河南省商丘市人民檢察院提起公訴。檢方指控，周先旺「非法收受他人財物，數額特別巨大」，應追究刑責。",
-          "link": "https://www.cna.com.tw/news/acn/202604160334.aspx",
-          "publishedOn": "2026-04-16T11:31:02.000Z",
-          "wordCount": 786,
-          "title": "疫情期間任武漢市長　周先旺因鉅額收賄被提起公訴",
-          "imageUrl": "https://imgcdn.cna.com.tw/www/webphotos/WebOg/600/20260416/1285x674_276541029653.jpg"
-        },
-        {
-          "id": "CNA/2026-04-16/202604160331",
-          "author": null,
-          "description": "（中央社記者廖文綺台北16日電）鄭習會後，中國大陸方面宣布10項涉台措施，包括推動上海與福建居民赴台自由行。陸委會表示，需等待陸方先做出明確政策公告，並指日前宣布開放上海居民赴金馬旅遊仍沒有實質進展，應該一步一步來。",
-          "link": "https://www.cna.com.tw/news/acn/202604160331.aspx",
-          "publishedOn": "2026-04-16T11:14:55.000Z",
-          "wordCount": 785,
-          "title": "中國開放上海福建赴台自由行　陸委會：待明確公告",
-          "imageUrl": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20260416/1024x768_wmky_0_C20260416000161.jpg"
         }
       ]
     },
@@ -580,404 +580,404 @@
       "siteUrl": "https://news.ltn.com.tw/list/breakingnews/world",
       "articles": [
         {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5407759",
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5408594",
           "author": null,
-          "description": "太離譜！巴基斯坦旁遮普省唐薩（Taunsa），於2024年11月至2025年10月期間有331名兒童感染愛滋病，當地醫院「THQ Taunsa」重複使用針筒被認為是主因。\r\n\r\n...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5407759",
-          "publishedOn": "2026-04-18T02:19:11.000Z",
-          "wordCount": 10506,
-          "title": "扯！巴基斯坦醫院重複使用針筒 害331童感染愛滋",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/18/php2BW3if.jpg"
-        },
-        {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5407776",
-          "author": null,
-          "description": "由於中東戰爭導致航空燃油價格飆升，加拿大航空宣布將暫停6條航線服務，包括國內航線和跨國航線。專家指出，這場燃油短缺危機可能是航空史上最嚴峻的一次。\r\n\r\n加拿大環球郵報（Globe and ...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5407776",
-          "publishedOn": "2026-04-18T02:15:39.000Z",
-          "wordCount": 10523,
-          "title": "燃油危機  加拿大最大航空公司宣布暫停6條航線",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/18/phpWwSHDZ.jpg"
-        },
-        {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5407742",
-          "author": null,
-          "description": "針對美伊暫時停火進行談判，美國總統川普雖對達成協議表達強烈樂觀，還聲稱伊朗同意移除濃縮鈾。但伊朗方面對相關說法進行駁斥，並批川普近期發言內容說謊，警告若美國不解除對伊朗港口的封鎖...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5407742",
-          "publishedOn": "2026-04-18T02:12:57.000Z",
-          "wordCount": 10507,
-          "title": "伊朗批川普說謊稱7項說法全都錯 若持續封港將關閉荷姆茲海峽",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/18/php3uUMyG.jpg"
-        },
-        {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5407746",
-          "author": null,
-          "description": "以色列2月28日和美國聯手空襲伊朗，隨後遭到伊朗、黎巴嫩真主黨、葉門青年運動（另譯胡塞武裝）不斷回擊，從17日清晨至今天（18日）為止，是首次24小時內沒有空襲警報。\r\n\r\n據《...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5407746",
-          "publishedOn": "2026-04-18T01:22:31.000Z",
-          "wordCount": 10496,
-          "title": "伊戰首次 以色列24小時無空襲警報",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/18/phpDaE8IU.jpg"
-        },
-        {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5407730",
-          "author": null,
-          "description": "美國總統川普今天表示，美國與伊朗達成的任何和平協議將包括雙方以挖掘機從伊朗核設施移除鈾，之後轉移至美國境內。伊朗則否認會將濃縮鈾運出國。\r\n\r\n法新社報導，伊朗外交部稍早表示，伊朗濃縮鈾庫存...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5407730",
-          "publishedOn": "2026-04-18T01:19:19.000Z",
-          "wordCount": 10499,
-          "title": "川普稱協議將含濃縮鈾移往美國 伊朗否認外運",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/18/php4I7K6H.jpg"
-        },
-        {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5407721",
-          "author": null,
-          "description": "一艘日本自衛隊艦艇昨日駛入台灣海峽，成為日本首相高市早苗政府上台後，首次派遣護衛艦通過台海的案例。對此資深媒體人矢板明夫表示，除了護衛艦通過台海，日前高市決定在本月靖國神社春季例...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5407721",
-          "publishedOn": "2026-04-18T00:45:41.000Z",
-          "wordCount": 10507,
-          "title": "日艦過台海、春季不參拜靖國神社 矢板明夫讚高市：具備彈性的現實主義",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/18/phpi2UL8e.jpg"
-        },
-        {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5407716",
-          "author": null,
-          "description": "美國國防官員透露，全球最大的航空母艦「福特號」（USS Gerald R. Ford）在地中海停留超過一個月後，已再次進入中東水域。\r\n\r\n《美聯社》報導，以匿名方式受訪的官員表...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5407716",
-          "publishedOn": "2026-04-18T00:33:22.000Z",
-          "wordCount": 10529,
-          "title": "火災維修後再出動 美最強航艦「福特號」重返中東",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/18/phpVllfPQ.jpg"
-        },
-        {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5407703",
-          "author": null,
-          "description": "美國與伊朗停火協議將在21日到期，雙方正持續談判。美國總統川普17日表示，美國將與伊朗合作，取回其濃縮鈾並將其運回美國。\r\n\r\n《路透》報導，川普在電話訪問中表示，「我們會把它整...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5407703",
-          "publishedOn": "2026-04-18T00:13:26.000Z",
-          "wordCount": 10498,
-          "title": "出動挖土機？ 川普：美國將進入伊朗拿取濃縮鈾",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/18/phpApwwXC.jpg"
-        },
-        {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5407698",
-          "author": null,
-          "description": "針對美國與伊朗展開談判，美國總統川普17日在接受媒體訪問時表示看好，並稱他已親自與伊朗方面通話，「我們將在接下來1或2天達成協議」。川普也稱，伊朗已經「同意了一切」，並將與美國合...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5407698",
-          "publishedOn": "2026-04-18T00:09:16.000Z",
-          "wordCount": 10499,
-          "title": "川普稱親自與伊朗方面通話 估美伊將在一、兩天內達成協議",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/18/phpcDjLYX.jpg"
-        },
-        {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5407675",
-          "author": null,
-          "description": "美國和以色列2月28日聯手空襲伊朗，加上伊朗封鎖荷姆茲海峽，導致全球能源供應受阻，各國經濟受到衝擊。《彭博》專欄作家瓦斯瓦尼（Karishma Vaswani）撰文指出，倘若中...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5407675",
-          "publishedOn": "2026-04-17T21:56:52.000Z",
-          "wordCount": 10509,
-          "title": "以荷姆茲為鑑！專家：台海若遭封鎖 將重創全球經濟與科技供應鏈",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/18/5407675_1_1.jpg"
-        },
-        {
-          "id": "https://news.ltn.com.tw/news/world/paper/1751355",
-          "author": null,
-          "description": "〔編譯張沛元／綜合報導〕伊朗與美國在中東荷姆茲海峽的軍事對峙與封鎖行動，不僅重創全球能源供應鏈，更讓外界將目光轉向同樣具備戰略地位的亞洲麻六甲海峽。彭博十七日分析指出，隨著中東局勢動盪，麻六甲海峽的航行安全與地緣政治風險正急劇升高。\r\n麻六甲海峽位於印尼、馬來西亞與新加坡之間，連接印度洋與太平洋。地…",
-          "link": "https://news.ltn.com.tw/news/world/paper/1751355",
-          "publishedOn": "2026-04-17T21:30:00.000Z",
+          "description": "美軍正準備在未來幾天內，對與伊朗相關的油輪與商船進行登船檢查，並可能在國際海域執行扣押。相關行動不再限於攔阻船隻航行，而是直接進入船上進行檢查。\r\n\r\n根據《華爾街日報》報導，...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5408594",
+          "publishedOn": "2026-04-19T02:43:33.000Z",
           "wordCount": 10501,
-          "title": "伊戰未平 麻六甲海峽風險升高",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/18/88.jpg"
+          "title": "不只攔截！美軍準備登船檢查伊朗油輪 公海也能動手",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/19/phpBokjUz.jpg"
         },
         {
-          "id": "https://news.ltn.com.tw/news/world/paper/1751356",
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5408573",
           "author": null,
-          "description": "〔編譯林家宇／綜合報導〕美國哥倫比亞廣播公司（CBS）十六日報導，據五角大廈轄下國防情報局（DIA）分析師評估，中國正考慮向伊朗供應先進雷達系統，加上此前已傳出莫斯科擴大與德黑蘭共享美軍中東據點等情報，顯示出制衡美國在中東目標的大國陣營有成形之勢。\r\n可強化伊朗偵測飛彈\r\n美國匿名官員向CBS透露，…",
-          "link": "https://news.ltn.com.tw/news/world/paper/1751356",
-          "publishedOn": "2026-04-17T21:30:00.000Z",
-          "wordCount": 10495,
-          "title": "美情報：中國擬供伊朗先進雷達系統",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/18/89.jpg"
+          "description": "羅馬天主教教宗良十四世今天抵達安哥拉後，公開發言反對暴政，以及因開發自然資源所造成的「災難」。安哥拉雖為石油資源豐富國家，但面臨高度貧困問題。\r\n\r\n法新社和路透社報導，良十四世（Pope ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5408573",
+          "publishedOn": "2026-04-19T02:35:53.000Z",
+          "wordCount": 10506,
+          "title": "抵安哥拉譴責資源掠奪與暴政 教宗澄清「未針對川普」",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/19/phpsqkIq1.jpg"
         },
         {
-          "id": "https://news.ltn.com.tw/news/world/paper/1751354",
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5408525",
           "author": null,
-          "description": "真主黨：隨時準備開打\r\n〔編譯張沛元／綜合報導〕美國總統川普十六日宣布以色列與黎巴嫩達成協議停火十天，以黎兩國領袖可望在下週舉行會談，此一發展被視為有助於美國與伊朗達成類似和平協議。但以色列與黎巴嫩激進組織真主黨在停火協議生效前後仍持續交火，惹得川普十七日在社群平台發布強硬聲明，表示美國已「禁止」以…",
-          "link": "https://news.ltn.com.tw/news/world/paper/1751354",
-          "publishedOn": "2026-04-17T21:30:00.000Z",
-          "wordCount": 10522,
-          "title": "川普搶宣布 以黎停火岌岌可危",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/18/85.jpg"
+          "description": "烏克蘭首都基輔18日發生隨機殺人案，一名出生於俄羅斯的男子在基輔市區南部的霍洛西伊夫斯基區（Holosiivskyi）街頭隨機槍殺民眾，接著躲入超市並挾持人質，過程中造成至少6人...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5408525",
+          "publishedOn": "2026-04-19T02:25:40.000Z",
+          "wordCount": 10496,
+          "title": "基輔街頭驚傳隨機槍殺案釀6死14傷  槍手挾持人質談判未果被擊斃",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/19/phpGGVWUW.jpg"
         },
         {
-          "id": "https://news.ltn.com.tw/news/world/paper/1751398",
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5408565",
           "author": null,
-          "description": "◎國際新聞中心\r\nVice President JD Vance on Tuesday invoked World War II to defend U.S. airstrikes on Iran, pushing back against criticism from Pope Leo XIV. …",
-          "link": "https://news.ltn.com.tw/news/world/paper/1751398",
-          "publishedOn": "2026-04-17T21:30:00.000Z",
-          "wordCount": 10866,
-          "title": "中英對照讀新聞》 JD Vance Says the Pope Leo XIV Should Exercise Greater Care When Discussing Theology范斯稱教宗談論神學時應更加審慎",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/18/126.jpg"
+          "description": "日本東北新幹線新青森車站的24號隼號列車，原定18日下午1時52分啟程，但接班的20來歲女性列車長睡過頭，使得列車最終誤點3分鐘左右。\r\n\r\n據《產經新聞》報導，JR東日本青森分...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5408565",
+          "publishedOn": "2026-04-19T02:10:17.000Z",
+          "wordCount": 10493,
+          "title": "日本女列車長睡過頭 害旅客誤點約3分鐘",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/19/phpYJ94rc.png"
         },
         {
-          "id": "https://news.ltn.com.tw/news/world/paper/1751357",
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5408551",
           "author": null,
-          "description": "〔國際新聞中心／綜合報導〕緬甸軍政府領導人、現任總統敏昂萊在十七日緬甸傳統新年期間宣布大規模特赦，釋放逾四三〇〇名囚犯，其中包括二〇二一年政變後遭羈押的前總統溫敏。\r\n\r\n前總統溫敏出獄返家\r\n\r\n現年七十四歲的溫敏為翁山蘇姬盟友，二〇一八年出任總統。由於軍方制定的憲法限制，翁山蘇姬無法擔任總統職務…",
-          "link": "https://news.ltn.com.tw/news/world/paper/1751357",
-          "publishedOn": "2026-04-17T21:30:00.000Z",
-          "wordCount": 10497,
-          "title": "緬甸大特赦 翁山蘇姬減刑仍未獲釋",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/18/90.jpg"
-        },
-        {
-          "id": "https://news.ltn.com.tw/news/world/paper/1751358",
-          "author": null,
-          "description": "〔駐日特派員林翠儀／東京十七日報導〕日媒報導，日本將要求全國地方自治體僅能採購經政府評估制度認證的資訊（IT）設備，此舉主要是為了防止自治體採購具有資安風險的產品，以提升國家安全性。如果落實將是從中央到地方政府全面封殺中國資訊設備。\r\n\r\n讀賣新聞報導，適用對象包括通訊設備、電腦、伺服器、平板終端、…",
-          "link": "https://news.ltn.com.tw/news/world/paper/1751358",
-          "publishedOn": "2026-04-17T21:30:00.000Z",
+          "description": "小心熊隻！美國阿拉斯加2名陸軍士兵，16日在安克拉治山區演習時遭遇棕熊後受傷，目前正在接受治療，至於傷勢要等到通知家屬後才會對外說明。\r\n\r\n據《美聯社》報導，這2名士兵參與了愛...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5408551",
+          "publishedOn": "2026-04-19T01:39:59.000Z",
           "wordCount": 10498,
-          "title": "日封殺中國資安設備 擴及地方政府",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/18/91.jpg"
+          "title": "熊熊好兇！阿拉斯加山區演習遇棕熊 美軍2傷",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/19/phpkPG8EY.jpg"
         },
         {
-          "id": "https://news.ltn.com.tw/news/world/paper/1751353",
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5408516",
           "author": null,
-          "description": "停火期「完全對商船開放」\r\n〔編譯林家宇／綜合報導〕伊朗十七日宣布，鑑於黎巴嫩與以色列停火已經生效並初步維持，決定在停火期間開放荷姆茲海峽商業航運，此舉立刻促使國際油價大跌。美國總統川普十六日再度對美伊朗和平談判釋放正面訊息，稱德黑蘭不但「非常接近」達成協議，甚至同意對最為棘手的「高濃縮鈾」去留問題…",
-          "link": "https://news.ltn.com.tw/news/world/paper/1751353",
-          "publishedOn": "2026-04-17T21:30:00.000Z",
-          "wordCount": 10504,
-          "title": "伊朗讓步 開放荷姆茲海峽",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/18/84.jpg"
+          "description": "南韓聯合參謀本部今日（19日）指出，北韓在當地時間今早6點10分針對朝鮮半島東部海域發射數枚型號不明的彈道飛彈，目前正對其具體數據與射程進行分析。\r\n\r\n根據南韓《韓聯社》報導，...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5408516",
+          "publishedOn": "2026-04-19T01:37:15.000Z",
+          "wordCount": 10493,
+          "title": "北韓發射數枚飛彈 南韓軍方分析數據中",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/19/php6F6kn3.jpg"
         },
         {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5407684",
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5408536",
           "author": null,
-          "description": "黎巴嫩總統奧恩（Joseph Aoun）今天指出，在以色列與黎巴嫩武裝組織真主黨（Hezbollah）為期10天的停火生效後，黎巴嫩正邁向以「永久性協議」為核心的「新階段」。\n\n在美國總統川...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5407684",
-          "publishedOn": "2026-04-17T20:30:05.000Z",
-          "wordCount": 10491,
-          "title": "以黎停火生效　黎巴嫩總統：將推動永久性協議",
-          "imageUrl": "https://news.ltn.com.tw/assets/images/all/250_ltn.png"
-        },
-        {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5407683",
-          "author": null,
-          "description": "美國總統川普今天告訴法新社，與伊朗達成和平協議已經「沒有任何癥結點」，並表示協議「非常接近」，同時德黑蘭宣布荷莫茲海峽（Strait of Hormuz）已對商業航運開放。\n\n來自華府的正面...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5407683",
-          "publishedOn": "2026-04-17T18:54:03.000Z",
-          "wordCount": 10489,
-          "title": "荷莫茲海峽解封和黎巴嫩停火　川普稱美伊協議已無癥結點",
-          "imageUrl": "https://news.ltn.com.tw/assets/images/all/250_ltn.png"
-        },
-        {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5407652",
-          "author": null,
-          "description": "美國總統川普17日一連串發文，為伊朗戰爭以來，遭德黑蘭實質封鎖的荷姆茲海峽航運，以及以色列和黎巴嫩停火帶來好消息。他同時也再度批評北大西洋公約組織（NATO）「沒用」。\r\n\r\n...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5407652",
-          "publishedOn": "2026-04-17T16:01:49.000Z",
-          "wordCount": 10514,
-          "title": "稱伊朗不再封荷姆茲！ 川普2小時連發6文宣佈好消息 再批北約「沒用」",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/17/5407652_1_1.jpg"
-        },
-        {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5407660",
-          "author": null,
-          "description": "在伊朗17日宣布於以色列與黎巴嫩停火10天期間，全面開放荷姆茲海峽後，川普在社交平台「真實社群」一連串發文，表示伊朗已同意永遠不再封鎖荷姆茲海峽，同時在美國的協助下，伊朗已移除...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5407660",
-          "publishedOn": "2026-04-17T15:50:47.000Z",
+          "description": "1912年4月15日鐵達尼號沉沒時乘客所穿的1件救生衣，18日在英國迪韋齊斯（Devizes）進行拍賣，原本估價為25萬至35萬英鎊（約新台幣1064萬至1490萬元），沒想到最...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5408536",
+          "publishedOn": "2026-04-19T01:11:35.000Z",
           "wordCount": 10500,
-          "title": "川普：伊朗同意永不封鎖荷姆茲  水雷完全清除",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/17/5407660_1_1.jpg"
+          "title": "意外高價！1912年鐵達尼號用過的救生衣拍賣 2850萬成交",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/19/phpQBNS8h.jpg"
         },
         {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5407659",
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5408460",
           "author": null,
-          "description": "美國有線電視新聞網（CNN）17日報導，根據2名知情人士，作為與德黑蘭當局持續談判的一環，川普政府正在考慮解凍價值200億美元（約台幣6280.7億元）的伊朗資產。\r\n\r\n儘管...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5407659",
-          "publishedOn": "2026-04-17T15:49:31.000Z",
-          "wordCount": 10502,
-          "title": "美伊和談進入最後衝刺 川普政府考慮解凍200億美元伊朗資產",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/17/5407659_1_1.jpg"
+          "description": "首次上稿 04-18 23:14更新時間 04-19 06:17\r\n針對伊朗重新封鎖荷姆茲海峽，美國總統川普18日表示，伊朗「有點滑頭」，但是他也說，美國正在和伊朗談，「今天結...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5408460",
+          "publishedOn": "2026-04-18T22:17:25.000Z",
+          "wordCount": 10517,
+          "title": "談判ING！伊朗又封荷姆茲   川普：「有點滑頭」但不接受勒索",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/18/5408460_1_1.jpg"
         },
         {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5407637",
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5408441",
           "author": null,
-          "description": "美國新聞網站Axios 17日引述4名消息來源說法，指美國和伊朗正磋商，美國釋出遭凍結的伊朗資產，交換伊朗放棄濃縮鈾庫存。不過，美國總統川普17日發文顯然否認這篇報導。川普也表...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5407637",
-          "publishedOn": "2026-04-17T15:02:29.000Z",
-          "wordCount": 10509,
-          "title": "川普駁斥解凍伊朗資產換濃縮鈾 稱以色列「被禁止」再轟炸黎巴嫩",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/17/5407637_1_1.jpg"
+          "description": "首次上稿 04-18 23:04更新時間 04-19 06:15\r\n伊朗昨（18）日再封鎖荷姆茲海峽（Strait of Hormuz），據報有2艘船嘗試通過時，遭遇伊朗開火警告...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5408441",
+          "publishedOn": "2026-04-18T22:15:51.000Z",
+          "wordCount": 10516,
+          "title": "伊朗又封鎖荷姆茲海峽 印度2油輪遭開火闖關失敗",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/18/php3LoaM9.jpg"
         },
         {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5407606",
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5408487",
           "author": null,
-          "description": "航運追蹤機構Kpler今天透露，伊朗3艘油輪載著總計500萬桶原油，成為美國封鎖措施生效以來首批航經荷姆茲海峽（Strait of Hormuz）離開波斯灣（Persian Gulf）的滿載...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5407606",
-          "publishedOn": "2026-04-17T15:01:46.000Z",
-          "wordCount": 10504,
-          "title": "航運追蹤機構：伊朗3艘滿載油輪通過荷姆茲海峽",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/17/phpYzZ76V.jpg"
+          "description": "伊朗在停火期間一度宣布重新開放荷莫茲海峽通行，航運追蹤數據顯示，今天至少有8艘油輪與天然氣運輸船通過這條關鍵貿易航道。不過德黑蘭隨後發布聲明表示，重新封鎖該海峽。\n\n法新社報導，根據航運追蹤...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5408487",
+          "publishedOn": "2026-04-18T21:54:03.000Z",
+          "wordCount": 10481,
+          "title": "伊朗短暫開放荷莫茲海峽　8艘油輪與天然氣船通過",
+          "imageUrl": "https://news.ltn.com.tw/assets/images/all/250_ltn.png"
         },
         {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5407485",
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5408486",
           "author": null,
-          "description": "首次上稿 19:40更新時間 22:52（新增照片）\r\n\r\n海上自衛隊護衛艦「雷」17日通過台灣海峽。日媒報導，這是海自艦艇第4次通過台灣海峽，前3次為2024年9...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5407485",
-          "publishedOn": "2026-04-17T14:52:49.000Z",
-          "wordCount": 10514,
-          "title": "高市早苗上台首次！日本自衛隊護衛艦「雷」 17日通過台灣海峽",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/17/phpIi6hP5.jpg"
-        },
-        {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5407620",
-          "author": null,
-          "description": "伊朗17日宣布，在以色列和黎巴嫩停火期間，荷姆茲海峽將對所有商船開放。美國總統川普隨即在社交平台「真實社群」上發文感謝該海峽的開放，但表示，美國對伊朗港口的封鎖將持續有效，直到...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5407620",
-          "publishedOn": "2026-04-17T14:39:26.000Z",
+          "description": "兩名美國官員透露，美國總統川普今天上午召開白宮戰情室會議，和多位高層官員討論荷莫茲海峽新危機，以及與伊朗的談判事務。\n\n美國Axios新聞網報導，美伊兩國情勢目前正處於關鍵時刻，現行停火協議...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5408486",
+          "publishedOn": "2026-04-18T21:36:03.000Z",
           "wordCount": 10497,
-          "title": "川普感謝荷姆茲海峽開放 達成協議前持續海上封鎖伊朗",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/17/5407620_1_1.jpg"
+          "title": "美媒：荷莫茲海峽再陷危機　川普召開白宮戰情室會議",
+          "imageUrl": "https://news.ltn.com.tw/assets/images/all/250_ltn.png"
         },
         {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5407593",
+          "id": "https://news.ltn.com.tw/news/world/paper/1751508",
           "author": null,
-          "description": "美國戰爭部長赫格塞斯15日在五角大廈的禮拜中帶領朗誦一段改編的聖經經文，卻被人發現是錯誤引用好萊塢電影「黑色追緝令」（Pulp Fiction）的一段虛構台詞，相當尷尬。\r\n\r\n美國影劇新聞...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5407593",
-          "publishedOn": "2026-04-17T14:30:23.000Z",
-          "wordCount": 10535,
-          "title": "尷尬！赫格塞斯朗誦改編聖經  錯用電影「黑色追緝令」虛構台詞",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/17/phpof0GAT.jpg"
+          "description": "〔編譯管淑平／綜合報導〕根據美國新聞網站Politico十七日獨家報導，美國國務院外交電報顯示，伊朗利用美伊戰爭發動多層面影響力行動，損害美國全球利益與聲譽，尤以穆斯林國家為甚。這些日期標註為十五日的電文指出，親伊朗勢力在巴林、亞塞拜然與印尼等地，藉戰事削弱美國形象，導致當地民眾乃至政府對美信任下滑…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1751508",
+          "publishedOn": "2026-04-18T21:30:00.000Z",
+          "wordCount": 10495,
+          "title": "伊朗煽動反美 美外館緊張",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/19/111.jpg"
         },
         {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5407601",
+          "id": "https://news.ltn.com.tw/news/world/paper/1751510",
           "author": null,
-          "description": "以色列與黎巴嫩達成協議停火10天後，伊朗17日宣布，停火期間「全面開放」荷姆茲海峽；美國總統川普也發文說，伊朗宣布這項消息，但美軍仍將維持對伊朗航運的海上封鎖。\r\n\r\n《美聯社...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5407601",
-          "publishedOn": "2026-04-17T14:24:53.000Z",
+          "description": "〔國際新聞中心／綜合報導〕紐西蘭政府十八日正式駁斥北京當局關於紐國軍機在中國領空附近進行「破壞性且不負責任」偵察的指控，強調其軍事飛行任務是為了履行聯合國授權，旨在監督並執行針對北韓的國際制裁。\r\n中國外交部發言人郭嘉昆十七日表示，紐西蘭皇家空軍一架P-8A「海神」反潛巡邏機近期在黃海及東海海域進行…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1751510",
+          "publishedOn": "2026-04-18T21:30:00.000Z",
+          "wordCount": 10490,
+          "title": "紐軍機執行聯合國任務 中國控滋擾",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/19/113.jpg"
+        },
+        {
+          "id": "https://news.ltn.com.tw/news/world/paper/1751505",
+          "author": null,
+          "description": "日澳簽署國防出口合約\r\n\r\n〔編譯張沛元／綜合報導〕日本與澳洲十八日簽約敲定共同開發新型澳洲海軍艦艇，澳洲計劃向日本三菱重工業公司採購十一艘「最上級」巡防艦的「改良型」，首艘新艦預計二〇三〇年正式加入澳洲服役。此為日本戰後以來最大一筆國防出口合約，日媒直言形同是日本國防產業的一大突破，形同日本未來將…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1751505",
+          "publishedOn": "2026-04-18T21:30:00.000Z",
+          "wordCount": 10498,
+          "title": "日澳共造軍艦 深化戰略聯盟",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/19/107.jpg"
+        },
+        {
+          "id": "https://news.ltn.com.tw/news/world/paper/1751507",
+          "author": null,
+          "description": "〔編譯張沛元／綜合報導〕值此美國總統川普出訪中國並與中國領導人習近平會面前夕，美聯社引述一位熟悉北京想法的外交消息人士的話指出，與伊朗關係密切中國願意接收約四四〇公斤的伊朗濃縮鈾或降低其濃度。\r\n\r\n儘管川普傾向讓美國來接手這批據信去年美軍空襲時被深埋地底的伊朗濃縮鈾，甚至在十八日宣稱伊朗已同意包括…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1751507",
+          "publishedOn": "2026-04-18T21:30:00.000Z",
+          "wordCount": 10506,
+          "title": "伊朗濃縮鈾 中國也想接手",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/19/109.jpg"
+        },
+        {
+          "id": "https://news.ltn.com.tw/news/world/paper/1751506",
+          "author": null,
+          "description": "不滿美軍持續海上封鎖\r\n\r\n\r\n\r\n〔國際新聞中心／綜合報導〕受美國持續實施海上封鎖影響，伊朗軍方十八日再度宣布關閉荷姆茲海峽。伊朗革命衛隊更對試圖通過的油輪開火，導致多艘商船被迫折返。伊朗官方與軍方同步釋放強硬信號，否認美國總統川普宣稱和平協議僅在咫尺的說法，強調並未批准新一輪美伊會談。川普十八日…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1751506",
+          "publishedOn": "2026-04-18T21:30:00.000Z",
+          "wordCount": 10496,
+          "title": "伊變再變 荷姆茲海峽再度關閉",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/19/108.jpg"
+        },
+        {
+          "id": "https://news.ltn.com.tw/news/world/paper/1751509",
+          "author": null,
+          "description": "〔國際新聞中心／綜合報導〕美國政府十七日宣布延長一項針對俄羅斯石油的制裁豁免令，為期一個月。此舉旨在平抑因美以對伊朗戰爭而大幅飆升的全球能源價格，但與財政部長貝森特兩天前的表態大相逕庭，立刻引發國會民主黨人的強烈抨擊，指責此舉形同背棄盟友，並變相資助俄國總統普廷的戰爭機器。\r\n民主黨痛批背棄盟友\r\n…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1751509",
+          "publishedOn": "2026-04-18T21:30:00.000Z",
+          "wordCount": 10495,
+          "title": "美延長俄油制裁豁免 被抨變相資助普廷",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/19/112.jpg"
+        },
+        {
+          "id": "https://news.ltn.com.tw/news/world/paper/1751459",
+          "author": null,
+          "description": "◎林家宇\r\nA marble bust that has stood ​for centuries in one of Rome’s basilicas has been re-attributed to Michelangelo after nearly 200 years in ‌obscuri…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1751459",
+          "publishedOn": "2026-04-18T21:30:00.000Z",
+          "wordCount": 10820,
+          "title": "中英對照讀新聞》Italy basilica bust re-attributed to Michelangelo after centuries in obscurity作者佚名數世紀後 義大利大教堂的半身像重新認定為米開朗基羅之作",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/19/56.jpg"
+        },
+        {
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5408485",
+          "author": null,
+          "description": "伊朗伊斯蘭革命衛隊（IRGC）海軍今天在通訊軟體Telegram上宣布，在美國對伊朗港口解封前，荷莫茲海峽自今晚起將維持關閉狀態，任何接近海峽的違規船隻都會成為攻擊目標。\n\n美國有線電視新聞...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5408485",
+          "publishedOn": "2026-04-18T20:21:03.000Z",
+          "wordCount": 10491,
+          "title": "伊朗：關閉荷莫茲海峽至美解封港口　接近船隻將成攻擊目標",
+          "imageUrl": "https://news.ltn.com.tw/assets/images/all/250_ltn.png"
+        },
+        {
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5408481",
+          "author": null,
+          "description": "伊朗最高國家安全委員會今天表示，德黑蘭正審閱來自美方的「新提案」，不過該委員會也警告，伊朗談判代表不會向華府做出任何妥協。\n\n法新社報導，伊朗最高國家安全委員會（Supreme Nation...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5408481",
+          "publishedOn": "2026-04-18T18:54:03.000Z",
+          "wordCount": 10494,
+          "title": "伊朗稱正審閱美方新提案　強調絕不妥協",
+          "imageUrl": "https://news.ltn.com.tw/assets/images/all/250_ltn.png"
+        },
+        {
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5408477",
+          "author": null,
+          "description": "烏克蘭官員表示，一名男子今天在首都基輔南部霍洛西伊夫斯基區（Holosiivskyi）街頭開火，接著躲入一間超市並挾持人質，造成至少6人喪生、多人受傷，他隨後遭警方擊斃。\n\n美聯社報導，烏克...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5408477",
+          "publishedOn": "2026-04-18T18:06:04.000Z",
+          "wordCount": 10486,
+          "title": "烏克蘭首都傳槍響至少6死　槍手一度挾持人質遭擊斃",
+          "imageUrl": "https://news.ltn.com.tw/assets/images/all/250_ltn.png"
+        },
+        {
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5408443",
+          "author": null,
+          "description": "1940年代希特勒（Adolf Hitler）統治下的納粹德國進行系統性迫害，是德國歷史上一大傷痛。近日德國和美國合作，利用人工智慧技術整理大量檔案，推出網路搜尋引擎，可搜尋納...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5408443",
+          "publishedOn": "2026-04-18T14:49:00.000Z",
           "wordCount": 10508,
-          "title": "伊朗宣布荷姆茲「這期間」全面開放 川普：持續封鎖伊朗港口",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/17/5407601_1_1.jpg"
+          "title": "正視家族黑歷史！德國推「納粹搜尋引擎」 可查父祖是否入黨",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/18/5408443_1_1.jpg"
         },
         {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5407578",
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5408319",
           "author": null,
-          "description": "美國總統川普指責羅馬天主教教宗良十四世（Pope Leo XIV）批評美伊戰爭相關言論，引發的風波未歇，川普16日表示，教宗可自由表達看法，但是重要的是，要了解到，伊朗絕對不能...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5407578",
-          "publishedOn": "2026-04-17T13:38:48.000Z",
-          "wordCount": 10505,
-          "title": "這世界「正被少數暴君蹂躪」！教宗罕見說重話  川普籲了解這件事",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/17/5407578_1_1.jpg"
+          "description": "法國總統馬克宏（Emmanuel Macron）今（18日）表示，聯合國駐黎巴嫩臨時部隊（UNIFIL）今日上午遭到黎巴嫩政治和武裝組織真主黨（Hezbollah）攻擊，造成1名...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5408319",
+          "publishedOn": "2026-04-18T13:43:09.000Z",
+          "wordCount": 10593,
+          "title": "聯合國維和部隊遭真主黨襲擊 法國士兵1死3傷",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/18/phpLPoVCJ.jpg"
         },
         {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5407568",
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5408405",
           "author": null,
-          "description": "愛沙尼亞警方近日表示，查出逾1600名青少年曾透過線上平台訂購網路攻擊服務，目標包括學校及教育網站，其中13名學童已被列為刑事案件嫌疑人遭傳喚調查，希望導正其行為，避免再犯。\r\n\r\n愛沙尼亞...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5407568",
-          "publishedOn": "2026-04-17T13:38:31.000Z",
+          "description": "根據新聞網站《政客》（Politico）17日獨家報導，美國國務院外交電報顯示，伊朗利用美國和以色列對伊朗的戰爭，發動影響力行動，正在多層面損害美國利益，包括危及美國的全球安全...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5408405",
+          "publishedOn": "2026-04-18T13:35:24.000Z",
+          "wordCount": 10498,
+          "title": "伊朗對「這3國」散播疑美論   美外交電文示警：輿論戰不夠力",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/18/5408405_1_1.jpg"
+        },
+        {
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5408400",
+          "author": null,
+          "description": "路透社引述航運消息人士報導，多艘商船今天試圖通過荷莫茲海峽（Strait of Hormuz）時收到伊朗海軍無線電訊息，被告知不得通行，同時有2艘船隻通報遭到槍擊。\r\n\r\n路透社報導，多艘商...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5408400",
+          "publishedOn": "2026-04-18T13:19:00.000Z",
           "wordCount": 10499,
-          "title": "線上訂購網路攻擊服務  愛沙尼亞13學童列「犯罪嫌疑人」調查",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/17/php4JVjXY.jpg"
+          "title": "伊朗海軍再度關閉荷莫茲海峽 2船隻通報遭開火射擊",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/18/phpYRf8gS.jpg"
         },
         {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5407541",
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5408282",
           "author": null,
-          "description": "英國前駐美大使曼德森捲入美國已故性犯罪富豪艾普斯坦醜聞，去年9月遭解職，首相施凱爾多次強調自己是被曼德森蒙蔽，如今曼德森遭揭露根本未通過國安審查，施凱爾再陷政治危機。\r\n\r\n傳統上被視為與執...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5407541",
-          "publishedOn": "2026-04-17T13:18:52.000Z",
-          "wordCount": 10530,
-          "title": "英前駐美大使未通過國安審查 逼宮首相施凱爾下台呼聲再起",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/17/phpYgGsVk.jpg"
-        },
-        {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5407565",
-          "author": null,
-          "description": "「哥倫比亞廣播公司」（CBS）16日報導，據美國國防部轄下國防情報局（DIA）分析師評估，中國正考慮向伊朗供應先進設備X波段雷達系統，可顯著強化伊朗偵測、追蹤低空無人機或巡弋飛...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5407565",
-          "publishedOn": "2026-04-17T13:17:40.000Z",
-          "wordCount": 10500,
-          "title": "美情報評估北京可能軍援伊朗雷達系統  赫格塞斯：中國擔保不會發生",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/17/5407565_1_1.jpg"
-        },
-        {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5407563",
-          "author": null,
-          "description": "美國國防部長赫格塞斯16日警告伊朗，美軍重新整裝的軍事力量較先前更為強大，若無法達成協議將重新恢復戰鬥，並對軍民兩用發電廠等基礎建設發動空襲。\r\n\r\n赫格塞斯表示，「伊朗若選擇...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5407563",
-          "publishedOn": "2026-04-17T13:11:20.000Z",
-          "wordCount": 10496,
-          "title": "若和平協議無望 赫格塞斯示警：美軍將以更強軍力轟炸伊朗",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/17/5407563_1_1.jpg"
-        },
-        {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5407538",
-          "author": null,
-          "description": "遭囚禁的緬甸民主領袖翁山蘇姬今天獲當局縮短刑期後，聯合國人權事務高級專員圖克（Volker Turk）呼籲緬甸政府立即無條件釋放翁山蘇姬。\r\n\r\n法新社報導，圖克在社群媒體平台X發文說：「自...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5407538",
-          "publishedOn": "2026-04-17T12:48:33.000Z",
+          "description": "肯亞外包公司Sama近期與Meta終止合約，16日遭爆大規模裁員1000多名低薪員工，其中多數人為AI內容審查員。\r\n\r\n根據《衛報》（The Guardian）報導，Meta終...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5408282",
+          "publishedOn": "2026-04-18T11:49:58.000Z",
           "wordCount": 10507,
-          "title": "緬甸宣布翁山蘇姬減刑 聯合國籲立刻無條件釋放",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/17/phpsUEv5r.jpg"
+          "title": "被迫看AI智慧眼鏡啪啪畫面 肯亞Meta外包商員工遭裁員逾千人",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/18/phpQUrMro.jpg"
         },
         {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5407479",
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5408294",
           "author": null,
-          "description": "為整頓網路餐飲外賣造假亂象，中國市場監管總局17日以違反食物外送安全規定為由，宣布開鍘包括「拼多多」與「美團」等7家電商平台，總計罰款與沒收人民幣35.97億元（約台幣166....…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5407479",
-          "publishedOn": "2026-04-17T11:20:17.000Z",
-          "wordCount": 10496,
-          "title": "整頓「幽靈外賣」！中國開鍘拼多多等7電商平台 重罰166億餘元",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/17/5407479_1_1.jpg"
+          "description": "美伊日前達成暫時停火並進行和談，但談判狀況並不樂觀，川普17日說如果雙方在下週三（22日）前還是沒能達成協議，可能會中止目前的停火狀態。不過伊朗官方今天（18日）表示，目前拒絕與...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5408294",
+          "publishedOn": "2026-04-18T11:46:54.000Z",
+          "wordCount": 10494,
+          "title": "伊朗「尚未同意」展開新一輪談判  除非美國做到這些......",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/18/phpo82pUi.png"
         },
         {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5407358",
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5408334",
           "author": null,
-          "description": "美國總統川普宣布，自美東時間13日上午10點（台灣時間13日晚間10點）起，封鎖荷姆茲海峽船隻通行。不過，美軍補給似乎遭遇困難。近日有外媒披露，目前位在前線的美軍兩棲突擊艦「的黎...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5407358",
-          "publishedOn": "2026-04-17T11:06:13.000Z",
-          "wordCount": 10510,
-          "title": "美軍史上最糟？中東戰場前線 「的黎波里號」士兵伙食慘照曝光",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/17/phpoKkQgB.jpg"
+          "description": "在哥倫比亞安地斯山脈，全球暖化的影響已明顯可見。該國科奎內華達山脈（Sierra Nevada del Cocuy）的一條冰河，因暖化持續縮減多年後，今年3月已完全融化，只剩裸...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5408334",
+          "publishedOn": "2026-04-18T11:38:15.000Z",
+          "wordCount": 10526,
+          "title": "全球暖化明證+1 哥倫比亞一冰河正式宣告消失",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/18/5408334_1_1.jpg"
         },
         {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5407302",
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5408171",
+          "author": null,
+          "description": "中國「獻血法」與相關規定賦予捐血者在醫療情境中優先用血，證明曾經捐血的「獻血證」成為仲介轉賣牟利工具，炒作達人民幣2000元（約新台幣9200元），無償捐血成為黑色產業鏈。\r\n\r\n中國「獻血...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5408171",
+          "publishedOn": "2026-04-18T10:47:47.000Z",
+          "wordCount": 10494,
+          "title": "中國捐血黑色產業鏈 仲介竟炒作「獻血證」賺黑心錢",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/18/php8qgT3M.png"
+        },
+        {
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5408276",
+          "author": null,
+          "description": "美國持續對往返伊朗港口的航運實施海上限制行動。美軍表示，在阿拉伯海執行巡弋的飛彈驅逐艦參與相關任務，自行動展開以來，已有21艘商船在航行途中接獲指示後轉向，並返回伊朗方向。美國...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5408276",
+          "publishedOn": "2026-04-18T10:04:48.000Z",
+          "wordCount": 10511,
+          "title": "21船全掉頭！美艦持續封鎖伊朗港口 川普：沒100％協議不放行",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/18/phpwttjKO.jpg"
+        },
+        {
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5408271",
+          "author": null,
+          "description": "美國總統川普17日發文表示，以色列「被美國禁止」再轟炸黎巴嫩，這番說法令以色列震驚，根據消息人士說法，總理納坦雅胡是透過媒體才得知此事，顯然事先未經溝通，以國政府已緊急要求白宮...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5408271",
+          "publishedOn": "2026-04-18T10:00:56.000Z",
+          "wordCount": 10498,
+          "title": "川普開口「禁止」再轟黎巴嫩  納坦雅胡震驚急向白宮討說法",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/18/5408271_1_1.jpg"
+        },
+        {
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5408268",
           "author": null,
           "description": "【更多內容  請見影片】\r\n訂閱【自由追新聞】\r\n全新的視界！新聞話題不漏接，快訂閱YouTube 【自由追新聞】，記得開啟小鈴鐺哦！…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5407302",
-          "publishedOn": "2026-04-17T10:09:14.000Z",
-          "wordCount": 10503,
-          "title": "自由說新聞》血本無歸還被鎮壓！中國人不忍了怒吼：罷得好",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/17/phpnpnxZD.jpg"
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5408268",
+          "publishedOn": "2026-04-18T09:46:37.000Z",
+          "wordCount": 10495,
+          "title": "自由說新聞》烏軍狂轟俄國石油庫！澤倫斯基獲「王牌軍援」示警全球新危機",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/18/phpaFLO0t.jpg"
         },
         {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5407330",
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5408145",
           "author": null,
-          "description": "拜新當選與就職的緬甸總統敏昂萊（Min Aung Hlaing）大赦免之賜，自2021年初軍方發動政變奪權以來便遭拘留的緬甸前文人政府的總統溫敏（Win Myint），17日獲...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5407330",
-          "publishedOn": "2026-04-17T09:36:09.000Z",
-          "wordCount": 10512,
-          "title": "軍頭慶祝洗白當總統搞大特赦！緬甸前總統獲釋 翁山蘇姬減刑",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/17/5407330_1_1.jpg"
+          "description": "澳洲與日本週六（18日）正式簽署總價值高達100億澳幣（約台幣2200億元）的軍購合約，採購11艘由三菱重工打造升級的「最上級」護衛艦。這項協議不僅是日本自2014年解除武裝出口...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5408145",
+          "publishedOn": "2026-04-18T09:45:49.000Z",
+          "wordCount": 10510,
+          "title": "澳、日正式簽約  澳洲將採購11艘三菱重工「最上級」護衛艦",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/18/phpGZ0pyn.jpg"
         },
         {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5407279",
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5408204",
           "author": null,
-          "description": "中國四川成都市近日一名女消費者前往當地知名的「FUFU湯」湯泉飯店消費。本想放鬆紓壓，未料此行卻成為一場驚魂記。據該女子指控，在泡湯時現場有小孩因踩到不明異物而喊叫，工作人員打撈...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5407279",
-          "publishedOn": "2026-04-17T09:30:35.000Z",
-          "wordCount": 10500,
-          "title": "超噁！中國女子全裸高級湯泉踩到異物 打撈後驚見「多坨糞便」",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/17/php718gXQ.jpg"
+          "description": "伊朗昨天（17日）才宣布在與美以暫時停火期間開放荷姆茲海峽商業航運，但不到一天時間伊朗又轉彎，今天（18日）又宣布全面恢復對荷姆茲的嚴密監控與實質控制。\r\n\r\n綜合外媒報導，負責...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5408204",
+          "publishedOn": "2026-04-18T09:31:22.000Z",
+          "wordCount": 10506,
+          "title": "重新開放不到1天！ 伊朗軍方宣布：恢復封鎖荷姆茲海峽",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/18/phpgXPTLc.png"
         },
         {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5407236",
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5408215",
           "author": null,
-          "description": "英國警方今（17）日表示，已指控3人縱火未遂。他們涉嫌本週稍早在倫敦西北部企圖縱火襲擊伊朗國際電視台辦公大樓的人員。\r\n\r\n根據《路透》報導，他們都是英國公民，包括2名成年男子...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5407236",
-          "publishedOn": "2026-04-17T09:19:34.000Z",
-          "wordCount": 10508,
-          "title": "企圖火攻倫敦伊朗電視台大樓  3英男縱火未遂被逮",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/17/phpLEEYGl.jpg"
+          "description": "日前有名泰國女性在社群平台「TikTok」，貼出就醫畫面與藥檢證明，控訴她在曼谷參加潑水節活動時，疑似被摻有GHB（俗稱迷姦藥）的水槍擊中，昏倒在醫院，院方也證實，在她體內驗出相...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5408215",
+          "publishedOn": "2026-04-18T09:28:26.000Z",
+          "wordCount": 10497,
+          "title": "泰國潑水節驚傳被噴「迷姦藥」 受害正妹稱：不只她受害",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/18/phpgrVsV6.jpg"
+        },
+        {
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5408148",
+          "author": null,
+          "description": "美國職棒大聯盟（MLB）日前一場比賽，在關鍵時刻場邊卻出現令人臉紅心跳的畫面。一名男球迷在觀眾席上狂揉身邊女伴的胸部，還大力甩動，而這一幕全被現場攝影機捕捉下來。\r\n\r\n外媒報導...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5408148",
+          "publishedOn": "2026-04-18T09:22:12.000Z",
+          "wordCount": 10534,
+          "title": "色膽包天！球場旁男球迷忘情狂揉女伴胸部 臉紅畫面全被播出",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/18/php4uQ04j.jpg"
+        },
+        {
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5408224",
+          "author": null,
+          "description": "日本自衛隊「雷」號護衛艦昨天通過台灣海峽引發中國不滿提出強烈抗議後，共軍東部戰區通報，今天在東海相關海空域，組織海空兵力展開聯合戰備巡航，宣稱這是年度計畫內的正常安排。\r\n\r\n共軍東部戰區下...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5408224",
+          "publishedOn": "2026-04-18T09:20:06.000Z",
+          "wordCount": 10485,
+          "title": "日本自衛隊艦艇通過台海後  共軍今宣布在東海軍演",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/18/php6vp3se.jpg"
+        },
+        {
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5408159",
+          "author": null,
+          "description": "美國川普政府今年1月生擒委內瑞拉強人總統馬杜羅（Nicolás Maduro）後，2月28日又與以色列聯手對伊朗發動大規模軍事打擊，斬首最高領袖哈米尼（Ali Khamenei）...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5408159",
+          "publishedOn": "2026-04-18T09:17:06.000Z",
+          "wordCount": 10581,
+          "title": "伊朗之後換你！川普親曝可能對「這1共產政權」展開軍事行動",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/18/phpSOOrqx.png"
+        },
+        {
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5408147",
+          "author": null,
+          "description": "52歲印度籍男乘客涉嫌在飛往澳洲的酷航班機上，試圖性侵坐在旁邊的女子而被捕。澳洲當局說，最重可判處監禁12年。\r\n\r\n綜合媒體報導，澳洲聯邦警察稱，查胡安（Sudhir Kuma...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5408147",
+          "publishedOn": "2026-04-18T08:49:40.000Z",
+          "wordCount": 10509,
+          "title": "印度阿北搭機竟意圖性侵鄰坐女乘客 最嚴重下場曝",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/18/phpM9D4Ae.jpg"
+        },
+        {
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5408189",
+          "author": null,
+          "description": "土耳其外交部長費丹（Hakan Fidan）今天（18日）指責以色列拿安全來當奪取「更多土地」的藉口。\r\n\r\n費丹在於土國舉行的「安塔利亞外交論壇」（Antalya Diplo...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5408189",
+          "publishedOn": "2026-04-18T08:48:46.000Z",
+          "wordCount": 10504,
+          "title": "控以色列拿安全為藉口奪取「更多土地」  土耳其外長：必須停止",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/04/18/5408189_1_1.jpg"
         }
       ]
     },
@@ -987,6 +987,16 @@
       "siteUrl": "https://cn.nytimes.com",
       "articles": [
         {
+          "id": "https://cn.nytimes.com/china/20260416/lu-xun-chinese-writer-communist-mascot/zh-hant/",
+          "author": "ANDREW HIGGINS",
+          "description": "魯迅曾因犀利批判儒家文化和統治者的道德說教而聞名，但如今已被包裝為一個溫和、歡快的文壇吉祥物。他的新形象成為中共努力重塑歷史、為官方敘事服務的典型案例。\n\n                    \nQilai Shen for The New York Times",
+          "link": "https://cn.nytimes.com/china/20260416/lu-xun-chinese-writer-communist-mascot/zh-hant/?utm_source=RSS",
+          "publishedOn": "2026-04-18T03:32:40.000Z",
+          "wordCount": 245,
+          "title": "從反體制先鋒到中共吉祥物：魯迅被誰磨平了稜角？",
+          "imageUrl": "https://static01.nyt.com/images/2026/03/24/multimedia/00int-china-writer-promo-ftvj/00int-china-writer-promo-ftvj-articleLarge.jpg"
+        },
+        {
           "id": "https://cn.nytimes.com/world/20260417/bitcoin-satoshi-adam-back-israel-lebanon-ceasefire/zh-hant/",
           "author": "KATRIN BENNHOLD",
           "description": "中本聰在加密貨幣圈裡是神一般的存在，無數人試圖揭開其身份之謎。時報記者卡雷魯調查發現，英國計算機科學家亞當·巴克很可能就是中本聰。但為何巴克本人堅持否認？\n\n                    \nAmir Hamja for The New York Times",
@@ -995,16 +1005,6 @@
           "wordCount": 229,
           "title": "揭開比特幣最大謎團：誰是中本聰？",
           "imageUrl": "https://static01.nyt.com/images/2026/04/17/multimedia/17int-theworld-asia-nl-back-mjvz/17int-theworld-asia-nl-back-mjvz-articleLarge-v2.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/china/20260416/lu-xun-chinese-writer-communist-mascot/zh-hant/",
-          "author": "ANDREW HIGGINS",
-          "description": "魯迅曾因犀利批判儒家文化和統治者的道德說教而聞名，但如今已被包裝為一個溫和、歡快的文壇吉祥物。他的新形象成為中共努力重塑歷史、為官方敘事服務的典型案例。\n\n                    \nQilai Shen for The New York Times",
-          "link": "https://cn.nytimes.com/china/20260416/lu-xun-chinese-writer-communist-mascot/zh-hant/?utm_source=RSS",
-          "publishedOn": "2026-04-17T03:35:15.000Z",
-          "wordCount": 245,
-          "title": "從反體制先鋒到中共吉祥物：魯迅被誰磨平了稜角？",
-          "imageUrl": "https://static01.nyt.com/images/2026/03/24/multimedia/00int-china-writer-promo-ftvj/00int-china-writer-promo-ftvj-articleLarge.jpg"
         },
         {
           "id": "https://cn.nytimes.com/china/20260417/china-iran-trump-diplomacy-hormuz/zh-hant/",

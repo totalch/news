@@ -6,62 +6,132 @@
       "siteUrl": "https://www.bbc.com/zhongwen/trad",
       "articles": [
         {
-          "id": "https://www.bbc.com/zhongwen/articles/cr479y23x29o/trad#0",
+          "id": "https://www.bbc.com/zhongwen/articles/c8r27nd55y2o/trad#0",
+          "author": null,
+          "description": "英屬直布羅陀與西班牙均希望，實施人員自由流動可以促進經濟發展。",
+          "link": "https://www.bbc.com/zhongwen/articles/c8r27nd55y2o/trad?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-07-14T00:17:28.000Z",
+          "wordCount": 1873,
+          "title": "英西118年邊防撤關 直布羅陀迎來新紀元",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/df71/live/aad05480-7c4a-11f1-bee8-53ce494e1abc.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/zhongwen/articles/c33ygke3y83o/trad#0",
+          "author": null,
+          "description": "一具有6700萬年歷史的霸王龍（T. rex）化石將在紐約拍賣，拍前估值高於任何其他恐龍。",
+          "link": "https://www.bbc.com/zhongwen/articles/c33ygke3y83o/trad?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-07-14T00:17:15.000Z",
+          "wordCount": 1861,
+          "title": "這條霸王龍會成為全球最昂貴的恐龍化石嗎？",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/5d2f/live/866016c0-7c78-11f1-b976-0b9c15b0ccfc.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/zhongwen/articles/c4gyn4yr9rlo/trad#0",
+          "author": null,
+          "description": "一名在火災發生時正在表演的樂手表示，他當時沿地面爬向出口，之後因某處發生爆炸而被拋出酒吧。",
+          "link": "https://www.bbc.com/zhongwen/articles/c4gyn4yr9rlo/trad?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-07-13T14:42:29.000Z",
+          "wordCount": 2595,
+          "title": "所有人「擠成一團」：目擊者描述致命大火如何席捲曼谷酒吧",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/90cd/live/611c0320-7ea7-11f1-b976-0b9c15b0ccfc.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/zhongwen/articles/cy9r72jej2wo/trad#0",
+          "author": null,
+          "description": "葛蘭姆自2003年起出任參議員，原定於今年11月中期選舉角逐第5個任期，是共和黨內部國防與國際事務的重要發聲者，也是現任總統特朗普的緊密政治盟友。",
+          "link": "https://www.bbc.com/zhongwen/articles/cy9r72jej2wo/trad?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-07-13T11:23:37.000Z",
+          "wordCount": 1105,
+          "title": "美參議員葛蘭姆突辭世：主張友台、強硬對華的特朗普盟友",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/bd48/live/c615f170-7ea0-11f1-bee8-53ce494e1abc.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/zhongwen/articles/ced4qe4263po/trad#4",
+          "author": null,
+          "description": "颱風「巴威」先後登陸浙江台州及溫州後持續北移，雖已減弱為熱帶風暴，但其外圍環流仍為華東、華北帶來強降雨。河北寬城遭遇暴雨引發嚴重水浸，約1800人被困，多輛汽車被洪水沖走，是受災最嚴重地區之一。",
+          "link": "https://www.bbc.com/zhongwen/articles/ced4qe4263po/trad?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-07-13T09:35:24.000Z",
+          "wordCount": 1146,
+          "title": "「巴威」颱風橫掃華東後北移 河北洪水沖走汽車",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/1f19/live/0c163a50-7e9b-11f1-bee8-53ce494e1abc.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/zhongwen/articles/cp36v209ynlo/trad#3",
+          "author": null,
+          "description": "美國、中國、歐洲、俄羅斯及其他地方將如何看待預期中的英國新首相？",
+          "link": "https://www.bbc.com/zhongwen/articles/cp36v209ynlo/trad?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-07-13T09:09:59.000Z",
+          "wordCount": 1971,
+          "title": "貝安德拜相幾成定局：BBC記者評估中美俄等國怎樣看他",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/ece1/live/82a58390-7e98-11f1-bee8-53ce494e1abc.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/zhongwen/articles/ckg47kxywd7o/trad#3",
+          "author": null,
+          "description": "27名死者包括9男18女，超過60人正在醫院接受治療。BBC記者週一抵達現場時，空氣中仍瀰漫著刺鼻的焦臭味。",
+          "link": "https://www.bbc.com/zhongwen/articles/ckg47kxywd7o/trad?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-07-13T07:45:06.000Z",
+          "wordCount": 2107,
+          "title": "曼谷酒吧大火至少27死22重傷",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/9aa1/live/ac026a50-7e57-11f1-926f-c90d1bcfbc84.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/zhongwen/articles/cq61eqrdj74o/trad#0",
+          "author": null,
+          "description": "販毒集團成員及前同事描述張智棟如何涉嫌將中國化學品與墨西哥製毒實驗室連繫起來。",
+          "link": "https://www.bbc.com/zhongwen/articles/cq61eqrdj74o/trad?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-07-13T07:44:56.000Z",
+          "wordCount": 2019,
+          "title": "那位被指為墨西哥「芬太尼王」的中國留學生",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/4fb9/live/72884b10-7c62-11f1-926f-c90d1bcfbc84.png"
+        },
+        {
+          "id": "https://www.bbc.com/zhongwen/articles/cn590le3rzro/trad#3",
+          "author": null,
+          "description": "手機遊戲發行商 Scopely 副總裁史特蘭卡（Michael Steranka）表示，這款遊戲一直以來的核心理念都是讓人們凝聚在一起。",
+          "link": "https://www.bbc.com/zhongwen/articles/cn590le3rzro/trad?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-07-13T04:13:51.000Z",
+          "wordCount": 2138,
+          "title": "Pokemon Go 十週年：數百萬玩家仍在踏上「全部收服」之路",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/c312/live/88ec5440-7be6-11f1-9010-bd4e2d0a26e0.png"
+        },
+        {
+          "id": "https://www.bbc.com/zhongwen/articles/cr479y23x29o/trad#3",
           "author": null,
           "description": "福氏耐格里原蟲（Naegleria fowleri）可在人們跳入水中時經由鼻孔進入大腦，而且往往致命。台灣近年就曾出現病例。",
           "link": "https://www.bbc.com/zhongwen/articles/cr479y23x29o/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-07-13T02:41:49.000Z",
-          "wordCount": 2055,
+          "wordCount": 2053,
           "title": "「就像恐怖電影一樣」：曾現蹤台灣的「食腦」微生物或會蔓延全球",
           "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/1c8b/live/264d2d60-7951-11f1-9510-1546718f668b.png"
         },
         {
-          "id": "https://www.bbc.com/zhongwen/articles/ckg47kxywd7o/trad#0",
-          "author": null,
-          "description": "據報消防員在約半小時內控制了火勢，但造成的後果已極為慘重。27名死者包括9男和18女，超過60人正在醫院接受治療，另有多人下落不明。",
-          "link": "https://www.bbc.com/zhongwen/articles/ckg47kxywd7o/trad?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-07-13T02:11:56.000Z",
-          "wordCount": 2077,
-          "title": "曼谷酒吧大火至少27死60傷",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/9aa1/live/ac026a50-7e57-11f1-926f-c90d1bcfbc84.jpg"
-        },
-        {
-          "id": "https://www.bbc.com/zhongwen/articles/c2kylx0z2kzo/trad#0",
+          "id": "https://www.bbc.com/zhongwen/articles/c2kylx0z2kzo/trad#3",
           "author": null,
           "description": "專家呼籲各界更加關注高溫對女性的影響，並加強針對女性的保障措施。",
           "link": "https://www.bbc.com/zhongwen/articles/c2kylx0z2kzo/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-07-13T00:10:43.000Z",
-          "wordCount": 1830,
+          "wordCount": 1825,
           "title": "高溫來襲，為何女性更難熬？",
           "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/2bab/live/abde6800-7ddd-11f1-91f9-abeb669686c2.jpg"
         },
         {
-          "id": "https://www.bbc.com/zhongwen/articles/c1myd9pyrv4o/trad#0",
+          "id": "https://www.bbc.com/zhongwen/articles/c1myd9pyrv4o/trad#3",
           "author": null,
           "description": "有溫州居民表示，當地政府提前一週已經為防災安排轉移。廠房釘死門窗和斷電、人員撤離。漁船拉上岸、地庫汽車挪上地面。",
           "link": "https://www.bbc.com/zhongwen/articles/c1myd9pyrv4o/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-07-12T10:12:45.000Z",
-          "wordCount": 1770,
+          "wordCount": 1785,
           "title": "颱風巴威兩度登陸浙江，當地人如何把防災做得「密不透風」？",
           "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/0e2e/live/6717ffb0-7dd8-11f1-b976-0b9c15b0ccfc.jpg"
         },
         {
-          "id": "https://www.bbc.com/zhongwen/articles/c4gy1xleelgo/trad#3",
-          "author": null,
-          "description": "接近200萬人已從浙江東部疏散，而人口約1,000萬的溫州市位於風暴路徑之中。",
-          "link": "https://www.bbc.com/zhongwen/articles/c4gy1xleelgo/trad?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-07-12T07:21:37.000Z",
-          "wordCount": 1672,
-          "title": "中國一週內第二個颱風登陸，近200萬人疏散",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/35a2/live/71d30ce0-7db7-11f1-b319-c96fc72d1f47.jpg"
-        },
-        {
-          "id": "https://www.bbc.com/zhongwen/articles/c77ypm8re6vo/trad#0",
+          "id": "https://www.bbc.com/zhongwen/articles/c77ypm8re6vo/trad#3",
           "author": null,
           "description": "在韓國，談戀愛並不容易，因此一群僧人希望透過一場30小時的山林靜修相親活動，幫助單身男女找到另一半。",
           "link": "https://www.bbc.com/zhongwen/articles/c77ypm8re6vo/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-07-12T03:29:32.000Z",
-          "wordCount": 1874,
+          "wordCount": 1891,
           "title": "十二男十二女走進一座佛寺，僧人能幫他們找到愛情嗎？",
           "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/932a/live/fd05d8d0-7bb2-11f1-9510-1546718f668b.jpg"
         },
@@ -71,7 +141,7 @@
           "description": "蚊子早在落到我們身上之前，便會從遠處解讀人體發出的訊號。看看你是否也是這些吸血昆蟲的頭號目標。",
           "link": "https://www.bbc.com/zhongwen/articles/c20y3g2rl7jo/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-07-12T01:09:32.000Z",
-          "wordCount": 1711,
+          "wordCount": 1728,
           "title": "為什麼有些人特別容易被蚊叮？",
           "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/4d79/live/43c25e30-7c9c-11f1-b976-0b9c15b0ccfc.jpg"
         },
@@ -81,7 +151,7 @@
           "description": "颱風巴威暴風圈週六（7月11日）清晨進入台灣陸地，下午至傍晚最接近台灣。受外圍環流影響，屏東牡丹鄉及蘭嶼錄得14級強陣風，時速高達164公里，氣象署已發布「颱風強風告警」。",
           "link": "https://www.bbc.com/zhongwen/articles/cz9l81k2geko/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-07-11T09:09:30.000Z",
-          "wordCount": 1130,
+          "wordCount": 1129,
           "title": "颱風巴威：台灣15萬戶停電 中國大陸疏散逾百萬人",
           "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/cbaf/live/cc48ef80-7d00-11f1-926f-c90d1bcfbc84.jpg"
         },
@@ -91,7 +161,7 @@
           "description": "德國宣判主要由中國籍男性組成的「德國老司機駕校」Telegram跨國性侵案，核心成員相繼落網。",
           "link": "https://www.bbc.com/zhongwen/articles/c5yz410p7ejo/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-07-11T04:43:46.000Z",
-          "wordCount": 1088,
+          "wordCount": 1087,
           "title": "德國華人跨國性侵案：拆解「老司機」網絡與隱密性暴力",
           "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/c9c4/live/612dd610-7c39-11f1-9510-1546718f668b.jpg"
         },
@@ -101,29 +171,19 @@
           "description": "妮娜自幼被母親逼她看病，並接受不必要治的療，讓她相信自己罹患重病。直到一名醫生揭開所謂「疾病」背後，其實是一場長年的兒童虐待。",
           "link": "https://www.bbc.com/zhongwen/articles/cwylzlg49lwo/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-07-10T07:12:18.000Z",
-          "wordCount": 1808,
+          "wordCount": 1825,
           "title": "「你快死了」——母親多年來讓我深信自己病重，直到一名醫生揭開真相",
           "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/01ba/live/9c31c8b0-7b04-11f1-9742-ddd4bea925d0.jpg"
         },
         {
-          "id": "https://www.bbc.com/zhongwen/articles/c4gyq35n0d2o/trad#3",
+          "id": "https://www.bbc.com/zhongwen/articles/c4gyq35n0d2o/trad#8",
           "author": null,
           "description": "勞埃德銀行執行長談到如何在戀愛關係中儲蓄、制定預算、避免詐騙和管理金錢。",
           "link": "https://www.bbc.com/zhongwen/articles/c4gyq35n0d2o/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-07-10T06:30:56.000Z",
-          "wordCount": 1702,
+          "wordCount": 1719,
           "title": "「我掌管英國最大銀行」：推薦五種理財方法",
           "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/47dd/live/7709e540-7ae6-11f1-9a9c-53fd8f110370.jpg"
-        },
-        {
-          "id": "https://www.bbc.com/zhongwen/articles/cdr47vzk81no/trad#3",
-          "author": null,
-          "description": "根據新華社消息，中國東南部城市晉江一家鞋廠在週四（7月9日晚）發生火災，造成至少28人死亡。週五，當地召開記者會，福建省政府宣布已經成立事故調查組追責。",
-          "link": "https://www.bbc.com/zhongwen/articles/cdr47vzk81no/trad?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-07-10T04:51:23.000Z",
-          "wordCount": 1653,
-          "title": "福建泉州晉江鞋廠大火致28人遇難，習近平指「嚴肅追責」",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/2a09/live/cf307130-7c12-11f1-9510-1546718f668b.jpg"
         },
         {
           "id": "https://www.bbc.com/zhongwen/articles/ce8kxgwjer4o/trad#3",
@@ -131,7 +191,7 @@
           "description": "一場暴雨讓這座已有66年歷史的水庫失守，引發外界對中國老舊水庫安全性的討論。",
           "link": "https://www.bbc.com/zhongwen/articles/ce8kxgwjer4o/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-07-10T04:35:26.000Z",
-          "wordCount": 1674,
+          "wordCount": 1691,
           "title": "廣西水災：「大躍進」時期建的水庫為何擋不了極端洪水？",
           "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/bc32/live/f870af60-7ba9-11f1-9671-6995d20a3bb8.jpg"
         },
@@ -141,19 +201,9 @@
           "description": "在2026年世界盃上，為幫助裁判做出正確判罰而開發的技術成為關注焦點。",
           "link": "https://www.bbc.com/zhongwen/articles/ckg8x01k1j9o/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-07-10T01:07:42.000Z",
-          "wordCount": 1741,
+          "wordCount": 1758,
           "title": "什麼是VAR？為何在世界盃具有爭議性？",
           "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/24f2/live/9f8f2020-7ae6-11f1-9a9c-53fd8f110370.jpg"
-        },
-        {
-          "id": "https://www.bbc.com/zhongwen/articles/cjrgxjpdz7xo/trad#8",
-          "author": null,
-          "description": "英國國會下議院的工黨議員們開始提名新黨魁，接替上月宣布辭職的施紀賢爵士（Sir Keir Starmer）。",
-          "link": "https://www.bbc.com/zhongwen/articles/cjrgxjpdz7xo/trad?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-07-09T18:08:35.000Z",
-          "wordCount": 1739,
-          "title": "一文讀懂貝安德拜相之路：英國工黨如何選舉新黨魁",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/ec06/live/eabf37b0-7adc-11f1-9a9c-53fd8f110370.jpg"
         },
         {
           "id": "https://www.bbc.com/zhongwen/articles/cx2dzp9pr9po/trad#4",
@@ -161,27 +211,17 @@
           "description": "曾經任職公安的中國異見人士董廣平，今年5月底獨自駕駛一艘充氣橡皮艇，從中國山東出發，成功偷渡至韓國。他接受BBC中文專訪，憶述這段驚險的40小時海上偷渡之旅。他最終在韓國西岸登陸被當地警方拘留，6月獲准以難民身份轉赴加拿大。董廣平在過去十年，四次嘗試偷渡出國但都以失敗告終，他也談到以不同方法嘗試逃往泰國、越南和台灣的經歷。",
           "link": "https://www.bbc.com/zhongwen/articles/cx2dzp9pr9po/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-07-09T15:54:56.000Z",
-          "wordCount": 1141,
+          "wordCount": 1140,
           "title": "「怕死就只有死路一條」：中國異見者董廣平偷渡韓國之路",
           "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/5ec5/live/7c17f6e0-7bad-11f1-b976-0b9c15b0ccfc.jpg"
         },
         {
-          "id": "https://www.bbc.com/zhongwen/articles/cp8l0jk3ygmo/trad#3",
-          "author": null,
-          "description": "前民主派立法議員歐錦新去年7月被中國澳門司法警察以勾結罪嫌拘捕，如今他被起訴更嚴重的「顛覆國家政權」罪。",
-          "link": "https://www.bbc.com/zhongwen/articles/cp8l0jk3ygmo/trad?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-07-09T13:30:24.000Z",
-          "wordCount": 1719,
-          "title": "澳門國安法首案起訴 歐錦新顛覆罪面臨25年徒刑",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/7f90/live/2111a2e0-7b9a-11f1-b976-0b9c15b0ccfc.jpg"
-        },
-        {
-          "id": "https://www.bbc.com/zhongwen/articles/c3dy71dgg5po/trad#3",
+          "id": "https://www.bbc.com/zhongwen/articles/c3dy71dgg5po/trad#6",
           "author": null,
           "description": "事件揭露抽驗機制漏洞，生產商今年4月首次抽驗沒超標，到5月下游業者自主檢驗發現超標後，只在供應鏈內逐層向上游通報，主管機關延至6月底才收到通知，逾50日「空窗期」令問題油擴散全台。",
           "link": "https://www.bbc.com/zhongwen/articles/c3dy71dgg5po/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-07-09T10:52:03.000Z",
-          "wordCount": 1681,
+          "wordCount": 1698,
           "title": "台灣毒油：致癌沙拉油流入各大超商，食安制度為何失效？",
           "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/4cb8/live/55850830-7b83-11f1-b976-0b9c15b0ccfc.jpg"
         },
@@ -191,7 +231,7 @@
           "description": "貝安德被視為英國新任首相的大熱門，其中國政策是否會延續其大曼城市長經驗的務實路線引發議論。",
           "link": "https://www.bbc.com/zhongwen/articles/cvgjm0x0pzlo/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-07-09T04:39:15.000Z",
-          "wordCount": 2352,
+          "wordCount": 2369,
           "title": "若入主唐寧街 貝安德會開啟新的中英關係嗎？",
           "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/333d/live/fb614420-72ec-11f1-8e1d-bbbb1017d210.jpg"
         },
@@ -201,27 +241,27 @@
           "description": "來自中國廣東的陳土豆，以誇張的表情創作搞笑影片，在兩岸網絡走紅，近期更頻繁赴台參加活動。BBC中文採訪台灣粉絲和學者，了解她在台灣受歡迎的原因，以及在兩岸關係緊張之下，這位中國性少數網紅為何面對質疑？",
           "link": "https://www.bbc.com/zhongwen/articles/c982vpj7zv1o/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-07-09T04:31:07.000Z",
-          "wordCount": 1687,
+          "wordCount": 1704,
           "title": "中國搞笑網紅「陳土豆」台灣爆紅，為何引「統戰」爭議？",
           "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/da16/live/9c218a60-7a67-11f1-b3a0-9d60633dee75.png"
         },
         {
-          "id": "https://www.bbc.com/zhongwen/articles/cx2xlj2ew6lo/trad#3",
+          "id": "https://www.bbc.com/zhongwen/articles/cx2xlj2ew6lo/trad#7",
           "author": null,
           "description": "事後避孕藥有越早服用效果越好，一般有「72小時」的黃金時效。有受訪的台灣女性對BBC中文說，擔心未來如果要先到醫院看診再取藥，過程將大幅增加不便，甚至可能因拖延而提高意外懷孕風險。",
           "link": "https://www.bbc.com/zhongwen/articles/cx2xlj2ew6lo/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-07-09T03:18:47.000Z",
-          "wordCount": 1733,
+          "wordCount": 1750,
           "title": "「沒戴保險套就不要做」？台灣擬管制事後避孕藥引發女性焦慮",
           "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/d138/live/086406b0-7a88-11f1-bf04-effa1d05b41c.jpg"
         },
         {
-          "id": "https://www.bbc.com/zhongwen/articles/c8d2060dj7mo/trad#3",
+          "id": "https://www.bbc.com/zhongwen/articles/c8d2060dj7mo/trad#6",
           "author": null,
           "description": "有學者分析，男性犯案者在群體之間的交流與分享，會造成一種「學習效應」，也會導致一些人將迷姦的「幻想」轉化成實際的犯罪行為。",
           "link": "https://www.bbc.com/zhongwen/articles/c8d2060dj7mo/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-07-09T00:04:28.000Z",
-          "wordCount": 2131,
+          "wordCount": 2148,
           "title": "德國華人性侵案：拆解性暴力案件的犯罪心理",
           "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/d5d0/live/716f6b30-79a8-11f1-a627-714adb4eed6e.jpg"
         },
@@ -231,7 +271,7 @@
           "description": "「財務自由，提前退休」FIRE運動興起，參與者扭盡六壬拼命存錢。",
           "link": "https://www.bbc.com/zhongwen/articles/c9w208vvdg9o/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-07-08T09:06:30.000Z",
-          "wordCount": 1788,
+          "wordCount": 1804,
           "title": "沒苦硬吃？「我們十年來天天自己帶飯，40歲就退休了」",
           "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/1662/live/8c9d1790-73e0-11f1-8546-8f19e4fe30f4.jpg"
         },
@@ -241,19 +281,9 @@
           "description": "今年27歲的李靜是德國華人性侵案中，首位願意分享經歷的受害人。她被案中其一被告偷拍裸露的影像而毫不知情，一直至四年後德國警方聯絡。",
           "link": "https://www.bbc.com/zhongwen/articles/c5yz21e5jy5o/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-07-08T04:43:49.000Z",
-          "wordCount": 1825,
+          "wordCount": 1842,
           "title": "德國華人性侵案受害者：「我要讓他們為這些事情感到羞恥」",
           "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/9ad7/live/839d8840-750d-11f1-8e1d-bbbb1017d210.png"
-        },
-        {
-          "id": "https://www.bbc.com/zhongwen/articles/cvgdl8dj0ego/trad#4",
-          "author": null,
-          "description": "颱風「美莎克」挾帶強降雨侵襲中國南方，導致廣西南寧水庫堤壩潰決，大量洪水傾瀉而出，淹沒村鎮和道路。",
-          "link": "https://www.bbc.com/zhongwen/articles/cvgdl8dj0ego/trad?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-07-07T16:57:09.000Z",
-          "wordCount": 1146,
-          "title": "颱風「美莎克」襲擊中國：廣西水庫潰壩 湖北龍捲風致11死",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/4817/live/d24a32e0-7a26-11f1-9510-1546718f668b.jpg"
         },
         {
           "id": "https://www.bbc.com/zhongwen/articles/cg744yp35pgo/trad#5",
@@ -261,7 +291,7 @@
           "description": "美國最高法院裁定特朗普以行政命令終結出生公民權無效，事件焦點已轉為「孕婦能否順利入境」。專家告訴BBC，未來簽證審查、入境詢問等或將更嚴格。",
           "link": "https://www.bbc.com/zhongwen/articles/cg744yp35pgo/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-07-07T09:08:14.000Z",
-          "wordCount": 1862,
+          "wordCount": 1879,
           "title": "特朗普輸了「出生公民權」官司 但未來孕婦入境美國是否更難?",
           "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/898e/live/bba15860-79b9-11f1-b976-0b9c15b0ccfc.jpg"
         },
@@ -271,7 +301,7 @@
           "description": "塞拉利昂的漁民稱，中國的大型漁船正非法掠奪他們岸邊的漁業資源。",
           "link": "https://www.bbc.com/zhongwen/articles/czxqq295kkro/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-07-07T08:11:51.000Z",
-          "wordCount": 1823,
+          "wordCount": 1840,
           "title": "中國來的拖網漁船讓這群非洲漁民叫苦連天",
           "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/2be5/live/fdafa040-6f23-11f1-af60-8d06db225241.jpg"
         },
@@ -281,7 +311,7 @@
           "description": "在擔任國際足協主席10年後，巴洛貢事件的爭議會否成為令因凡蒂諾失勢的關鍵？別指望它。",
           "link": "https://www.bbc.com/zhongwen/articles/cg53l85l7gno/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-07-07T07:00:25.000Z",
-          "wordCount": 2397,
+          "wordCount": 2414,
           "title": "特朗普干預風波引發歐洲反彈，為什麼因凡蒂諾毫不擔心？",
           "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/08f4/live/ec7d5030-79d0-11f1-9510-1546718f668b.jpg"
         },
@@ -291,29 +321,9 @@
           "description": "中國在澳洲與斐濟簽署防務協議後不久，於太平洋試射「潛射戰略導彈」，美國質疑該飛彈「可攜帶核彈頭」。",
           "link": "https://www.bbc.com/zhongwen/articles/cp8rx7n8xjpo/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-07-07T05:44:19.000Z",
-          "wordCount": 1951,
+          "wordCount": 1968,
           "title": "中國試射導彈 美國質疑暗擴核武庫 澳洲斥挑釁",
           "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/a369/live/42129120-79c4-11f1-a627-714adb4eed6e.jpg"
-        },
-        {
-          "id": "https://www.bbc.com/zhongwen/articles/c75yye47r15o/trad#6",
-          "author": null,
-          "description": "香港政府就完善香港的性罪行法例的建議提交立法會討論，並展開為期一個月的公眾諮詢，目標在今個政府任期內完成立法。",
-          "link": "https://www.bbc.com/zhongwen/articles/c75yye47r15o/trad?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-07-06T23:59:36.000Z",
-          "wordCount": 1904,
-          "title": "香港諮詢性罪行法律改革，能給受害者帶來足夠保障嗎？",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/1b58/live/86b93780-793c-11f1-a627-714adb4eed6e.jpg"
-        },
-        {
-          "id": "https://www.bbc.com/zhongwen/articles/cly0005y310o/trad#6",
-          "author": null,
-          "description": "有學者對BBC中文表示，事件發生的時間點在中國實施《民族團結進步促進法》後，引發公眾對「長臂管轄」的憂慮。加上矢板明夫台、日雙重身份，令原本緊張的兩岸及中日關係更複雜化。",
-          "link": "https://www.bbc.com/zhongwen/articles/cly0005y310o/trad?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-07-06T23:57:40.000Z",
-          "wordCount": 1928,
-          "title": "矢板明夫台灣遇襲：香港人嫌犯、「打帶跑」模式與跨境鎮壓憂慮",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/055f/live/738826c0-7960-11f1-b461-8fc790ffbac8.jpg"
         },
         {
           "id": "https://www.bbc.com/zhongwen/articles/c8r2208nl2no/trad#7",
@@ -321,7 +331,7 @@
           "description": "「這有點像中國後毛澤東時代的那一刻，」瓦埃茲說，「也就是說，整個體制認識到必須有所改變。這一新領導層明白，它需要一份新的社會契約。」",
           "link": "https://www.bbc.com/zhongwen/articles/c8r2208nl2no/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-07-06T09:07:09.000Z",
-          "wordCount": 1992,
+          "wordCount": 2009,
           "title": "伊朗哈梅內伊葬禮後：「有點像中國的後毛澤東時代」",
           "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/f432/live/ca78ef20-76d9-11f1-9510-1546718f668b.jpg"
         },
@@ -331,7 +341,7 @@
           "description": "不少青少年吸食含有「依托咪酯」的電子煙後，身體出現如「殭屍」般的失控狀態，甚至有人因吸食後駕駛釀成車禍，奪走至少數十人命。",
           "link": "https://www.bbc.com/zhongwen/articles/c1eyqxdzxz5o/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-07-06T04:31:23.000Z",
-          "wordCount": 1721,
+          "wordCount": 1738,
           "title": "「依托咪酯」毒品危機：為何在東亞青少年間蔓延？",
           "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/ce6c/live/2fe9ad60-76ce-11f1-b508-3b3f1f22a3c1.jpg"
         },
@@ -341,7 +351,7 @@
           "description": "多年前一趟印度的旅行，讓這名英國女子罹患罕見罹患神經囊蟲病，治療多年後寄生蟲鈣化在腦中，她未做取出手術，醫師稱已治療以「殺死所有蟲卵」。",
           "link": "https://www.bbc.com/zhongwen/articles/crlw1352re4o/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-07-05T01:08:34.000Z",
-          "wordCount": 1840,
+          "wordCount": 1857,
           "title": "「在印度旅行的一頓飯，讓38條寄生蟲鑽進了我的腦袋」",
           "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/ea65/live/801b8d10-74c3-11f1-b3a4-17c48cb4ee82.jpg"
         },
@@ -351,19 +361,9 @@
           "description": "你的裝置正以你未必察覺的方式改變你的身體。手機及其數碼「同伴」可能正在改變你的頸部形態、損害視力、影響運動技能，並削弱肌肉力量。",
           "link": "https://www.bbc.com/zhongwen/articles/cj0gvjp5ymlo/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-07-05T01:06:39.000Z",
-          "wordCount": 1703,
+          "wordCount": 1720,
           "title": "手部無力、視力模糊：你的科技產品是否讓你患上了「手機病」？",
           "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/31a2/live/c3a44030-75c3-11f1-9510-1546718f668b.jpg"
-        },
-        {
-          "id": "https://www.bbc.com/zhongwen/articles/c3ry32ypn7zo/trad#7",
-          "author": null,
-          "description": "中國乙女遊戲基本都已能陪玩家工作、學習，甚至睡覺；玩家還可以給角色發微信消息、瀏覽他們的微信朋友圈。這些設計都在不斷強化一種體驗：讓「紙片人老公」盡可能地進入玩家的現實生活。",
-          "link": "https://www.bbc.com/zhongwen/articles/c3ry32ypn7zo/trad?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-07-03T13:14:32.000Z",
-          "wordCount": 1716,
-          "title": "乙女遊戲：在「2.5次元」中，談一場模糊虛擬與現實的戀愛",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/64f3/live/71bf3a50-76b2-11f1-925a-557464d48d36.jpg"
         },
         {
           "id": "https://www.bbc.com/zhongwen/articles/cvgle2xd2wro/trad#4",
@@ -371,7 +371,7 @@
           "description": "香港銅鑼灣書店店長林榮基於2026年7月2日因癌症在台北病逝，終年70歲。他和銅鑼灣書店股東、出版人等5人於2015年失蹤，其後證實遭北京當局逮捕和控告販賣中國大陸政治「禁書」等罪名。他因為擔心香港政府修訂《逃犯條例》而移居台灣，在台北重開書店。他離世後，台灣總統賴清德、多名香港民主派人士皆發文哀悼。",
           "link": "https://www.bbc.com/zhongwen/articles/cvgle2xd2wro/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-07-03T12:11:17.000Z",
-          "wordCount": 1121,
+          "wordCount": 1120,
           "title": "香港銅鑼灣書店店長林榮基病逝 從港至台以書店反抗",
           "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/b168/live/82792660-76d7-11f1-b976-0b9c15b0ccfc.jpg"
         },
@@ -381,7 +381,7 @@
           "description": "250年來，這兩個國家每一次撕破臉，都留了後路；每一次交好，都留著後手。",
           "link": "https://www.bbc.com/zhongwen/articles/cgrklk4g1rxo/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-07-03T09:09:03.000Z",
-          "wordCount": 1783,
+          "wordCount": 1800,
           "title": "美國建國250年：五個中美交往的歷史細節與默契",
           "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/3a45/live/2ab98e30-769e-11f1-854e-475b00290f64.jpg"
         },
@@ -391,7 +391,7 @@
           "description": "全球十大人口大國中，八個屢屢無緣晉身足球界的頂級盛會。它們該如何扭轉自己在體育賽場上的命運？",
           "link": "https://www.bbc.com/zhongwen/articles/cewq72grz2wo/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-07-02T23:46:49.000Z",
-          "wordCount": 2121,
+          "wordCount": 2138,
           "title": "中國、印度等八個人口大國無緣世界盃，為什麼？",
           "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/a501/live/0d6a3de0-7561-11f1-9510-1546718f668b.png"
         },
@@ -401,7 +401,7 @@
           "description": "「我們仍然有一種印象，也就是中國正受到美國的卡脖子或限制。為什麼數據與這種認知之間會存在這種反差？」深入拆解這組數字，就能夠找到答案。",
           "link": "https://www.bbc.com/zhongwen/articles/cg4w2n5ql32o/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-06-25T01:48:08.000Z",
-          "wordCount": 1915,
+          "wordCount": 1932,
           "title": "中國芯片出口額暴增110%，是否意味西方「封鎖失敗」？",
           "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/4226/live/8daea060-7037-11f1-85ab-7f21c1486b5b.jpg"
         }
@@ -413,12 +413,192 @@
       "siteUrl": "https://www.cna.com.tw/list/acn.aspx",
       "articles": [
         {
+          "id": "CNA/2026-07-14/202607140028",
+          "author": null,
+          "description": "（中央社記者張謙香港14日電）香港明報今天報導，最近北京方面有人約晤香港政商界人士，聆聽他們對政府高層官員的意見，估計是為下屆行政長官（特首）以至政府組成人選收集意見。",
+          "link": "https://www.cna.com.tw/news/acn/202607140028.aspx",
+          "publishedOn": "2026-07-14T01:28:44.000Z",
+          "wordCount": 778,
+          "title": "港媒：北京為下屆香港特首及政府組成人選收集意見",
+          "imageUrl": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg"
+        },
+        {
+          "id": "CNA/2026-07-14/202607140026",
+          "author": null,
+          "description": "（中央社記者吳睿騏桃園14日電）民眾黨中央評議委員會主委李偉華今天率團赴上海，展開4天3夜參訪行程。李偉華表示，這是民眾黨成立以來首次正式組團赴中國大陸交流，盼以交流開展善意、以對話取代對立。",
+          "link": "https://www.cna.com.tw/news/acn/202607140026.aspx",
+          "publishedOn": "2026-07-14T01:23:40.000Z",
+          "wordCount": 797,
+          "title": "李偉華率民眾黨青年團訪上海　盼以對話取代對立",
+          "imageUrl": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20260714/1152x768_wmky_0_C20260714000004.jpg"
+        },
+        {
+          "id": "CNA/2026-07-14/202607140020",
+          "author": null,
+          "description": "（中央社記者張謙香港14日電）香港明報今天報導，中國河北三河市多個村莊的村民因為不滿村莊被當局劃為「洩洪區」，前晚（12日）集會抗議，期間一度與政府人員發生衝突。",
+          "link": "https://www.cna.com.tw/news/acn/202607140020.aspx",
+          "publishedOn": "2026-07-14T00:58:27.000Z",
+          "wordCount": 782,
+          "title": "河北村民抗議村莊被劃為洩洪區  爆官民衝突",
+          "imageUrl": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg"
+        },
+        {
+          "id": "CNA/2026-07-13/202607130327",
+          "author": null,
+          "description": "（中央社台北13日電）中國國務院總理李強今天主持召開經濟形勢專家和企業家座談會，聽取對當前經濟形勢和下一步經濟工作的意見建議。李強稱，希望廣大企業家堅定發展信心，深入挖掘需求升級和產業升級機遇。",
+          "link": "https://www.cna.com.tw/news/acn/202607130327.aspx",
+          "publishedOn": "2026-07-13T13:10:38.000Z",
+          "wordCount": 780,
+          "title": "李強召開經濟形勢專家與企業家座談 盼堅定發展信心",
+          "imageUrl": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg"
+        },
+        {
+          "id": "CNA/2026-07-13/202607130311",
+          "author": null,
+          "description": "（中央社台北13日電）中國青年作家蔣方舟論文造假事件出現翻轉結果，中國人民大學今天晚間發布一則通報，宣布撤銷蔣方舟的碩士學位。蔣方舟隨後在微博帳號上表示接受校方處理。",
+          "link": "https://www.cna.com.tw/news/acn/202607130311.aspx",
+          "publishedOn": "2026-07-13T12:24:01.000Z",
+          "wordCount": 790,
+          "title": "人民大學決定撤銷碩士學位  蔣方舟：接受校方處理",
+          "imageUrl": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20260704/960x1280_wmkn_15173014150_0.jpg"
+        },
+        {
+          "id": "CNA/2026-07-13/202607130310",
+          "author": null,
+          "description": "（中央社台北13日電）近期一些國際媒體提出「中國擠壓」概念，認為中國的製造業能力不僅衝擊西方國家，還擠佔了全球南方國家的工業化發展空間。中國外交部發言人毛寧10日對此表示否認，認為「中國擠壓」不符合事實，全球南方國家也不會認同這種說法。",
+          "link": "https://www.cna.com.tw/news/acn/202607130310.aspx",
+          "publishedOn": "2026-07-13T12:21:59.000Z",
+          "wordCount": 784,
+          "title": "製造業上下通吃  中國遭批「擠壓」全球南方國家",
+          "imageUrl": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg"
+        },
+        {
+          "id": "CNA/2026-07-13/202607130251",
+          "author": null,
+          "description": "（中央社台北13日電）中國上月底將20家日本實體列為出口管制對象，是今年來第二次對日本打出「稀土牌」。新加坡聯合早報報導，原本用於國家安全管理的出口管制，已成為北京處理國際關係、地緣政治的工具。",
+          "link": "https://www.cna.com.tw/news/acn/202607130251.aspx",
+          "publishedOn": "2026-07-13T09:44:51.000Z",
+          "wordCount": 791,
+          "title": "中國出口管制反守為攻  稀土成為地緣政治工具",
+          "imageUrl": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg"
+        },
+        {
+          "id": "CNA/2026-07-13/202607130215",
+          "author": null,
+          "description": "（中央社台北13日電）中新社報導，12日以來，遼寧多地出現強降雨。據遼寧省防汛抗旱指揮部辦公室消息，截至13日6時，遼寧省共轉移17萬1412人，13個市、84個縣（市、區）啟動防汛應急響應。",
+          "link": "https://www.cna.com.tw/news/acn/202607130215.aspx",
+          "publishedOn": "2026-07-13T08:38:33.000Z",
+          "wordCount": 794,
+          "title": "應對強降雨  遼寧轉移逾17萬人",
+          "imageUrl": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg"
+        },
+        {
+          "id": "CNA/2026-07-13/202607130213",
+          "author": null,
+          "description": "（中央社台北13日電）亞太經濟合作會議（APEC）峰會11月將在深圳舉行。據廣東公安微信公眾號消息，廣東警方展開嚴打整治專項行動，嚴打盜搶、街面打架鬥毆等違法犯罪，全省破案數、拘留入所數分別大增15.7%和10.8%。",
+          "link": "https://www.cna.com.tw/news/acn/202607130213.aspx",
+          "publishedOn": "2026-07-13T08:37:29.000Z",
+          "wordCount": 789,
+          "title": "APEC峰會深圳舉行  廣東警方展開嚴打整治行動",
+          "imageUrl": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg"
+        },
+        {
+          "id": "CNA/2026-07-13/202607130211",
+          "author": null,
+          "description": "（中央社台北13日電）據法新社報導，在「小紅書」App的促銷之下，中國國內旅遊突飛猛進。中國去年國內旅遊創新高，達65億人次，年增加16%。與此同時，據千瓜數據，小紅書的經常使用人數，今年已從3億人提高到了3.5億人。",
+          "link": "https://www.cna.com.tw/news/acn/202607130211.aspx",
+          "publishedOn": "2026-07-13T08:35:24.000Z",
+          "wordCount": 782,
+          "title": "小紅書App促進中國國內旅遊",
+          "imageUrl": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg"
+        },
+        {
+          "id": "CNA/2026-07-13/202607130206",
+          "author": null,
+          "description": "（中央社台北13日電）中國外交部發言人今天宣布，泰國總理阿努廷（Anutin Charnvirakul）將於16日開始對中國進行正式訪問，為期5天。",
+          "link": "https://www.cna.com.tw/news/acn/202607130206.aspx",
+          "publishedOn": "2026-07-13T08:23:13.000Z",
+          "wordCount": 781,
+          "title": "中國外交部：泰國總理阿努廷7/16訪中",
+          "imageUrl": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg"
+        },
+        {
+          "id": "CNA/2026-07-13/202607130199",
+          "author": null,
+          "description": "（中央社台北13日電）受颱風巴威影響，中國北方多地出現強降雨，遼寧省瀋陽市暴雨持續逾8小時，多處道路被洪水淹沒，宛如澤國，不少汽車幾乎滅頂。河北省承德市4個鄉鎮共9個村莊多處道路遭洪水沖毀、交通中斷，不少車輛甚至被大水沖走。",
+          "link": "https://www.cna.com.tw/news/acn/202607130199.aspx",
+          "publishedOn": "2026-07-13T08:13:58.000Z",
+          "wordCount": 780,
+          "title": "巴威挾豪雨襲中國北方　瀋陽成澤國河北多地受災",
+          "imageUrl": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg"
+        },
+        {
+          "id": "CNA/2026-07-13/202607130192",
+          "author": null,
+          "description": "（中央社記者張淑伶北京13日電）「2026世界人工智能大會暨人工智能全球治理高級別會議」17日至20日在上海舉行。中國國家主席習近平將出席開幕式並發表主旨講話。在美中人工智慧（AI）競爭的背景下，這是習近平首次出席此大會。",
+          "link": "https://www.cna.com.tw/news/acn/202607130192.aspx",
+          "publishedOn": "2026-07-13T07:58:43.000Z",
+          "wordCount": 782,
+          "title": "世界人工智能大會17日上海登場  習近平出席致詞",
+          "imageUrl": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg"
+        },
+        {
+          "id": "CNA/2026-07-13/202607130183",
+          "author": null,
+          "description": "（中央社台北13日電）曾直陳中國經濟問題而觸怒當局的中國經濟學家高善文7日因癌症逝世。綜合陸媒與港媒報導，高善文的追悼會11日在北京八寶山舉行，有數百人到場送別。",
+          "link": "https://www.cna.com.tw/news/acn/202607130183.aspx",
+          "publishedOn": "2026-07-13T07:37:24.000Z",
+          "wordCount": 780,
+          "title": "直陳中國經濟問題  學者高善文離世數百人送別",
+          "imageUrl": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg"
+        },
+        {
+          "id": "CNA/2026-07-13/202607130138",
+          "author": null,
+          "description": "（中央社台北13日電）根據中國海南省政府發布的「十五五」（第15個五年規劃，2026至2030年）相關規劃，海南省將平穩推進2030年全境禁售燃油新車。由於中國其他省區尚未制定禁售燃油新車的目標，這將使海南省成為中國第1個不再販賣燃油新車的省區。",
+          "link": "https://www.cna.com.tw/news/acn/202607130138.aspx",
+          "publishedOn": "2026-07-13T05:54:48.000Z",
+          "wordCount": 782,
+          "title": "中國第1省  海南推動2030年禁售燃油新車",
+          "imageUrl": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg"
+        },
+        {
+          "id": "CNA/2026-07-13/202607130114",
+          "author": null,
+          "description": "（中央社台北5日電）中國「民族團結進步促進法」7月1日起正式實施，該法涉及域外適用的相關條款備受關注。有民團表示，政府應盡速建立法制化的「難民庇護制度」，讓台灣成為真正的人權避風港。",
+          "link": "https://www.cna.com.tw/news/acn/202607130114.aspx",
+          "publishedOn": "2026-07-13T05:08:56.000Z",
+          "wordCount": 796,
+          "title": "中國民族團結法實施  民團呼籲政府設難民庇護制度",
+          "imageUrl": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20260713/1303x768_wmky_0_C20260713000065.jpg"
+        },
+        {
+          "id": "CNA/2026-07-13/202607130107",
+          "author": null,
+          "description": "（中央社台北13日電）中國近來天災不斷，廣西、廣東、湖北、甘肅、四川等地接連發生洪災、龍捲風等災情，救災工作仍未完全結束。但中國公安部今天一舉公布25起涉及災情的「網路謠言違法犯罪」案例，共27人被指涉案。這27人的社群媒體帳號不但被封禁，其中4人更遭刑事拘留，剩餘23人也被行政處罰。",
+          "link": "https://www.cna.com.tw/news/acn/202607130107.aspx",
+          "publishedOn": "2026-07-13T04:51:41.000Z",
+          "wordCount": 780,
+          "title": "洪水救災未結束  中國公安部抓網路謠言27人被罰",
+          "imageUrl": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg"
+        },
+        {
+          "id": "CNA/2026-07-13/202607130050",
+          "author": null,
+          "description": "（中央社台北13日電）颱風巴威12日登陸中國浙江省後，目前已進入安徽省境內，但遠在東北的遼寧省也受到外圍環流影響，遼寧省凌源市境內河水暴漲，鄉村道路損毀，橋梁及農作物被水淹沒。同時，中國部分機場受巴威影響，今天總計仍將取消約100架次班機。",
+          "link": "https://www.cna.com.tw/news/acn/202607130050.aspx",
+          "publishedOn": "2026-07-13T02:51:38.000Z",
+          "wordCount": 797,
+          "title": "颱風巴威登陸中國  東北降豪雨釀災農作物被淹",
+          "imageUrl": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg"
+        },
+        {
           "id": "CNA/2026-07-13/202607130044",
           "author": null,
           "description": "（中央社記者張謙香港13日電）香港2019年爆發「反送中」運動後，北京方面主導提出完善香港選舉制度，又強調香港政制採取「行政主導」。但立法會前主席曾鈺成認為，行政主導有模糊之處，呼籲探討何謂「行政主導」，並檢視議會的角色。",
           "link": "https://www.cna.com.tw/news/acn/202607130044.aspx",
           "publishedOn": "2026-07-13T02:17:25.000Z",
-          "wordCount": 774,
+          "wordCount": 778,
           "title": "香港立法會前主席曾鈺成籲釐清「行政主導」原則",
           "imageUrl": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg"
         },
@@ -428,189 +608,9 @@
           "description": "（中央社記者張淑伶北京13日電）針對南海仲裁案，中國外交部亞洲司負責官員昨天緊急約見日本駐中國使館首席公使，就日本與他國發表的南海仲裁案10週年聯合聲明提出嚴正交涉，並聲稱表達強烈不滿和抗議。",
           "link": "https://www.cna.com.tw/news/acn/202607130041.aspx",
           "publishedOn": "2026-07-13T02:10:18.000Z",
-          "wordCount": 776,
+          "wordCount": 780,
           "title": "中國外交部約見日本公使  抗議南海仲裁案等議題",
           "imageUrl": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg"
-        },
-        {
-          "id": "CNA/2026-07-13/202607130032",
-          "author": null,
-          "description": "（中央社記者張謙香港13日電）據報導，中國山東大學講席教授王學典近日不經意地揭露了中國學術界的不公平現況，包括他本人可為門生在知名期刊發表論文，引發青年學者集體不滿。",
-          "link": "https://www.cna.com.tw/news/acn/202607130032.aspx",
-          "publishedOn": "2026-07-13T01:20:58.000Z",
-          "wordCount": 778,
-          "title": "中國學者意外自曝學術不公  引發青年學者不滿",
-          "imageUrl": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg"
-        },
-        {
-          "id": "CNA/2026-07-13/202607130026",
-          "author": null,
-          "description": "（中央社記者張淑伶北京13日電）今年唐獎漢學獎得主葛兆光與學者林泉忠原定5月底在上海交大有一場關於中日政治文化差異的對談，但活動臨時遭取消，校方至今並未說明不批准的理由。林泉忠認為，中國當前涉日的學術活動已幾乎全面暫緩。",
-          "link": "https://www.cna.com.tw/news/acn/202607130026.aspx",
-          "publishedOn": "2026-07-13T01:02:46.000Z",
-          "wordCount": 787,
-          "title": "葛兆光與林泉忠對談取消  中國涉日學術活動全面暫緩",
-          "imageUrl": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg"
-        },
-        {
-          "id": "CNA/2026-07-12/202607120205",
-          "author": null,
-          "description": "（中央社台北12日電）網上今天流傳一段「湖南常德某國企董事長張某在辦公室收受禮品」影片引發關注，陸媒報導，湖南常德西湖管理區通報證實此事，並且隨即將涉事人免職。",
-          "link": "https://www.cna.com.tw/news/acn/202607120205.aspx",
-          "publishedOn": "2026-07-12T14:58:19.000Z",
-          "wordCount": 776,
-          "title": "端午辦公室收禮金  湖南地方國企董事長免職",
-          "imageUrl": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg"
-        },
-        {
-          "id": "CNA/2026-07-12/202607120193",
-          "author": null,
-          "description": "（中央社台北12日電）受颱風巴威遠距離水氣輸送等影響，中國遠至華北、東北都將有大風及豪大雨。中國水利部和中國氣象局今天傍晚6時聯合發布紅色山洪災害氣象預警，範圍包括遼寧、吉林和安徽。",
-          "link": "https://www.cna.com.tw/news/acn/202607120193.aspx",
-          "publishedOn": "2026-07-12T13:16:48.000Z",
-          "wordCount": 791,
-          "title": "巴威颱風影響  遼寧吉林安徽山洪災害紅色預警",
-          "imageUrl": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg"
-        },
-        {
-          "id": "CNA/2026-07-12/202607120184",
-          "author": null,
-          "description": "（中央社記者張淑伶北京12日電）菲律賓對中國南海仲裁案裁決今天屆滿10週年，菲、美、日、澳等14國發表聯合聲明。中國外交部晚間重申此裁決是一張「非法無效沒有拘束力的廢紙」，中國不接受也不承認。",
-          "link": "https://www.cna.com.tw/news/acn/202607120184.aspx",
-          "publishedOn": "2026-07-12T12:20:27.000Z",
-          "wordCount": 791,
-          "title": "南海仲裁案裁決10週年　14國聯合聲明中國不接受",
-          "imageUrl": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20260415/2000x2000_wmkn_75273362995015_0.jpg"
-        },
-        {
-          "id": "CNA/2026-07-12/202607120173",
-          "author": null,
-          "description": "（中央社台北12日電）據中國中央氣象台，颱風巴威已減弱為熱帶風暴，中心進入安徽。但巴威持續為中國多地帶來暴風及豪大雨，中央氣象台傍晚發布漬澇風險氣象預報。",
-          "link": "https://www.cna.com.tw/news/acn/202607120173.aspx",
-          "publishedOn": "2026-07-12T10:45:02.000Z",
-          "wordCount": 797,
-          "title": "巴威颱風進入安徽　暴風大雨遠至東北、內蒙",
-          "imageUrl": "https://imgcdn.cna.com.tw/www/webphotos/WebCover/800/20260712/1998x1499_729551316185.jpg"
-        },
-        {
-          "id": "CNA/2026-07-12/202607120131",
-          "author": null,
-          "description": "（中央社台北12日電）一項最新報告表示，中國新能源車的平均車齡僅1.8年，遠低於傳統燃油車的8.2年，顯示新能源車正成為智慧型手機般的「快速消費品」。",
-          "link": "https://www.cna.com.tw/news/acn/202607120131.aspx",
-          "publishedOn": "2026-07-12T08:36:30.000Z",
-          "wordCount": 785,
-          "title": "換車如同換手機  中國電動車平均車齡1.8年",
-          "imageUrl": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg"
-        },
-        {
-          "id": "CNA/2026-07-12/202607120109",
-          "author": null,
-          "description": "（中央社台北12日電）日本三大車商今年上半年在中國的新車銷量都下滑，本田表現尤為低迷。共同社報導，中東局勢惡化導致燃料價格上漲，受此影響燃油車需求減少，拖累了銷量。",
-          "link": "https://www.cna.com.tw/news/acn/202607120109.aspx",
-          "publishedOn": "2026-07-12T06:18:41.000Z",
-          "wordCount": 776,
-          "title": "1-6月  日本三大車商在中國新車銷量下滑",
-          "imageUrl": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg"
-        },
-        {
-          "id": "CNA/2026-07-12/202607120096",
-          "author": null,
-          "description": "（中央社台北12日電）受颱風巴威遠距離水氣輸送及冷空氣共同影響，遠在華北的中國北京從10日到今天早上出現今年汛期以來最大的降雨，除全市普遍降下豪雨外，平谷、密雲、順義、通州、朝陽、大興等區更出現大豪雨。",
-          "link": "https://www.cna.com.tw/news/acn/202607120096.aspx",
-          "publishedOn": "2026-07-12T05:50:13.000Z",
-          "wordCount": 778,
-          "title": "颱風巴威波及  北京2天降下2026汛期以來最大雨量",
-          "imageUrl": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg"
-        },
-        {
-          "id": "CNA/2026-07-12/202607120091",
-          "author": null,
-          "description": "（中央社台北12日電）中國疾控中心統計顯示，中國的COVID-19確診情況呈現上升趨勢，6月報告新增確診病例7.9萬例，比上月增加5.7萬例，其中重症130例、病亡1例。",
-          "link": "https://www.cna.com.tw/news/acn/202607120091.aspx",
-          "publishedOn": "2026-07-12T05:41:02.000Z",
-          "wordCount": 781,
-          "title": "中國COVID-19確診呈現上升趨勢  6月新增7.9萬例",
-          "imageUrl": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20260712/1280x960_wmkn_977114343433_0.jpg"
-        },
-        {
-          "id": "CNA/2026-07-12/202607120084",
-          "author": null,
-          "description": "（中央社記者張淑伶北京12日電）美國國家科學基金會（NSF）正在研擬新規，有可能導致大範圍禁止與中國科學家的合作，確定的細則將在10月1日正式生效。近年美國多部門持續加大對與中國校企合作的限制。",
-          "link": "https://www.cna.com.tw/news/acn/202607120084.aspx",
-          "publishedOn": "2026-07-12T05:21:47.000Z",
-          "wordCount": 778,
-          "title": "美國家科學基金新規  可能大範圍衝擊中美學術合作",
-          "imageUrl": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg"
-        },
-        {
-          "id": "CNA/2026-07-12/202607120081",
-          "author": null,
-          "description": "（中央社台北12日電）中國國家統計局15日將公布今年上半年經濟數據。根據多家法人研究機構預計，第2季中國GDP增幅介於4.2%至4.5%，較第1季滑落，今年上半年GDP增長有望保持在4.5%至4.7%之間。",
-          "link": "https://www.cna.com.tw/news/acn/202607120081.aspx",
-          "publishedOn": "2026-07-12T05:11:40.000Z",
-          "wordCount": 776,
-          "title": "中國將公布第2季GDP  法人預測較第1季放緩",
-          "imageUrl": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg"
-        },
-        {
-          "id": "CNA/2026-07-12/202607120040",
-          "author": null,
-          "description": "（中央社台北12日電）中國福建省晉江市輝騰鞋業公司工廠9日發生大火造成28人死亡，引發關注。美媒報導指出，這一意外凸顯儘管中國產業正向價值鏈上游攀升，但仍依賴製造業，而許多中小型工廠往往為削減成本而忽視生產安全，造成安全風險。",
-          "link": "https://www.cna.com.tw/news/acn/202607120040.aspx",
-          "publishedOn": "2026-07-12T02:53:10.000Z",
-          "wordCount": 796,
-          "title": "美媒：中國身為製造業大國  生產安全普遍遭忽視",
-          "imageUrl": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg"
-        },
-        {
-          "id": "CNA/2026-07-12/202607120036",
-          "author": null,
-          "description": "（中央社記者張淑伶北京12日電）中俄「海上聯合-2026」聯合演習已經落幕。中國方面表示，這次演練的作戰協同要求高，中俄雙方不設腳本，並反映出兩國海軍協作從「水面」向「水面+水下」立體實戰拓展。",
-          "link": "https://www.cna.com.tw/news/acn/202607120036.aspx",
-          "publishedOn": "2026-07-12T02:30:01.000Z",
-          "wordCount": 778,
-          "title": "中俄海上聯合演習落幕  強化協同作戰",
-          "imageUrl": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg"
-        },
-        {
-          "id": "CNA/2026-07-12/202607120035",
-          "author": null,
-          "description": "（中央社台北12日電）颱風巴威已於昨天深夜登陸中國浙江，登陸時中心附近最大風力13級，陸媒報導，巴威登陸10分鐘當地就風雲驟變，樹木連根拔起；與此同時，官方提高了北京、天津等5地的防汛應急等級。",
-          "link": "https://www.cna.com.tw/news/acn/202607120035.aspx",
-          "publishedOn": "2026-07-12T02:28:59.000Z",
-          "wordCount": 791,
-          "title": "巴威登陸浙江  陸媒：10分鐘風雲驟變樹連根拔起",
-          "imageUrl": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg"
-        },
-        {
-          "id": "CNA/2026-07-11/202607110175",
-          "author": null,
-          "description": "（中央社記者廖文綺上海11日電）中國用電負荷在10日達到15.18億千瓦，創下歷史新高。中國國家能源局數據顯示，互聯網數據服務及電動車充換電等產業用電快速成長，推升整體用電需求。",
-          "link": "https://www.cna.com.tw/news/acn/202607110175.aspx",
-          "publishedOn": "2026-07-11T10:41:33.000Z",
-          "wordCount": 787,
-          "title": "數據服務與電動車用電需求增 中國用電負荷創新高",
-          "imageUrl": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg"
-        },
-        {
-          "id": "CNA/2026-07-11/202607110160",
-          "author": null,
-          "description": "（中央社台北11日電）中國東南部沿海地區正積極準備應對颱風巴威的衝擊。中國國家氣象中心發布今年首個暴雨紅色預警，並維持第二高級別的颱風橙色預警，多地學校停課、渡輪停航。合計浙江、福建兩省，已有超過60萬民眾被安排撤離。",
-          "link": "https://www.cna.com.tw/news/acn/202607110160.aspx",
-          "publishedOn": "2026-07-11T09:36:01.000Z",
-          "wordCount": 795,
-          "title": "颱風巴威直撲浙江　中國疏散超過60萬人",
-          "imageUrl": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg"
-        },
-        {
-          "id": "CNA/2026-07-11/202607110142",
-          "author": null,
-          "description": "（中央社台北11日電）紐約時報中文網報導，中國的航太計劃在10日邁出了重要的一步，距離與伊隆馬斯克（Elon Musk）的SpaceX爭奪衛星產業主導權又近了一步。",
-          "link": "https://www.cna.com.tw/news/acn/202607110142.aspx",
-          "publishedOn": "2026-07-11T08:52:20.000Z",
-          "wordCount": 798,
-          "title": "繼SpaceX之後  中國開啟可回收火箭時代",
-          "imageUrl": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20260711/1152x768_wmkn_0_C20260711000114.jpg"
         }
       ]
     },
@@ -620,404 +620,404 @@
       "siteUrl": "https://news.ltn.com.tw/list/breakingnews/world",
       "articles": [
         {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5503237",
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5504355",
           "author": null,
-          "description": "中國遼寧省瀋陽市受到巴威颱風外圍環流影響，從12日晚間開始降下暴雨，目前在市內有73處淹水，當局呼籲民眾避免出門，有中國網友忍不住感嘆暴雨怎麼從南部（指之前廣西災情）下到了北部。...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5503237",
-          "publishedOn": "2026-07-13T02:44:22.000Z",
-          "wordCount": 10469,
-          "title": "巴威影響！中國瀋陽暴雨淹大水 淹到汽車後視鏡",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/07/13/phpCcUgkq.png"
+          "description": "美國共和黨重量級聯邦參議員葛蘭姆（Lindsey Graham）辭世後，美國總統川普公開表態支持由葛蘭姆胞妹達琳．葛蘭姆．諾登（Darline Graham Nordone）接...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5504355",
+          "publishedOn": "2026-07-14T02:24:24.000Z",
+          "wordCount": 10515,
+          "title": "從未從政！葛蘭姆胞妹暫代參議員 川普公開力挺",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/07/14/phpdX5c4K.jpg"
         },
         {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5503201",
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5504365",
           "author": null,
-          "description": "距離法國巴黎東南約60公里的楓丹白露森林（Fontainebleau forest）12日下午燃起大火，緊急調派2架滅火飛機前往該地區。該火災被法國官員形容為「火勢凶猛」且「規...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5503201",
-          "publishedOn": "2026-07-13T02:18:34.000Z",
-          "wordCount": 10475,
-          "title": "巴黎近郊森林大火已燒毀800公頃 滅火飛機出動",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/07/13/phpWyM908.jpg"
+          "description": "荷蘭籍38歲足球裁判狄佩林克（Rob Dieperink），原先被選為2026美加墨世足賽VAR裁判，但由於他先前傳出性侵少年，於今年5月被剃除，如今傳出他不明原因離世。\r\n\r\n...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5504365",
+          "publishedOn": "2026-07-14T02:18:17.000Z",
+          "wordCount": 10492,
+          "title": "荷蘭裁判涉性侵少年被世足剃除 驚傳不明原因離世",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/07/14/phpGwdIqq.jpg"
         },
         {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5503200",
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5504348",
           "author": null,
-          "description": "日本不僅有熊隻橫行！愛知縣豐田市2名男子，今（13日）清晨5時40分許驚傳遭到野豬攻擊受傷，所幸送往醫院後沒有生命危險，當局並未說明豬隻下落。\r\n\r\n據 《產經新聞》報導，豐田市...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5503200",
-          "publishedOn": "2026-07-13T02:11:11.000Z",
-          "wordCount": 10460,
-          "title": "不僅有熊！日本愛知縣2男遭野豬襲擊受傷",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/07/13/phpgD8g3L.jpg"
+          "description": "伊拉克總理柴迪（Ali al-Zaidi）今（14日）將在美國首都華盛頓會晤該國總統川普。與此同時，美國政府正加大對伊拉克施壓，要求其遏制伊朗在伊拉克的影響力。\r\n\r\n根據《法...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5504348",
+          "publishedOn": "2026-07-14T02:18:12.000Z",
+          "wordCount": 10492,
+          "title": "夾在美伊博弈間 伊拉克總理會晤川普面臨外交考驗",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/07/14/phphksqIL.png"
         },
         {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5503197",
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5504297",
           "author": null,
-          "description": "高溫熱浪席捲歐洲，歐洲各國都出現「超額死亡」病例，由歐洲疾病預防與控制中心（ECDC）及世界衛生組織（WHO）支援的監測網站「EuroMOMO」統計顯示，6月下旬的熱浪期間，歐洲...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5503197",
-          "publishedOn": "2026-07-13T02:03:47.000Z",
-          "wordCount": 10472,
-          "title": "6月下旬熱浪席捲歐洲  資料統計「超額死亡」超過1萬例",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/07/13/phpinqUvQ.jpg"
+          "description": "美國總統川普已正式通知國會，對伊朗軍事行動已於7月7日恢復。外媒取得的信件顯示，川普政府認為，此舉將重新開啟60天期限，使總統得以在未經國會批准的情況下，繼續在中東地區動用軍事力...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5504297",
+          "publishedOn": "2026-07-14T02:09:29.000Z",
+          "wordCount": 10498,
+          "title": "伊朗戰爭重啟！ 川普正式通知國會 未經批准再動武60天",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/07/14/phpgyTi47.jpg"
         },
         {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5503158",
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5504313",
           "author": null,
-          "description": "墨西哥哈利斯科州12日發生1起交通事故，1輛貨車撞上多輛正在處理先前1起事故的車輛，造成至少10人死亡和10人受傷。\r\n\r\n根據《法新社》報導，事故發生在哈利斯科州與納亞里特州...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5503158",
-          "publishedOn": "2026-07-13T01:33:36.000Z",
-          "wordCount": 10469,
-          "title": "墨西哥貨車事故至少10死10傷 罹難者含2名兒童",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/07/13/php0G334Q.png"
-        },
-        {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5503150",
-          "author": null,
-          "description": "南韓一名海軍艦艇兵12日在朝鮮半島東部海域北方分界線（NLL）附近失蹤，南韓海軍今（13日）清晨表示，已尋獲失蹤艦艇兵的遺體。\r\n\r\n根據南韓《韓聯社》報導，南韓海軍表示，12日...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5503150",
-          "publishedOn": "2026-07-13T01:25:39.000Z",
-          "wordCount": 10467,
-          "title": "南韓海軍艦艇兵失蹤 今在近南北韓交界海域發現遺體",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/07/13/phpQdoVad.jpg"
-        },
-        {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5503102",
-          "author": null,
-          "description": "今年侵襲中國的最強颱風「巴威」12日挾帶豪雨在浙江省登陸，強勁風雨侵襲中國東部沿海，狂浪拍打海岸，衝擊人口稠密地帶，登陸後減弱為熱帶風暴，卻持續朝北方推進，影響範圍已擴大到河北一...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5503102",
-          "publishedOn": "2026-07-13T00:52:34.000Z",
-          "wordCount": 10471,
-          "title": "巴威颱風重創中國！華東逾280萬人急撤 災情持續擴大",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/07/13/php2EEV4y.jpg"
-        },
-        {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5503126",
-          "author": null,
-          "description": "由於伊朗襲擊往來荷姆茲海峽的商船，美國再度對伊朗發動數波空襲，伊朗媒體表示，伊朗位於海峽中的戰略要地葛希姆島（Qeshm Island），遭到超過10枚美軍飛彈襲擊。\r\n\r\n綜合...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5503126",
-          "publishedOn": "2026-07-13T00:23:03.000Z",
-          "wordCount": 10474,
-          "title": "美軍再空襲伊朗！ 逾10飛彈轟炸戰略要地葛希姆島",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/07/13/phpKLNorh.jpg"
-        },
-        {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5503104",
-          "author": null,
-          "description": "美國總統川普的堅定盟友、向來友台的美國共和黨籍聯邦參議員葛蘭姆（Lindsey Graham）因突發疾病，於7月11日辭世，享壽71歲。葛蘭姆辦公室通訊主任雷迪（Taylor R...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5503104",
-          "publishedOn": "2026-07-12T23:43:01.000Z",
-          "wordCount": 10480,
-          "title": "71歲葛蘭姆驟逝震撼美國政壇  辦公室公布其死因為主動脈剝離",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/07/13/php63nVdr.jpg"
-        },
-        {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5503100",
-          "author": null,
-          "description": "美國、伊朗正持續互相發動大規模飛彈與無人機攻擊。德黑蘭12日對波斯灣各國境內的美國設施發動攻擊，並宣布再次關閉具關鍵戰略地位的荷姆茲海峽（Strait of Hormuz）。\r\n...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5503100",
-          "publishedOn": "2026-07-12T23:32:05.000Z",
-          "wordCount": 10494,
-          "title": "美伊互轟波灣各國遭殃！伊朗再封荷姆茲 川普嗆：讓他們落花流水",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/07/13/php0huCWp.jpg"
-        },
-        {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5503097",
-          "author": null,
-          "description": "泰國曼谷的觀光熱區「恰圖恰市集」周邊一間酒吧12日接近午夜時發生大火，至少造成30人死亡。火勢撲滅後發現，有多數罹難者是受困於餐廳廁所內，火災原因目前仍持續調查。\r\n\r\n綜合外媒...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5503097",
-          "publishedOn": "2026-07-12T23:16:02.000Z",
-          "wordCount": 10543,
-          "title": "曼谷酒吧大火釀30死63傷  多數罹難者被發現時擠在廁所",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/07/13/phpgz2Gid.jpg"
-        },
-        {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5503024",
-          "author": null,
-          "description": "首次上稿 07-12 22:19更新時間 07-13 06:24\r\n美國總統川普12日表示，美國已「重創」伊朗，以回應德黑蘭當局對荷姆茲海峽上的船隻發動的最新攻擊。\r\n\r\n川普...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5503024",
-          "publishedOn": "2026-07-12T22:24:31.000Z",
-          "wordCount": 10481,
-          "title": "川普稱美國已「重創」伊朗",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/07/12/5503024_1_1.jpg"
-        },
-        {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5503051",
-          "author": null,
-          "description": "首次上稿 07-12 23:17更新時間 07-13 06:19\r\n孟加拉官員12日表示，過去1週季風降雨引發的洪水暴發與山崩，已至少奪走50條人命，另有數萬人被迫撤離家園。\r...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5503051",
-          "publishedOn": "2026-07-12T22:19:13.000Z",
+          "description": "居住在日本東京都港區的中國籍42歲系統工程師，10日下午5時許開白牌車在東京車站外違法載客時遭警方逮捕，隨著其中文姓名「寧萌」曝光後引起網友廣泛關注。\r\n\r\n據《日本新聞網》報導...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5504313",
+          "publishedOn": "2026-07-14T01:48:31.000Z",
           "wordCount": 10489,
-          "title": "孟加拉洪災至少50人死亡 數萬人無家可歸",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/07/12/5503051_1_1.jpg"
+          "title": "中國工程師在東京開白牌車被捕 姓名「寧萌」曝光全網熱議",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/07/14/phped9S6p.png"
         },
         {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5503083",
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5504291",
           "author": null,
-          "description": "香港推行允許寵物進入餐廳的新計畫後，在網路上引發關於公共衛生與寵物行為的激烈論戰。與此同時，1家連鎖餐飲分店在計畫實施僅1天後，便決定退出這項措施。\r\n\r\n香港「南華早報」1...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5503083",
-          "publishedOn": "2026-07-12T22:08:10.000Z",
-          "wordCount": 10478,
-          "title": "香港開放寵物友善餐廳引衛生論戰  連鎖餐飲安全考量首日即退出",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/07/13/5503083_1_1.jpg"
+          "description": "美國總統川普13日表示，將恢復對伊朗海上封鎖，同時對通行荷姆茲海峽的貨物收取20%費用。對此巴西總統魯拉（Luiz Inacio Lula da Silva）稱，美國擬向通過該...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5504291",
+          "publishedOn": "2026-07-14T01:45:53.000Z",
+          "wordCount": 10500,
+          "title": "川普擬向荷姆茲海峽貨物收費 巴西總統狠批「海盜行為」",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/07/14/phpCjyT29.jpg"
         },
         {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5503032",
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5504292",
           "author": null,
-          "description": "首次上稿 07-13 00:30更新時間 07-13 06:07\r\n中國湖南省一間國有獨資企業（由中共出資並完全控股）爆出天大貪腐醜聞，該企業董座被舉報長期收受賄賂，犯罪全過程都...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5503032",
-          "publishedOn": "2026-07-12T22:07:32.000Z",
-          "wordCount": 10493,
-          "title": "中共國有企業董座「毛澤東面前」收賄  監控記憶卡影像全流出！",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/07/12/phpKzDnbL.jpg"
+          "description": "人倫慘劇！日本秋田縣仁賀保市象潟町1棟民宅，13日早上7時許遭惡火燒毀，屋內發現2具遺體，可能是居住在裡面的老夫老妻，而夫婦倆的44歲無業兒子山下廣攝涉嫌縱火被捕。\r\n\r\n據《N...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5504292",
+          "publishedOn": "2026-07-14T01:39:37.000Z",
+          "wordCount": 10488,
+          "title": "慘！日本秋田民宅火災夫婦疑雙亡 無業兒涉嫌縱火被捕",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/07/14/phpDZwDHK.png"
         },
         {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5503087",
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5504233",
           "author": null,
-          "description": "烏克蘭總理斯維里登科（Yulia Svyrydenko）12日證實，在總統澤倫斯基（Volodymyr Zelensky）宣布政府即將進行改組後，她將辭去總理一職。她請辭的消...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5503087",
-          "publishedOn": "2026-07-12T21:59:44.000Z",
+          "description": "葉門叛軍「青年運動」（Houthi）13日指控沙烏地阿拉伯轟炸其控制的1座機場後，向沙國發射飛彈，打破沙國與這個獲伊朗支持組織之間維持4年的停火。\r\n\r\n路透報導，沙烏地阿拉伯所...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5504233",
+          "publishedOn": "2026-07-14T01:32:59.000Z",
+          "wordCount": 10495,
+          "title": "中東戰火升溫！青年運動空襲沙烏地 4年停火破局",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/07/14/phpckoDdK.jpg"
+        },
+        {
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5504267",
+          "author": null,
+          "description": "美國中央司令部（CENTCOM）近期頻繁更新美國對伊朗打擊行動，更透露美軍在12日的一次行動之中首度動用自殺無人艇攻擊伊朗設施。中央司令部後續也貼出自殺無人艇的攻擊影片，強調將會...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5504267",
+          "publishedOn": "2026-07-14T01:28:22.000Z",
+          "wordCount": 10589,
+          "title": "「海盜」自殺無人艇攻擊伊朗軍港設施 美軍公布突襲影片",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/07/14/phpErCzub.jpg"
+        },
+        {
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5504264",
+          "author": null,
+          "description": "美國爆發寄生蟲「環孢子蟲（Cyclospora）」腸道感染疫情，已有31州出現病例，密西根州疫情嚴重，衛生單位週一（13日）通報，相關病例已增至2640例，較上週五增加超過100...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5504264",
+          "publishedOn": "2026-07-14T00:46:14.000Z",
+          "wordCount": 10485,
+          "title": "旅美注意！全美31州現寄生蟲感染 密西根暴增逾2600例",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/07/14/php8EJsBT.jpg"
+        },
+        {
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5504222",
+          "author": null,
+          "description": "1名在中國出生、後入籍美國的地震學家，曾發表由美國政府資助、用於偵測北韓核試的研究，已遭中國拘押近2年，並面臨間諜罪審判。路透報導，消息來自他的妻子、美國國會議員及2個人質倡議團...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5504222",
+          "publishedOn": "2026-07-14T00:20:15.000Z",
+          "wordCount": 10500,
+          "title": "遭控間諜！中國扣押美籍地震學家 前美官員：想掩飾地下核試驗",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/07/14/phpzyDKyJ.jpg"
+        },
+        {
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5504249",
+          "author": null,
+          "description": "「2026台加藝文節」7月4日及5日在溫哥華舉辦，7月11日更首度移師本那比舉辦，來自台灣的「金宇園掌中劇團」、「新藝芳歌劇團」及 「妙璇舞蹈團」及民俗專家...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5504249",
+          "publishedOn": "2026-07-13T23:57:16.000Z",
+          "wordCount": 10703,
+          "title": "「2026台加藝文節」展現台灣廟會文化 連媽祖都來駐駕",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/07/14/5504249_1_1.jpg"
+        },
+        {
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5504234",
+          "author": null,
+          "description": "中東局勢再度緊張，阿拉伯聯合大公國（UAE）國防部13日表示，兩艘阿聯籍油輪在阿曼領海內、荷姆茲海峽（Strait of Hormuz）南向航道遭到兩枚伊朗巡弋飛彈攻擊，造成1名...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5504234",
+          "publishedOn": "2026-07-13T23:46:24.000Z",
+          "wordCount": 10495,
+          "title": "伊朗再度攻擊商船！ 巡弋飛彈擊中阿聯2油輪釀1死8傷",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/07/14/phpWRWIN5.jpg"
+        },
+        {
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5504225",
+          "author": null,
+          "description": "美國海軍主導的「聯合海事資訊中心」（Joint Maritime Information Center，JMIC）證實，美軍將自14日起對伊朗實施海上封鎖。\r\n\r\n路透報導，JM...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5504225",
+          "publishedOn": "2026-07-13T23:07:23.000Z",
+          "wordCount": 10503,
+          "title": "川普又封鎖伊朗！恐武力攔截未授權船隻 美軍曝時間點",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/07/14/phpsOJ8Iw.jpg"
+        },
+        {
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5504220",
+          "author": null,
+          "description": "美國與伊朗和平協議的前景蒙上沉重陰影，美國總統川普接受美媒訪問時宣布將對伊朗重新恢復海上封鎖，同時針對通過荷姆茲海峽的所有貨物收取20%費用。此外，川普也強調美軍將會摧毀伊朗的「...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5504220",
+          "publishedOn": "2026-07-13T23:06:21.000Z",
+          "wordCount": 10504,
+          "title": "伊朗地下基地成為頭號目標 川普威脅：美軍很快就會空襲",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/07/14/phpkTdsrg.jpg"
+        },
+        {
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5504206",
+          "author": null,
+          "description": "美國國務卿魯比歐（Marco Rubio）13日表示，川普政府正在啟動一項行動，旨在瓦解國際刑事法院（ICC）對美國主權所造成的威脅。他強調，川普政府絕不容許該法院威脅美國人...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5504206",
+          "publishedOn": "2026-07-13T22:12:11.000Z",
+          "wordCount": 10496,
+          "title": "全面圍堵國際刑事法院！魯比歐：絕不容許威脅美國人",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/07/14/5504206_1_1.jpg"
+        },
+        {
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5504163",
+          "author": null,
+          "description": "首次上稿 07-13 22:57更新時間 07-14 06:01\r\nCNBC報導，在美國與伊朗爆發新一輪交火，和平協議的前景蒙上沉重陰影之際，美國總統川普13日接受福斯新聞（F...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5504163",
+          "publishedOn": "2026-07-13T22:01:24.000Z",
           "wordCount": 10502,
-          "title": "烏克蘭政府大改組！總理突卸任轉戰外交 天然氣公司總裁成接班大熱門",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/07/13/5503087_1_1.jpg"
+          "title": "不再做無償守護者！川普：恢復封鎖伊朗 收取20％荷姆茲貨物費",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/07/13/5504163_1_1.jpg"
         },
         {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5503094",
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5504216",
           "author": null,
-          "description": "美國總統川普今天對聯邦參議員葛蘭姆突然病逝表示不清楚原因。「華爾街日報」引述搶救通聯紀錄報導，報案現場有人心臟驟停，醫護曾進行心肺復甦搶救。\n\n共和黨籍聯邦參議員葛蘭姆（Lindsey Gr...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5503094",
-          "publishedOn": "2026-07-12T21:36:03.000Z",
-          "wordCount": 10475,
-          "title": "美議員葛蘭姆過世　美媒：心臟驟停曾心肺復甦搶救",
+          "description": "美國總統川普今天接連發文，宣布將發表全國演說，並將對出入荷莫茲海峽船隻徵收運載貨物價值的20%作為維安行動補償。美軍也宣布明天起恢復對伊朗的海上封鎖，國際油價再度走高。\n\n美國總統川普（Do...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5504216",
+          "publishedOn": "2026-07-13T21:30:06.000Z",
+          "wordCount": 10496,
+          "title": "美再對伊朗海上封鎖　川普將發表全國演說",
           "imageUrl": "https://news.ltn.com.tw/assets/images/all/250_ltn.png"
         },
         {
-          "id": "https://news.ltn.com.tw/news/world/paper/1762432",
+          "id": "https://news.ltn.com.tw/news/world/paper/1762518",
           "author": null,
-          "description": "炮製對台虛假敘事手法 稱巴丹自古屬於中國\r\n〔記者蘇永耀／台北報導〕南海仲裁昨日屆滿十週年，區域安全情勢因當年仲裁案出爐而獲得緩解，但中國近年不僅未收斂威權擴張，反而對外展現更強烈的侵略性。國安人士指出，北京近期在島鏈間一連串的海上軍事與法律戰動作，核心目標即在於控制第一島鏈，台日菲三方及國際社會應…",
-          "link": "https://news.ltn.com.tw/news/world/paper/1762432",
-          "publishedOn": "2026-07-12T21:30:00.000Z",
-          "wordCount": 10466,
-          "title": "中國想控制第一島鏈 台日菲應及早阻止",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/07/13/99.jpg"
+          "description": "◎ 魏國金\r\n\r\nChina is planning to allow the country’s top AI companies to buy a limited number of Nvidia’s H200 chips, ​the Information reported, citing t…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1762518",
+          "publishedOn": "2026-07-13T21:30:00.000Z",
+          "wordCount": 10859,
+          "title": "中英對照讀新聞》China plans to let top AI firms buy limited Nvidia H200 chips 中國計畫讓頂尖人工智慧公司採購少量輝達H200晶片",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/07/14/49.jpg"
         },
         {
-          "id": "https://news.ltn.com.tw/news/world/paper/1762412",
+          "id": "https://news.ltn.com.tw/news/world/paper/1762564",
           "author": null,
-          "description": "◎盧永山\r\nU.S. President Donald Trump said in a Truth Social post on Thursday that Apple has agreed to work with Intel to design and manufacture its chips…",
-          "link": "https://news.ltn.com.tw/news/world/paper/1762412",
-          "publishedOn": "2026-07-12T21:30:00.000Z",
-          "wordCount": 10808,
-          "title": "中英對照讀新聞》Trump says Apple to partner with Intel on US chip design, production川普說，蘋果和英特爾合作，在美國設計和製造晶片",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/07/13/78.jpg"
+          "description": "俄軍情局人員假扮俄航東京員工 將高科技設備運俄 支援侵烏戰爭\r\n〔駐日特派員林翠儀、國際新聞中心／綜合報導〕針對美國「紐約時報」報導，俄羅斯入侵烏克蘭以來，日本已成為俄國間諜活動據點，甚至形容日本為「間諜天堂」。日本政府十三日並未證實報導內容，但政府發言人木原稔強調，外國情報活動帶來的威脅與日俱增，…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1762564",
+          "publishedOn": "2026-07-13T21:30:00.000Z",
+          "wordCount": 10494,
+          "title": "日本嚴查竊密 盼洗刷「俄諜天堂」污名",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/07/14/95.jpg"
         },
         {
-          "id": "https://news.ltn.com.tw/news/world/paper/1762435",
+          "id": "https://news.ltn.com.tw/news/world/paper/1762566",
           "author": null,
-          "description": "〔編譯張沛元／綜合報導〕華爾街日報十一日報導，美國與伊朗就荷姆茲海峽再起衝突，源自德黑蘭當局自認是中東衝突贏家，打算在中東地區建立霸權；對德黑蘭當局而言，控制荷姆茲海峽的重要性，遠勝於川普政府解除價值數百億美元的制裁。\r\n「比數十枚原子彈還重要」\r\n報導指出，德黑蘭當局試圖將控制荷姆茲海峽制度化，反…",
-          "link": "https://news.ltn.com.tw/news/world/paper/1762435",
-          "publishedOn": "2026-07-12T21:30:00.000Z",
-          "wordCount": 10470,
-          "title": "伊朗重視荷姆茲控制權 遠勝美解除制裁",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/07/13/103.jpg"
+          "description": "受颱風「巴威」外圍環流影響，中國北部多地豪雨成災。遼寧省瀋陽市暴雨持續超過8小時，市區多處道路被洪水淹沒、宛如澤國，部分路段積水深達2公尺，大批車輛幾近滅頂。河北省承德市寬城縣也爆發嚴重洪災，轄內4個鄉鎮共9個村莊多處道路遭洪水沖毀，交通全面中斷，逾1800名村民受困。網路畫面顯示，寬城縣城區街道化…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1762566",
+          "publishedOn": "2026-07-13T21:30:00.000Z",
+          "wordCount": 10472,
+          "title": "巴威重創中國北部 寬城1800村民受困",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/07/14/97.jpg"
         },
         {
-          "id": "https://news.ltn.com.tw/news/world/paper/1762436",
+          "id": "https://news.ltn.com.tw/news/world/paper/1762567",
           "author": null,
-          "description": "網傳內容：中聯油脂生產的大豆沙拉油遭驗出致癌物苯駢芘（BaP）超標，網路文章指稱，台灣的沙拉油市場被單一源頭壟斷，生產過程充滿化學科技工程，除了產生致癌物，化學藥劑也可能殘留？\r\n查證結果：台灣事實查核中心引述專家說法指出，網傳訊息對精煉油的好處避而不談，僅強調製程中加入化學物，卻忽略這些物質在後續…",
-          "link": "https://news.ltn.com.tw/news/world/paper/1762436",
-          "publishedOn": "2026-07-12T21:30:00.000Z",
-          "wordCount": 10451,
-          "title": "謠言終結站》沙拉油製程殘留化學藥劑？ 網傳訊息誇大",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/07/13/104.jpg"
+          "description": "〔編譯林家宇／綜合報導〕美國共和黨重量級聯邦參議員葛蘭姆（Lindsey Graham）十一日驟逝，初步檢驗顯示，死因為主動脈剝離。與葛蘭姆關係密切的美國總統川普透露，葛蘭姆逝世前兩人才通過電話討論法案，他推崇葛蘭姆的品德與為國奉獻精神，宣布全國降半旗表達哀悼。\r\n川普向國家廣播公司（NBC New…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1762567",
+          "publishedOn": "2026-07-13T21:30:00.000Z",
+          "wordCount": 10495,
+          "title": "驟逝前兩人才通話談法案》川普哀悼葛蘭姆 下令全美降半旗",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/07/14/98.jpg"
         },
         {
-          "id": "https://news.ltn.com.tw/news/world/paper/1762431",
+          "id": "https://news.ltn.com.tw/news/world/paper/1762569",
           "author": null,
-          "description": "〔國際新聞中心、記者黃靖媗／綜合報導〕菲律賓對中國南海仲裁案裁決十二日屆滿十週年，美國、英國、日本、菲律賓、澳洲等十四個國家十二日發表聯合聲明，重申二〇一六年常設仲裁法院（PCA）的裁決具法律拘束力，中國對南海以「歷史性權利」為基礎的主權聲索，沒有國際法依據，海上爭端必須基於「聯合國海洋法公約」（U…",
-          "link": "https://news.ltn.com.tw/news/world/paper/1762431",
-          "publishedOn": "2026-07-12T21:30:00.000Z",
-          "wordCount": 10468,
-          "title": "南海仲裁10週年》美英日14國 駁中國南海主權主張",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/07/13/98.jpg"
+          "description": "〔國際新聞中心／綜合報導〕泰國曼谷市中心一家熱門啤酒餐廳，十三日凌晨發生劇烈的爆燃大火。由於現場空間密閉、濃煙瀰漫，加上逃生走道疑遭啤酒箱與桌椅堵死，許多顧客在黑暗中慌亂奔往廁所與廚房，最終卻受困其中。這場慘劇共造成至少廿八人死亡、七十三人受傷送醫，其中廿五人傷勢危急，是曼谷十七年來最嚴重的夜店火災…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1762569",
+          "publishedOn": "2026-07-13T21:30:00.000Z",
+          "wordCount": 10529,
+          "title": "17年來最慘重》逃生走道疑堵死 曼谷夜店大火28死",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/07/14/100.jpg"
         },
         {
-          "id": "https://news.ltn.com.tw/news/world/paper/1762433",
+          "id": "https://news.ltn.com.tw/news/world/paper/1762568",
           "author": null,
-          "description": "享壽71歲 10日還在基輔會澤倫斯基\r\n〔編譯張沛元／綜合報導〕美國共和黨籍南卡羅來納州聯邦參議員葛蘭姆（Lindsey Graham），十一日晚間因突發急病辭世，享壽七十一歲。葛蘭姆在國會參眾兩院為民喉舌超過卅年，是與總統川普友好的重量級政治人物，生前支持台灣也力挺烏克蘭，十日甚至還在基輔與烏國總…",
-          "link": "https://news.ltn.com.tw/news/world/paper/1762433",
-          "publishedOn": "2026-07-12T21:30:00.000Z",
+          "description": "〔編譯林家宇／綜合報導〕美國與伊朗上週末重啟戰火。繼十一日對伊朗一四〇個目標發動打擊後，美國中央司令部（CENTCOM）十二日再宣布，轟炸德黑蘭數十個軍事目標，伊朗則以打擊波斯灣地區美軍基地報復，雙方攻擊規模為四月停火以來僅見。美國總統川普更揚言，很可能接管荷姆茲海峽，並且應該因為守護這條重要水道而…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1762568",
+          "publishedOn": "2026-07-13T21:30:00.000Z",
+          "wordCount": 10484,
+          "title": "美軍炸伊朗數十軍事目標 川普揚言接管荷姆茲海峽",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/07/14/99.jpg"
+        },
+        {
+          "id": "https://news.ltn.com.tw/news/world/paper/1762565",
+          "author": null,
+          "description": "駁中國學者瞎扯巴丹為台灣附屬、進而推論主權屬中國\r\n〔國際新聞中心／綜合報導〕針對中國學者聲稱有「人類學證據」支持菲律賓最北端的巴丹群島（Batanes）屬於中國，菲律賓人類學家予以駁斥，直指此舉乃「基於政治動機」，中國做為一個國家在五千年前根本不存在，憑什麼主張一個在其誕生前就已有人居住的語言領域…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1762565",
+          "publishedOn": "2026-07-13T21:30:00.000Z",
+          "wordCount": 10495,
+          "title": "護巴丹島主權 菲學者：五千年前中國不存在",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/07/14/96.jpg"
+        },
+        {
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5504212",
+          "author": null,
+          "description": "美國軍方表示，美國將於明天開始恢復對伊朗港口封鎖行動。\n\n法新社報導，美軍中央司令部（CENTCOM）在聲明中說，美軍「將於美東時間7月14日下午4時（台灣時間15日上午4時）恢復封鎖進出伊...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5504212",
+          "publishedOn": "2026-07-13T19:30:06.000Z",
+          "wordCount": 10477,
+          "title": "美國恢復封鎖伊朗港口　軍方公布執行時間",
+          "imageUrl": "https://news.ltn.com.tw/assets/images/all/250_ltn.png"
+        },
+        {
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5504210",
+          "author": null,
+          "description": "匈牙利國會今天通過一項憲法修正案，目標是罷黜總統蘇尤克（Tamas Sulyok），現任總理馬格雅（Peter Magyar）稱他為前總理奧班（Viktor Orban）的「傀儡」。\n\n路透...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5504210",
+          "publishedOn": "2026-07-13T19:21:03.000Z",
+          "wordCount": 10479,
+          "title": "匈牙利國會通過修憲案　要求總統簽署結束任期",
+          "imageUrl": "https://news.ltn.com.tw/assets/images/all/250_ltn.png"
+        },
+        {
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5504207",
+          "author": null,
+          "description": "美國加州和11個州今天提起訴訟，尋求阻止派拉蒙天舞以1100億美元（約新台幣3.5兆元）收購華納兄弟探索，稱這項好萊塢史上最大併購案對影視產業競爭構成威脅。\n\n法新社報導，這項訴訟在加州北部...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5504207",
+          "publishedOn": "2026-07-13T18:12:03.000Z",
           "wordCount": 10480,
-          "title": "美重量級挺台參議員 葛蘭姆驟逝╱賴總統致哀︰台灣真正的朋友",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/07/13/100.jpg"
-        },
-        {
-          "id": "https://news.ltn.com.tw/news/world/paper/1762434",
-          "author": null,
-          "description": "〔國際新聞中心／綜合報導〕美國和伊朗的停火協議瀕臨全面瓦解！由於伊朗在荷姆茲海峽襲擊商船，美軍十二日凌晨展開一週內的第三度空襲行動，對伊朗全境發動大規模打擊。德黑蘭當局隨後展開報復，發射飛彈與無人機攻擊至少五個有美軍駐紮的盟邦，並宣告荷姆茲海峽將「無限期關閉」。\r\n美國中央司令部（CENTCOM）證…",
-          "link": "https://news.ltn.com.tw/news/world/paper/1762434",
-          "publishedOn": "2026-07-12T21:30:00.000Z",
-          "wordCount": 10474,
-          "title": "伊朗攻擊美駐軍5國 稱無限期關閉荷姆茲",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/07/13/102.jpg"
-        },
-        {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5503091",
-          "author": null,
-          "description": "泰國曼谷恰圖恰市集附近一間啤酒餐廳今天凌晨發生火災，已造成至少30人死亡。泰國總理阿努廷稍早趕赴現場了解救災情況。\n\n這起火災發生於當地時間今天凌晨0時（台灣時間凌晨1時）左右，地點位於曼谷...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5503091",
-          "publishedOn": "2026-07-12T19:54:03.000Z",
-          "wordCount": 10458,
-          "title": "曼谷啤酒餐廳深夜大火至少30死　多人受困廁所身亡",
+          "title": "美12州提反托拉斯訴訟　阻派拉蒙收購華納兄弟探索",
           "imageUrl": "https://news.ltn.com.tw/assets/images/all/250_ltn.png"
         },
         {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5503086",
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5504185",
           "author": null,
-          "description": "美國總統川普重要盟友、共和黨籍南卡羅來納州聯邦參議員葛蘭姆辦公室今天表示，他因「短暫且突發的疾病」，於昨晚辭世，享壽71歲。法新社整理各界回應如下：\n\n●台灣總統賴清德\n\n賴總統表示，他對此...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5503086",
-          "publishedOn": "2026-07-12T19:00:06.000Z",
-          "wordCount": 10468,
-          "title": "美國重量級參議員葛蘭姆辭世　各界哀悼",
+          "description": "根據英國內政大臣馬穆德最新說法，曾任英國保守黨政府國務大臣的資深右翼政治人物威德庫姆（Ann Widdecombe）疑似在家中遭到謀殺案件在出現新證據後，已由反恐警察接手調查。\r\n\r\n法新社...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5504185",
+          "publishedOn": "2026-07-13T17:19:30.000Z",
+          "wordCount": 10514,
+          "title": "新證據出現 英國前保守黨國務大臣謀殺案不排除恐攻",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/07/13/phpk4z8Tk.jpg"
+        },
+        {
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5504200",
+          "author": null,
+          "description": "烏克蘭與9個國家今天宣布將組成聯盟，以保護歐洲免受彈道飛彈威脅，並借鑒烏克蘭4年多來對抗俄羅斯侵略的經驗。\n\n美聯社報導，烏克蘭總統澤倫斯基（Volodymyr Zelenskyy）在法國巴...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5504200",
+          "publishedOn": "2026-07-13T16:54:03.000Z",
+          "wordCount": 10469,
+          "title": "烏克蘭與9國宣布聯盟　保護歐洲免受彈道飛彈威脅",
           "imageUrl": "https://news.ltn.com.tw/assets/images/all/250_ltn.png"
         },
         {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5503077",
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5504159",
           "author": null,
-          "description": "美國今天對伊朗發動攻擊，回應荷莫茲海峽上一艘貨櫃輪遇襲失火、一名船員失蹤。伊朗則對巴林、科威特、卡達、約旦，以及德黑蘭施壓要求共管航道的阿曼等國展開報復襲擊。\n\n美聯社報導，官方伊朗通訊社（...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5503077",
-          "publishedOn": "2026-07-12T17:54:03.000Z",
-          "wordCount": 10465,
-          "title": "美襲伊朗葛希姆島　德黑蘭攻擊巴林科威特卡達約旦阿曼",
-          "imageUrl": "https://news.ltn.com.tw/assets/images/all/250_ltn.png"
+          "description": "俄烏戰爭已持續4年多，烏克蘭靠著無人機屢建奇功，不僅讓俄軍在前線吃足苦頭，近期更對包括俄羅斯首都莫斯科在內多個主要城市發動大規模無人機襲擊，許多重要基礎設施受損或遭摧毀。支持烏國...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5504159",
+          "publishedOn": "2026-07-13T16:51:24.000Z",
+          "wordCount": 10507,
+          "title": "愛沙尼亞外長酸普廷：若無力處理俄烏戰局 也許哪天帶著家人跳窗",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/07/13/phpQKvuBQ.png"
         },
         {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5503072",
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5504181",
           "author": null,
-          "description": "英國媒體今天報導，一艘載有128人的船隻10日抵達英格蘭海岸，創下橫越英吉利海峽單船人數新高。\n\n法新社報導，根據英國內政部資料，加上另外兩艘船，10日總共有225位移民抵達英格蘭。\n\n英國...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5503072",
-          "publishedOn": "2026-07-12T17:06:04.000Z",
-          "wordCount": 10455,
-          "title": "英媒：載128人移民船抵英格蘭　創單船人數最高紀錄",
-          "imageUrl": "https://news.ltn.com.tw/assets/images/all/250_ltn.png"
+          "description": "俄羅斯警方13日逮捕克里姆林宮的反戰批評者納德茲丁（Boris Nadezhdin）。他過去曾試圖投入總統大選，挑戰現任總統普廷（Vladimir Putin），並正計畫參加...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5504181",
+          "publishedOn": "2026-07-13T15:59:00.000Z",
+          "wordCount": 10500,
+          "title": "俄大選前抓人！反戰者納德茲丁被捕 曾選總統挑戰普廷",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/07/13/5504181_1_1.jpg"
         },
         {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5503031",
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5504118",
           "author": null,
-          "description": "巴勒斯坦伊斯蘭武裝組織哈瑪斯（Hamas）日前宣布解散統治加薩近20年的行政機構，為以技術官僚組成的新行政委員會接管鋪路。這項被視為加薩政治重大轉折的決定，在當地青年間引發複雜情緒。\r\n\r\n...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5503031",
-          "publishedOn": "2026-07-12T14:53:05.000Z",
-          "wordCount": 10525,
-          "title": "哈瑪斯放棄治理  加薩青年：厭倦政治只想重建家園",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/07/12/phpunfZ3o.jpg"
+          "description": "芬蘭安全情報局與軍事情報機構向企業發布警告，嚴防俄羅斯聯邦安全局（FSB）利用連網設備從事網路間諜活動。美國與多個西方情報機構今天也發表聯合聲明，直指俄羅斯國家級駭客組織，持續攻擊全球防護不...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5504118",
+          "publishedOn": "2026-07-13T15:01:43.000Z",
+          "wordCount": 10498,
+          "title": "俄國家級駭客新一波網攻  芬蘭情報單位：企業網路須補漏",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/07/13/phplxjFT2.jpg"
         },
         {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5503019",
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5504165",
           "author": null,
-          "description": "在出席伊朗已故最高領袖哈米尼葬禮的人海中，代表伊斯蘭教什葉派復仇象徵的紅旗格外醒目。這被外界視為一項毫不掩飾的政治聲明，要求德黑蘭應該繼續與美國進行戰爭。\r\n\r\n紐約時報12...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5503019",
-          "publishedOn": "2026-07-12T14:22:40.000Z",
-          "wordCount": 10499,
-          "title": "哈米尼葬禮驚見紅旗海！紐時：伊朗強硬派藉復仇聲浪 延續對美戰火",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/07/12/5503019_1_1.jpg"
+          "description": "針對中國學者聲稱有「人類學證據」支持菲律賓最北端的巴丹群島（Batanes）屬於中國，菲律賓人類學家予以駁斥，直指此舉乃「基於政治動機」，中國做為一個國家在5000年前根本不...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5504165",
+          "publishedOn": "2026-07-13T14:59:00.000Z",
+          "wordCount": 10497,
+          "title": "中國學者以「達悟族親緣」稱巴丹群島屬中 菲人類學家痛批政治操弄",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/07/13/5504165_1_1.jpg"
         },
         {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5503018",
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5504078",
           "author": null,
-          "description": "美國與伊朗仍持續交火，引發各界對於荷莫茲海峽（Strait of Hormuz）的安全疑慮，但美國總統川普今天表示，荷莫茲海峽已開放商船通行。\r\n\r\n路透社報導，荷莫茲海峽是全球最重要石油運...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5503018",
-          "publishedOn": "2026-07-12T14:15:20.000Z",
-          "wordCount": 10479,
-          "title": "美伊交火掀航安疑慮 川普：荷莫茲海峽開放商船通行",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/07/12/phpWOPOz3.jpg"
+          "description": "首次上稿 21:19更新時間 22:30（沙烏地阿拉伯疑襲擊機場 青年運動揚言報復）\r\n\r\n受伊朗支持的葉門叛軍「青年運動」（Houthi，胡塞武裝）在首都沙那國際機場「扣押」了...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5504078",
+          "publishedOn": "2026-07-13T14:30:17.000Z",
+          "wordCount": 10501,
+          "title": "葉門青年運動扣押紅十字會飛機 正副機長被挾持",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/07/13/phpYGKDCy.jpg"
         },
         {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5502728",
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5504138",
           "author": null,
-          "description": "2026世界盃足球賽，挪威神鋒哈蘭德（Erling Haaland）憑藉強悍身體能力、超高進球火力，率領球隊殺入8強賽，黑馬之旅驚豔全世界。圈粉無數的哈蘭德，不僅被球迷封為「...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5502728",
-          "publishedOn": "2026-07-12T13:50:35.000Z",
-          "wordCount": 10563,
-          "title": "世足》哈蘭德大哥、姊姊超高顏值照曝光 網友驚嘆",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/07/12/php2w5Gol.png"
+          "description": "日本大分縣佐伯市今天上午驚傳一名44歲男子涉嫌持菜刀在商店停車場及道路隨機攻擊路人，造成4人受傷。多名傷者滿身鮮血逃進店內求救，現場一度陷入混亂。最新調查顯示，嫌犯已坦承持刀刺人，且未鎖定特...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5504138",
+          "publishedOn": "2026-07-13T14:28:56.000Z",
+          "wordCount": 10487,
+          "title": "日本大分縣商店4人被砍  嫌犯：隨機攻擊「誰都可以」",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/07/13/phpeOX0wR.png"
         },
         {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5503006",
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5504129",
           "author": null,
-          "description": "美國共和黨籍資深聯邦參議員葛蘭姆（Lindsey Graham）突然病逝，警方通聯記錄顯示當時有心臟驟停患者的救援記錄。由於葛蘭姆甫訪問烏克蘭返美，並預定出席今天的電視直播節目，全美議論紛紛...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5503006",
-          "publishedOn": "2026-07-12T13:49:18.000Z",
-          "wordCount": 10479,
-          "title": "美參議員葛蘭姆訪烏後驟逝 全美議論",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/07/12/phpy9KxDk.jpg"
+          "description": "曼谷一家酒吧今天凌晨0時左右發生大火，造成至少32人死亡、73人受傷。泰國當局已展開調查。這是繼今年元旦瑞士滑雪勝地酒吧惡火奪40條人命以來，全球娛樂場所再度發生重大火災事件。\r\n\r\n全球酒...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5504129",
+          "publishedOn": "2026-07-13T14:26:54.000Z",
+          "wordCount": 10513,
+          "title": "曼谷酒吧大火至少32死73傷 各國專家看法一次看",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/07/13/phpa7vdp4.jpg"
         },
         {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5502985",
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5504135",
           "author": null,
-          "description": "烏克蘭總統澤倫斯基今天表示，他已提議撤換現任總理斯維里登科（Yulia Svyrydenko）。根據烏克蘭法律，總理辭職須經國會批准，同時也意味著政府總辭。\r\n\r\n路透社報導，澤倫斯基（Vo...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5502985",
-          "publishedOn": "2026-07-12T13:38:07.000Z",
-          "wordCount": 10471,
-          "title": "烏克蘭政府大換血 澤倫斯基撤換總理  執法高層也要換人",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/07/12/phpLmmTor.jpg"
+          "description": "美國與伊朗上週末重啟戰火。繼11日對伊朗140個目標發動打擊後，美國中央司令部（CENTCOM）12日再宣布，轟炸德黑蘭數十個軍事目標；伊朗聲稱打擊波斯灣境內美軍基地並關閉海峽...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5504135",
+          "publishedOn": "2026-07-13T14:13:15.000Z",
+          "wordCount": 10488,
+          "title": "川普稱伊朗打破協議 美國可能接管荷姆茲海峽",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/07/13/5504135_1_1.jpg"
         },
         {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5502997",
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5503963",
           "author": null,
-          "description": "受颱風巴威遠距離水氣輸送等影響，中國遠至華北、東北都將有大風及豪大雨。中國水利部和中國氣象局今天傍晚6時聯合發布紅色山洪災害氣象預警，範圍包括遼寧、吉林和安徽。\r\n\r\n根據中國中央氣象台官網...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5502997",
-          "publishedOn": "2026-07-12T13:34:54.000Z",
-          "wordCount": 10470,
-          "title": "巴威颱風影響  中國遼寧吉林安徽山洪災害紅色預警",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/07/12/phpk4Oxpj.png"
-        },
-        {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5502933",
-          "author": null,
-          "description": "為減少浪費，日本推出置物櫃型自動販賣機販售賣不完的麵包，也有業者開設全新型態的麵包店，專賣其他店滯銷的麵包，甚至有廠商用麵包釀成啤酒，賦予原本要報廢的麵包新生命。\r\n\r\n日本「讀賣新聞」報導...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5502933",
-          "publishedOn": "2026-07-12T12:04:12.000Z",
-          "wordCount": 10486,
-          "title": "賣不完丟掉？日本滯銷麵包送進自動販賣機  還能釀啤酒",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/07/12/phpGAMS53.jpg"
-        },
-        {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5502919",
-          "author": null,
-          "description": "總部設在愛爾蘭、歐洲最大廉航「瑞安航空」1架班機近日在飛行途中機窗突然碎裂，坐在窗邊1名男子的頭和肩部瞬間被吸出機艙外，男子身邊的妻子和其他乘客見狀，趕緊死命抓住他的雙腿，極力避...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5502919",
-          "publishedOn": "2026-07-12T11:50:15.000Z",
+          "description": "泰國曼谷啤酒餐廳大火已增至32人死亡。罹難者家屬今天前往泰國警察醫院法醫研究所辦理指認及領遺體手續，家屬神情哀傷，部分家屬質疑餐廳消防安全設施有缺失，要求當局徹查逃生門是否遭上鎖及建築安全等...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5503963",
+          "publishedOn": "2026-07-13T14:02:03.000Z",
           "wordCount": 10490,
-          "title": "悚！飛機窗戶突碎裂  乘客瞬間吸出艙外「半身掛高空」",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/07/12/phpglMkQ3.png"
+          "title": "曼谷啤酒餐廳大火家屬認屍 質疑逃生門遭鎖促徹查",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/07/13/phpSMO9Po.jpg"
         },
         {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5502926",
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5504133",
           "author": null,
-          "description": "伊拉克政府發言人阿布迪今天表示，總理柴迪（Ali al-Zaidi）在獲得美方正式邀請後，明天將率官方代表團訪問華府，預計簽署石油與天然氣協議。\r\n\r\n路透報導，阿布迪（Haider al-...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5502926",
-          "publishedOn": "2026-07-12T11:35:32.000Z",
-          "wordCount": 10465,
-          "title": "伊拉克總理受邀訪華府  將簽署石油、天然氣協議",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/07/12/phpUr7W2W.jpg"
-        },
-        {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5502915",
-          "author": null,
-          "description": "據中國中央氣象台，颱風巴威已減弱為熱帶風暴，中心進入安徽。但巴威持續為中國多地帶來暴風及豪大雨，中央氣象台傍晚發布漬澇風險氣象預報。\r\n\r\n上觀新聞引述中國中央氣象台消息，颱風巴威在兩次登陸...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5502915",
-          "publishedOn": "2026-07-12T11:05:11.000Z",
-          "wordCount": 10467,
-          "title": "巴威進入中國安徽  暴風大雨遠至東北、內蒙",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/07/12/phpMVJdLG.png"
-        },
-        {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5502914",
-          "author": null,
-          "description": "伊朗最高領袖的顧問雷扎伊今天表示，荷姆茲海峽（Strait of Hormuz）的重要性勝過「數十枚原子彈」，伊朗誓言保護這條重要水道。\r\n\r\n伊朗學生通訊社（ISNA）報導，雷扎伊（Moh...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5502914",
-          "publishedOn": "2026-07-12T10:59:59.000Z",
-          "wordCount": 10473,
-          "title": "伊朗誓守荷姆茲海峽 強調其重要性勝過數十枚原子彈",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/07/12/phpEjIHYS.jpg"
+          "description": "美國共和黨重量級聯邦參議員葛蘭姆（Lindsey Graham）11日驟逝，震驚全球政界。「紐約時報」指出，在白宮圍繞著許多傾向孤立主義的「美國優先」支持者之際，葛蘭姆對美國必...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5504133",
+          "publishedOn": "2026-07-13T13:59:00.000Z",
+          "wordCount": 10489,
+          "title": "戰爭期間10度訪問！葛蘭姆驟逝 烏克蘭失去重要盟友",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/07/13/5504133_1_1.jpg"
         }
       ]
     },
@@ -1027,6 +1027,56 @@
       "siteUrl": "https://cn.nytimes.com",
       "articles": [
         {
+          "id": "https://cn.nytimes.com/business/20260714/oil-prices-iran-china/zh-hant/",
+          "author": "REBECCA F. ELLIOTT,LISA FRIEDMAN",
+          "description": "市場正在觀望中國何時會重新增加原油採購。在其他條件相同的情況下，中國需求的增加將會推高油價。此外，俄烏戰爭以及波斯灣衝突的激烈程度也將對能源市場造成影響。\n\n                    \nAgence France-Presse — Getty Images\n                    \n一艘油輪停靠在中國青島的一處原油碼頭。中國通常是全球最大的原油進口國，但今年春季大幅削減了進口量。",
+          "link": "https://cn.nytimes.com/business/20260714/oil-prices-iran-china/zh-hant/?utm_source=RSS",
+          "publishedOn": "2026-07-14T02:14:40.000Z",
+          "wordCount": 232,
+          "title": "油價會繼續飆升嗎？取決於中國的決策",
+          "imageUrl": "https://static01.nyt.com/images/2026/07/13/multimedia/13Biz-Oil-China-kmwp/13Biz-Oil-China-kmwp-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/asia-pacific/20260714/japan-intelligence-agency/zh-hant/",
+          "author": "赫海威",
+          "description": "隨著來自中國、俄羅斯和朝鮮的威脅日益加大，高市早苗希望建立一個國內情報機構，以擺脫戰後對日本國防和安全方面的限制。其政府已就此向西方合作夥伴尋求幫助。\n\n                    \nPool photo by Isabel Infantes\n                    \n上個月，高市早苗首相出席了在法國舉行的七國集團峰會。高市早苗希望日本在保護國家機密和關鍵技術方面採取更多措施，並更積極地防範外國的影響行動。",
+          "link": "https://cn.nytimes.com/asia-pacific/20260714/japan-intelligence-agency/zh-hant/?utm_source=RSS",
+          "publishedOn": "2026-07-14T01:57:54.000Z",
+          "wordCount": 244,
+          "title": "日本籌建二戰以來首個中央情報機構",
+          "imageUrl": "https://static01.nyt.com/images/2026/07/08/multimedia/00int-japan-intelligence-phqg/00int-japan-intelligence-phqg-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/china/20260713/china-workers-robots-factories/zh-hant/",
+          "author": "王月眉",
+          "description": "隨著中國從低端製造業向先進技術轉型，很多藍領工人面臨失業壓力，被迫轉向零工經濟。這些勞動者的困境凸顯了中國在努力轉型為高科技強國時面臨的挑戰。\n\n                    \nVivian Wang/The New York Times\n                    \n在中國製造業中心崑山，許多人正在尋找零工。隨著中國向自動化轉型，技術水平較低的工人越來越難找到穩定的工作機會。",
+          "link": "https://cn.nytimes.com/china/20260713/china-workers-robots-factories/zh-hant/?utm_source=RSS",
+          "publishedOn": "2026-07-14T01:00:41.000Z",
+          "wordCount": 238,
+          "title": "中國機器人技術熱潮下，被拋棄的藍領工人",
+          "imageUrl": "https://static01.nyt.com/images/2026/07/01/multimedia/00int-china-migrant-01-wlmv/00int-china-migrant-01-wlmv-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/asia-pacific/20260713/russia-spies-japan-war-drones-electronics/zh-hant/",
+          "author": "JANE BRADLEY,MICHAEL SCHWIRTZ,ADAM GOLDMAN",
+          "description": "薄弱的間諜法和繁榮的高科技產業使日本成為俄羅斯戰爭行動的關鍵一環。一個名為「第20局」的俄祕密情報部門在日本購買或竊取戰爭裝備或技術，並走私到俄羅斯。\n\n                    \nChang W. Lee/The New York Times\n                    \n位於東京一座大樓的俄羅斯國際航空公司辦事處。寬鬆的間諜法以及蓬勃發展的高科技產業令日本成為俄羅斯戰爭行動的重要據點。",
+          "link": "https://cn.nytimes.com/asia-pacific/20260713/russia-spies-japan-war-drones-electronics/zh-hant/?utm_source=RSS",
+          "publishedOn": "2026-07-13T04:44:02.000Z",
+          "wordCount": 260,
+          "title": "普丁如何將日本變成俄羅斯間諜據點",
+          "imageUrl": "https://static01.nyt.com/images/2026/07/06/multimedia/00int-russia-spies-03-hqjb/00int-russia-spies-03-hqjb-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/opinion/20260713/ai-populism-china-open-source/zh-hant/",
+          "author": "ERIC SCHMIDT,SELINA XU",
+          "description": "人類正面臨關鍵抉擇：人工智慧革命將如何展開，應該劃定怎樣的界限。人工智慧需要一種民粹主義議程，將這項技術視為公共項目。\n\n                    \nBen Denzer",
+          "link": "https://cn.nytimes.com/opinion/20260713/ai-populism-china-open-source/zh-hant/?utm_source=RSS",
+          "publishedOn": "2026-07-13T04:00:00.000Z",
+          "wordCount": 226,
+          "title": "在中國，我們看到了本世紀的最大挑戰",
+          "imageUrl": "https://static01.nyt.com/images/2026/07/13/opinion/11schmidtxu/11schmidtxu-articleLarge.jpg"
+        },
+        {
           "id": "https://cn.nytimes.com/business/20260713/volkswagen-china-problems-restructuring/zh-hant/",
           "author": "KEITH BRADSHER",
           "description": "中國開始力推汽車產業向電動車轉型時，大眾持懷疑態度。轉型遲緩導致大眾在電動車領域難以與中國本土車企競爭。此外，在汽車軟體和其他電子技術方面大眾也發展緩慢。\n\n                    \nQilai Shen for The New York Times\n                    \n上海車展上的大眾汽車展台。多年來，中國市場為這家德國車企貢獻了至少半數利潤。",
@@ -1035,16 +1085,6 @@
           "wordCount": 272,
           "title": "大眾汽車是如何在中國陷入困境的",
           "imageUrl": "https://static01.nyt.com/images/2026/07/08/multimedia/00Biz-VW-China-01-glkb/00Biz-VW-China-01-glkb-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/china/20260713/china-workers-robots-factories/zh-hant/",
-          "author": "王月眉",
-          "description": "隨著中國從低端製造業向先進技術轉型，很多藍領工人面臨失業壓力，許多人被迫轉向零工經濟。這些勞動者的困境凸顯了中國在努力轉型為高科技強國時所面臨的挑戰。\n\n                    \nVivian Wang/The New York Times\n                    \n在中國製造業中心崑山，許多人正在尋找零工。隨著中國向自動化轉型，技術水平較低的工人越來越難找到穩定的工作機會。",
-          "link": "https://cn.nytimes.com/china/20260713/china-workers-robots-factories/zh-hant/?utm_source=RSS",
-          "publishedOn": "2026-07-13T02:40:16.000Z",
-          "wordCount": 238,
-          "title": "中國機器人技術熱潮下，被拋棄的藍領工人",
-          "imageUrl": "https://static01.nyt.com/images/2026/07/01/multimedia/00int-china-migrant-01-wlmv/00int-china-migrant-01-wlmv-articleLarge.jpg"
         },
         {
           "id": "https://cn.nytimes.com/science/20260713/china-space-race/zh-hant/",
@@ -1185,46 +1225,6 @@
           "wordCount": 228,
           "title": "美國還能挺得住嗎？",
           "imageUrl": "https://static01.nyt.com/images/2026/07/08/multimedia/08kristof-hftp/08kristof-hftp-videoLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/health/20260709/omega-3s-supplements-benefits-brain/zh-hant/",
-          "author": "DANA G. SMITH",
-          "description": "研究表明，血液中歐米伽-3水平較高的人擁有更好的認知能力和更健康的大腦結構，同時患上失智症的風險也更低。但臨床試驗發現，服用歐米伽-3補充劑帶來的益處相當有限。\n\n                    \nMaria Hergueta",
-          "link": "https://cn.nytimes.com/health/20260709/omega-3s-supplements-benefits-brain/zh-hant/?utm_source=RSS",
-          "publishedOn": "2026-07-09T03:41:40.000Z",
-          "wordCount": 224,
-          "title": "歐米伽-3補充劑真的對大腦有益嗎？",
-          "imageUrl": "https://static01.nyt.com/images/2026/07/08/well/08WELL-OMEGA-3-BRAIN-HEALTH-image/08WELL-OMEGA-3-BRAIN-HEALTH-image-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/world/20260709/nato-trump-europe/zh-hant/",
-          "author": "TYLER PAGER,SHAWN McCREESH",
-          "description": "川普在峰會上就接管格陵蘭島發表了更具威脅性的言論，並一再批評德法等國沒有在伊朗戰爭中幫助美國。但在晚間新聞發布會上，他轉變了態度，宣稱峰會充滿「團結」。\n\n                    \nDoug Mills/The New York Times\n                    \n週三，川普總統出席在土耳其安卡拉舉行的北約峰會。",
-          "link": "https://cn.nytimes.com/world/20260709/nato-trump-europe/zh-hant/?utm_source=RSS",
-          "publishedOn": "2026-07-09T03:30:04.000Z",
-          "wordCount": 227,
-          "title": "北約峰會：川普在對盟友出言不遜後又展示團結",
-          "imageUrl": "https://static01.nyt.com/images/2026/07/08/multimedia/08int-nato-trump-topart-qlmc/08int-nato-trump-topart-qlmc-videoLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/usa/20260709/trump-iran-war/zh-hant/",
-          "author": "DAVID E. SANGER",
-          "description": "川普宣布與伊朗的停火協議「終結」。這份倉促達成的協議在解決導致衝突的關鍵問題方面幾乎沒有取得任何進展，如今，美國總統在一場看似無解的僵局面前左右為難。\n\n                    \nDoug Mills/The New York Times\n                    \n週三，川普總統在土耳其安卡拉舉行的北約峰會上宣布，與伊朗的停火協議在達成不到一個月後即告「終結」。",
-          "link": "https://cn.nytimes.com/usa/20260709/trump-iran-war/zh-hant/?utm_source=RSS",
-          "publishedOn": "2026-07-09T02:21:23.000Z",
-          "wordCount": 228,
-          "title": "伊朗停火協議「終結」，川普面臨破局難題",
-          "imageUrl": "https://static01.nyt.com/images/2026/07/08/multimedia/08dc-trump-iran-gvck/08trump-iran-gvck-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/asia-pacific/20260709/china-australia-pacific/zh-hant/",
-          "author": "VICTORIA KIM",
-          "description": "太平洋國家因戰略位置而成為地緣政治角力的焦點。中國近年來與多個國家開展合作，澳洲則努力把自己塑造成在經濟和安全領域都比中國更具吸引力的夥伴。\n\n                    \nLeon Lord/Agence France-Presse — Getty Images\n                    \n澳洲總理阿爾巴尼斯（左）與斐濟總理蘭布卡週一在斐濟首都蘇瓦簽署了兩項安全協議。",
-          "link": "https://cn.nytimes.com/asia-pacific/20260709/china-australia-pacific/zh-hant/?utm_source=RSS",
-          "publishedOn": "2026-07-09T01:43:30.000Z",
-          "wordCount": 236,
-          "title": "澳洲與中國在太平洋地區陷入「持久競爭」",
-          "imageUrl": "https://static01.nyt.com/images/2026/07/08/multimedia/08int-oz-pacific-01-ckzl/08int-oz-pacific-01-ckzl-articleLarge.jpg"
         }
       ]
     }

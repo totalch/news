@@ -1,18 +1,559 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-29T06:00:34.364Z</id>
+    <id>urn:2026-08-30T04:07:05.786Z</id>
     <title>osmos::feed</title>
-    <updated>2026-08-29T06:00:34.364Z</updated>
+    <updated>2026-08-30T04:07:05.786Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[尼泊爾8歲男孩奔森林爬樹保住命！母親淚崩：以為罹難了]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5556232</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5556232"/>
-        <updated>2026-08-29T05:08:20.000Z</updated>
-        <summary type="html"><![CDATA[尼泊爾與中國邊境地區發生大規模洪災，造成嚴重死傷。8歲男童加萊（Zoyal Ghale）在災難來臨時奔進森林，並爬上樹木避難。他的28歲母親塔瑪（Matti Maya Taman...…]]></summary>
+        <title type="html"><![CDATA[尼泊爾洪災：最新衛星圖像揭示村莊災情的嚴重程度]]></title>
+        <id>https://www.bbc.com/zhongwen/articles/cx2zp5q4gnjo/trad#0</id>
+        <link href="https://www.bbc.com/zhongwen/articles/cx2zp5q4gnjo/trad?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-08-30T03:53:00.000Z</updated>
+        <summary type="html"><![CDATA[衛星對比圖像曝光尼泊爾洪災的嚴峻災情。許多村莊、橋樑和西藏邊境的重要過境點被毀滅性的洪水沖毀。]]></summary>
+        <author>
+            <name>BBC Chinese</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[喜馬拉雅致命洪災沒完！舊湖剛縮小 衛星驚見「12萬㎡更大湖泊」]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5556938</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5556938"/>
+        <updated>2026-08-30T03:43:34.000Z</updated>
+        <summary type="html"><![CDATA[喜馬拉雅山區冰川崩塌引發致命洪災後，搜救工作原以為危機稍微緩解，最新衛星影像卻發現新的警訊：原先堵塞河道形成的堰塞湖面積雖明顯縮小，但崩塌點下方又出現另一座面積超過12萬平方公...…]]></summary>
         <author>
             <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自由說新聞》烏克蘭無人機讓俄國防空出糗再+1 傳俄想開闢新戰線他「這句」回嗆]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5556973</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5556973"/>
+        <updated>2026-08-30T03:18:36.000Z</updated>
+        <summary type="html"><![CDATA[【更多內容  請見影片】
+訂閱【自由追新聞】
+全新的視界！新聞話題不漏接，快訂閱YouTube 【自由追新聞】，記得開啟小鈴鐺哦！…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中共高官加入信心喊話  蔡奇：要「正確看待」當前中國經濟形勢]]></title>
+        <id>CNA/2026-08-30/202608300029</id>
+        <link href="https://www.cna.com.tw/news/acn/202608300029.aspx"/>
+        <updated>2026-08-30T02:30:09.000Z</updated>
+        <summary type="html"><![CDATA[（中央社台北30日電）在官媒連日對中國經濟表現疲弱發文信心喊話後，兼任中共中央黨校校長的中央書記處書記蔡奇昨天在該校秋季學期開學典禮時說，要「正確看待」當前中國經濟形勢，「強信心、穩預期」，統籌好發展和安全，並要「正確認識把握當前形勢和任務」。]]></summary>
+        <author>
+            <name>中央社即時新聞 兩岸透視</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中國西藏吉隆失蹤者有261名外國人 來自23個國家]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5556919</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5556919"/>
+        <updated>2026-08-30T02:28:38.000Z</updated>
+        <summary type="html"><![CDATA[中國西藏吉隆口岸在26日世紀洪災中遭到泥石流掩埋，中方目前統計為16死546失蹤，在失聯民眾當中有來自23個國家的261名外國人。
+
+據《新華社》報導，失蹤的外國旅客分別為尼...…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[創紀錄暴雨！日本福井縣發最高警報 34萬人疏散]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5556890</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5556890"/>
+        <updated>2026-08-30T02:10:04.000Z</updated>
+        <summary type="html"><![CDATA[日本福井縣受鋒面和暖濕空氣影響，從29日晚間開始降下暴雨，勝山市、福井市、坂井市、大野市降雨量創下歷史紀錄，氣象廳今天（30日）清晨4時30分許發布最高級別的5級大雨特別警報，福...…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[尼泊爾西藏土石流災情  中國境內已16死546人失聯]]></title>
+        <id>CNA/2026-08-30/202608300020</id>
+        <link href="https://www.cna.com.tw/news/acn/202608300020.aspx"/>
+        <updated>2026-08-30T02:00:50.000Z</updated>
+        <summary type="html"><![CDATA[（中央社台北30日電）尼泊爾與西藏邊境地區26日遭土石流重創。中國官方最新公布數字顯示，截至29日晚間6時，在西藏吉龍口岸一側已造成16人遇難，546人失聯，失聯者中的261人為外籍人員，分屬23個國家。]]></summary>
+        <author>
+            <name>中央社即時新聞 兩岸透視</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[台灣館正名成功！中國退出光州雙年展 矢板明夫：主權不再息事寧人]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5556811</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5556811"/>
+        <updated>2026-08-30T01:51:31.000Z</updated>
+        <summary type="html"><![CDATA[日本資深媒體人矢板明夫近日針對南韓光州雙年展「台灣館」名稱風波表示，台灣堅持使用自己的名字，南韓主辦單位最終恢復「台灣館」名稱，中國方面抗議未果後，停止中國館布展並撤走工作人員。...…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中國西藏吉隆口岸增至16死546失蹤 女警沒值班逃過一劫]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5556864</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5556864"/>
+        <updated>2026-08-30T01:29:51.000Z</updated>
+        <summary type="html"><![CDATA[中國與尼泊爾接壤的西藏吉隆口岸，在26日嚴重洪災中遭到泥石流掩埋，最新消息增至16死546失蹤，吉隆邊防移民管理女警鄔艷瀘傳出逃過一劫，有消息指稱她當天沒值班到鎮上逃過一劫。
+...…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[北韓國防部長遭撤職 軍方高層重新洗牌]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5556826</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5556826"/>
+        <updated>2026-08-30T01:12:55.000Z</updated>
+        <summary type="html"><![CDATA[北韓官方媒體今天報導，北韓國防部長努光鐵（No Kwang Chol）已被免職，這是國家軍事領導層改組的一環。
+
+北韓中央通信社（KCNA）報導，這項「結構性改組計畫」是在北韓領袖金正恩...…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高速無人機狂轟！俄猛攻基輔彈藥庫釀37死 澤倫斯基震怒究責]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5556846</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5556846"/>
+        <updated>2026-08-30T01:00:29.000Z</updated>
+        <summary type="html"><![CDATA[烏克蘭總統澤倫斯基（Volodymyr Zelenskiy）29日證實，俄羅斯無人機攻擊基輔地區1座彈藥庫，引發爆炸，造成至少37人死亡。這已是近2個月內發生的第2起類似事件，澤...…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「烤過頭」了嗎？機械人薄餅製造商為何難逃失敗命運]]></title>
+        <id>https://www.bbc.com/zhongwen/articles/c20ln8nrzn4o/trad#0</id>
+        <link href="https://www.bbc.com/zhongwen/articles/c20ln8nrzn4o/trad?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-08-30T00:14:20.000Z</updated>
+        <summary type="html"><![CDATA[接二連三的失敗，令外界對機械人全面接管披薩餐廳製作流程的前景失去信心。]]></summary>
+        <author>
+            <name>BBC Chinese</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[挺川普籲「驅逐百萬人」！英極右派名嘴逾期居留慘遭遣返]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5556822</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5556822"/>
+        <updated>2026-08-29T23:55:06.000Z</updated>
+        <summary type="html"><![CDATA[美國國土安全部（DHS）發言人29日證實，英國極右派煽動家伊安諾波洛斯（Milo Yiannopoulos）已被遣返回英國。
+
+路透報導，本月27日，41歲的伊安諾波洛斯在紐...…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[冰島是否重啟入歐談判 公投結果預計30日揭曉]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5556818</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5556818"/>
+        <updated>2026-08-29T23:11:39.000Z</updated>
+        <summary type="html"><![CDATA[冰島今天結束一場攸關是否重啟加入歐洲聯盟談判的歷史性公投，晚間隨即開始計票。這場公投牽動當地民眾關切的生活成本、安全、主權及漁業資源控制權。
+
+路透社報導，投票晚間10時結束，隨即啟動複...…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[尼日軍政府稱平息叛變　傳俄軍助奪回首都空軍基地]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5556809</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5556809"/>
+        <updated>2026-08-29T21:30:03.000Z</updated>
+        <summary type="html"><![CDATA[西非國家尼日今天發生士兵叛變，叛變士兵攻向總統府，並一度迫使國家電視台中斷播出。軍政府隨後表示已重新掌控局勢。
+
+法新社報導，尼日3年前爆發政變後由軍政府統治，但在將領蒂亞尼（Abdoura...…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[史上最大石油交易! 美取得650億桶委油控制權]]></title>
+        <id>https://news.ltn.com.tw/news/world/paper/1768595</id>
+        <link href="https://news.ltn.com.tw/news/world/paper/1768595"/>
+        <updated>2026-08-29T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[川普：讓美國石油儲量增加1倍以上
+〔編譯林家宇／綜合報導〕美國總統川普廿九日宣布，與委內瑞拉訂立「史上最大規模石油協議」，美國從中取得超過六五〇億桶已探明石油儲量的多數控制權。華盛頓郵報消息指出，藉由這紙長達一百年的協議，川普政府盼能激勵觀望中的能源企業大舉投資開採。
+委內瑞拉是全球石油儲量規模…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中國嚴控資訊 「維穩」西藏災情]]></title>
+        <id>https://news.ltn.com.tw/news/world/paper/1768597</id>
+        <link href="https://news.ltn.com.tw/news/world/paper/1768597"/>
+        <updated>2026-08-29T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[〔編譯張沛元／綜合報導〕北京當局嚴格管控中尼邊境致命洪災相關資訊。在全球瘋傳的西藏吉隆口岸建築遭泥石流吞沒監視器畫面，中國網路卻看不到；災區網友或中國自媒體上傳的災情影片，也很快遭刪除。中國官媒報導則口徑一致，強調高層開會與指揮救災，對受災程度著墨有限。官方公布的西藏側死亡人數截至廿九日也僅七人，與…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[失蹤人數近3千 尼泊爾亟需援助]]></title>
+        <id>https://news.ltn.com.tw/news/world/paper/1768596</id>
+        <link href="https://news.ltn.com.tw/news/world/paper/1768596"/>
+        <updated>2026-08-29T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[洪災經損上看50億美元
+
+〔編譯張沛元／綜合報導〕中國與尼泊爾邊境地區的致命性洪災在事發三天後的廿九日已造成超過六八〇人死亡與將近三千人失蹤，一度婉拒海外救援隊的尼泊爾鬆口希望外國提供技術協助，並估計災後重建經費可能需要佔該國經濟規模近十分之一的四、五十億元。
+
+尼國增至675死 中國7死…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[通膨飆66%出口跌35% 伊朗經濟陷困]]></title>
+        <id>https://news.ltn.com.tw/news/world/paper/1768599</id>
+        <link href="https://news.ltn.com.tw/news/world/paper/1768599"/>
+        <updated>2026-08-29T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[〔編譯管淑平／綜合報導〕美國與以色列聯合對伊朗的戰爭已持續六個月，伊朗總統裴澤斯基安廿八日坦言，由於美國的制裁和海上封鎖，伊朗貿易量萎縮了卅五％；最高領袖穆吉塔巴也要求政府處理通膨、失業和物價等經濟困境。
+美國的制裁加劇對伊朗經濟的打擊，上月通膨年增率已達到六十六％。最高領袖穆吉塔巴廿八日透過書面…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[謠言終結站》尼泊爾洪災影像真實？ 智利冰河影片被翻出充數]]></title>
+        <id>https://news.ltn.com.tw/news/world/paper/1768601</id>
+        <link href="https://news.ltn.com.tw/news/world/paper/1768601"/>
+        <updated>2026-08-29T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[網傳消息：尼泊爾與西藏邊境8月26日發生嚴重山洪與土石流災情，造成慘重傷亡後，社群媒體流傳一段影片，標題寫「西藏突然冰河崩塌，洪水狂衝尼泊爾」，聲稱為真實影像。
+
+查證結果：不實。法新社查證，透過Google反向影像搜尋，發現該影片於2022年11月已上傳YouTube，標示拍攝地點為智利巴塔哥…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[未事先協商 駐日美軍爆參與伊戰]]></title>
+        <id>https://news.ltn.com.tw/news/world/paper/1768598</id>
+        <link href="https://news.ltn.com.tw/news/world/paper/1768598"/>
+        <updated>2026-08-29T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[〔國際新聞中心／綜合報導〕日本共同社廿九日報導，英國專業軍事媒體「英國國防期刊」（UK Defence Journal）十五日曾報導，日本青森縣美軍三澤基地的F-16戰機今年三、四月曾參與針對伊朗的作戰。另有駐沖繩第卅一陸戰隊遠征軍等駐日美軍部隊一度被調往中東，長達數月，恐削弱在東亞的威懾力，也引發…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中國操弄輿論 阻美AI發展]]></title>
+        <id>https://news.ltn.com.tw/news/world/paper/1768600</id>
+        <link href="https://news.ltn.com.tw/news/world/paper/1768600"/>
+        <updated>2026-08-29T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[〔編譯林家宇／綜合報導〕美國與中國競爭延伸至近年高速發展的人工智慧（AI）領域。據社群媒體平台Ｘ指出，在廿萬個疑似進行影響力操縱活動的中國機器人帳戶中，約有兩百個試圖左右美國用戶對AI資料中心和能源政策的輿論風向。
+美國網路新聞Axios報導，Ｘ安全團隊針對疑似中國帳戶參與影響力行動的情況進行調查…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中英對照讀新聞》Japan’s Yayoi Kusama, who turned hallucinations into art, dies at 97將幻覺轉變為藝術的日本藝術家草間彌生逝世 享耆壽97歲]]></title>
+        <id>https://news.ltn.com.tw/news/world/paper/1768623</id>
+        <link href="https://news.ltn.com.tw/news/world/paper/1768623"/>
+        <updated>2026-08-29T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[◎林家宇
+Yayoi Kusama, the acclaimed Japanese avant-garde artist who transformed her ‌hallucinations into works that ranged from vibrant dot-covered pain…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[挪威新國王首度發聲　悼念父王、宣示肩負重任]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5556808</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5556808"/>
+        <updated>2026-08-29T20:12:04.000Z</updated>
+        <summary type="html"><![CDATA[挪威新國王哈康八世（Haakon VIII）繼位後今天首度公開向全體挪威民眾發表談話，緬懷昨天駕崩、享壽89歲的父親哈拉德五世（Harald V）。
+
+綜合法新社和路透社報導，哈康八世在全國...…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美委石油協議能讓油價降嗎？關鍵問答一次看]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5556804</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5556804"/>
+        <updated>2026-08-29T19:00:06.000Z</updated>
+        <summary type="html"><![CDATA[美國總統川普稱與委內瑞拉達成「全球史上最大石油協議」，但美聯社分析指出，這項交易短期內恐怕難以壓低美國汽油價格。委內瑞拉老舊石油設施需要投入數十億美元、耗時多年整修，協議全文也尚未公布，許多...…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[尼泊爾洪災釀682死　外長警告氣候變遷威脅加劇]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5556800</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5556800"/>
+        <updated>2026-08-29T17:21:03.000Z</updated>
+        <summary type="html"><![CDATA[尼泊爾與中國西藏邊界26日發生致命洪災，造成682人喪生、近3000人失蹤之際，尼泊爾外交部長今天警告，氣候變遷對喜馬拉雅山區的威脅日益加劇。
+
+這個擁有3000萬人口、經濟貧困的喜馬拉雅山...…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中尼邊境遭暴洪重創  兩國外長通話]]></title>
+        <id>CNA/2026-08-29/202608290208</id>
+        <link href="https://www.cna.com.tw/news/acn/202608290208.aspx"/>
+        <updated>2026-08-29T15:00:48.000Z</updated>
+        <summary type="html"><![CDATA[（中央社記者呂佳蓉北京29日電）尼泊爾與西藏邊境地區26日遭暴洪重創。中共中央政治局委員、中國外長王毅29日與尼泊爾外長坎乃爾（Shisir Khanal）通電話。王毅表示，中方對尼泊爾援助正在落實，包括緊急現匯援助和人道主義援助。]]></summary>
+        <author>
+            <name>中央社即時新聞 兩岸透視</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[去年下令禁蓄鬍！美防長又想召集將領訓話  可能發布新指示]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5556769</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5556769"/>
+        <updated>2026-08-29T14:32:00.000Z</updated>
+        <summary type="html"><![CDATA[美國戰爭部長（國防部長）赫格塞斯（Pete Hegseth）考慮再度召集派駐全球的數百名高階軍官返國，他將發表演說。這將是赫格塞斯第二度召集類似集會，預料將再次向各級將領闡述他...…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[X調查揭疑中國帳戶操縱輿論風向 意圖減緩美國AI發展]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5556756</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5556756"/>
+        <updated>2026-08-29T14:25:16.000Z</updated>
+        <summary type="html"><![CDATA[社群媒體平台X指出，在20萬個疑似進行影響力操縱活動的中國機器人帳戶中，約有200個試圖左右美國用戶對AI資料中心，和能源政策的輿論風向。顯示出美中競逐AI領域之際，中國的宣傳...…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美委訂立史上最大規模石油協議 華郵點出開發難題]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5556752</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5556752"/>
+        <updated>2026-08-29T14:11:07.000Z</updated>
+        <summary type="html"><![CDATA[美國總統川普29日宣布，與委內瑞拉訂立「史上最大規模石油協議」，美國從中取得超過650億桶已探明石油儲量的多數控制權。華盛頓郵報消息指出，藉由這紙長達100年的協議，川普政府盼...…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[控為伊朗洗錢！美再對中國出手  制裁港企Kameng公司]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5556747</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5556747"/>
+        <updated>2026-08-29T14:01:02.000Z</updated>
+        <summary type="html"><![CDATA[美國政府對伊朗啟動「經濟放逐」行動，加強對伊朗經濟施壓，財政部28日再擴大制裁對象，包括香港Kameng貿易公司（Kameng Trading Limited），指控其為一家伊...…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[辛巴威重大車禍 2車迎面對撞釀27死]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5556745</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5556745"/>
+        <updated>2026-08-29T13:52:41.000Z</updated>
+        <summary type="html"><![CDATA[非洲南部內陸國辛巴威的警方29日表示，當地28日晚間發生1起重大車禍，1輛大卡車與1輛小型巴士在公路上迎面對撞，造成27人死亡與7人受傷。
+
+警方指出，這起事故發生在格林威...…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[悚！60歲婦搭北美第2長雲霄飛車 遭甩出拖行半分鐘慘況曝]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5556616</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5556616"/>
+        <updated>2026-08-29T12:02:49.000Z</updated>
+        <summary type="html"><![CDATA[美國科羅拉多州知名景點銅山度假村（Copper Mountain Resort）發生驚悚意外，60歲婦人搭乘號稱「北美第二長」的洛磯山高山雲霄飛車（Rocky Mountain ...…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自由觀點》美國中情局長突訪俄 結束烏俄戰爭有望嗎？]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5555599</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5555599"/>
+        <updated>2026-08-29T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美「經濟窒息」手段發威   伊朗總統承認對外貿易萎縮35％]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5556677</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5556677"/>
+        <updated>2026-08-29T11:58:19.000Z</updated>
+        <summary type="html"><![CDATA[美國和伊朗戰爭持續至今已滿6個月，伊朗總統裴澤斯基安（Masoud Pezeshkian）28日承認，由於美國的制裁和海上封鎖措施，伊朗對外貿易萎縮了35%；最高領袖穆吉塔巴（...…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[惡劣！尼泊爾洪災區亟待救援  村民竟偷罹難者戒指、撬保險箱]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5556631</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5556631"/>
+        <updated>2026-08-29T11:15:09.000Z</updated>
+        <summary type="html"><![CDATA[尼泊爾與西藏邊境26日遭遇嚴重山洪侵襲，大批村落及設施遭末日洪水重創，爭當搜救人員持續尋找失蹤者時，災區卻接連傳出趁火打劫事件。日前有男子被拍到拿走罹難者身上的金耳環，今又爆出遭...…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[尼日首都爆激烈槍戰   機場、總統府周邊遭武裝分子襲擊]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5556593</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5556593"/>
+        <updated>2026-08-29T10:50:55.000Z</updated>
+        <summary type="html"><![CDATA[西非國家尼日（Niger）首都尼阿美（Niamey）於當地時間週六（29日）清晨爆發激烈槍戰與爆炸聲，目擊者指出，市區多處傳出多聲槍響，此外，這已是當地今年第三度發生重大動亂。...…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[太空競賽不當老二！仿照西點軍校   川普啟動成立「太空學院」]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5556629</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5556629"/>
+        <updated>2026-08-29T10:31:17.000Z</updated>
+        <summary type="html"><![CDATA[美國總統川普28日簽署行政命令，啟動籌設「美國太空學院」（U.S. Space Academy），將仿照美國西點軍校等軍事院校，為太空軍培育人才，強化軍事與民用太空任務。
+...…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[紀念美國鄉村樂天后 桃莉芭頓可能冠名田納西州納許維爾機場]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5556583</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5556583"/>
+        <updated>2026-08-29T09:38:50.000Z</updated>
+        <summary type="html"><![CDATA[美國田納西州州長李（Bill Lee）28日宣布，計劃將該州首府兼美國鄉村音樂大本營納許維爾（Nashville）的機場，更名為桃莉芭頓（Dolly Parton）機場，以紀念...…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日圓貶值加物價上漲 日本防衛裝備最多貴7成]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5556580</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5556580"/>
+        <updated>2026-08-29T09:31:53.000Z</updated>
+        <summary type="html"><![CDATA[日本防衛省回顧現行2023年度到2027年度「防衛力整備計畫」的實際成果後，提出報告指出，受到日圓貶值與物價上漲等因素影響，主要防衛裝備較2023年度貴上4成到7成。
+
+「日本經濟新聞」...…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自由說新聞》驚悚山洪戳破中國救災！陳破空嗆爆：大規模造假]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5556554</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5556554"/>
+        <updated>2026-08-29T09:19:38.000Z</updated>
+        <summary type="html"><![CDATA[【更多內容  請見影片】
+訂閱【自由追新聞】
+全新的視界！新聞話題不漏接，快訂閱YouTube 【自由追新聞】，記得開啟小鈴鐺哦！…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[倫敦助基輔自製長程飛彈 俄羅斯威脅：不排除打擊英國軍事目標]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5556538</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5556538"/>
+        <updated>2026-08-29T08:54:26.000Z</updated>
+        <summary type="html"><![CDATA[為支持烏克蘭自行生產英法合製的長程巡弋飛彈「SCALP」（又稱「暴風之影」），倫敦當局向基輔提供零組件技術資訊。此舉引發俄羅斯高度不滿，表明不排除將英國軍事目標視為合法打擊對象...…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[防致命洪災重演  印度加強監測喜馬拉雅山區冰川湖泊]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5556518</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5556518"/>
+        <updated>2026-08-29T08:34:43.000Z</updated>
+        <summary type="html"><![CDATA[中國與尼泊爾邊界發生冰川崩塌的致命洪災，印度當局29日表示，正在加強印度與中國及尼泊爾接壤的喜馬拉雅地區的監測。
+
+中尼邊境26日的洪災已造成至少633人死亡與近3000人...…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[江西省長落馬 中媒：「染指」稀土生意]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5556498</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5556498"/>
+        <updated>2026-08-29T08:23:38.000Z</updated>
+        <summary type="html"><![CDATA[中共江西省委副書記、省長葉建春因涉嫌嚴重違紀違法正接受調查。陸媒引述消息人士披露，葉建春因涉及稀土而落馬，他任職江西之後，家族開始染指稀土生意，江西政商兩界對此頗多微詞。
+
+中國官方日前...…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中國西藏吉隆口岸大樓現狀曝光！只剩鋼筋瓦礫看不出原貌]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5556466</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5556466"/>
+        <updated>2026-08-29T08:17:24.000Z</updated>
+        <summary type="html"><![CDATA[中國連接尼泊爾邊境的西藏吉隆口岸聯檢大樓，在嚴重洪災中遭到淹沒，大量逃難民眾生死不明，救援隊目前已抵達現場，但大樓只剩下鋼筋瓦礫看不出原貌。
+
+中媒《西藏日報》以「吉隆口岸大...…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中國連續21個月增持黃金]]></title>
+        <id>CNA/2026-08-29/202608290126</id>
+        <link href="https://www.cna.com.tw/news/acn/202608290126.aspx"/>
+        <updated>2026-08-29T07:56:40.000Z</updated>
+        <summary type="html"><![CDATA[（中央社台北29日電）港媒報導，自2024年11月重啟購金以來，中國人民銀行（央行）已連續21個月增持黃金。截至今年7月底，中國黃金儲備已達7608萬盎司（約2366噸），7月單月增持64萬盎司，創下本輪增持週期的新高。]]></summary>
+        <author>
+            <name>中央社即時新聞 兩岸透視</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[江西省長落馬　陸媒：「染指」稀土生意]]></title>
+        <id>CNA/2026-08-29/202608290123</id>
+        <link href="https://www.cna.com.tw/news/acn/202608290123.aspx"/>
+        <updated>2026-08-29T07:48:33.000Z</updated>
+        <summary type="html"><![CDATA[（中央社台北29日電）中共江西省委副書記、省長葉建春因涉嫌嚴重違紀違法正接受調查。陸媒引述消息人士披露，葉建春因涉及稀土而落馬，他任職江西之後，家族開始染指稀土生意，江西政商兩界對此頗多微詞。]]></summary>
+        <author>
+            <name>中央社即時新聞 兩岸透視</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[四川涼山低分教師與「恥辱」合照　當地政府調查]]></title>
+        <id>CNA/2026-08-29/202608290114</id>
+        <link href="https://www.cna.com.tw/news/acn/202608290114.aspx"/>
+        <updated>2026-08-29T07:25:14.000Z</updated>
+        <summary type="html"><![CDATA[（中央社記者呂佳蓉北京29日電）中國四川涼山雷波縣近日流出一張老師開會的照片，當中顯示，任教班級平均分過低的教師被請上台，與背後螢幕打出的「恥辱」二字合影，隨即引發中國網友廣泛討論。當地政府稱已成立工作組調查，將嚴肅處理。]]></summary>
+        <author>
+            <name>中央社即時新聞 兩岸透視</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[西藏土石流災情　澳門政府捐助1.4億元賑災]]></title>
+        <id>CNA/2026-08-29/202608290103</id>
+        <link href="https://www.cna.com.tw/news/acn/202608290103.aspx"/>
+        <updated>2026-08-29T06:35:50.000Z</updated>
+        <summary type="html"><![CDATA[（中央社記者李雅雯台北29日電）中國西藏日喀則市吉隆縣吉隆口岸突發土石流釀成重大災情。澳門特區政府今天宣布，將向西藏自治區捐助人民幣3000萬元（約新台幣1.4億元），支持當地的救援與善後工作。]]></summary>
+        <author>
+            <name>中央社即時新聞 兩岸透視</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[西藏土石流　港府預留2億捐助災區]]></title>
+        <id>CNA/2026-08-29/202608290095</id>
+        <link href="https://www.cna.com.tw/news/acn/202608290095.aspx"/>
+        <updated>2026-08-29T06:08:32.000Z</updated>
+        <summary type="html"><![CDATA[（中央社台北29日電）據明報新聞網報導，香港特首李家超今日表示，因尼泊爾一側發生土石流災害，造成西藏日喀則市吉隆縣吉隆口岸重大人命傷亡、失聯，港府已從賑災基金預留了5000萬港元（約新台幣2億元），作為緊急賑災項目之用。]]></summary>
+        <author>
+            <name>中央社即時新聞 兩岸透視</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[西藏洪災驚悚畫面遭封殺　北京嚴控網路資訊維穩]]></title>
+        <id>CNA/2026-08-29/202608290094</id>
+        <link href="https://www.cna.com.tw/news/acn/202608290094.aspx"/>
+        <updated>2026-08-29T06:02:30.000Z</updated>
+        <summary type="html"><![CDATA[（中央社倫敦28日綜合外電報導）滾滾洪流沖過尼泊爾與西藏主要邊境口岸吉隆口岸，數百人奔逃保命，監視器畫面迅速在各國瘋傳。然而在中國，這類駭人影像幾乎全遭封鎖，外界對當地災民情況所知甚少。]]></summary>
+        <author>
+            <name>中央社即時新聞 兩岸透視</name>
         </author>
     </entry>
     <entry>
@@ -36,48 +577,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[荷蘭出現川普外型搖頭丸！機構警告有致命風險]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5556284</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5556284"/>
-        <updated>2026-08-29T04:44:53.000Z</updated>
-        <summary type="html"><![CDATA[荷蘭提供心理健康與成癮諮詢的特林博斯研究所（Trimbos Instituut）28日發表聲明，直指市面上近來出現川普外型搖頭丸，若民眾服用恐有致命風險。
-
-據《NBC》報導...…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[驚天洪災釀633死、近2500人失蹤 尼泊爾總理否認拒絕外國援助]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5556246</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5556246"/>
-        <updated>2026-08-29T04:31:03.000Z</updated>
-        <summary type="html"><![CDATA[中國與尼泊爾邊境發生災難性山洪，造成兩國大量民眾罹難或失蹤，據最新消息指出，今上午已知死亡人數增至633人，並有近2500人失蹤。尼泊爾總理夏哈（Balendra Shah）表示...…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中國全面封殺西藏吉隆口岸監視器影片 網友證實被「和諧」了]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5556188</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5556188"/>
-        <updated>2026-08-29T04:08:51.000Z</updated>
-        <summary type="html"><![CDATA[尼泊爾與中國交界地區26日發生嚴重山洪，造成大量人員傷亡，其中西藏吉隆口岸遭到泥石流吞沒，孰料在網路瘋傳的2段監視器影片卻遭到中共當局全面封殺，外媒已關注到此事，中國網友也證實都...…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[洪災襲尼泊爾海關40人辦公室！主任幸運逃生 仍14人下落不明]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5556240</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5556240"/>
-        <updated>2026-08-29T03:56:28.000Z</updated>
-        <summary type="html"><![CDATA[尼泊爾與中國邊境地區發生大規模洪災，重災區拉蘇瓦縣（Rasuwa）蒂姆雷（Timure）邊境海關辦公室主任鄧加納（Rajendra Dhungana）表示，26日災難發生當天，他...…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[長鑫存儲起訴美國五角大樓　要求移出涉中軍企名單]]></title>
         <id>CNA/2026-08-29/202608290068</id>
         <link href="https://www.cna.com.tw/news/acn/202608290068.aspx"/>
@@ -85,18 +584,6 @@
         <summary type="html"><![CDATA[（中央社記者呂佳蓉北京29日電）中國DRAM龍頭大廠長鑫科技起訴美國五角大樓，要求撤銷將其列入美國認定協助中國軍方的企業名單。在美國拜登政府時期，美國國防部認定長鑫科技為「中國軍工企業」，美國川普政府今年6月更新名單時，保留長鑫在名單中。]]></summary>
         <author>
             <name>中央社即時新聞 兩岸透視</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自由說新聞》烏克蘭「暴風影」重創俄高層！ 俄油廠再挨轟民眾嘆：又要沒油了]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5556234</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5556234"/>
-        <updated>2026-08-29T03:20:53.000Z</updated>
-        <summary type="html"><![CDATA[【更多內容  請見影片】
-訂閱【自由追新聞】
-全新的視界！新聞話題不漏接，快訂閱YouTube 【自由追新聞】，記得開啟小鈴鐺哦！…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
         </author>
     </entry>
     <entry>
@@ -120,191 +607,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[蚊子搭飛機來！德國法蘭克福機場驚傳2員工染瘧疾身亡]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5556130</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5556130"/>
-        <updated>2026-08-29T02:22:35.000Z</updated>
-        <summary type="html"><![CDATA[德國法蘭克福機場發生罕見情況，有6名員工感染瘧疾後其中2人病逝，另外4人目前已康復，推測是瘧蚊（另稱按蚊）隨著客機進入機場所致。
-
-據《CNN》報導，德國疾病控制和預防專責機...…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[逾3000人失蹤死亡 尼泊爾擋不住國際壓力開放4國救援]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5556131</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5556131"/>
-        <updated>2026-08-29T01:56:44.000Z</updated>
-        <summary type="html"><![CDATA[中國西藏與尼泊爾邊境發生災難性山洪，造成兩國逾3000人失蹤或死亡，其中有多國旅客下落不明，尼泊爾政府26日指稱自身有能力獨自完成搜救，不需要其他國家的救援隊伍幫忙，但在各國施壓...…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尼泊爾2男冷血強摘罹難者耳環 當局震怒迅速逮捕]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5556103</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5556103"/>
-        <updated>2026-08-29T01:27:11.000Z</updated>
-        <summary type="html"><![CDATA[令人髮指！尼泊爾與中國邊境洪災已尋獲586具遺體，超過2400人失聯，如此嚴重的災害受到國際關注，孰料尼泊爾竟有2名男子強摘罹難者耳環，影片瘋傳後引起輿論譁然，尼泊爾警方迅速逮捕...…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[柏林市府遭駭勒索！5.79TB資料被竊 拒付7400萬贖金]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5556073</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5556073"/>
-        <updated>2026-08-29T00:51:32.000Z</updated>
-        <summary type="html"><![CDATA[德國首都柏林市政府系統本月初遭駭客入侵並竊走資料，市長韋格納（Kai Wegner）28日表示，駭客正向市府勒索。據報贖金為30枚比特幣、價值約200萬歐元（約新台幣7400萬元...…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美將掌控委內瑞拉逾650億桶油藏  川普：史上最大石油交易！]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5556057</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5556057"/>
-        <updated>2026-08-28T23:53:47.000Z</updated>
-        <summary type="html"><![CDATA[美國總統川普28日宣布，美國已與委內瑞拉達成「世界史上最大石油交易」，透過與私人企業合作，取得委內瑞拉逾650億桶已探明石油儲量的多數控制權，且不會增加美國納稅人負擔。
-
-川...…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[歐洲博物館又遭竊！2賊買票進場砸破展櫃  拿走上億王室婚禮鑽鍊]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5556000</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5556000"/>
-        <updated>2026-08-28T22:03:42.000Z</updated>
-        <summary type="html"><![CDATA[首次上稿 8-28 23:15更新時間 8-29 06:03
-歐洲又傳博物館遭竊。1條為1930年代埃及王國婚禮所打造的200克拉鑽石項鍊，27日於奧地利維也納應用藝術博物館...…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尼泊爾與中國邊境洪災失聯逾2400人 已尋獲586遺體]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5556040</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5556040"/>
-        <updated>2026-08-28T21:58:07.000Z</updated>
-        <summary type="html"><![CDATA[尼泊爾與中國邊境洪災失聯人數今天超過2400人，凸顯這場災難的嚴重程度，26日海嘯般洪水與泥石流席捲尼中邊境村莊，已造成數百人死亡。
-
-法新社報導，即使新的洪災威脅仍未解除，救援人員持續...…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[挪威國王哈拉德五世病逝 哈康八世繼位]]></title>
-        <id>https://news.ltn.com.tw/news/world/paper/1768530</id>
-        <link href="https://news.ltn.com.tw/news/world/paper/1768530"/>
-        <updated>2026-08-28T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[〔編譯張沛元／綜合報導〕在位卅多年的挪威國王哈拉德五世（Harald V）廿八日病逝，享年八十九歲，其子、王儲哈康隨即繼位為「哈康八世」（Haakon VIII）。哈拉德是挪威在結束五六七年被丹麥與瑞典輪流或聯合統治後首位在挪威出生的王位繼承人、曾三度代表挪威征戰奧運，還為了迎娶平民女子與父王抗爭多…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[川普：普廷不會攻擊北約]]></title>
-        <id>https://news.ltn.com.tw/news/world/paper/1768532</id>
-        <link href="https://news.ltn.com.tw/news/world/paper/1768532"/>
-        <updated>2026-08-28T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[〔編譯管淑平／綜合報導〕美國總統川普廿七日表示，俄羅斯總統普廷不會攻擊北大西洋公約組織（NATO）的領土，淡化外界報導指稱華府已警告莫斯科，不要採取這類舉動。
-美國中央情報局（CIA）局長雷克里夫日前突然造訪莫斯科，多家媒體指美情報評估俄國恐在未來幾年內對北約發動「有限度攻擊」，此行是勸阻俄國罷手…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中英對照讀新聞》China’s Data Centers to Use More Power Than South Korea by 2030 中國資料中心到2030年用電量將超越韓國]]></title>
-        <id>https://news.ltn.com.tw/news/world/paper/1768486</id>
-        <link href="https://news.ltn.com.tw/news/world/paper/1768486"/>
-        <updated>2026-08-28T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[◎ 國際新聞中心
-China’s data centers will quadruple their electricity consumption by the end of the decade, according to Wood Mackenzie Ltd., by which point…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[追求民主 鄒幸彤：一日監都不該坐]]></title>
-        <id>https://news.ltn.com.tw/news/world/paper/1768531</id>
-        <link href="https://news.ltn.com.tw/news/world/paper/1768531"/>
-        <updated>2026-08-28T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[〔編譯張沛元／綜合報導〕上週遭定罪的已解散的泛民主派組織「香港市民支援愛國民主運動聯合會」（簡稱支聯會）的前副主席鄒幸彤廿八日在量刑庭上未為自己求情，反而利用機會強調追求民主「根本一日監都不應該坐」。
-支聯會連續卅年舉辦「六四」遊行與燭光晚會，但在港區國安法實施後已解散；上週，支聯會本身及其前主席…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日支援友軍海保抗中 OSA增至12國]]></title>
-        <id>https://news.ltn.com.tw/news/world/paper/1768529</id>
-        <link href="https://news.ltn.com.tw/news/world/paper/1768529"/>
-        <updated>2026-08-28T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[協助各國提升海域警戒監視
-〔駐日特派員林翠儀／東京廿八日報導〕面對中國持續擴張海洋活動，日本正從支援友軍與強化海保兩條軸線，同步提升海洋安全保障能力。日本對友軍免費提供國防裝備與物資的「政府安全保障能力強化支援」（OSA）對象，今年度將由上年度八國擴大到至少十二國，支援重點鎖定警戒監視等海洋安保領…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[應對劇烈氣候 預警系統力有未逮]]></title>
-        <id>https://news.ltn.com.tw/news/world/paper/1768528</id>
-        <link href="https://news.ltn.com.tw/news/world/paper/1768528"/>
-        <updated>2026-08-28T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[〔編譯林家宇／綜合報導〕中國西藏與尼泊爾邊境廿六日爆發劇烈山洪，目前已造成至少五百人喪生，上千人失蹤，嚴重程度引發國際震驚。除了檢討預警系統在本次災難中未能發揮作用的原因，也凸顯出不穩定的冰川環境，對易受氣候變遷衝擊的區域所產生的危險性。
-中央社報導，有尼泊爾記者質疑中國為何不能及時示警。而據南華…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中尼邊境堰塞湖溢流 搜救一度暫停]]></title>
-        <id>https://news.ltn.com.tw/news/world/paper/1768527</id>
-        <link href="https://news.ltn.com.tw/news/world/paper/1768527"/>
-        <updated>2026-08-28T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[1座水位下降 1座無明顯出水口 潰堤風險未完全解除
-〔編譯林家宇／綜合報導〕中國與尼泊爾交界區域廿六日爆發毀滅性洪災。廿八日一度傳出上游側堰塞湖有溢流潰堤之虞，迫使搜救工作暫時中斷。所幸後續觀察水位顯著下降，風險逐漸減低。據尼泊爾官方統計，死亡人數升高至五七九人，一九二四人失蹤；中國官方公布數字為…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《時代》2026百大AI人物沒黃仁勳、蘇姿丰 好萊塢名媛入列]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5555996</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5555996"/>
-        <updated>2026-08-28T15:33:03.000Z</updated>
-        <summary type="html"><![CDATA[美國時代雜誌（TIME）選出2026年全球百大人工智慧（AI）人物，除了AI相關企業高層，榜單也出現一些本業為非相關領域的人士，其中包含好萊塢名媛和聯邦參議員。
-
-時代雜誌昨天公布202...…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[勾亞馬遜內鬼狠詐3億！爽買豪宅、超跑 神鬼女騙子下場曝]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5555647</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5555647"/>
-        <updated>2026-08-28T14:56:12.000Z</updated>
-        <summary type="html"><![CDATA[美國喬治亞州亞特蘭大市女子哈德森（Brittany Hudson），是電商龍頭亞馬遜（Amazon）高達近1000萬美元（約新台幣3.2億元）詐欺案主嫌，26日被判刑16年3月，...…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[川普感嘆中尼洪災破壞力 承諾美將提供一切所需]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5555989</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5555989"/>
-        <updated>2026-08-28T14:45:07.000Z</updated>
-        <summary type="html"><![CDATA[中國西藏與尼泊爾邊境26日暴發劇烈山洪，目前已造成至少500人喪生、上千人失蹤，嚴重程度引發國際震驚。美國總統川普表示，這場洪災的劇烈程度令人怵目驚心，就連完整的建築也抵擋不住...…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[中國19家白酒上市公司半年收入大減  景氣指數續滑]]></title>
         <id>CNA/2026-08-28/202608280331</id>
         <link href="https://www.cna.com.tw/news/acn/202608280331.aspx"/>
@@ -315,26 +617,6 @@ China’s data centers will quadruple their electricity consumption by the end o
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[錢坑！烏俄戰爭久拖   IMF：烏克蘭明年預算赤字達GDP17.8％]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5555961</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5555961"/>
-        <updated>2026-08-28T13:54:50.000Z</updated>
-        <summary type="html"><![CDATA[俄羅斯侵略烏克蘭戰爭久拖，正擴大烏克蘭的財政缺口。彭博28日報導，國際貨幣基金（IMF）原本以假設戰爭將於2026年底結束，評估烏國預算赤字，但如今隨著戰爭持續，烏國明年預算赤...…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[加拿大渥太華「川普大道」擬改名  新路名建議歐巴馬、TACO]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5555933</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5555933"/>
-        <updated>2026-08-28T13:54:02.000Z</updated>
-        <summary type="html"><![CDATA[美國有線電視新聞網（CNN）報導，加拿大渥太華市議會正考慮將一條以美國總統川普（Donald Trump）命名的街道改名，新路名選項包括歐巴馬大道（Obama Avenue）與塔可大道（Ta...…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[中國房市新政  房貸期限最長可40年]]></title>
         <id>CNA/2026-08-28/202608280323</id>
         <link href="https://www.cna.com.tw/news/acn/202608280323.aspx"/>
@@ -342,48 +624,6 @@ China’s data centers will quadruple their electricity consumption by the end o
         <summary type="html"><![CDATA[（中央社記者馮昭上海28日電）中國政府近日頻頻推出房市相關政策。中國央行今天宣布，將個人住宅貸款期限由最長30年放寬至40年；並延後個人房貸的銀行撥款時間點，購屋者開始還房貸的時間點也因此延後。]]></summary>
         <author>
             <name>中央社即時新聞 兩岸透視</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3歲就繼位！公認最年輕在位君主 烏干達土柔國王34歲辭世]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5555945</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5555945"/>
-        <updated>2026-08-28T13:30:42.000Z</updated>
-        <summary type="html"><![CDATA[烏干達「土柔王國」昨天深夜發布聲明指出，3歲繼位、曾是公認全球最年輕在位君主的國王歐尤已經辭世，享年34歲。
-
-法新社報導，烏干達共和國由長期執政的總統穆塞維尼（Yoweri Musev...…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[抓到了！東京中野2億日圓名錶搶案 2智利劫匪落網喊：半路弄丟了]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5555826</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5555826"/>
-        <updated>2026-08-28T13:27:11.000Z</updated>
-        <summary type="html"><![CDATA[東京「中野百老匯」發生價值高達2億日圓（約新台幣4000萬元）的4支名錶搶劫案，2名涉案智利籍男子抓到了。警方透露，兩人被捕時身上帶了1支與受害店家型號相同的名錶，嫌犯供稱，「其...…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[繞過幕僚、軍方！ 川普密令CIA局長赴莫斯科  另闢管道施壓俄國]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5555939</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5555939"/>
-        <updated>2026-08-28T13:21:20.000Z</updated>
-        <summary type="html"><![CDATA[美國中央情報局（CIA）局長雷克里夫（John Ratcliffe）日前突然造訪莫斯科，美國華爾街日報、華盛頓郵報和紐約時報27日揭露此行內幕，這趟訪問由總統川普親自指派，甚至...…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中國人在日本想裝台灣人 網報「這地址」喊鄰居神反殺]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5555678</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5555678"/>
-        <updated>2026-08-28T12:39:49.000Z</updated>
-        <summary type="html"><![CDATA[不少中國人出國常會假裝成日本人、南韓人，甚至是台灣人。有網友發文說，上班時遠遠聽到非常的吵的「魔族式中文」，於是結帳時他直接用中文接客，還說曾住在「台北市中正區重慶南路1段123...…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
         </author>
     </entry>
     <entry>
@@ -407,18 +647,6 @@ China’s data centers will quadruple their electricity consumption by the end o
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[中共大清洗！張又俠、劉振立被拔中國軍委副主席、委員職務]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5555846</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5555846"/>
-        <updated>2026-08-28T11:40:06.000Z</updated>
-        <summary type="html"><![CDATA[中國14屆全國人大常委會第24次會議今天下午在北京人民大會堂閉幕。據新華社報導，會議經表決，決定免去張又俠、劉振立的中國國家軍委副主席及軍委委員職務。
-
-中國共產黨中央軍事委員會（簡稱「...…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[四川涼山州低分班級教師上台與「恥辱」合照　當局啟動調查]]></title>
         <id>CNA/2026-08-28/202608280292</id>
         <link href="https://www.cna.com.tw/news/acn/202608280292.aspx"/>
@@ -426,16 +654,6 @@ China’s data centers will quadruple their electricity consumption by the end o
         <summary type="html"><![CDATA[（中央社台北28日電）四川省涼山州雷波縣一場教育行政會議的照片近日在網路流傳，班級平均分偏低的教師被安排上台合照，身後螢幕打著「恥辱」兩個大字。涼山州教育局證實照片及會議情況屬實，當地已啟動調查。]]></summary>
         <author>
             <name>中央社即時新聞 兩岸透視</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[追求民主「一天牢都不該坐」 鄒幸彤庭上狠批一黨專政]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5555844</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5555844"/>
-        <updated>2026-08-28T11:25:14.000Z</updated>
-        <summary type="html"><![CDATA[現已解散的「香港市民支援愛國民主運動聯合會」（簡稱支聯會）前主席李卓人與前副主席鄒幸彤，日前遭香港法院以違反香港國家安全法「煽動顛覆國家政權罪」定罪。鄒幸彤28日利用量刑陳詞的...…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
         </author>
     </entry>
     <entry>
@@ -459,48 +677,6 @@ China’s data centers will quadruple their electricity consumption by the end o
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[挪威國王辭世 王室宣布新王為「哈康八世」]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5555824</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5555824"/>
-        <updated>2026-08-28T11:05:25.000Z</updated>
-        <summary type="html"><![CDATA[挪威王室28日透過Instagram貼文宣布，挪威新君主已定名為「哈康八世」（King Haakon VIII）。此一結果符合王室觀察家稍早的預期。
-
-挪威國王哈拉德五世（...…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[挪威新王哈康曾對王室身分焦慮 新王后被爆與艾普斯坦關係匪淺]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5555786</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5555786"/>
-        <updated>2026-08-28T10:50:51.000Z</updated>
-        <summary type="html"><![CDATA[隨著挪威國王哈拉德五世病逝，53歲的王儲哈康將成為挪威近代第4位國王；這位曾難以協調私人生活與公職身分的王室成員，曾因迎娶單親媽媽而引發媒體譁然，如今將在與愛妻有關2大醜聞的陰...…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尼泊爾西藏土石流災情　中：願協助尼泊爾救援]]></title>
-        <id>CNA/2026-08-28/202608280225</id>
-        <link href="https://www.cna.com.tw/news/acn/202608280225.aspx"/>
-        <updated>2026-08-28T09:27:39.000Z</updated>
-        <summary type="html"><![CDATA[（中央社記者呂佳蓉北京28日電）中國國家主席習近平就尼泊爾遭受土石流災害向尼泊爾總統鮑德爾（Ramchandra Paudel）致慰問電。習近平表示，中方正全力以赴搜救失聯人員，願積極協助尼泊爾展開救援，提供力所能及的支持和幫助。]]></summary>
-        <author>
-            <name>中央社即時新聞 兩岸透視</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[挪威國王哈拉德傳奇一生  童年住過白宮、為迎娶平民女與父王抗爭]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5555641</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5555641"/>
-        <updated>2026-08-28T09:16:05.000Z</updated>
-        <summary type="html"><![CDATA[高齡89歲的挪威國王哈拉德五世28日走完傳奇人生，他是570年來首位不是在被丹麥與瑞典輪流或聯合統治的挪威出生的王位繼承人、英國維多利亞女王的玄孫，童年時因戰亂住過白宮，還把當...…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[「因古老而安全」：為何舊技術有時更能防範黑客攻擊？]]></title>
         <id>https://www.bbc.com/zhongwen/articles/c5yd3r9rzyzo/trad#1</id>
         <link href="https://www.bbc.com/zhongwen/articles/c5yd3r9rzyzo/trad?at_medium=RSS&amp;at_campaign=rss"/>
@@ -508,70 +684,6 @@ China’s data centers will quadruple their electricity consumption by the end o
         <summary type="html"><![CDATA[對黑客攻擊的擔憂，促使一些人轉而使用那些被新一代網絡罪犯忽略的技術。]]></summary>
         <author>
             <name>BBC Chinese</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中國過剩產能湧入非洲 美助理國務卿示警：當地製造業面臨存亡危機]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5555658</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5555658"/>
-        <updated>2026-08-28T09:12:34.000Z</updated>
-        <summary type="html"><![CDATA[《福斯新聞》報導，美國國務院非洲事務助理國務卿加西亞（Frank Garcia）日前警告，中國藉國家補貼形成的過剩產能，持續大量向非洲輸出商品，衝擊當地製造業。分析師警告，中國...…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[南韓旅遊掛急診批價5萬新台幣 網：知道中配六改四會有多慘了吧]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5555536</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5555536"/>
-        <updated>2026-08-28T09:10:03.000Z</updated>
-        <summary type="html"><![CDATA[台灣健保獨步全球，讓國人能安心就醫。日前有網友帶女兒赴南韓旅遊，女兒高燒不退至醫院急診，批價時才知道急診竟然要5萬元，將此經歷貼上社群平台，網友紛紛喊話「請珍惜台灣健保」、「你就...…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[挪威國王辭世  各國領袖齊聲悼念]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5555575</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5555575"/>
-        <updated>2026-08-28T09:02:12.000Z</updated>
-        <summary type="html"><![CDATA[挪威王室28日宣布，國王哈拉德五世（Harald V）於28日上午6時35分，在奧斯陸大學醫院安詳辭世，享壽89歲。《路透》詳列各國對挪威國王離世的反應。
-
-英國國王查爾斯...…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[香港支聯會顛覆政權案完成求情程序  料2週內判刑]]></title>
-        <id>CNA/2026-08-28/202608280214</id>
-        <link href="https://www.cna.com.tw/news/acn/202608280214.aspx"/>
-        <updated>2026-08-28T09:00:13.000Z</updated>
-        <summary type="html"><![CDATA[（中央社記者張謙香港28日電）已解散的香港支聯會及其前主席李卓人、前副主席鄒幸彤被控「煽動顛覆國家政權罪」，一週前被法庭裁定罪名成立，各被告連同早認罪的前副主席何俊仁今天在庭上完成求情程序，法官預計2週內判刑。]]></summary>
-        <author>
-            <name>中央社即時新聞 兩岸透視</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中國數字終於動了......沉默31小時洪災3死變5死、558人仍失聯]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5555614</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5555614"/>
-        <updated>2026-08-28T08:58:34.000Z</updated>
-        <summary type="html"><![CDATA[尼泊爾與中國交界地區26日發生大規模山洪暴發，造成兩國大量傷亡，許多民眾遭洪水沖走失聯，尼泊爾今（28日）持續匯報死傷狀況，最新公布當地已經造成489死、977人失蹤；而中國當局...…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[烏克蘭推動和平協商  美烏俄三方會談有望9月重啟]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5555631</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5555631"/>
-        <updated>2026-08-28T08:58:03.000Z</updated>
-        <summary type="html"><![CDATA[烏克蘭總統幕僚長布達諾夫（Kyrylo Budanov）27日透露，基輔正設法重啟與俄羅斯的和平談判，有望在9月取得進一步進展，召開因伊朗衝突中斷的美烏俄三方會談。
-
-路透...…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
         </author>
     </entry>
     <entry>
@@ -585,36 +697,6 @@ China’s data centers will quadruple their electricity consumption by the end o
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[中國房地產商萬科　半年淨虧損702億元]]></title>
-        <id>CNA/2026-08-28/202608280206</id>
-        <link href="https://www.cna.com.tw/news/acn/202608280206.aspx"/>
-        <updated>2026-08-28T08:48:56.000Z</updated>
-        <summary type="html"><![CDATA[（中央社記者李雅雯台北28日電）中國房地產商萬科發布半年度報告，今年上半年營收年減33.38%，歸屬母公司股東淨損149.51億元（約新台幣702億元），虧損規模較去年同期擴大。]]></summary>
-        <author>
-            <name>中央社即時新聞 兩岸透視</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[西藏土石流洪災  中國官方：增至5人遇難]]></title>
-        <id>CNA/2026-08-28/202608280199</id>
-        <link href="https://www.cna.com.tw/news/acn/202608280199.aspx"/>
-        <updated>2026-08-28T08:35:41.000Z</updated>
-        <summary type="html"><![CDATA[（中央社台北28日電）中國西藏與尼泊爾邊境26日爆發大規模土石流，造成大量人員傷亡及失聯。官媒中國新聞網報導，截至28日下午3時，遇難人數增至5人，失聯人數維持558人。]]></summary>
-        <author>
-            <name>中央社即時新聞 兩岸透視</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[紅衛兵再現？小學生成績太差 中國大批教師遭當眾批「恥辱」畫面曝]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5555522</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5555522"/>
-        <updated>2026-08-28T08:20:12.000Z</updated>
-        <summary type="html"><![CDATA[學者沈榮欽今日在臉書分享照片，表示中國近日一個教育行政會中，會開到一半，部分教師被叫上台合照，背後螢幕文字竟寫明，這是小學期末考試，平均成績30分以下學生之教師合影，還加上兩個大...…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[追溯西藏尼泊爾致命山洪如何發生]]></title>
         <id>https://www.bbc.com/zhongwen/articles/c980e6r9jzgo/trad#2</id>
         <link href="https://www.bbc.com/zhongwen/articles/c980e6r9jzgo/trad?at_medium=RSS&amp;at_campaign=rss"/>
@@ -625,38 +707,8 @@ China’s data centers will quadruple their electricity consumption by the end o
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[中國振興房市  20城市推出購屋利息補貼]]></title>
-        <id>CNA/2026-08-28/202608280187</id>
-        <link href="https://www.cna.com.tw/news/acn/202608280187.aspx"/>
-        <updated>2026-08-28T08:03:15.000Z</updated>
-        <summary type="html"><![CDATA[（中央社記者馮昭上海28日電）房地產數據分析機構中指研究院初步統計，中國已逾20個城市推出住宅貸款貼息政策。住宅貸款利息補貼正成為中國地方政府支持住房消費的重要政策工具。]]></summary>
-        <author>
-            <name>中央社即時新聞 兩岸透視</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中共政治局召開會議  研究部署西藏土石流救援工作]]></title>
-        <id>CNA/2026-08-28/202608280150</id>
-        <link href="https://www.cna.com.tw/news/acn/202608280150.aspx"/>
-        <updated>2026-08-28T06:26:55.000Z</updated>
-        <summary type="html"><![CDATA[（中央社記者呂佳蓉北京28日電）中共中央政治局今天召開會議，研究部署西藏日喀則市吉隆縣土石流災害搶險救援工作。會議表示，要密切關注堰塞湖和周邊山體穩定性，採取有效措施嚴防發生次生災害，並且要對尼泊爾受災地區提供緊急援助，開展國際救援合作。]]></summary>
-        <author>
-            <name>中央社即時新聞 兩岸透視</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[機器人產業　中國官方：防止盲目跟風一哄而上]]></title>
-        <id>CNA/2026-08-28/202608280127</id>
-        <link href="https://www.cna.com.tw/news/acn/202608280127.aspx"/>
-        <updated>2026-08-28T05:39:04.000Z</updated>
-        <summary type="html"><![CDATA[（中央社記者李雅雯台北28日電）中國國家發改委今天提醒，機器人產業涉及許多尖端科技，必須因地制宜、健康有序發展，找準定位、發揮優勢，防止盲目跟風、一哄而上，才能推動相關產業行穩致遠。]]></summary>
-        <author>
-            <name>中央社即時新聞 兩岸透視</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[特朗普簽署行政命令，將「安大略湖」更名為「美國湖」]]></title>
-        <id>https://www.bbc.com/zhongwen/articles/c804ld7kl93o/trad#0</id>
+        <id>https://www.bbc.com/zhongwen/articles/c804ld7kl93o/trad#1</id>
         <link href="https://www.bbc.com/zhongwen/articles/c804ld7kl93o/trad?at_medium=RSS&amp;at_campaign=rss"/>
         <updated>2026-08-28T05:35:04.000Z</updated>
         <summary type="html"><![CDATA[特朗普簽署這項行政命令之際，美加貿易談判已於上週稍後時間宣告破裂。]]></summary>
@@ -665,37 +717,7 @@ China’s data centers will quadruple their electricity consumption by the end o
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[中國專家赴西藏土石流災區　勘查冰崩起源地及堰塞湖]]></title>
-        <id>CNA/2026-08-28/202608280124</id>
-        <link href="https://www.cna.com.tw/news/acn/202608280124.aspx"/>
-        <updated>2026-08-28T05:33:57.000Z</updated>
-        <summary type="html"><![CDATA[（中央社台北28日電）中國西藏與尼泊爾邊境26日爆發大規模土石流，造成大量人員傷亡及失聯。中國媒體報導，中國自然資源部專家組目前已進入災區，並將針對發生冰崩的起源區、堰塞湖及下游溝道等地展開調查，釐清災害成因和後續風險。]]></summary>
-        <author>
-            <name>中央社即時新聞 兩岸透視</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[西藏—尼泊爾邊境山洪暴發 上千人失蹤包括多國遊客]]></title>
-        <id>https://www.bbc.com/zhongwen/articles/cwyzlnde773o/trad#1</id>
-        <link href="https://www.bbc.com/zhongwen/articles/cwyzlnde773o/trad?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-08-28T05:05:14.000Z</updated>
-        <summary type="html"><![CDATA[事發地點為西藏日喀則市吉隆縣接壤尼泊爾邊境，中尼兩國各數百人失聯，其中包括大批外國遊客。中國總理李強抵達吉隆指導救災。]]></summary>
-        <author>
-            <name>BBC Chinese</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中國人大審議「反跨境腐敗法」　跨國打貪法制化]]></title>
-        <id>CNA/2026-08-28/202608280110</id>
-        <link href="https://www.cna.com.tw/news/acn/202608280110.aspx"/>
-        <updated>2026-08-28T04:53:27.000Z</updated>
-        <summary type="html"><![CDATA[（中央社台北28日電）中國「反跨境腐敗法」草案本週首次提請全國人大常委會審議。此法醞釀至少3年，將把中國政府實行多年的跨國打貪行動法制化。不過，這類行動以前就遭國際人權團體質疑以反貪腐為名，在海外追捕、打壓異議人士。]]></summary>
-        <author>
-            <name>中央社即時新聞 兩岸透視</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「在我眼中它就是黃金」：香港捲起卡牌熱，一張卡如何從遊戲工具變資產？]]></title>
+        <title type="html"><![CDATA[「在我眼中它就是黃金」：一張卡如何從遊戲工具變資產？]]></title>
         <id>https://www.bbc.com/zhongwen/articles/c0j3w0wxj18o/trad#0</id>
         <link href="https://www.bbc.com/zhongwen/articles/c0j3w0wxj18o/trad?at_medium=RSS&amp;at_campaign=rss"/>
         <updated>2026-08-28T04:32:04.000Z</updated>
@@ -842,7 +864,7 @@ Philip Game/Alamy
     </entry>
     <entry>
         <title type="html"><![CDATA[科學家分析尼泊爾—西藏致命山洪的來龍去脈]]></title>
-        <id>https://www.bbc.com/zhongwen/articles/ckgxvnv51x5o/trad#0</id>
+        <id>https://www.bbc.com/zhongwen/articles/ckgxvnv51x5o/trad#1</id>
         <link href="https://www.bbc.com/zhongwen/articles/ckgxvnv51x5o/trad?at_medium=RSS&amp;at_campaign=rss"/>
         <updated>2026-08-27T16:52:46.000Z</updated>
         <summary type="html"><![CDATA[美國地質調查局（USGS）表示，這場災難的成因是一次冰川崩塌，但專家仍在調查洪水如何在下游發展並造成嚴重影響。]]></summary>
@@ -1021,16 +1043,6 @@ Jeremy Piper/Reuters
         <link href="https://www.bbc.com/zhongwen/articles/ckg8v11revgo/trad?at_medium=RSS&amp;at_campaign=rss"/>
         <updated>2026-08-26T07:35:58.000Z</updated>
         <summary type="html"><![CDATA[美國稱新的制裁是「經濟D日（economic D-Day）」，但德黑蘭領導人以前也曾挺過了制裁。]]></summary>
-        <author>
-            <name>BBC Chinese</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「辱毛」雕塑家高兟被判處三年有期徒刑]]></title>
-        <id>https://www.bbc.com/zhongwen/articles/c0qxznd10kgo/trad#1</id>
-        <link href="https://www.bbc.com/zhongwen/articles/c0qxznd10kgo/trad?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-08-26T05:40:19.000Z</updated>
-        <summary type="html"><![CDATA[用以起訴高兟的「侵害英雄烈士名譽罪」於2021年寫進中國《刑法》，被批評為對藝術自由的攻擊。他被判處該罪的最高刑罰。]]></summary>
         <author>
             <name>BBC Chinese</name>
         </author>

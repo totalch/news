@@ -1,118 +1,862 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-19T06:20:17.589Z</id>
+    <id>urn:2026-11-20T06:04:40.775Z</id>
     <title>osmos::feed</title>
-    <updated>2026-11-19T06:20:17.589Z</updated>
+    <updated>2026-11-20T06:04:40.775Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[不見川普？金正恩連2天國內視察 專家曝「2跡象」：川金會恐生變]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5646156</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5646156"/>
-        <updated>2026-11-19T05:15:41.000Z</updated>
-        <summary type="html"><![CDATA[北韓官媒北韓中央通信社（KCNA，朝中社）證實，北韓領導人金正恩於17日、18日視察咸鏡南道的建設工地及1所海軍大學。外界先前揣測，金正恩可能出席本週於中國深圳舉行的亞太經濟合作...…]]></summary>
+        <title type="html"><![CDATA[中俄美三方峰會「場面大於實質成果」]]></title>
+        <id>https://www.bbc.com/zhongwen/articles/cm5y120z0pw0o/trad#0</id>
+        <link href="https://www.bbc.com/zhongwen/articles/cm5y120z0pw0o/trad?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-11-20T05:46:09.000Z</updated>
+        <summary type="html"><![CDATA[BBC駐北美記者澤克爾：這次高峰唯一讓人留下的持久印象，或許只是歷史性的三方會晤的畫面。]]></summary>
+        <author>
+            <name>BBC Chinese</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[問黃仁勳對美不忠遭中封殺 葉耀元點破北京心虛真相]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5647196</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5647196"/>
+        <updated>2026-11-20T05:05:35.000Z</updated>
+        <summary type="html"><![CDATA[亞太經濟合作會議（APEC）深圳峰會甫落幕。據外媒《CNN》昨報導，一份記者圈流傳的通報指出，美國《彭博》記者霍德恩（Annmarie Hordern）在川習雙邊會晤期間，高聲提...…]]></summary>
         <author>
             <name>國際新聞 - 自由時報</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[馬斯克隨團出席APEC  發文懷疑美中能否避免修昔底德陷阱]]></title>
-        <id>CNA/2026-11-19/202611190125</id>
-        <link href="https://www.cna.com.tw/news/acn/202611190125.aspx"/>
-        <updated>2026-11-19T04:53:28.000Z</updated>
-        <summary type="html"><![CDATA[（中央社台北19日電）美國總統川普昨天抵達中國深圳，出席今天舉行的亞太經濟合作會議（APEC）峰會，特斯拉（Tesla）暨太空探索科技公司（SpaceX）執行長馬斯克也一同抵達。他同日並在自家社交媒體X發文，對「修昔底德陷阱」是否真能避免似有懷疑，引發他對美中關係前景的聯想。]]></summary>
+        <title type="html"><![CDATA[中國房市持續探底！路透：房價恐跌至2027年 民眾收入難改善]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5647412</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5647412"/>
+        <updated>2026-11-20T05:02:54.000Z</updated>
+        <summary type="html"><![CDATA[路透調查顯示，中國今年房價跌幅預料將小於先前預期，但跌勢仍將延續至2027年。由於房市庫存量高，加上民眾收入前景疲弱，深陷危機的中國房地產市場仍難以觸底。
+
+路透於11月10...…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[國際法院裁定緬甸對羅辛亞人實施種族滅絕]]></title>
+        <id>https://cn.nytimes.com/world/20261120/myanmar-genocide-icj-decision-/zh-hant/</id>
+        <link href="https://cn.nytimes.com/world/20261120/myanmar-genocide-icj-decision-/zh-hant/?utm_source=RSS"/>
+        <updated>2026-11-20T04:24:10.000Z</updated>
+        <summary type="html"><![CDATA[該裁決涉及緬甸對羅辛亞少數民族發動的致命軍事行動。2017年，這場行動在數週內造成至少1萬人死亡，並迫使75萬人逃離家園。這項裁決可能產生廣泛影響。
+
+                    
+Adam Dean for The New York Times
+                    
+2017年，羅辛亞難民從緬甸逃往孟加拉國，身後的村莊燃起熊熊大火。]]></summary>
+        <author>
+            <name>JEANNA SMIALEK,HANNAH BEECH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[APEC峰會期間，深圳變「空城」]]></title>
+        <id>https://cn.nytimes.com/china/20261119/a-tropical-chinese-city-is-half-empty-and-ready-for-the-summit/zh-hant/</id>
+        <link href="https://cn.nytimes.com/china/20261119/a-tropical-chinese-city-is-half-empty-and-ready-for-the-summit/zh-hant/?utm_source=RSS"/>
+        <updated>2026-11-20T04:18:08.000Z</updated>
+        <summary type="html"><![CDATA[為主辦APEC峰會，深圳的學校本週已經停課，地方政府指示企業員工居家辦公，許多居民離開了這座城市。峰會期間多條道路封閉，安保舉措尤為嚴密。
+
+                    
+Tingshu Wang/Reuters
+                    
+中國深圳的一條高速公路，攝於週三。]]></summary>
+        <author>
+            <name>KEITH BRADSHER</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大規模系統當機引憂慮 美國開除國家網路安全總監]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5647298</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5647298"/>
+        <updated>2026-11-20T04:05:57.000Z</updated>
+        <summary type="html"><![CDATA[美國境內近幾週以來發生多起重大系統故障，不僅干擾了無數民眾的交通出行、通訊及電子商務活動，甚至波及了美國國家安全局（NSA）內部的最高機密通訊網路。1名消息人士19日透露，美國...…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[金正恩已讀不回！川金會落空 川普喊：總有一天會見面]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5647277</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5647277"/>
+        <updated>2026-11-20T03:51:17.000Z</updated>
+        <summary type="html"><![CDATA[美國總統川普19日指出，儘管這次未能利用亞太經濟合作會議（APEC）深圳峰會的機會，與北韓領導人金正恩舉行會談，但未來仍將持續推動美朝領袖會晤，並強調雙方總有一天會見面。
+
+...…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[緬甸種族滅絕案裁決牽動以色列加薩案 美國籲防止國際法院遭政治化]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5647246</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5647246"/>
+        <updated>2026-11-20T03:21:51.000Z</updated>
+        <summary type="html"><![CDATA[聯合國最高司法機關國際法院（ICJ）近期裁定緬甸對其境內的羅興亞少數民族犯下種族滅絕罪，美國國務院對此態度審慎。美國國務院19日表示，美國正在研究這項裁決，並強調必須避免國際法...…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自由說新聞》烏克蘭三連轟「普廷雙輸」！俄民眾嚇傻：我們被炸慘了]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5647297</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5647297"/>
+        <updated>2026-11-20T03:20:00.000Z</updated>
+        <summary type="html"><![CDATA[【更多內容  請見影片】
+訂閱【自由追新聞】
+全新的視界！新聞話題不漏接，快訂閱YouTube 【自由追新聞】，記得開啟小鈴鐺哦！…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[川普試圖在國際舞台展示權力，在國內卻將被迫分享權力]]></title>
+        <id>https://cn.nytimes.com/world/20261120/trump-summit-power/zh-hant/</id>
+        <link href="https://cn.nytimes.com/world/20261120/trump-summit-power/zh-hant/?utm_source=RSS"/>
+        <updated>2026-11-20T03:06:26.000Z</updated>
+        <summary type="html"><![CDATA[川普與中俄領導人會晤的盛大畫面與他在國內面臨的權力格局巨變形成鮮明對比。他試圖表明自己在國際上仍是重量級人物，但在華盛頓，他很快就不得不與民主黨人分享權力。
+
+                    
+Doug Mills/The New York Times
+                    
+週四在中國深圳舉行的三方會晤讓川普總統獲得了一個求之不得的喘息機會。長期以來，他一直對俄羅斯總統普丁和中國國家主席習近平這樣的威權領導人表示欽佩。]]></summary>
+        <author>
+            <name>PETER BAKER</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[韋德齊5度當選捷克參議長 布拉格副市長接任市長]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5647088</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5647088"/>
+        <updated>2026-11-20T02:47:26.000Z</updated>
+        <summary type="html"><![CDATA[捷克參議院今天舉行新任期首次會議，參議長韋德齊（Milos Vystrcil）順利連任，這是他第5度當選參議長。此外，布拉格市議會也在今天選出新市長，由原副市長赫拉瓦切克（Petr Hlav...…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中美俄元首會晤：一場展示情誼的盛大表演]]></title>
+        <id>https://cn.nytimes.com/world/20261120/trump-xi-putin/zh-hant/</id>
+        <link href="https://cn.nytimes.com/world/20261120/trump-xi-putin/zh-hant/?utm_source=RSS"/>
+        <updated>2026-11-20T02:45:31.000Z</updated>
+        <summary type="html"><![CDATA[峰會總共耗時約80分鐘，主要成果似乎是各方承諾將繼續就和平問題進行對話。但在核武器控制、烏克蘭戰爭或人工智慧帶來的威脅等問題上，未取得任何實質性進展。
+
+                    
+Doug Mills/The New York Times
+                    
+週四，俄羅斯總統普丁、中國國家主席習近平和川普總統在深圳舉行三邊會晤前合影。]]></summary>
+        <author>
+            <name>KATIE ROGERS,DAVID E. SANGER</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美媒：美中俄峰會三方各有盤算 習近平營造強國形象]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5647075</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5647075"/>
+        <updated>2026-11-20T02:44:17.000Z</updated>
+        <summary type="html"><![CDATA[美國總統川普、中國國家主席習近平與俄羅斯總統普丁在深圳舉行三方峰會。美國媒體觀察，習近平展現主場優勢，營造強國形象，但三方各有盤算，會談未取得重大突破。
+
+大西洋月刊（The Atlan...…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[批美中俄峰會淪拍照秀 德總理：「雅爾達模式」無法帶給烏克蘭和平]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5647177</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5647177"/>
+        <updated>2026-11-20T02:43:40.000Z</updated>
+        <summary type="html"><![CDATA[美國總統川普、中國國家主席習近平和俄羅斯總統普廷，19日在中國深圳舉行美中俄領袖峰會，並在會後發表和平宣言。川普表示該會議「締造歷史」，習近平也說三國要尊重彼此核心利益，不能觸...…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[專家分析川習會：美中關係更加困難 台灣議題未有共識]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5647074</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5647074"/>
+        <updated>2026-11-20T02:40:53.000Z</updated>
+        <summary type="html"><![CDATA[美國總統川普訪問中國深圳期間舉行今年第3度的川習會。美專家今天分析，川習在會中並未解決實質問題，華府可能會對向中國銷售先進晶片祭出額外出口管制，預期未來幾個月美中關係將更加困難；另外，川習也...…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[健康有狀況？習近平搭手扶梯川普出手攙扶 網酸：像6歲小孩抓著媽媽]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5647099</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5647099"/>
+        <updated>2026-11-20T02:39:46.000Z</updated>
+        <summary type="html"><![CDATA[美國總統川普近日前往中國參加在深圳舉辦的亞太經濟合作會議（APEC），並與中國國家主席習近平舉行今年第3度「川習會」，期間有一段畫面在網路引發瘋傳，該畫面為川普與習近平在搭乘手扶...…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[黃仁勳風波延燒！阿里巴巴挨告 股東：隱瞞與黃樂關聯、欺騙投資人]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5647211</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5647211"/>
+        <updated>2026-11-20T02:36:26.000Z</updated>
+        <summary type="html"><![CDATA[中國電商巨擘阿里巴巴19日在美國紐約遭股東提告，指控公司隱瞞與1名疑似中國間諜的關聯，涉嫌欺騙投資人。該名女子曾與輝達（Nvidia）前執行長黃仁勳有親密關係，這段關係也是導致黃...…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新華社指「美國不支持台獨」 陸委會：初步查證不是事實]]></title>
+        <id>CNA/2026-11-20/202611200050</id>
+        <link href="https://www.cna.com.tw/news/acn/202611200050.aspx"/>
+        <updated>2026-11-20T02:13:25.000Z</updated>
+        <summary type="html"><![CDATA[（中央社記者呂佳蓉台北20日電）川習昨天進行今年第三次會晤，新華社報導，美國總統川普稱，美方不支持台獨。陸委會主委邱垂正今天表示，有關中共官媒的報導，經初步查證相關報導並不是事實，政府與美方保持密切溝通，這部分應由美方來說明一切事實。]]></summary>
         <author>
             <name>中央社即時新聞 兩岸透視</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[高市早苗APEC二度與習近平握手 日中互動受矚目]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5646079</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5646079"/>
-        <updated>2026-11-19T04:49:34.000Z</updated>
-        <summary type="html"><![CDATA[日本首相高市早苗今天在中國深圳出席亞太經濟合作會議（APEC）領袖峰會前，再度與中國國家主席習近平握手，這是繼昨晚歡迎晚宴後，兩人第二度短暫接觸。日本放送協會（NH...…]]></summary>
+        <title type="html"><![CDATA[以軍再襲黎巴嫩真主黨武器據點 強調不容敵對勢力恢復戰力]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5647135</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5647135"/>
+        <updated>2026-11-20T01:37:38.000Z</updated>
+        <summary type="html"><![CDATA[以軍表示，19日對黎巴嫩東部一處曾被真主黨用於生產及儲存飛彈的據點發動了攻擊，這是該地區本週第二次遭到以軍襲擊。
+
+根據《法新社》報導，以軍在聲明中指出，根據精確情報對黎巴...…]]></summary>
         <author>
             <name>國際新聞 - 自由時報</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[睽違7年！高市早苗會普廷 日俄恢復領袖對話]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5646042</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5646042"/>
-        <updated>2026-11-19T04:38:52.000Z</updated>
-        <summary type="html"><![CDATA[日本首相高市早苗18日晚間在中國深圳與俄羅斯總統普廷進行約30分鐘對話，這是日俄領袖自2019年以來，睽違7年首度面對面接觸，也是俄羅斯入侵烏克蘭後，雙方首次恢復領...…]]></summary>
+        <title type="html"><![CDATA[英版畢立可案！前議員下藥性侵妻子13年 還上網揪人侵犯]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5647109</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5647109"/>
+        <updated>2026-11-20T01:36:32.000Z</updated>
+        <summary type="html"><![CDATA[英國驚爆法國畢立可（Gisele Pelicot）案翻版的集體性侵案。前地方議員菲利普．楊（Philip Young）在13年間多次對妻子下藥迷昏，並透過網路招攬陌生男子上門侵犯...…]]></summary>
         <author>
             <name>國際新聞 - 自由時報</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[習近平APEC致詞中！川普打瞌睡畫面曝光]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5646016</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5646016"/>
-        <updated>2026-11-19T04:14:23.000Z</updated>
-        <summary type="html"><![CDATA[2026年亞太經濟合作（APEC）經濟領袖會議在中國深圳登場，多個國外社群平台上有粉專PO出片段影片，表示當中國國家主席習近平發言時，美國總統川普在座位上閉上眼睛疑似在「打瞌睡」...…]]></summary>
+        <title type="html"><![CDATA[Anthropic創紀錄IPO，中國投資者再被排除在外]]></title>
+        <id>https://cn.nytimes.com/business/20261120/anthropic-ipo-china-hong-kong/zh-hant/</id>
+        <link href="https://cn.nytimes.com/business/20261120/anthropic-ipo-china-hong-kong/zh-hant/?utm_source=RSS"/>
+        <updated>2026-11-20T01:28:51.000Z</updated>
+        <summary type="html"><![CDATA[這是史上最大的首次公開募股。此前，SpaceX和OpenAI進行IPO時也將中國投資者拒之門外。隨著中美在人工智慧領域爭奪霸權，雙方都在為其本土技術劃定紅線。
+
+                    
+Tingshu Wang/Reuters
+                    
+隨著華盛頓和北京在人工智慧領域爭奪霸權，雙方都在為其本土技術劃定紅線。]]></summary>
         <author>
-            <name>國際新聞 - 自由時報</name>
+            <name>艾莎</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[APEC峰會聚焦AI議題 美中領袖態度各不同]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5645975</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5645975"/>
-        <updated>2026-11-19T04:02:05.000Z</updated>
-        <summary type="html"><![CDATA[亞太經濟合作會議（APEC）峰會18日至19日在深圳舉行，美國總統川普、中國國家主席習近平及俄羅斯總統普廷，預計19日在深圳舉行三方峰會。習近平與川普與19日在APEC峰會上針...…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[普丁參加APEC深圳峰會　隨行官員攜核按鈕手提箱]]></title>
-        <id>CNA/2026-11-19/202611190089</id>
-        <link href="https://www.cna.com.tw/news/acn/202611190089.aspx"/>
-        <updated>2026-11-19T03:49:11.000Z</updated>
-        <summary type="html"><![CDATA[（中央社台北19日電）美中俄元首今天將在深圳舉行歷史性三方會談，預料核武會是重大議題之一。俄媒拍攝到，俄羅斯總統普丁（Vladimir Putin）的隨行官員攜帶著用來下令發射核彈的核按鈕手提箱「切格特」（Cheget）。]]></summary>
+        <title type="html"><![CDATA[川習三會習近平指中美經貿加強溝通　川普稱雙方對AI監管有共識]]></title>
+        <id>CNA/2026-11-20/202611200033</id>
+        <link href="https://www.cna.com.tw/news/acn/202611200033.aspx"/>
+        <updated>2026-11-20T01:11:48.000Z</updated>
+        <summary type="html"><![CDATA[（中央社記者張淑伶深圳20日電）美中元首今年第3次「川習會」19日下午舉行。中國國家主席習近平在會談中說，兩國在經貿領域要加強溝通；美國總統川普表示，美中雙方對AI監管有共識將合作制定安全規範。]]></summary>
         <author>
             <name>中央社即時新聞 兩岸透視</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[APEC峰會領袖披中方設計圍巾合影　施振榮仍在第2排最左側]]></title>
-        <id>CNA/2026-11-19/202611190087</id>
-        <link href="https://www.cna.com.tw/news/acn/202611190087.aspx"/>
-        <updated>2026-11-19T03:45:07.000Z</updated>
-        <summary type="html"><![CDATA[（中央社記者李雅雯、張淑伶深圳19日電）2026年亞太經濟合作經濟領袖會議（APEC深圳峰會）今天上午召開，與會領袖及領袖代表合影時掛上中方設計的「鯤鵬展翅」標誌圍巾合影；台灣領袖代表施振榮合影的位置在第2排最左側，與昨天歡迎晚宴合影的位置相同。]]></summary>
-        <author>
-            <name>中央社即時新聞 兩岸透視</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[羅文嘉：海基會持續做好與對岸談判前準備　台灣須累積籌碼]]></title>
-        <id>CNA/2026-11-19/202611190081</id>
-        <link href="https://www.cna.com.tw/news/acn/202611190081.aspx"/>
-        <updated>2026-11-19T03:36:54.000Z</updated>
-        <summary type="html"><![CDATA[（中央社記者呂佳蓉台北19日電）海基會祕書長羅文嘉今天表示，海基會現在做的事情，其中一項是做好與對岸談判前的準備，如果沒有籌碼就走上談判桌，就是任人宰割；如果籌碼還不夠，就該趕快累積更多籌碼，而這幾年來，台灣政府一直在努力做這件事。]]></summary>
-        <author>
-            <name>中央社即時新聞 兩岸透視</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[川普、習近平、普廷APEC同框 美中俄峰會各有盤算]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5645894</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5645894"/>
-        <updated>2026-11-19T03:35:35.000Z</updated>
-        <summary type="html"><![CDATA[亞太經濟合作會議（APEC）峰會18日至19日在中國深圳舉行，美國總統川普、中國國家主席習近平及俄羅斯總統普廷，預計19日在深圳舉行三方峰會。川普、習近平與普廷19日在深圳舉行...…]]></summary>
+        <title type="html"><![CDATA[MLB安打王獲特赦！川普宣布赦免彼得羅斯 名人堂入選現曙光]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5647097</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5647097"/>
+        <updated>2026-11-20T00:55:38.000Z</updated>
+        <summary type="html"><![CDATA[美國總統川普19日宣布，對美國職棒大聯盟（MLB）生涯安打數紀錄保持人彼得羅斯（Pete Rose）予以死後特赦。彼得羅斯生前曾因申報不實所得稅資料遭定罪，並被禁止入選美國棒球名...…]]></summary>
         <author>
             <name>國際新聞 - 自由時報</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[深圳不會變成慕尼黑！川普：不會在沒有烏克蘭參與下與普廷達成協議]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5645948</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5645948"/>
-        <updated>2026-11-19T03:35:32.000Z</updated>
-        <summary type="html"><![CDATA[在中國深圳舉辦的亞太經合組織（APEC），美國總統川普今（19日）將與中國國家主席習近平、俄羅斯總統普廷進行舉行史無前例的美中俄三方會談，同時也將與普廷進行一對一會晤，外界關心是...…]]></summary>
+        <title type="html"><![CDATA[從倉頡換成漢語拼音：電腦輸入法會影響下一代學習中文嗎？]]></title>
+        <id>https://www.bbc.com/zhongwen/articles/cxq6e216p7ylo/trad#0</id>
+        <link href="https://www.bbc.com/zhongwen/articles/cxq6e216p7ylo/trad?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-11-20T00:33:32.000Z</updated>
+        <summary type="html"><![CDATA[香港教育局提出小學二年級學生應該初步掌握以「漢語拼音輸入法」在電腦上輸入中文。打字方式的改變，會如何影響下一代學習語言？]]></summary>
+        <author>
+            <name>BBC Chinese</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美中AI競爭白熱化！川普證實與習近平談監管：沒提太多黃仁勳]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5647085</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5647085"/>
+        <updated>2026-11-20T00:15:34.000Z</updated>
+        <summary type="html"><![CDATA[美國總統川普19日接受福斯新聞（Fox News）專訪時證實，基於安全考量，他與中國國家主席習近平都希望制定人工智慧（AI）監管規範，雙方將共同努力推動合理的AI規則。
+
+路...…]]></summary>
         <author>
             <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[三國元首會晤背後，習近平和普丁挑戰美國的共同願景]]></title>
+        <id>https://cn.nytimes.com/world/20261120/xi-putin-trump-meeting-china-russia/zh-hant/</id>
+        <link href="https://cn.nytimes.com/world/20261120/xi-putin-trump-meeting-china-russia/zh-hant/?utm_source=RSS"/>
+        <updated>2026-11-20T00:13:33.000Z</updated>
+        <summary type="html"><![CDATA[兩人都希望挑戰美國作為唯一超級大國的地位，重塑世界秩序。沒有跡象表明此次峰會將改變他們的反美立場，川普也無法與他們建立起他希望的那種友好關係。
+
+                    
+Doug Mills/The New York Times
+                    
+週四，俄羅斯總統普丁、中國領導人習近平與川普總統在深圳舉行了三國領導人的首次正式三邊會晤。]]></summary>
+        <author>
+            <name>黃安偉</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[遊客拋飛毛帽掉園區！美明星河馬一口吞下 搶救多日不治]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5647073</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5647073"/>
+        <updated>2026-11-20T00:09:47.000Z</updated>
+        <summary type="html"><![CDATA[美國辛辛那提動物園（Cincinnati Zoo）明星河馬「費歐娜」（Fiona）因誤吞一頂意外飛入欄舍的針織毛帽引發併發症，經多日搶救仍於19日不幸過世。
+
+《美聯社》報導...…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中國核彈頭持續擴增！川普談美中俄限核協議：非常困難]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5647062</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5647062"/>
+        <updated>2026-11-19T23:58:00.000Z</updated>
+        <summary type="html"><![CDATA[美國總統川普19日透露，他與中國國家主席習近平、俄羅斯總統普廷會談後認為，要達成共同限制核子武器的協議非常困難，但他仍將持續推動相關工作。
+
+路透報導，川普在中國出席三方峰會...…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[逾30％流向涉軍中企！川普政府放行近90萬顆AI晶片輸中 專家：震驚]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5647059</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5647059"/>
+        <updated>2026-11-19T23:18:34.000Z</updated>
+        <summary type="html"><![CDATA[美國眾議院外交委員會19日證實，川普政府在2025年12月至2026年5月期間，批准向中國企業出口近90萬顆由輝達（Nvidia）及超微（AMD）製造的先進人工智慧（AI）晶片。...…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[黃仁勳出事前！川普9月砸近900萬買輝達股票 財務申報曝光]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5647054</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5647054"/>
+        <updated>2026-11-19T22:48:33.000Z</updated>
+        <summary type="html"><![CDATA[根據美國總統川普19日公布的最新財務申報資料，川普今年9月買進最高價值26萬5000美元（約新台幣874萬4500元）的輝達（Nvidia）股票，同時賣出最高價值1萬5000美元...…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[以邊催促邊示警 川普評估重啟轟伊]]></title>
+        <id>https://news.ltn.com.tw/news/world/paper/1779152</id>
+        <link href="https://news.ltn.com.tw/news/world/paper/1779152"/>
+        <updated>2026-11-19T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[〔編譯林家宇／綜合報導〕紐約時報十八日報導，美國總統川普正評估是否對伊朗發動新一波軍事打擊。考量因素包括以色列警告伊朗正加速重建飛彈與無人機戰力，並疑似規劃化學與生化武器攻擊；同時，美軍目前在中東部署大量兵力，也為軍事行動提供有利時機。不過川普尚未作出最終決定。
+
+美國期中選舉後，共和黨重挫，白…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[普廷重返國際舞台 西方領袖尷尬合照]]></title>
+        <id>https://news.ltn.com.tw/news/world/paper/1779151</id>
+        <link href="https://news.ltn.com.tw/news/world/paper/1779151"/>
+        <updated>2026-11-19T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[〔編譯張沛元／綜合報導〕自二〇二二年全面入侵烏克蘭後長期遭國際抵制的俄羅斯總統普廷，十九日藉出席深圳亞太經濟合作組織（APEC）峰會重返國際舞台，不僅參與烏俄戰爭爆發後首次與各國領袖的官方大合照，更站在東道主中國國家主席習近平右側、位居焦點位置；美國總統川普則站在習近平左側。
+十八日晚間APEC歡…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中英對照讀新聞》Ted Cruz Is Testing the Waters for a 2028 Run 泰德．克魯茲為2028年參選總統試水溫]]></title>
+        <id>https://news.ltn.com.tw/news/world/paper/1779135</id>
+        <link href="https://news.ltn.com.tw/news/world/paper/1779135"/>
+        <updated>2026-11-19T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[◎ 張沛元
+
+Ted Cruz isn’t hiding his presidential ambitions—and he is taking some digs at the presumptive front-runner along the way.
+（美國共和黨籍德州聯邦參議員）泰德…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[APEC記者會 中國媒體追問「台灣有事」 高市早苗：日本對台立場不變]]></title>
+        <id>https://news.ltn.com.tw/news/world/paper/1779123</id>
+        <link href="https://news.ltn.com.tw/news/world/paper/1779123"/>
+        <updated>2026-11-19T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[〔駐日特派員林翠儀／東京十九日報導〕日本首相高市早苗在中國深圳出席亞太經濟合作會議（APEC）領袖峰會記者會，面對中國媒體追問「台灣有事」時日本是否會軍事介入，高市以「對於假設性的問題，我不便作答」為由未作具體說明，但強調日本對台基本立場仍依循一九七二年「日中共同聲明」，沒有任何改變。
+
+強化防…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美俄中歷史性峰會 各有底線]]></title>
+        <id>https://news.ltn.com.tw/news/world/paper/1779149</id>
+        <link href="https://news.ltn.com.tw/news/world/paper/1779149"/>
+        <updated>2026-11-19T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[〔編譯管淑平／綜合報導〕美國總統川普、中國國家主席習近平、俄羅斯總統普廷十九日在中國深圳與舉行史無前例的美中俄元首峰會，會後發表和平宣言。川普表示，這次會議「在締造歷史」；習近平表示三國要尊重彼此核心利益，「尤其不能觸碰對方底線」。川普於會談結束後搭乘空軍一號離開深圳返國，中國外交部長王毅前往送 行…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7個月連3會 川習各說各話]]></title>
+        <id>https://news.ltn.com.tw/news/world/paper/1779148</id>
+        <link href="https://news.ltn.com.tw/news/world/paper/1779148"/>
+        <updated>2026-11-19T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[習稱談台灣 白宮尚未證實 美方則關切俄烏、伊朗
+〔編譯張沛元／綜合報導〕美國總統川普與中國國家主席習近平十九日在深圳舉行雙邊會談。中國官媒新華社報導，習近平要求美方在台灣問題上「要堅持做對的事」，避免中美關係出現重大波折；並稱川普表示美國不支持台獨。白宮尚未發布正式會談聲明，官方Ｘ帳號僅透露，川普…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自由日日Shoot》昔冷對安倍 今怠慢高市 中國失禮有前例]]></title>
+        <id>https://news.ltn.com.tw/news/world/paper/1779150</id>
+        <link href="https://news.ltn.com.tw/news/world/paper/1779150"/>
+        <updated>2026-11-19T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[〔駐日特派員林翠儀／東京十九日報導〕日本首相高市早苗上任後首次訪問中國，卻APEC深圳峰會期間，遭到中國一連串「不友善」的接待。除了機場迎接規格明顯低於其他國家領袖，連政府專機的登機梯都出現高度落差，引發日本政界質疑中方刻意刁難。
+接機草率 登機梯惡搞
+高市十八日抵達深圳機場時，中方僅派已退休的…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美特使會歐洲盟友　稱俄不排斥烏克蘭獲得類北約安全保障]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5647046</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5647046"/>
+        <updated>2026-11-19T20:54:03.000Z</updated>
+        <summary type="html"><![CDATA[美國特使庫許納（Jared Kushner）今天表示，俄羅斯「不排斥」為烏克蘭提供類似北大西洋公約組織（NATO）的安全保障，以結束這場即將屆滿5年的戰爭。
+
+另一位美國特使魏科夫（Stev...…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美中俄峰會同日基輔遇襲　荷蘭、奧地利使館受損]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5647045</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5647045"/>
+        <updated>2026-11-19T20:12:03.000Z</updated>
+        <summary type="html"><![CDATA[一枚拋射物今天落在荷蘭駐烏克蘭首都基輔的大使館附近，造成館舍輕微受損，荷蘭政府今天為此召見俄國駐荷蘭大使。奧地利駐基輔大使館也在俄軍的白晝攻擊中受損。
+
+法新社報導，俄羅斯今天白天對基輔發動...…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[川普結束中國行返美　20日在白宮召開記者會]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5647041</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5647041"/>
+        <updated>2026-11-19T19:12:04.000Z</updated>
+        <summary type="html"><![CDATA[美國總統川普（Donald Trump）今天宣布，他從中國返美後，將在白宮召開記者會。他此行與中國國家主席習近平及俄羅斯總統普丁（Vladimir Putin）舉行三方會談。
+
+法新社報導，...…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[葉門叛軍襲擊沙烏地阿拉伯首都　市內最高樓受損]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5647038</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5647038"/>
+        <updated>2026-11-19T18:21:04.000Z</updated>
+        <summary type="html"><![CDATA[沙烏地阿拉伯當局今天證實，葉門叛軍「青年運動」發動的攻擊，毀損了沙國首都利雅德金融區一棟地標大樓。數小時前，利雅德傳出爆炸聲響，目擊者通報市內最高樓受損。
+
+法新社報導，自從鄰國葉門的內戰戰...…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[稱伊朗研究生化武器　川普：看元旦後美伊局勢如何發展]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5647032</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5647032"/>
+        <updated>2026-11-19T17:54:03.000Z</updated>
+        <summary type="html"><![CDATA[美伊衝突迄今已延燒近9個月，美國總統川普在今天播出的訪問中表示，有跡象顯示伊朗正在研究生物或化學武器，還說
+看看明年1月1日後美伊「局勢將如何發展」。
+
+路透社報導，最近幾週，川普對伊朗態度...…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英偉達曾申請向中國涉軍企業出售晶片，獲商務部批准]]></title>
+        <id>https://cn.nytimes.com/business/20261120/nvidia-chips-commerce-china-huang/zh-hant/</id>
+        <link href="https://cn.nytimes.com/business/20261120/nvidia-chips-commerce-china-huang/zh-hant/?utm_source=RSS"/>
+        <updated>2026-11-19T17:45:31.000Z</updated>
+        <summary type="html"><![CDATA[立法者發布的機密信息顯示，商務部今年已批准向中國企業出售超過80萬枚先進人工智慧晶片，其中包括被五角大廈列入中國涉軍企業名單的公司。這引發了國會議員的批評。
+
+                    
+Manuel Orbegozo for The New York Times
+                    
+根據國會議員公布的機密信息，美國商務部批准了向中國企業出售人工智慧晶片。]]></summary>
+        <author>
+            <name>ANA SWANSON,CECILIA KANG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中美俄元首歷史性會晤 普京獲得外交勝利嗎？]]></title>
+        <id>https://www.bbc.com/zhongwen/articles/ck9q84jgpxpjo/trad#3</id>
+        <link href="https://www.bbc.com/zhongwen/articles/ck9q84jgpxpjo/trad?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-11-19T17:24:59.000Z</updated>
+        <summary type="html"><![CDATA[中國國家主席習近平、美國總統特朗普及俄羅斯總統普京在APEC深圳峰會期間舉行首次三方會談，聚焦烏克蘭危機與核軍控。]]></summary>
+        <author>
+            <name>BBC Chinese</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「反日宣傳無處不在」：中國如何升級對日本的輿論攻擊戰]]></title>
+        <id>https://cn.nytimes.com/china/20261120/china-japan-propaganda-xi-takaichi/zh-hant/</id>
+        <link href="https://cn.nytimes.com/china/20261120/china-japan-propaganda-xi-takaichi/zh-hant/?utm_source=RSS"/>
+        <updated>2026-11-19T17:24:44.000Z</updated>
+        <summary type="html"><![CDATA[自去年高市早苗發表涉及台灣言論以來，中國發起了一場針對日本的宣傳和外交運動，大幅升級對日本和對高市早苗的言辭攻擊。俄羅斯也對這場宣傳戰給予了協助和呼應。
+
+                    
+Andy Wong/Associated Press
+                    
+在中國限制對日本實體的出口後，中共控制的報紙《環球時報》上關於日本「再軍事化」的新聞標題。]]></summary>
+        <author>
+            <name>赫海威,GAL KOPLEWITZ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中俄美元首會晤　中國外長：大國加強溝通符合世界期待]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5647020</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5647020"/>
+        <updated>2026-11-19T16:39:03.000Z</updated>
+        <summary type="html"><![CDATA[中國外交部長王毅今天晚間表示，中俄美三國元首首次會晤是歷史性事件。各種風險挑戰層出不窮，國際社會對於大國加強溝通協調呼聲高漲，這次會晤適應時代潮流、符合世界期待。
+
+2026年亞太經濟合作會...…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中俄美元首會晤　中國外長：大國加強溝通符合世界期待]]></title>
+        <id>CNA/2026-11-20/202611200002</id>
+        <link href="https://www.cna.com.tw/news/acn/202611200002.aspx"/>
+        <updated>2026-11-19T16:26:30.000Z</updated>
+        <summary type="html"><![CDATA[（中央社記者李雅雯深圳19日電）中國外交部長王毅今天晚間表示，中俄美三國元首首次會晤是歷史性事件。各種風險挑戰層出不窮，國際社會對於大國加強溝通協調呼聲高漲，這次會晤適應時代潮流、符合世界期待。]]></summary>
+        <author>
+            <name>中央社即時新聞 兩岸透視</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[水怪怪的！美OL裝攝影機 驚見上司「嘉明的味道」倒入咖啡杯]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5646898</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5646898"/>
+        <updated>2026-11-19T14:59:34.000Z</updated>
+        <summary type="html"><![CDATA[美國賓夕法尼亞州45歲男經理涉嫌在辦公室趁機將精液倒入女同事的咖啡杯中，還聲稱這是「唯一能親近對方的方式」。這起離譜案件近日宣判，噁男被判處1到2年有期徒刑，卻透過認罪協商躲過性...…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美中俄峰會後 高市早苗與川普通話]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5646980</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5646980"/>
+        <updated>2026-11-19T14:45:06.000Z</updated>
+        <summary type="html"><![CDATA[日本首相高市早苗今晚與美國總統川普舉行電話會談，這是川普今天在中國深圳與中國國家主席習近平、俄羅斯總統普廷，舉行史上首次美中俄三國領袖峰會後，日美領袖首次直接溝通。...…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美中俄元首峰會「締造歷史」 3國發表和平宣言]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5646985</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5646985"/>
+        <updated>2026-11-19T14:37:28.000Z</updated>
+        <summary type="html"><![CDATA[美國總統川普、中國國家主席習近平和俄羅斯總統普廷19日在中國深圳舉行3國元首峰會，會後發表和平宣言。川普說，這次會議「締造歷史」；習近平說，中俄美3國要尊重彼此主權和領土完整、...…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[稱美中俄峰會「寫新頁」 普廷駁瓜分說：雅爾達會議有什麼不好]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5646971</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5646971"/>
+        <updated>2026-11-19T14:30:45.000Z</updated>
+        <summary type="html"><![CDATA[美國總統川普、中國國家主席習近平和俄羅斯總統普廷，19日在中國深圳舉行史無前例的美中俄三國元首峰會。普廷會後被問到，這場峰會被與雅爾達會議相提並論，不以為然反問，「雅爾達（會議...…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[蚊子機場一籮筐　中國7成機場靠財政補貼維持]]></title>
+        <id>CNA/2026-11-19/202611190389</id>
+        <link href="https://www.cna.com.tw/news/acn/202611190389.aspx"/>
+        <updated>2026-11-19T14:24:10.000Z</updated>
+        <summary type="html"><![CDATA[（中央社台北9日電）據第一財經報導，路網衝擊下的中國中小型機場，占總機場數7成以上，只能依靠中央財政補貼維持。今年前10個月，部分小機場沒有1班定期客運航班，有的機場平均每天運送的旅客不足10人。]]></summary>
+        <author>
+            <name>中央社即時新聞 兩岸透視</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[烏炸克里米亞大橋 普廷放話報復：不再考慮黑海或能源停火]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5646935</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5646935"/>
+        <updated>2026-11-19T14:19:36.000Z</updated>
+        <summary type="html"><![CDATA[俄羅斯總統普廷今（19日）表示，在烏克蘭攻擊克里米亞大橋之後，俄羅斯將不再考慮暫停在黑海或針對能源設施的攻擊行動，並會發動讓烏克蘭更為痛苦的報復行動。
+
+《路透》報導，普廷在...…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[川普稱普廷「朋友」 波蘭總理諷刺回應]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5646951</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5646951"/>
+        <updated>2026-11-19T13:50:02.000Z</updated>
+        <summary type="html"><![CDATA[美國總統川普與俄羅斯總統普廷，在19日亞太經濟合作會議（APEC）峰會期間舉行雙邊會晤，川普熱情洋溢稱普廷為「朋友」。對莫斯科態度強硬的波蘭總理圖斯克（Donald Tusk）...…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4至7天閃電打擊！傳以色列欲轟炸伊朗 遊說美國聯手出擊]]></title>
+        <id>https://news.ltn.com.tw/news/world/breakingnews/5646941</id>
+        <link href="https://news.ltn.com.tw/news/world/breakingnews/5646941"/>
+        <updated>2026-11-19T13:49:36.000Z</updated>
+        <summary type="html"><![CDATA[紐約時報報導，因國會選舉未能過半，正處於看守政府時期的以色列總理納坦雅胡，大力敦促美方加入一場4至7天，短而強的軍事打擊行動。
+
+以色列情報組織「摩薩德」局長高夫曼（Rom...…]]></summary>
+        <author>
+            <name>國際新聞 - 自由時報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[APEC深圳峰會閉幕　會議提出「深圳展望」]]></title>
+        <id>CNA/2026-11-19/202611190372</id>
+        <link href="https://www.cna.com.tw/news/acn/202611190372.aspx"/>
+        <updated>2026-11-19T13:08:28.000Z</updated>
+        <summary type="html"><![CDATA[（中央社記者李雅雯深圳19日電）2026年APEC深圳峰會閉幕，會議通過領導人宣言，對於亞太共同體建設提出「深圳展望」。這份聯合文件一改過往使用「宣言」命名的慣例，改採用「展望」為名。]]></summary>
+        <author>
+            <name>中央社即時新聞 兩岸透視</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美中俄領袖會晤　三方談俄烏戰爭、中東、核武等議題]]></title>
+        <id>CNA/2026-11-19/202611190368</id>
+        <link href="https://www.cna.com.tw/news/acn/202611190368.aspx"/>
+        <updated>2026-11-19T12:58:19.000Z</updated>
+        <summary type="html"><![CDATA[（中央社記者呂佳蓉台北19日電）美中俄領導人今天舉行會晤。據新華社報導，三方針對「維護世界和平，促進大國關係戰略穩定」進行深入討論，並且就俄烏戰爭（中國稱：烏克蘭危機）、防止核武器擴散、中東局勢、朝鮮半島等重大國際和地區問題交換了意見。]]></summary>
+        <author>
+            <name>中央社即時新聞 兩岸透視</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[川普離開深圳返美  中國外長王毅送行]]></title>
+        <id>CNA/2026-11-19/202611190363</id>
+        <link href="https://www.cna.com.tw/news/acn/202611190363.aspx"/>
+        <updated>2026-11-19T12:45:09.000Z</updated>
+        <summary type="html"><![CDATA[（中央社台北19日電）美國總統川普昨天抵達中國深圳參加APEC峰會，中國國家主席習近平親赴機場迎接；川普今天下午與習近平、俄羅斯總統普丁舉行三方會談後搭乘專機返美，中國外交部長王毅前往送行。]]></summary>
+        <author>
+            <name>中央社即時新聞 兩岸透視</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[假裝在新西蘭、提前請假、搶購主機：粉絲為《GTA 6》做足準備]]></title>
+        <id>https://www.bbc.com/zhongwen/articles/cmg4659lx27ro/trad#2</id>
+        <link href="https://www.bbc.com/zhongwen/articles/cmg4659lx27ro/trad?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-11-19T12:43:05.000Z</updated>
+        <summary type="html"><![CDATA[Sensor Tower估計，該遊戲透過PlayStation與Xbox平台的預購，已創造11.8億美元收入。]]></summary>
+        <author>
+            <name>BBC Chinese</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中美俄元首峰會：從烏克蘭、伊朗、和平宣言到承諾核對話]]></title>
+        <id>https://www.bbc.com/zhongwen/articles/c38x04eppnpdo/trad#0</id>
+        <link href="https://www.bbc.com/zhongwen/articles/c38x04eppnpdo/trad?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-11-19T12:22:04.000Z</updated>
+        <summary type="html"><![CDATA[會後發表的中俄美元首和平宣言顯示，三國領導人承諾就「減少核風險、防止核擴散」展開對話，並就聯合國改革、能源穩定和國際刑事法院管轄權等議題達成四點共識。]]></summary>
+        <author>
+            <name>BBC Chinese</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[從領導人合照到場邊會談：高市早苗的APEC外交觀察]]></title>
+        <id>https://www.bbc.com/zhongwen/articles/ck782e5dxeygo/trad#3</id>
+        <link href="https://www.bbc.com/zhongwen/articles/ck782e5dxeygo/trad?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-11-19T10:20:44.000Z</updated>
+        <summary type="html"><![CDATA[高市早苗在歡迎晚宴前與中國國家主席習近平握手，兩人短暫互動。不過，高市抵達深圳時的接待安排相對低調。]]></summary>
+        <author>
+            <name>BBC Chinese</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[川習三會  分析：台海議題內容在預期之內]]></title>
+        <id>CNA/2026-11-19/202611190314</id>
+        <link href="https://www.cna.com.tw/news/acn/202611190314.aspx"/>
+        <updated>2026-11-19T10:10:21.000Z</updated>
+        <summary type="html"><![CDATA[（中央社記者呂佳蓉台北19日電）美國總統川普與中國國家主席習近平今天舉行會談，是今年的第三次川習會晤。台灣學者分析指出，川習三會關於台灣議題的內容是在預期之內，台灣非這次會談的重點，美中各自「照表操課」做回應。]]></summary>
+        <author>
+            <name>中央社即時新聞 兩岸透視</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[李家超：APEC深化交流　香港爭取早日加入RCEP]]></title>
+        <id>CNA/2026-11-19/202611190295</id>
+        <link href="https://www.cna.com.tw/news/acn/202611190295.aspx"/>
+        <updated>2026-11-19T09:33:38.000Z</updated>
+        <summary type="html"><![CDATA[（中央社記者張謙香港19日電）香港行政長官李家超今天表示，這次參加亞太經濟合作會議（APEC）經濟領袖會議獲得深化交流等多項成果，將會續用好APEC平台，與亞太經濟體加強互聯互通，爭取香港盡早加入RCEP。]]></summary>
+        <author>
+            <name>中央社即時新聞 兩岸透視</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[APEC深圳峰會　施振榮：AI永續有賴於半導體供應鏈穩定]]></title>
+        <id>CNA/2026-11-19/202611190293</id>
+        <link href="https://www.cna.com.tw/news/acn/202611190293.aspx"/>
+        <updated>2026-11-19T09:26:33.000Z</updated>
+        <summary type="html"><![CDATA[（中央社記者李雅雯深圳19日電）宏碁集團創辦人施振榮擔任APEC深圳峰會台灣領袖代表。施振榮於會議中表示，AI永續發展有賴於全球半導體供應鏈穩定與韌性，台灣將持續與各界友人及合作夥伴攜手合作。]]></summary>
+        <author>
+            <name>中央社即時新聞 兩岸透視</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI是做精神導師，發佈教法裁決？穆斯林對此意見不一]]></title>
+        <id>https://www.bbc.com/zhongwen/articles/cmdx1eqdl9vpo/trad#2</id>
+        <link href="https://www.bbc.com/zhongwen/articles/cmdx1eqdl9vpo/trad?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-11-19T09:16:44.000Z</updated>
+        <summary type="html"><![CDATA[穆斯林社群因伊斯蘭AI助手Qaf能否頒布教法裁決爆發爭議。開發者強調僅供學習，學者則警告不可取代專業裁決，反映AI與傳統宗教的張力。]]></summary>
+        <author>
+            <name>BBC Chinese</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[APEC領袖峰會為何冠以「非正式」？西雅圖峰會是關鍵]]></title>
+        <id>CNA/2026-11-19/202611190270</id>
+        <link href="https://www.cna.com.tw/news/acn/202611190270.aspx"/>
+        <updated>2026-11-19T09:12:44.000Z</updated>
+        <summary type="html"><![CDATA[（中央社台北19日電）亞太經濟合作會議（APEC）第33次領導人非正式會議今天在中國深圳開幕，各成員幾乎都由國家元首出席，對於如此高規格會議卻冠以「非正式」的緣由，港媒指必須回溯自1993年的西雅圖峰會。]]></summary>
+        <author>
+            <name>中央社即時新聞 兩岸透視</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[深圳川習會　陸委會：台灣非這次會談重點]]></title>
+        <id>CNA/2026-11-19/202611190258</id>
+        <link href="https://www.cna.com.tw/news/acn/202611190258.aspx"/>
+        <updated>2026-11-19T08:52:18.000Z</updated>
+        <summary type="html"><![CDATA[（中央社記者呂佳蓉台北19日電）美國總統川普今天與中國國家主席習近平會面，這是今年兩人第3次會晤。陸委會發言人梁文傑今天表示，台灣不是這次會談的重點，詳細情況政府會持續掌握。]]></summary>
+        <author>
+            <name>中央社即時新聞 兩岸透視</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[梁文傑：陸方APEC接機安排算合理]]></title>
+        <id>CNA/2026-11-19/202611190257</id>
+        <link href="https://www.cna.com.tw/news/acn/202611190257.aspx"/>
+        <updated>2026-11-19T08:49:16.000Z</updated>
+        <summary type="html"><![CDATA[（中央社記者呂佳蓉台北19日電）針對陸方對此次台灣APEC領袖代表接機安排，陸委會發言人梁文傑表示，APEC是國際性的場合，並非兩岸之間的會談，因此有關接機方面的事情，陸方是由負責APEC的官員來處理，沒有國台辦官員的安排，算是合理。]]></summary>
+        <author>
+            <name>中央社即時新聞 兩岸透視</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[深圳APEC領袖配偶活動　施振榮夫人著夏姿亮相]]></title>
+        <id>CNA/2026-11-19/202611190253</id>
+        <link href="https://www.cna.com.tw/news/acn/202611190253.aspx"/>
+        <updated>2026-11-19T08:45:08.000Z</updated>
+        <summary type="html"><![CDATA[（中央社記者李雅雯深圳19日電）深圳APEC領袖配偶活動今天上午在深圳灣文化廣場舉辦。台灣領袖代表施振榮夫人葉紫華身著夏姿服飾出席，面帶親切笑容與其他經濟體領袖配偶互動。]]></summary>
+        <author>
+            <name>中央社即時新聞 兩岸透視</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[港股持續抵迷  下挫1.95%]]></title>
+        <id>CNA/2026-11-19/202611190245</id>
+        <link href="https://www.cna.com.tw/news/afe/202611190245.aspx"/>
+        <updated>2026-11-19T08:35:51.000Z</updated>
+        <summary type="html"><![CDATA[（中央社記者張謙香港19日電）香港股市連日低迷，恒生指數今天又再下挫453點或1.95%，收報22841點，成交總額港幣2295億元。恒指近4個月來持續探底，正測試近年最低的22000點關卡。]]></summary>
+        <author>
+            <name>中央社即時新聞 兩岸透視</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[川普促中國挺美農　中美貿易農業工作組將首次開會]]></title>
+        <id>CNA/2026-11-19/202611190237</id>
+        <link href="https://www.cna.com.tw/news/acn/202611190237.aspx"/>
+        <updated>2026-11-19T08:21:33.000Z</updated>
+        <summary type="html"><![CDATA[（中央社台北19日電）中國商務部今天表示，中美貿易委員會（Board of Trade）下設的農業工作組，將於近期開首次會議。美國總統川普下午在深圳與中國國家主席習近平會面時，要求中國為美國農民「多做一些」，美國可以滿足中國的龐大需求。]]></summary>
+        <author>
+            <name>中央社即時新聞 兩岸透視</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[是否舉行中日領導人會晤？中國外交部稱立場明確]]></title>
+        <id>CNA/2026-11-19/202611190235</id>
+        <link href="https://www.cna.com.tw/news/acn/202611190235.aspx"/>
+        <updated>2026-11-19T08:20:29.000Z</updated>
+        <summary type="html"><![CDATA[（中央社台北19日電）中國外交部今天舉行例行記者會，當被問及亞太經濟合作會議（APEC）會議期間中日領導人是否舉行會晤時，中國外交部發言人郭嘉昆表示：「關於中日關係，中方的立場是明確的」。]]></summary>
+        <author>
+            <name>中央社即時新聞 兩岸透視</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[川習會  中美經貿官員高層幕僚出席]]></title>
+        <id>CNA/2026-11-19/202611190228</id>
+        <link href="https://www.cna.com.tw/news/acn/202611190228.aspx"/>
+        <updated>2026-11-19T08:02:14.000Z</updated>
+        <summary type="html"><![CDATA[（中央社台北19日電）美國總統川普與中國國家主席習近平今天在中國深圳舉行會晤。綜合媒體報導，美方出席官員包括國務卿盧比歐、商務部長盧特尼克、財政部長貝森特、貿易代表葛里爾，中方則有中共中央書記處書記蔡奇、國務院副總理何立峰等官員出席。]]></summary>
+        <author>
+            <name>中央社即時新聞 兩岸透視</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[習近平會川普  指中美關係整體穩定且不斷改善]]></title>
+        <id>CNA/2026-11-19/202611190212</id>
+        <link href="https://www.cna.com.tw/news/acn/202611190212.aspx"/>
+        <updated>2026-11-19T07:31:39.000Z</updated>
+        <summary type="html"><![CDATA[（中央社台北19日電）中國國家主席習近平今天下午在深圳與出席亞太經濟合作會議（APEC）峰會的美國總統川普舉行會談。路透社報導，習近平說，中美關係「整體穩定且不斷改善」，願與美方合作，繼續引導中美關係走上「正確道路」。]]></summary>
+        <author>
+            <name>中央社即時新聞 兩岸透視</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[巴拿馬港口爭議升溫　當地審計機關對香港長和子公司提刑事訴訟]]></title>
+        <id>CNA/2026-11-19/202611190203</id>
+        <link href="https://www.cna.com.tw/news/acn/202611190203.aspx"/>
+        <updated>2026-11-19T07:12:19.000Z</updated>
+        <summary type="html"><![CDATA[（中央社台北19日電）巴拿馬政府與香港長和集團有關巴拿馬運河港口的法律與外交爭端進一步升級。路透社報導，巴拿馬總審計長辦公室表示，已就巴拿馬政府與香港長江和記實業旗下子公司巴拿馬港口公司（Panama Ports Company，PPC）的港口特許經營合約中，涉嫌違規行為向檢察機關提出刑事控告。]]></summary>
+        <author>
+            <name>中央社即時新聞 兩岸透視</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[APEC的特色服飾：從克林頓皮衣到深圳「鯤鵬展翅」絲巾]]></title>
+        <id>https://www.bbc.com/zhongwen/articles/cmly7er4rze9o/trad#2</id>
+        <link href="https://www.bbc.com/zhongwen/articles/cmly7er4rze9o/trad?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-11-19T07:05:39.000Z</updated>
+        <summary type="html"><![CDATA[在每一年的亞太經合組織峰會上，人們除了關心哪個國的領導人出席、他們之間的互動和談話，還有他們大合照時穿了什麼。]]></summary>
+        <author>
+            <name>BBC Chinese</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anthropic上市：七位即將成為億萬富翁的創辦人]]></title>
+        <id>https://www.bbc.com/zhongwen/articles/cw4gn9359q37o/trad#2</id>
+        <link href="https://www.bbc.com/zhongwen/articles/cw4gn9359q37o/trad?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-11-19T06:43:09.000Z</updated>
+        <summary type="html"><![CDATA[開發AI聊天機器人Claude的Anthropic在美國上市，這將使其創辦人身價暴增。]]></summary>
+        <author>
+            <name>BBC Chinese</name>
         </author>
     </entry>
     <entry>
@@ -131,46 +875,6 @@ Doug Mills/The New York Times
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[美中俄峰會　學者：預估不會形成中俄聯合對美「二對一」局面]]></title>
-        <id>CNA/2026-11-19/202611190062</id>
-        <link href="https://www.cna.com.tw/news/acn/202611190062.aspx"/>
-        <updated>2026-11-19T03:12:14.000Z</updated>
-        <summary type="html"><![CDATA[（中央社台北19日電）美中俄三方會晤今天將登場，中國國家主席習近平昨天先與俄羅斯總統普丁會面，學者認為，目前中俄關係明顯強於中美、美俄關係，但預估三方會晤不會形成「二對一」（中俄對美）的局面，否則三方會晤的戰略意義和價值就會大打折扣。]]></summary>
-        <author>
-            <name>中央社即時新聞 兩岸透視</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[深圳峰會　習近平：提供2000萬美元資助APEC]]></title>
-        <id>CNA/2026-11-19/202611190061</id>
-        <link href="https://www.cna.com.tw/news/acn/202611190061.aspx"/>
-        <updated>2026-11-19T03:12:12.000Z</updated>
-        <summary type="html"><![CDATA[（中央社記者李雅雯深圳19日電）2026年亞太經濟合作經濟領袖會議（深圳峰會）今天上午召開。中國國家主席習近平宣布，中國提供2000萬美元資助亞太經合會議（APEC）務實合作。]]></summary>
-        <author>
-            <name>中央社即時新聞 兩岸透視</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[香港配合APEC峰會設禁飛區　3人違規被捕]]></title>
-        <id>CNA/2026-11-19/202611190058</id>
-        <link href="https://www.cna.com.tw/news/acn/202611190058.aspx"/>
-        <updated>2026-11-19T03:06:05.000Z</updated>
-        <summary type="html"><![CDATA[（中央社記者張謙香港19日電）為配合中國大陸深圳市舉辦亞太經濟合作會議（APEC）峰會，香港當局在鄰近深圳的新界北部設立了禁飛區，但日來仍有人違規放飛無人機，先後有3人被捕。]]></summary>
-        <author>
-            <name>中央社即時新聞 兩岸透視</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美中俄領導人會晤  羅文嘉：政府會保持最謹慎密切關注]]></title>
-        <id>CNA/2026-11-19/202611190055</id>
-        <link href="https://www.cna.com.tw/news/acn/202611190055.aspx"/>
-        <updated>2026-11-19T02:56:59.000Z</updated>
-        <summary type="html"><![CDATA[（中央設計這呂佳蓉台北19日電）美中俄領導人今天將舉行三方會晤。海基會秘書長羅文嘉今天表示，對於任何國際政治動態，無論大小，政府都會保持最謹慎、最密切的關注。]]></summary>
-        <author>
-            <name>中央社即時新聞 兩岸透視</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[習近平與高市早苗簡短會面，中日關係無解凍跡象]]></title>
         <id>https://cn.nytimes.com/world/20261119/xi-jinping-china-sanae-takaichi-japan/zh-hant/</id>
         <link href="https://cn.nytimes.com/world/20261119/xi-jinping-china-sanae-takaichi-japan/zh-hant/?utm_source=RSS"/>
@@ -186,58 +890,6 @@ Pool photo by Iori Sagisawa
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[餘震密集！日本熊本凌晨強震 颱風論壇：整個九州都有感]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5645854</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5645854"/>
-        <updated>2026-11-19T02:26:22.000Z</updated>
-        <summary type="html"><![CDATA[日本熊本今天（19日）凌晨發生規模5.7地震，當地最大震度達5弱，九州地區都有感受到搖晃。氣象粉專「台灣颱風論壇─天氣特急」指出，目前當地餘震相當密集，提醒近期前往日本九州或正在...…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[傳伊朗擬在華府引爆髒彈 川普稱若遭攻擊將予以殲滅]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5645837</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5645837"/>
-        <updated>2026-11-19T02:22:27.000Z</updated>
-        <summary type="html"><![CDATA[美國有線電視新聞網（CNN）17日稱，7名美國官員透露，伊朗正研擬攻擊川普政府高階官員的計畫，可能在華盛頓特區引爆髒彈（dirty bomb）或化學武器。美國總統川普19日在中...…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[廈門教區劉恆平祝聖主教 4個月來中國第6人]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5645825</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5645825"/>
-        <updated>2026-11-19T02:19:32.000Z</updated>
-        <summary type="html"><![CDATA[據報導，中國廈門教區劉恆平主教昨天獲祝聖，是近4個月來中國大陸第6位獲祝聖的主教。
-
-港媒星島日報今天報導，劉恆平主教的祝聖典禮昨天在福建省廈門市鷺江道天主教堂舉行，這是近4個月來大陸第...…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[傳中國放寬限韓令　港媒憂慮衝擊香港影藝經濟]]></title>
-        <id>CNA/2026-11-19/202611190041</id>
-        <link href="https://www.cna.com.tw/news/acn/202611190041.aspx"/>
-        <updated>2026-11-19T02:13:28.000Z</updated>
-        <summary type="html"><![CDATA[（中央社記者張謙香港19日電）正在中國深圳舉辦的亞太經濟合作會議（APEC）領袖峰會，日來備受香港關注，有媒體憂慮北京方面放寬「限韓令」的消息，可能會衝擊香港的「盛事經濟」（影藝及文化活動），也有媒體認為，建立世界灣區經濟合作聯盟，可令香港得益。]]></summary>
-        <author>
-            <name>中央社即時新聞 兩岸透視</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[高市早苗抵深圳參加APEC機場舷梯安排惹議  日議員要求中方說明]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5645767</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5645767"/>
-        <updated>2026-11-19T02:10:58.000Z</updated>
-        <summary type="html"><![CDATA[日本首相高市早苗18日抵達中國深圳，出席亞太經濟合作會議（APEC）峰會，是她就任後首次訪問中國。印太戰略智庫執行長、日本資深媒體人矢板明夫指出，中方的機場接待安排似乎刻意冷落高...…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[川普抵達深圳：展示友好關係，無視間諜醜聞]]></title>
         <id>https://cn.nytimes.com/world/20261119/trump-xi-shenzhen-spy-scandal/zh-hant/</id>
         <link href="https://cn.nytimes.com/world/20261119/trump-xi-shenzhen-spy-scandal/zh-hant/?utm_source=RSS"/>
@@ -250,73 +902,6 @@ Doug Mills/The New York Times
 週三，川普總統與中國國家主席習近平在深圳。]]></summary>
         <author>
             <name>PETER BAKER</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[APE峰會期間，深圳變「空城」]]></title>
-        <id>https://cn.nytimes.com/china/20261119/a-tropical-chinese-city-is-half-empty-and-ready-for-the-summit/zh-hant/</id>
-        <link href="https://cn.nytimes.com/china/20261119/a-tropical-chinese-city-is-half-empty-and-ready-for-the-summit/zh-hant/?utm_source=RSS"/>
-        <updated>2026-11-19T01:49:06.000Z</updated>
-        <summary type="html"><![CDATA[為主辦APEC峰會，深圳的學校本週已經停課，地方政府指示企業員工居家辦公，許多居民離開了這座城市。峰會期間多條道路封閉，安保舉措尤為嚴密。
-
-                    
-Tingshu Wang/Reuters
-                    
-中國深圳的一條高速公路，攝於週三。]]></summary>
-        <author>
-            <name>KEITH BRADSHER</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美中俄峰會在即 共和黨議員警告習近平和普廷非美國盟友]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5645783</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5645783"/>
-        <updated>2026-11-19T01:45:14.000Z</updated>
-        <summary type="html"><![CDATA[美中俄領袖峰會將在19日於中國深圳舉行，美國總統川普18日飛抵深圳寶安機場，中國國家主席習近平親自迎接，顯示中國對川普訪華的重視。但共和黨議員在峰會開始前警告，習近平與俄羅斯總...…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[廈門教區劉恆平祝聖主教 4個月來中國第6人]]></title>
-        <id>CNA/2026-11-19/202611190034</id>
-        <link href="https://www.cna.com.tw/news/acn/202611190034.aspx"/>
-        <updated>2026-11-19T01:21:13.000Z</updated>
-        <summary type="html"><![CDATA[（中央社記者張謙香港19日電）據報導，中國廈門教區劉恆平主教昨天獲祝聖，是近4個月來中國大陸第6位獲祝聖的主教。]]></summary>
-        <author>
-            <name>中央社即時新聞 兩岸透視</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[國際研討會驚見台灣國旗！多國政要關切台海 矢板明夫：台灣不孤單]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5645708</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5645708"/>
-        <updated>2026-11-19T00:46:10.000Z</updated>
-        <summary type="html"><![CDATA[印太戰略智庫執行長、日本資深媒體人矢板明夫在社群媒體表示，他18日下午出席由日本智庫「國家基本問題研究所」主辦的國際研討會，現場不僅有澳洲前總理艾伯特（Tony Abbott）、...…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[飛了49年！ NASA航海家1號離地球達「1光日」 締造人類新歷史]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5645734</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5645734"/>
-        <updated>2026-11-19T00:24:56.000Z</updated>
-        <summary type="html"><![CDATA[美國太空總署（NASA）深空探測器「航海家1號」（Voyager 1）1977年發射升空，飛行49年後，已抵達距離地球1光日（one light-day）的位置，創下人類製造物體...…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[創美國會亞裔最高職級 台裔劉雲平當選眾院民主黨黨團主席]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5645722</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5645722"/>
-        <updated>2026-11-19T00:20:12.000Z</updated>
-        <summary type="html"><![CDATA[台灣出生、57歲的劉雲平於18日獲選眾院民主黨黨團主席，他成為美國國會首位擔任黨團主席的台裔暨亞裔美國人，及眾院民主黨排名第4的領袖。
-
-綜合媒體報導，在美國期中選舉後，民主...…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
         </author>
     </entry>
     <entry>
@@ -345,221 +930,6 @@ Doug Mills/The New York Times
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[「北京最可怕夢魘」曝！美中俄3巨頭交鋒 專家：合照容易、協議難]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5645723</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5645723"/>
-        <updated>2026-11-18T23:54:46.000Z</updated>
-        <summary type="html"><![CDATA[美國總統川普19日將與中國國家主席習近平、俄羅斯總統普廷（Vladimir Putin）舉行史無前例的三方會談，並為亞洲行畫下句點。專家指出，中國希望能與川普談判取得晶片，但最終...…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大規模毀滅性攻擊！美情報總監：伊朗威脅大幅增加]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5645718</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5645718"/>
-        <updated>2026-11-18T23:17:24.000Z</updated>
-        <summary type="html"><![CDATA[美國國家情報總監（DNI）克雷頓（Jay Clayton）18日在國會表示，伊朗對美國人的威脅已大幅增加，美國國內及海外人員正面臨更高風險。此前美國媒體報導指出，根據美國情報評估...…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[避免仰賴中國 川普政府擬要求美企揭露使用中國AI模型]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5645670</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5645670"/>
-        <updated>2026-11-18T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[首次上稿 11-18 23:59更新時間 11-19 07:00
-
-路透18日獨家披露，根據3名知情人士，川普政府正在考慮要求美國企業公開揭露使用中國人工智慧（AI）模型的...…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[烏軍炸克里米亞大橋 唯一外國武器竟出自俄裔企業家]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5645660</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5645660"/>
-        <updated>2026-11-18T22:33:06.000Z</updated>
-        <summary type="html"><![CDATA[首次上稿 11-18 23:52更新時間 11-19 06:33
-荷蘭國防新創公司Destinus表示，烏克蘭17日攻擊俄羅斯的克里米亞大橋（Crimean Bridge）時，...…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[傑福瑞斯獲民主黨提名 可望成美國史上首位非裔眾院議長]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5645667</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5645667"/>
-        <updated>2026-11-18T22:27:10.000Z</updated>
-        <summary type="html"><![CDATA[首次上稿 11-18 23:57更新時間 11-19 06:27
-在率領民主黨於期中選舉後重掌眾議院多數席次後，紐約州聯邦眾議員傑福瑞斯（Hakeem Jeffries）1...…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[台裔及亞裔第一人　劉雲平獲選美眾院民主黨團主席]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5645704</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5645704"/>
-        <updated>2026-11-18T21:54:03.000Z</updated>
-        <summary type="html"><![CDATA[美國聯邦眾議員劉雲平今天獲選眾院民主黨黨團主席，成為美國國會首位擔任黨團主席的台裔暨亞裔美國人，及眾院民主黨排名第4的領袖。
-
-期中選舉後民主黨掌握國會兩院多數席次，黨籍聯邦眾議員18日集會...…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微軟傳洽售AI服務給字節跳動　美眾院委員會要查]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5645701</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5645701"/>
-        <updated>2026-11-18T21:30:04.000Z</updated>
-        <summary type="html"><![CDATA[美國聯邦眾議院「美國與中國共產黨戰略競爭特別委員會」主席穆勒納爾今天表示，已要求微軟向國會議員簡報，說明該公司據報洽談出售AI雲端服務給中國企業字節跳動一事。
-
-路透社報導，穆勒納爾（Joh...…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中英對照讀新聞》US imposes sanctions against ICC President美國對國際刑事法院院長實施制裁]]></title>
-        <id>https://news.ltn.com.tw/news/world/paper/1779030</id>
-        <link href="https://news.ltn.com.tw/news/world/paper/1779030"/>
-        <updated>2026-11-18T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[◎國際新聞中心
-The United States on Tuesday imposed sanctions against International Criminal Court President Tomoko Akane of Japan as part of its campaign a…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[川習一年3會 預料沒結論]]></title>
-        <id>https://news.ltn.com.tw/news/world/paper/1779008</id>
-        <link href="https://news.ltn.com.tw/news/world/paper/1779008"/>
-        <updated>2026-11-18T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[〔編譯張沛元／綜合報導〕具有歷史意義的美中俄三國元首會談十九日在中國深圳登場，專家研判，這場美國總統川普與中國國家主席習近平的今年度第三次會晤，不會有任何結論。在此之前，習近平與前來深圳出席亞太經濟合作會議（APEC）峰會的俄羅斯總統普廷十八日先行會談，論及烏克蘭戰爭與隔天的三巨頭會談。
-
-
-…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[深圳APEC登場 習親自接機 擁抱川普]]></title>
-        <id>https://news.ltn.com.tw/news/world/paper/1779006</id>
-        <link href="https://news.ltn.com.tw/news/world/paper/1779006"/>
-        <updated>2026-11-18T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[「禮尚往來」 打破近50年慣例接機
-〔國際新聞中心／綜合報導〕二〇二六年亞太經濟合作會議（APEC）領袖峰會登場，美國總統川普、日本首相高市早苗和俄羅斯總統普廷昨先後抵達中國科技重鎮深圳，準備出席峰會。川普除了與中國國家主席習近平舉行今年第三次會談外，今日還將與習近平和普廷舉行史無前例的三方會談，…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美中俄三強會前夕 核武競賽恐重燃]]></title>
-        <id>https://news.ltn.com.tw/news/world/paper/1779009</id>
-        <link href="https://news.ltn.com.tw/news/world/paper/1779009"/>
-        <updated>2026-11-18T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[〔編譯張沛元／綜合報導〕華爾街日報十八日報導，值此美國、中國與俄羅斯舉行罕見元首會談前夕，這三大核武國家也將陷入前所未有的核子競賽；儘管中國現階段的核彈頭數量遠不及美俄，但極有可能在當局大力發展以及不受限武條約限制下急起直追，再加上美俄間的限武條約今年初便到期失效，美國將面臨史上最大國安挑戰之一：同…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[川普盛讚美菲同盟 加碼投資]]></title>
-        <id>https://news.ltn.com.tw/news/world/paper/1779005</id>
-        <link href="https://news.ltn.com.tw/news/world/paper/1779005"/>
-        <updated>2026-11-18T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[加強兩國國防和經貿合作
-〔編譯管淑平／綜合報導〕美國總統川普十八日前往中國深圳前，先在馬尼拉與菲國總統小馬可仕會談，受到小馬可仕在總統府以軍禮歡迎，兩人並共進午宴。川普讚揚菲律賓是美國在太平洋地區「最悠久且最重要的盟友」之一，經過幾代人有共同歷史和軍事關係發展而來，「我們的同盟從未像現在這麼好」，…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[高市上任一年首度訪中 遭刻意冷落]]></title>
-        <id>https://news.ltn.com.tw/news/world/paper/1779007</id>
-        <link href="https://news.ltn.com.tw/news/world/paper/1779007"/>
-        <updated>2026-11-18T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[〔駐日特派員林翠儀／東京十八日報導〕日本首相高市早苗十八日抵達中國深圳，出席亞太經濟合作會議（APEC）領袖峰會，這是她去年十月就任首相後首次訪問中國。由於高市去年針對「台灣有事」的國會答詢引發中國強烈反彈，日中關係至今陷入僵局，此行與中國國家主席習近平的接觸成為最大焦點。
-
-
-日中正式領袖會…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[珍珠港事件倖存者嘉勒辭世享嵩壽105歲　曾抗命勇救同袍]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5645700</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5645700"/>
-        <updated>2026-11-18T20:36:04.000Z</updated>
-        <summary type="html"><![CDATA[美國珍珠港事件倖存者嘉勒日前辭世，享嵩壽105歲。他在另一場戰役曾不顧軍令救出4名同袍。嘉勒辭世當天，珍珠港事件已知最年長倖存者強生亦於同日過世，享嵩壽106歲。
-
-美聯社報導，嘉勒（Geb...…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美國會報告：中國結合多重手段　加大對台施壓]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5645698</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5645698"/>
-        <updated>2026-11-18T19:12:04.000Z</updated>
-        <summary type="html"><![CDATA[根據美國國會今天發布的報告，中國正擴大軍事能力、強化情報蒐集行動，並利用經濟關係提升全球影響力，尤其是在拉丁美洲，同時也加大對台灣的施壓。
-
-土耳其安納杜魯新聞社（Anadolu Ajans...…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[傑福瑞斯獲民主黨推舉　美國將出現首位非裔眾院議長]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5645696</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5645696"/>
-        <updated>2026-11-18T19:00:04.000Z</updated>
-        <summary type="html"><![CDATA[民主黨在期中選舉獲勝後，今天推舉傑福瑞斯（Hakeem Jeffries）續任眾議院黨團領袖，他可望成為美國首位非裔眾院議長。不過黨內進步派未表支持，對未來路線亦有不同看法。
-
-法新社報導，...…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[紐時：川普不滿范斯未力挺對伊朗開戰　私下盛讚盧比歐]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5645691</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5645691"/>
-        <updated>2026-11-18T18:30:04.000Z</updated>
-        <summary type="html"><![CDATA[紐約時報引述知情人士報導，對於美國副總統范斯批評伊朗戰爭一事，總統川普日益感到不滿，認為范斯在檢討共和黨期中選舉慘敗時，應表態支持他對伊朗開戰的決定。
-
-根據紐約時報（New York Ti...…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中國APEC資深官員接機　代表團：不是完全滿意尚可接受]]></title>
-        <id>CNA/2026-11-19/202611190007</id>
-        <link href="https://www.cna.com.tw/news/acn/202611190007.aspx"/>
-        <updated>2026-11-18T18:26:05.000Z</updated>
-        <summary type="html"><![CDATA[（中央社記者李雅雯深圳18日電） 亞太經濟合作會議（APEC）台灣領袖代表施振榮18日上午抵達中國深圳，中國接機代表為中央APEC籌委會高官程烈等人。我代表團成員認為，這代表中方尊重APEC體制，雖然不是完全滿意，但是可以接受。]]></summary>
-        <author>
-            <name>中央社即時新聞 兩岸透視</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[APEC深圳峰會歡迎宴　我代表團：施振榮與13名領袖互動]]></title>
-        <id>CNA/2026-11-19/202611190006</id>
-        <link href="https://www.cna.com.tw/news/acn/202611190006.aspx"/>
-        <updated>2026-11-18T18:21:03.000Z</updated>
-        <summary type="html"><![CDATA[（中央社記者李雅雯深圳18日電）2026年亞太經濟合作經濟領袖會議（深圳峰會）19日登場，中國18日晚上舉辦歡迎晚宴。我代表團成員表示，台灣經濟領袖代表施振榮於會上與13名經濟體領袖互動。]]></summary>
-        <author>
-            <name>中央社即時新聞 兩岸透視</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[如何解讀川普與習近平的擁抱]]></title>
         <id>https://cn.nytimes.com/world/20261119/xi-trump-hug-shenzhen/zh-hant/</id>
         <link href="https://cn.nytimes.com/world/20261119/xi-trump-hug-shenzhen/zh-hant/?utm_source=RSS"/>
@@ -572,18 +942,6 @@ Doug Mills/The New York Times
 川普週三抵達深圳，他與習近平的擁抱引人注目，分析世界領導人互動的觀察人士從中發現了豐富的素材。]]></summary>
         <author>
             <name>MAX BEARAK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[克宮：普丁與川普將於APEC場邊會晤　未安排全面談判]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5645683</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5645683"/>
-        <updated>2026-11-18T17:30:07.000Z</updated>
-        <summary type="html"><![CDATA[俄羅斯媒體引述兩名高階官員報導，預計俄羅斯總統普丁與美國總統川普將於19日在亞太經濟合作會議（APEC）峰會期間進行場邊會晤，但未安排進行全面性的雙邊談判。
-
-路透社報導，俄媒引述克里姆林宮...…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
         </author>
     </entry>
     <entry>
@@ -602,104 +960,8 @@ Qilai Shen for The New York Times
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[路透：川普政府擬要求美企　揭露中國AI模型使用情況]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5645682</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5645682"/>
-        <updated>2026-11-18T17:06:04.000Z</updated>
-        <summary type="html"><![CDATA[路透社引述3名知情人士獨家報導，川普政府正考慮要求美國企業，公開揭露使用中國AI模型的情況，希望藉此降低企業對中國AI模型的依賴，同時避免祭出可能引起產業界或中方反彈的新限制措施。
-
-知情人...…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「黃黃啪啪」！外媒拿黃仁勳姓氏開黃腔暗酸外遇 挨轟亞裔歧視]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5645652</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5645652"/>
-        <updated>2026-11-18T16:26:25.000Z</updated>
-        <summary type="html"><![CDATA[輝達（NVIDIA）創辦人黃仁勳坦承和疑似共諜的中國籍女子黃樂（Alice Huang）發生婚外情，掀輿論熱議。然而，有歐美主流媒體在報導這樁醜聞石，將2人的姓氏拿來開性暗示意味...…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[曼谷審計大樓震塌！中國包商找人頭違法經營 判刑3年]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5645629</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5645629"/>
-        <updated>2026-11-18T15:13:30.000Z</updated>
-        <summary type="html"><![CDATA[泰國審計大樓倒塌案出現司法新進展，曼谷刑事法院今天判處承包商中國中鐵十局（泰國）有限公司主管張傳嶺（Zhang Chuanling，音譯）有期徒刑3年、公司遭罰款100萬泰銖，認定這家公司利...…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[川普讚美菲同盟「從沒這麼好」 不擔心南海緊張啟動共同防禦]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5645631</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5645631"/>
-        <updated>2026-11-18T15:00:15.000Z</updated>
-        <summary type="html"><![CDATA[美國總統川普18日在菲律賓與菲國總統小馬可仕會談，川普讚揚美菲同盟關係，「從未像現在這麼好」，並表示將加強兩國國防、經貿等領域合作。
-
-川普18日前往中國深圳前，先在馬尼拉...…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[民主黨拿下阿拉斯加州！國會參院56：44 創16年來最大優勢]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5645618</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5645618"/>
-        <updated>2026-11-18T15:00:03.000Z</updated>
-        <summary type="html"><![CDATA[美國期中選舉中，鬧出兩名候選人同名同姓風波的阿拉斯加州聯邦參議員之戰，《美聯社》17日根據官方公布的計票結果，判定民主黨候選人佩爾托拉（Mary Peltola）成功翻盤，擊敗...…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美政府報告：中國尋求取得輝達先進晶片 用於AI武器]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5645643</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5645643"/>
-        <updated>2026-11-18T14:59:00.000Z</updated>
-        <summary type="html"><![CDATA[美國政府獨立機構「美中經濟暨安全檢討委員會」今天發布年度報告指出，由於中國製處理器持續落後美國對手，中國軍方正尋求取得輝達先進晶片，要用於具備AI功能之武器。
- 
-路透社報導，美中經濟暨...…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[沙烏地擬與葉門叛軍打持久戰 估戰事恐再持續半年]]></title>
-        <id>https://news.ltn.com.tw/news/world/breakingnews/5645604</id>
-        <link href="https://news.ltn.com.tw/news/world/breakingnews/5645604"/>
-        <updated>2026-11-18T14:44:56.000Z</updated>
-        <summary type="html"><![CDATA[2名西方官員指出，儘管沙烏地阿拉伯領導的聯軍在對抗葉門叛軍青年運動（Houthis）的戰爭中接連失利，沙烏地國內生活也因青年運動的襲擊受到干擾，但沙烏地仍準備與青年運動展開持久戰...…]]></summary>
-        <author>
-            <name>國際新聞 - 自由時報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[APEC深圳峰會晚宴大合照　施振榮夫婦位在第2排最左側]]></title>
-        <id>CNA/2026-11-18/202611180349</id>
-        <link href="https://www.cna.com.tw/news/acn/202611180349.aspx"/>
-        <updated>2026-11-18T13:33:04.000Z</updated>
-        <summary type="html"><![CDATA[（中央社記者李雅雯深圳18日電）2026年亞太經濟合作經濟領袖會議（深圳峰會）明天登場，中國今晚以東道主身分舉辦歡迎晚宴。從現場大合照可見，台灣經濟領袖代表施振榮與夫人葉紫華合影位置被安排在第2排左側數起第2及第1位。]]></summary>
-        <author>
-            <name>中央社即時新聞 兩岸透視</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[APEC深圳峰會歡迎晚宴　習近平：將討論擴大相互開放]]></title>
-        <id>CNA/2026-11-18/202611180346</id>
-        <link href="https://www.cna.com.tw/news/acn/202611180346.aspx"/>
-        <updated>2026-11-18T13:26:55.000Z</updated>
-        <summary type="html"><![CDATA[（中央社記者李雅雯深圳18日電）2026年亞太經濟合作經濟領袖會議（深圳峰會）明天登場，今天晚上舉辦歡迎晚宴，中國國家主席習近平於致詞時說，在明天的會議上，將討論擴大相互開放措施。]]></summary>
-        <author>
-            <name>中央社即時新聞 兩岸透視</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[APEC深圳峰會：習近平親赴機場迎接特朗普，46年來首次中國元首接機]]></title>
-        <id>https://www.bbc.com/zhongwen/articles/cjy5xkw9g1zpo/trad#0</id>
+        <title type="html"><![CDATA[APEC深圳峰會：習近平親迎特朗普，46年來首次中國元首接機]]></title>
+        <id>https://www.bbc.com/zhongwen/articles/cjy5xkw9g1zpo/trad#2</id>
         <link href="https://www.bbc.com/zhongwen/articles/cjy5xkw9g1zpo/trad?at_medium=RSS&amp;at_campaign=rss"/>
         <updated>2026-11-18T13:21:40.000Z</updated>
         <summary type="html"><![CDATA[這是中國自1980年以來，首次有最高領導人親赴機場迎接外國元首。1980年前，華國鋒、毛澤東都有多次赴機場迎接外國領袖的歷史。]]></summary>
@@ -708,81 +970,11 @@ Qilai Shen for The New York Times
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[APEC峰會晚宴前　習近平與高市早苗握手]]></title>
-        <id>CNA/2026-11-18/202611180344</id>
-        <link href="https://www.cna.com.tw/news/aopl/202611180344.aspx"/>
-        <updated>2026-11-18T13:15:51.000Z</updated>
-        <summary type="html"><![CDATA[（中央社台北18日電）香港南華早報報導，今晚各國領袖齊聚中國深圳出席亞太經濟合作會議（APEC）峰會晚宴前，中國國家主席習近平與日本首相高市早苗握手。這是高市早苗去年11月發表「台灣有事」說，中日關係惡化以來，兩人首次面對面互動。]]></summary>
-        <author>
-            <name>中央社即時新聞 兩岸透視</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黃仁勳婚外情掀「中國間諜」迷因：幽默與偏見之間，亞裔女性如何自處？]]></title>
-        <id>https://www.bbc.com/zhongwen/articles/cvze7n4gp5rro/trad#0</id>
+        <title type="html"><![CDATA[黃仁勳掀「中國間諜」迷因：幽默與偏見之間，亞裔女性如何自處？]]></title>
+        <id>https://www.bbc.com/zhongwen/articles/cvze7n4gp5rro/trad#2</id>
         <link href="https://www.bbc.com/zhongwen/articles/cvze7n4gp5rro/trad?at_medium=RSS&amp;at_campaign=rss"/>
         <updated>2026-11-18T12:17:23.000Z</updated>
         <summary type="html"><![CDATA[黃仁勳醜聞曝光後，網上湧現大量「中國間諜」、「美人計」笑話。這些看似無傷大雅的時事迷因，卻讓部分亞裔女性感到困擾。]]></summary>
-        <author>
-            <name>BBC Chinese</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[APEC深圳倡議　推進亞太自貿區、支持WTO改革]]></title>
-        <id>CNA/2026-11-18/202611180319</id>
-        <link href="https://www.cna.com.tw/news/acn/202611180319.aspx"/>
-        <updated>2026-11-18T11:17:55.000Z</updated>
-        <summary type="html"><![CDATA[（中央社記者李雅雯深圳18日電）2026年亞太經濟合作企業領袖高峰會今天發布「深圳倡議」，強調推進亞太自貿區建設、支持世界貿易組織（WTO）改革；推動人工智慧（AI）開放包容、普惠向善發展。]]></summary>
-        <author>
-            <name>中央社即時新聞 兩岸透視</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[川普抵深圳  習近平接機稱：期待就中美關係等問題交換意見]]></title>
-        <id>CNA/2026-11-18/202611180318</id>
-        <link href="https://www.cna.com.tw/news/acn/202611180318.aspx"/>
-        <updated>2026-11-18T11:16:53.000Z</updated>
-        <summary type="html"><![CDATA[（中央社記者呂佳蓉台北18日電）中國國家主席習近平今天下午親赴深圳寶安機場，迎接出席APEC峰會的美國總統川普。根據新華社報導，習近平說，歡迎川普再次訪中，期待就事關中美關係等重大問題深入交換意見；川普則表示，相信此訪將進一步推進兩國關係。]]></summary>
-        <author>
-            <name>中央社即時新聞 兩岸透視</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[國台辦聲稱高金素梅案是「政治迫害」  陸委會：不容狡辯]]></title>
-        <id>CNA/2026-11-18/202611180313</id>
-        <link href="https://www.cna.com.tw/news/acn/202611180313.aspx"/>
-        <updated>2026-11-18T10:52:42.000Z</updated>
-        <summary type="html"><![CDATA[（中央社記者呂佳蓉台北18日電）國台辦今天針對無黨籍原住民立委高金素梅案聲稱，民進黨政府「炮製共諜案」是「政治迫害」。陸委會今天回應，台灣是民主法治國家，司法機關會依照具體證據做出判斷，中共對台從事間諜等工作是毋庸置疑的事實，不容狡辯。]]></summary>
-        <author>
-            <name>中央社即時新聞 兩岸透視</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[APEC幕後：施振榮談新王道　多方共贏契合台灣戰略]]></title>
-        <id>CNA/2026-11-18/202611180301</id>
-        <link href="https://www.cna.com.tw/news/acn/202611180301.aspx"/>
-        <updated>2026-11-18T10:22:15.000Z</updated>
-        <summary type="html"><![CDATA[（中央社記者李雅雯深圳18日電）APEC深圳峰會領袖代表施振榮行前談話時提到「台灣將帶著微笑曲線而來」。知情人士表示，施振榮從提出「微笑曲線」到「新王道」哲學，談的是多方共贏概念，這與台灣國際戰略吻合。]]></summary>
-        <author>
-            <name>中央社即時新聞 兩岸透視</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美中俄三方會晤前  習近平會普丁：雙方有互信的政治優勢]]></title>
-        <id>CNA/2026-11-18/202611180297</id>
-        <link href="https://www.cna.com.tw/news/acn/202611180297.aspx"/>
-        <updated>2026-11-18T10:17:07.000Z</updated>
-        <summary type="html"><![CDATA[（中央社記者呂佳蓉台北18日電）中國國家主席習近平今天與俄羅斯總統普丁在深圳會面。根據新華社報導，習近平說，中俄有相互信任的政治優勢，要做好現有合作；普丁則說，俄方願與中方加強「背靠背」戰略協作。]]></summary>
-        <author>
-            <name>中央社即時新聞 兩岸透視</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美國今年已10人死於麻疹 26年後失去「麻疹消除狀態」]]></title>
-        <id>https://www.bbc.com/zhongwen/articles/c5y4jmvxr9vyo/trad#2</id>
-        <link href="https://www.bbc.com/zhongwen/articles/c5y4jmvxr9vyo/trad?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-11-18T08:16:22.000Z</updated>
-        <summary type="html"><![CDATA[美國時隔26年失去麻疹消除狀態，今年病例達5400例、死亡10人，創1990年代以來新高。「疫苗懷疑論」持續遭到質疑。]]></summary>
         <author>
             <name>BBC Chinese</name>
         </author>
@@ -810,21 +1002,6 @@ Kenny Holston/The New York Times
 川普總統週一承認，財政部長貝森特與商務部長盧特尼克一直存在分歧，爭論的焦點是應該採取多嚴厲的措施堵住中國通過其他國家的數據中心獲取先進人工智慧晶片的漏洞。]]></summary>
         <author>
             <name>JONATHAN SWAN,MAGGIE HABERMAN,ANA SWANSON,SHAWN McCREESH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中加達成貿易協議進一步削減關稅，兩國關係升溫]]></title>
-        <id>https://cn.nytimes.com/world/20261118/carney-china-xi-trade-apec/zh-hant/</id>
-        <link href="https://cn.nytimes.com/world/20261118/carney-china-xi-trade-apec/zh-hant/?utm_source=RSS"/>
-        <updated>2026-11-18T01:25:24.000Z</updated>
-        <summary type="html"><![CDATA[協議以及中加兩國領導人展現出的友好關係與目前的加美關係形成鮮明對比。加拿大總理卡尼上任以來一直致力於使加拿大的經濟和政治關係多元化，減少對美國的依賴。
-
-                    
-Adrian Wyld/The Canadian Press, via Associated Press
-                    
-加拿大總理馬克·卡尼與中國領導人習近平週二在深圳會晤。]]></summary>
-        <author>
-            <name>IAN AUSTEN</name>
         </author>
     </entry>
     <entry>
@@ -921,26 +1098,6 @@ Doug Mills/The New York Times
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[中國以AI奇境接待各國領袖，但他們看不到的另一面是什麼？]]></title>
-        <id>https://www.bbc.com/zhongwen/articles/crgj360lnqv6o/trad#2</id>
-        <link href="https://www.bbc.com/zhongwen/articles/crgj360lnqv6o/trad?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-11-17T11:44:02.000Z</updated>
-        <summary type="html"><![CDATA[離開深圳充滿科技感的天際線後，你將會看到習近平治下中國所面臨的種種挑戰。]]></summary>
-        <author>
-            <name>BBC Chinese</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特朗普訪華之際 美國封堵中國公司在東南亞租用AI算力的「後門」]]></title>
-        <id>https://www.bbc.com/zhongwen/articles/cmpdwn010nyvo/trad#0</id>
-        <link href="https://www.bbc.com/zhongwen/articles/cmpdwn010nyvo/trad?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-11-17T11:37:12.000Z</updated>
-        <summary type="html"><![CDATA[在美國限制最先進英偉達芯片直接銷往中國的背景下，中國大型互聯網公司和AI實驗室逐漸轉向「只租算力、不買硬件」的模式。芯片部署在第三國數據中心，中國企業再通過互聯網遠程調用算力訓練模型，而無須把相關硬件運入中國。]]></summary>
-        <author>
-            <name>BBC Chinese</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[「藍白合」示範區：新竹市選情如何透露台灣第三勢力的未來？]]></title>
         <id>https://www.bbc.com/zhongwen/articles/cme3d27d7lnpo/trad#1</id>
         <link href="https://www.bbc.com/zhongwen/articles/cme3d27d7lnpo/trad?at_medium=RSS&amp;at_campaign=rss"/>
@@ -961,16 +1118,6 @@ Doug Mills/The New York Times
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[APEC深圳峰會：賴清德派施振榮出席 台灣參會空間再成焦點]]></title>
-        <id>https://www.bbc.com/zhongwen/articles/ck5y1g89jnnxo/trad#2</id>
-        <link href="https://www.bbc.com/zhongwen/articles/ck5y1g89jnnxo/trad?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-11-17T08:44:40.000Z</updated>
-        <summary type="html"><![CDATA[台灣試圖以企業家身分與科技優勢擴大能見度，中國則以原則框架維持主導權。APEC作為平台，或許能讓雙方同時在場，但仍難以消弭兩岸在全球外交參與的既有分歧。]]></summary>
-        <author>
-            <name>BBC Chinese</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[「讓黃仁勳回歸」運動：輝達駁斥、特朗普支持恢復其CEO職位]]></title>
         <id>https://www.bbc.com/zhongwen/articles/ck3rgq3l5yr1o/trad#4</id>
         <link href="https://www.bbc.com/zhongwen/articles/ck3rgq3l5yr1o/trad?at_medium=RSS&amp;at_campaign=rss"/>
@@ -981,53 +1128,8 @@ Doug Mills/The New York Times
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[卡尼再次訪華，中國會是加拿大擺脫美國依賴的答案嗎？]]></title>
-        <id>https://cn.nytimes.com/world/20261117/carney-china-xi-trump-putin-trade/zh-hant/</id>
-        <link href="https://cn.nytimes.com/world/20261117/carney-china-xi-trump-putin-trade/zh-hant/?utm_source=RSS"/>
-        <updated>2026-11-17T04:03:43.000Z</updated>
-        <summary type="html"><![CDATA[卡尼上任以來一直致力於推動加拿大經濟和政治多元化，減少對美國的依賴。專家表示，比起歐洲，亞洲將提供更大的經濟機遇。卡尼本週將在深圳再次與習近平會晤。
-
-                    
-Ian Austen/The New York Times
-                    
-加拿大總理馬克·卡尼週六在馬尼拉出席新聞發布會，他此行是為參加東南亞國家聯盟峰會。]]></summary>
-        <author>
-            <name>IAN AUSTEN</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[白宮內部對華政策分歧公開化，貝森特日趨鷹派]]></title>
-        <id>https://cn.nytimes.com/usa/20261117/bessent-lutnick-china/zh-hant/</id>
-        <link href="https://cn.nytimes.com/usa/20261117/bessent-lutnick-china/zh-hant/?utm_source=RSS"/>
-        <updated>2026-11-17T03:10:07.000Z</updated>
-        <summary type="html"><![CDATA[隨著關於中美人工智慧競賽以及中國人工智慧技術可能對美國經濟構成的風險的擔憂日益加劇，貝森特的立場變得更加鷹派。他與商務部長盧特尼克就此產生的摩擦也公開化。
-
-                    
-Haiyun Jiang for The New York Times
-                    
-財政部長史考特·貝森特（左）與商務部長霍華德·盧特尼克之間長期存在的矛盾最近因英偉達問題公開化。]]></summary>
-        <author>
-            <name>ALAN RAPPEPORT,ANA SWANSON</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[關於川普訪華及中美俄首腦會晤，你應該了解的]]></title>
-        <id>https://cn.nytimes.com/world/20261117/trump-asia-china-xi-putin/zh-hant/</id>
-        <link href="https://cn.nytimes.com/world/20261117/trump-asia-china-xi-putin/zh-hant/?utm_source=RSS"/>
-        <updated>2026-11-17T02:43:42.000Z</updated>
-        <summary type="html"><![CDATA[川普亞洲之行的重頭戲是在深圳與習近平及普丁會晤。這將是三位掌握全球最大核武庫的領導人首次坐在一起。預計他們將討論核擴散和伊朗問題，但不會談及黃仁勛事件。
-
-                    
-Andrei Bok/Reuters
-                    
-俄羅斯藝術家阿列克謝·謝爾吉延科創作的繪畫作品，描繪了美國、俄羅斯和中國的領導人。這幅畫於週四在俄羅斯聖彼得堡首次亮相。]]></summary>
-        <author>
-            <name>郭莉莉</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[羅伯·派汀森：《暮光之城》男主角如何成為007]]></title>
-        <id>https://www.bbc.com/zhongwen/articles/c893rgw9zrxqo/trad#2</id>
+        <id>https://www.bbc.com/zhongwen/articles/c893rgw9zrxqo/trad#7</id>
         <link href="https://www.bbc.com/zhongwen/articles/c893rgw9zrxqo/trad?at_medium=RSS&amp;at_campaign=rss"/>
         <updated>2026-11-17T02:38:11.000Z</updated>
         <summary type="html"><![CDATA[羅伯·派汀森（Robert Pattinson）早已在《暮光之城》系列、《蝙蝠俠》和《奧德賽》等電影，奠定了自己作為男主角、動作明星及演員的地位。如今，他接下詹姆士·龐德（James Bond；占士邦）一角，將使他的知名度更上一層樓。]]></summary>
@@ -1046,59 +1148,6 @@ Andrei Bok/Reuters
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[俄羅斯超級富豪們已經在設想一個「後普京時代」]]></title>
-        <id>https://www.bbc.com/zhongwen/articles/cmx27v835864o/trad#2</id>
-        <link href="https://www.bbc.com/zhongwen/articles/cmx27v835864o/trad?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-11-17T00:34:50.000Z</updated>
-        <summary type="html"><![CDATA[一些俄羅斯富豪渴望回到90年代的寡頭政治體制，當時商人掌握著權力。]]></summary>
-        <author>
-            <name>BBC Chinese</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黃仁勛女兒留任引發擔憂：脾氣暴躁，曾導致多名高管離職]]></title>
-        <id>https://cn.nytimes.com/business/20261117/nvidia-jensen-madison-huang/zh-hant/</id>
-        <link href="https://cn.nytimes.com/business/20261117/nvidia-jensen-madison-huang/zh-hant/?utm_source=RSS"/>
-        <updated>2026-11-16T18:32:26.000Z</updated>
-        <summary type="html"><![CDATA[黃敏珊此前是父親事實上的幕僚長，她脾氣火爆、作風強勢，英偉達員工稱有十多名關鍵高管因為不喜歡與她共事而離開公司。她繼續留任給臨時CEO帶來了直接挑戰。
-
-                    
-Maxim Shemetov/Reuters
-                    
-8月，英偉達產品營銷高級總監、黃仁勛之女黃敏珊在北京的2026年世界機器人大會上。]]></summary>
-        <author>
-            <name>KALLEY HUANG,TRIPP MICKLE,RYAN MAC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[川普的對華豪賭正適得其反]]></title>
-        <id>https://cn.nytimes.com/opinion/20261117/china-us-trump-asia-military/zh-hant/</id>
-        <link href="https://cn.nytimes.com/opinion/20261117/china-us-trump-asia-military/zh-hant/?utm_source=RSS"/>
-        <updated>2026-11-16T17:43:04.000Z</updated>
-        <summary type="html"><![CDATA[川普對北京一直抱有僥倖心理，但他的妥協做法讓中國更加肆無忌憚，增加了爆發軍事危機的風險。期中選舉為改變現狀提供了關鍵契機。
-
-                    
-Damon Winter/The New York Times]]></summary>
-        <author>
-            <name>MIRA RAPP-HOOPER,ELY RATNER</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10個數字，讓你更了解亞洲]]></title>
-        <id>https://cn.nytimes.com/asia-pacific/20261117/asean-trade-security-technology/zh-hant/</id>
-        <link href="https://cn.nytimes.com/asia-pacific/20261117/asean-trade-security-technology/zh-hant/?utm_source=RSS"/>
-        <updated>2026-11-16T17:05:55.000Z</updated>
-        <summary type="html"><![CDATA[中美正在亞洲爭奪影響力，但亞洲不僅僅是大國競爭的舞台。本文總結的數字可以讓我們了解該地區對全球經濟的貢獻，以及各國如何日益緊密地聯繫在一起，共同塑造世界。
-
-                    
-Pool photo by Ted Aljibe
-                    
-週一，各國領導人在馬尼拉舉行的東盟峰會上合影。]]></summary>
-        <author>
-            <name>DAMIEN CAVE</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[里長赴中旅遊：台灣《反滲透法》為何「查辦多、定罪少」？]]></title>
         <id>https://www.bbc.com/zhongwen/articles/cr7428z1wx74o/trad#2</id>
         <link href="https://www.bbc.com/zhongwen/articles/cr7428z1wx74o/trad?at_medium=RSS&amp;at_campaign=rss"/>
@@ -1110,7 +1159,7 @@ Pool photo by Ted Aljibe
     </entry>
     <entry>
         <title type="html"><![CDATA[里長赴中旅遊受關注：為何北京鎖定里長？里長怎麼看？]]></title>
-        <id>https://www.bbc.com/zhongwen/articles/cm3elx8gxdn3o/trad#2</id>
+        <id>https://www.bbc.com/zhongwen/articles/cm3elx8gxdn3o/trad#6</id>
         <link href="https://www.bbc.com/zhongwen/articles/cm3elx8gxdn3o/trad?at_medium=RSS&amp;at_campaign=rss"/>
         <updated>2026-11-16T09:03:22.000Z</updated>
         <summary type="html"><![CDATA[台灣地方選舉即將到來，近年北京對台統戰工作重心從政商菁英轉向基層社會，而里長作為選舉期間的地方「樁腳」，就成為了北京的重要接觸對象。]]></summary>
@@ -1119,7 +1168,7 @@ Pool photo by Ted Aljibe
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[無法複製的奇蹟？深圳如何從改革開放樣板變為「中國矽谷」]]></title>
+        <title type="html"><![CDATA[無法複製的奇蹟？深圳如何從改革開放樣板到「中國矽谷」]]></title>
         <id>https://www.bbc.com/zhongwen/articles/cmg46q2nl5n2o/trad#3</id>
         <link href="https://www.bbc.com/zhongwen/articles/cmg46q2nl5n2o/trad?at_medium=RSS&amp;at_campaign=rss"/>
         <updated>2026-11-15T18:21:42.000Z</updated>
@@ -1129,7 +1178,7 @@ Pool photo by Ted Aljibe
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[台灣村里長：最基層的民選公職，如何牽動選舉動員與兩岸關係？]]></title>
+        <title type="html"><![CDATA[台灣村里長：最基層的民選公職如何牽動兩岸關係？]]></title>
         <id>https://www.bbc.com/zhongwen/articles/c6kg7mdzj12no/trad#3</id>
         <link href="https://www.bbc.com/zhongwen/articles/c6kg7mdzj12no/trad?at_medium=RSS&amp;at_campaign=rss"/>
         <updated>2026-11-15T04:28:35.000Z</updated>
@@ -1219,26 +1268,6 @@ Pool photo by Ted Aljibe
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[認識史蒂芬妮·凱斯——首位在南極洲跑完100英里的女性]]></title>
-        <id>https://www.bbc.com/zhongwen/articles/cmg46yzz5vrxo/trad#7</id>
-        <link href="https://www.bbc.com/zhongwen/articles/cmg46yzz5vrxo/trad?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-11-11T10:22:45.000Z</updated>
-        <summary type="html"><![CDATA[史蒂芬妮·凱斯創造了歷史，成為第一個完成南極洲100英里極限賽的女性。]]></summary>
-        <author>
-            <name>BBC Chinese</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「台灣之光」形象重挫？民眾如何看黃仁勳婚外情風波]]></title>
-        <id>https://www.bbc.com/zhongwen/articles/cm0e0ey0qx7yo/trad#3</id>
-        <link href="https://www.bbc.com/zhongwen/articles/cm0e0ey0qx7yo/trad?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-11-11T04:28:59.000Z</updated>
-        <summary type="html"><![CDATA[輝達（英偉達）執行長黃仁勳捲入婚外情風波，部分美國媒體引述情報官員指，涉事女子與中國情報系統有關。BBC中文在台北街頭採訪民眾，了解他們如何看待這場仍在持續發醇的風波。]]></summary>
-        <author>
-            <name>BBC Chinese</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[黃仁勳曾告訴我，那些關於中國與國家安全的問題]]></title>
         <id>https://www.bbc.com/zhongwen/articles/cm36gnenlj59o/trad#4</id>
         <link href="https://www.bbc.com/zhongwen/articles/cm36gnenlj59o/trad?at_medium=RSS&amp;at_campaign=rss"/>
@@ -1279,16 +1308,6 @@ Pool photo by Ted Aljibe
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[美國中期選舉掀「藍色浪潮」 將怎樣影響世界]]></title>
-        <id>https://www.bbc.com/zhongwen/watch/c5vgjjr77wvxo/trad#3</id>
-        <link href="https://www.bbc.com/zhongwen/watch/c5vgjjr77wvxo/trad?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-11-06T14:58:15.000Z</updated>
-        <summary type="html"><![CDATA[在剛剛結束的美國中期選舉中，多個支持共和黨的州「翻藍」，民主黨奪得國會參眾兩院控制權。這次選舉結果為何具有重大意義？又將如何影響美國與世界其他國家的關係？]]></summary>
-        <author>
-            <name>BBC Chinese</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[「短睡眠基因」：為何有人只需睡四小時？]]></title>
         <id>https://www.bbc.com/zhongwen/articles/cm0j0341z50qo/trad#7</id>
         <link href="https://www.bbc.com/zhongwen/articles/cm0j0341z50qo/trad?at_medium=RSS&amp;at_campaign=rss"/>
@@ -1304,16 +1323,6 @@ Pool photo by Ted Aljibe
         <link href="https://www.bbc.com/zhongwen/articles/c6gm0rdzm0rdo/trad?at_medium=RSS&amp;at_campaign=rss"/>
         <updated>2026-11-06T00:21:23.000Z</updated>
         <summary type="html"><![CDATA[最近幾週，中國輿論場接連出現多宗被貼上「辱華」標籤的爭議事件：台灣藝人蔡康永、日本電視劇《VIVANT》以及法國球星姆巴佩。三宗事件看似性質相近，但官方反應與輿論熱度卻明顯不同，多位分析人士對BBC中文指出：這些差異背後是當局對於每個事件的定性並不相同。]]></summary>
-        <author>
-            <name>BBC Chinese</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美智庫解析「技術民族主義」下的中俄軍工合作細節與限度]]></title>
-        <id>https://www.bbc.com/zhongwen/articles/c977pge1jkmdo/trad#6</id>
-        <link href="https://www.bbc.com/zhongwen/articles/c977pge1jkmdo/trad?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-11-04T00:23:34.000Z</updated>
-        <summary type="html"><![CDATA[深圳APEC前夕，中俄「無上限」合有任何挑戰嗎？北京對烏克蘭停火興趣如何？在APEC中美俄三方領袖會面能有所突破？]]></summary>
         <author>
             <name>BBC Chinese</name>
         </author>

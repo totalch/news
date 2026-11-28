@@ -6,22 +6,62 @@
       "siteUrl": "https://www.bbc.com/zhongwen/trad",
       "articles": [
         {
+          "id": "https://www.bbc.com/zhongwen/articles/cqrmgenjvkgxo/trad#0",
+          "author": null,
+          "description": "China's immense clout now also has the flex of soft power. Critics and dissidents say their voices are being drowned out.",
+          "link": "https://www.bbc.com/zhongwen/articles/cqrmgenjvkgxo/trad?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-11-28T06:39:08.000Z",
+          "wordCount": 2294,
+          "title": "中國崛起的背後：異議人士稱他們的聲音正被淹沒",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/c091/live/9ead0190-ea44-11f1-9fc4-ef897a334b75.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/zhongwen/live/c60evlqlpx32t/trad#0",
+          "author": null,
+          "description": "台灣1965萬選民將票選縣市長、地方議員、鄉鎮村里長等將近1.11萬名公職人員，同時公投決定日後能源政策。",
+          "link": "https://www.bbc.com/zhongwen/live/c60evlqlpx32t/trad?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-11-28T00:00:00.000Z",
+          "wordCount": 2725,
+          "title": "台灣「九合一」選舉開始投票 核電政策公投同步舉行",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/7a64/live/b45cee90-eadc-11f1-81da-2ff518b71d00.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/zhongwen/articles/cwlymzm5mnxyo/trad#1",
+          "author": null,
+          "description": "這場選舉將影響藍綠政治版圖，六都選情備受關注，包括台北、新北、桃園、台中、台南、高雄，BBC中文整理各地候選人的簡介。",
+          "link": "https://www.bbc.com/zhongwen/articles/cwlymzm5mnxyo/trad?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-11-27T16:04:01.000Z",
+          "wordCount": 6451,
+          "title": "台灣「九合一」選舉：六都市長候選人簡介",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/6f3d/live/717c67f0-e950-11f1-99b6-a35a62fa4264.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/zhongwen/articles/cq62p0n4er0wo/trad#0",
+          "author": null,
+          "description": "黃仁勳戲劇性地重返英偉達執行長職位，引發亞洲股市劇烈波動，也暴露出區內經濟體高度依賴AI產業及英偉達所帶來的風險。",
+          "link": "https://www.bbc.com/zhongwen/articles/cq62p0n4er0wo/trad?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-11-27T07:40:38.000Z",
+          "wordCount": 2459,
+          "title": "押注英偉達發展AI，亞洲在黃仁勳復職後前景如何？",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/2c76/live/9f54a560-e956-11f1-a629-63e812fa871f.jpg"
+        },
+        {
           "id": "https://www.bbc.com/zhongwen/articles/crvg238j0g47o/trad#2",
           "author": null,
           "description": "四年前，一艘太空船蓄意撞向這顆小行星，使其表面形貌發生巨大變化。",
           "link": "https://www.bbc.com/zhongwen/articles/crvg238j0g47o/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-11-27T06:16:13.000Z",
-          "wordCount": 1947,
+          "wordCount": 2091,
           "title": "小行星撞地球有解嗎？科學家揭示首次行星防禦實驗成果",
           "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/8562/live/1f8d5d00-e8ec-11f1-a094-5fdc692f3e33.jpg"
         },
         {
-          "id": "https://www.bbc.com/zhongwen/articles/cx053e8yr348o/trad#0",
+          "id": "https://www.bbc.com/zhongwen/articles/cx053e8yr348o/trad#2",
           "author": null,
           "description": "台灣選舉傳統中，素有「決戰中台灣」一稱。江啟臣若當選，盧路線將得到選民加持，其在國民黨內的聲望也有望進一步升高。",
           "link": "https://www.bbc.com/zhongwen/articles/cx053e8yr348o/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-11-27T05:47:37.000Z",
-          "wordCount": 1704,
+          "wordCount": 1790,
           "title": "台中市選戰：江啟臣對決何欣純，盧秀燕問鼎總統前哨戰",
           "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/ed63/live/743f96d0-ea25-11f1-a968-f30728b956c0.jpg"
         },
@@ -31,19 +71,29 @@
           "description": "面對特朗普首輪關稅攻勢，世界各國已調整貿易流向，繞過美國的關稅壁壘。如今，各國更將目光投向特朗普卸任後的時代。",
           "link": "https://www.bbc.com/zhongwen/articles/c3j4rw1r4p29o/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-11-27T04:22:48.000Z",
-          "wordCount": 1970,
+          "wordCount": 2054,
           "title": "為何特朗普新一輪關稅的威脅不如以往？",
           "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/a44e/live/be7b3450-e9af-11f1-859a-37130cd3a1d7.jpg"
         },
         {
-          "id": "https://www.bbc.com/zhongwen/articles/c3qj5y7lwrn9o/trad#0",
+          "id": "https://www.bbc.com/zhongwen/articles/c3qj5y7lwrn9o/trad#2",
           "author": null,
           "description": "美國對伊朗實施海上封鎖，迫使長期依賴廉價伊朗石油的中國獨立煉油廠轉向伊拉克等產油國，面臨成本上升和經營虧損的壓力。即使封鎖解除，伊朗能否重新贏得這些中國買家，仍取決於油價及美國的制裁政策。",
           "link": "https://www.bbc.com/zhongwen/articles/c3qj5y7lwrn9o/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-11-27T03:35:06.000Z",
-          "wordCount": 2076,
+          "wordCount": 2218,
           "title": "失去伊朗石油供應，中國小型煉油廠如何應對？",
           "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/832e/live/a99e84b0-e789-11f1-a094-5fdc692f3e33.png"
+        },
+        {
+          "id": "https://www.bbc.com/zhongwen/articles/c6jre1yvd308o/trad#3",
+          "author": null,
+          "description": "大火一週年，官方未辦悼念活動，港人哀思未減。民眾前往火場附近的公園悼念，他們獻花、流淚、默站。人潮從日間持續到晚上，現場化作一片花海。",
+          "link": "https://www.bbc.com/zhongwen/articles/c6jre1yvd308o/trad?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-11-26T17:39:03.000Z",
+          "wordCount": 1154,
+          "title": "官方未辦宏福苑大火週年悼念，港人如何紀念傷痛？",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/7ac4/live/b4498b20-e9bf-11f1-99b6-a35a62fa4264.jpg"
         },
         {
           "id": "https://www.bbc.com/zhongwen/articles/cwz0kymdzdd8o/trad#1",
@@ -51,39 +101,9 @@
           "description": "這是台北市自1994年恢復市長直選以來，首次有民進黨參選人不舉辦選前之夜。有政治學者向BBC中文分析，沈伯洋取消活動可為交通爭議「止血」，但同時窒礙了綠營凝聚聲勢。",
           "link": "https://www.bbc.com/zhongwen/articles/cwz0kymdzdd8o/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-11-26T13:41:15.000Z",
-          "wordCount": 2243,
+          "wordCount": 2329,
           "title": "九合一選前反轉：沈伯洋破天荒取消台北「選前之夜」，如何影響選情？",
           "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/7fb4/live/8bdc5170-e985-11f1-99b6-a35a62fa4264.jpg"
-        },
-        {
-          "id": "https://www.bbc.com/zhongwen/articles/cwlymzm5mnxyo/trad#1",
-          "author": null,
-          "description": "這場選舉將影響藍綠政治版圖，六都選情備受關注，包括台北、新北、桃園、台中、台南、高雄，BBC中文整理各地候選人的簡介。",
-          "link": "https://www.bbc.com/zhongwen/articles/cwlymzm5mnxyo/trad?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-11-26T11:11:57.000Z",
-          "wordCount": 6336,
-          "title": "台灣「九合一」選舉：六都市長候選人簡介",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/6f3d/live/717c67f0-e950-11f1-99b6-a35a62fa4264.jpg"
-        },
-        {
-          "id": "https://www.bbc.com/zhongwen/articles/cmx29vxzgj25o/trad#1",
-          "author": null,
-          "description": "有學者指出，這並非「中國因素」消失，而是地方選舉本質以市政民生為主，民進黨也吸取去年大罷免的教訓，戰略性擱置了統獨議題，以此拉攏中間選民。",
-          "link": "https://www.bbc.com/zhongwen/articles/cmx29vxzgj25o/trad?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-11-26T09:38:20.000Z",
-          "wordCount": 2112,
-          "title": "台灣九合一選舉：從「洋流」看民進黨戰略性擱置「抗中保台」牌",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/a056/live/5ce6dab0-e8af-11f1-99b6-a35a62fa4264.jpg"
-        },
-        {
-          "id": "https://www.bbc.com/zhongwen/articles/cmewv0vkgwplo/trad#2",
-          "author": null,
-          "description": "目前，近四成女性（38%）與超過四分之一男性（28%）表示從未有過性行為；在1990、2000與2010年的調查中，這一比例約為 五分之一。",
-          "link": "https://www.bbc.com/zhongwen/articles/cmewv0vkgwplo/trad?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-11-26T09:11:54.000Z",
-          "wordCount": 2158,
-          "title": "英國性調查：年輕人中五成女性、九成男性觀看色情片 三分之一未有性經驗",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/1c04/live/270d0cc0-e8b4-11f1-99a1-253766e7ad8b.jpg"
         },
         {
           "id": "https://www.bbc.com/zhongwen/articles/c9ly484v6pdzo/trad#2",
@@ -91,27 +111,17 @@
           "description": "白宮稱，新關稅針對的是貿易夥伴的「結構性產能過剩」。經濟學家則警告，關稅由進口商品的美國企業支付，成本若轉嫁給消費者，可能推高物價並抑制全球貿易。",
           "link": "https://www.bbc.com/zhongwen/articles/c9ly484v6pdzo/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-11-26T08:34:56.000Z",
-          "wordCount": 2088,
+          "wordCount": 2233,
           "title": "特朗普深圳會晤一週後再揮關稅大棒 對華稅率可達40%",
           "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/301b/live/8bb1af10-e971-11f1-92c2-d7bfa08091ec.jpg"
         },
         {
-          "id": "https://www.bbc.com/zhongwen/articles/cmq8lz8ddyg9o/trad#2",
-          "author": null,
-          "description": "華為在美被判10項罪成，包括竊取商業機密與銀行欺詐，但敲詐勒索組織罪無罪。",
-          "link": "https://www.bbc.com/zhongwen/articles/cmq8lz8ddyg9o/trad?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-11-26T07:35:10.000Z",
-          "wordCount": 2117,
-          "title": "美國法院裁定：中國科技巨頭華為，共謀竊取商業機密罪名成立",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/c0cb/live/da83bf80-e849-11f1-aa88-031e8213533d.jpg"
-        },
-        {
-          "id": "https://www.bbc.com/zhongwen/articles/cw8dv46pv125o/trad#0",
+          "id": "https://www.bbc.com/zhongwen/articles/cw8dv46pv125o/trad#2",
           "author": null,
           "description": "宏福苑大火一周年前夕，港府官員稱「政府絕對容許」合法活動，但有遺屬表示悼念活動受壓，也有新聞工作者向BBC中文透露，相關周年報導在製作完成後突然「被抽起」。",
           "link": "https://www.bbc.com/zhongwen/articles/cw8dv46pv125o/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-11-26T05:41:40.000Z",
-          "wordCount": 2344,
+          "wordCount": 2489,
           "title": "宏福苑大火一周年：居民受壓、媒體噤聲，為何悼念變得小心翼翼？",
           "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/b501/live/4704feb0-e80b-11f1-99a1-253766e7ad8b.jpg"
         },
@@ -121,7 +131,7 @@
           "description": "白紙運動四年後，BBC中文對話多位上海酒吧、咖啡店老闆和昔日常客、白紙運動親歷者，在他們眼裡，青年空間是如何在四年裡逐漸消失的。",
           "link": "https://www.bbc.com/zhongwen/articles/cwe851kg1kj1o/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-11-26T00:29:38.000Z",
-          "wordCount": 1874,
+          "wordCount": 2019,
           "title": "白紙運動四年之後，上海青年公共空間去哪兒了？",
           "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/3706/live/9cf86d60-e7cb-11f1-b4f7-b50a198373f6.jpg"
         },
@@ -131,7 +141,7 @@
           "description": "一波與中國有關的帳號用AI生成影片，攻擊台灣執政黨關鍵人物，包括總統賴清德和台北市長候選人沈伯洋。",
           "link": "https://www.bbc.com/zhongwen/articles/c6rmgvkp322xo/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-11-25T11:53:06.000Z",
-          "wordCount": 2122,
+          "wordCount": 2268,
           "title": "BBC事實查核：與中國有關帳號用AI生成影攻擊台灣選舉候選人",
           "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/73d1/live/fd148350-e825-11f1-99a1-253766e7ad8b.jpg"
         },
@@ -141,19 +151,9 @@
           "description": "中國宣佈上海市委書記陳吉寧因「涉嫌嚴重違紀違法」，正接受當局的調查。這名此前仕途光明的官員原本有望進入政治局常委會，甚至可能成為總理接班人。",
           "link": "https://www.bbc.com/zhongwen/articles/c83vgd1l5erlo/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-11-25T11:14:10.000Z",
-          "wordCount": 1147,
+          "wordCount": 1151,
           "title": "上海市委書記陳吉寧被查 中共高層明日之星意外隕落",
           "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/1c31/live/36dab0f0-e8c1-11f1-99b6-a35a62fa4264.jpg"
-        },
-        {
-          "id": "https://www.bbc.com/zhongwen/articles/cm9w91y0pge7o/trad#2",
-          "author": null,
-          "description": "這次任務對航天員阿里而言，這是巴基斯坦的榮耀時刻；對中國而言，則是其與美國爭奪太空主導地位競賽中的又一步進展。",
-          "link": "https://www.bbc.com/zhongwen/articles/cm9w91y0pge7o/trad?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-11-25T09:44:18.000Z",
-          "wordCount": 1991,
-          "title": "神舟二十四號成功發射 首位巴基斯坦航天員登中國「天宮」意味什麼？",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/1ba3/live/30b4f710-e8a5-11f1-99a1-253766e7ad8b.jpg"
         },
         {
           "id": "https://www.bbc.com/zhongwen/articles/c3j4r274lj82o/trad#2",
@@ -161,7 +161,7 @@
           "description": "對許多家庭來說，道歉只是「最低消費」，他們仍在等一個完整的答案。BBC中文接觸了多位遇難者家屬，記錄他們怎樣度過這一年。",
           "link": "https://www.bbc.com/zhongwen/articles/c3j4r274lj82o/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-11-25T03:21:30.000Z",
-          "wordCount": 2047,
+          "wordCount": 2192,
           "title": "宏福苑大火一週年：「這條刺永遠都在」，遺屬在傷痛中尋找答案",
           "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/56ac/live/daaf9c90-e86c-11f1-a80a-1f378de16ace.jpg"
         },
@@ -171,7 +171,7 @@
           "description": "香港宏福苑大火一周年，BBC中文紀錄多位難屬如何走過災後一年。這場香港數十年以最致命災難奪去168條性命，1984戶失去家園，包括喪失丈夫與爸爸的Christy一家與父母雙亡的蘇先生。一年來，災民一邊重建新生活，一邊等待調查報告、申請法律援助，一邊向年幼孩子解釋死亡。調查結論公布後，官員辭職，數十人被捕或起訴。但對許多仍在傷痛中家庭來說，一切遠遠未及完結。",
           "link": "https://www.bbc.com/zhongwen/articles/cqvg261dkxp7o/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-11-24T23:49:34.000Z",
-          "wordCount": 1171,
+          "wordCount": 1175,
           "title": "香港宏福苑大火一週年：災後餘生，家在何方？",
           "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/0dd6/live/7bfeb2f0-e860-11f1-99b6-a35a62fa4264.jpg"
         },
@@ -181,7 +181,7 @@
           "description": "陳吉寧落馬的時點尤其敏感：距離二十一大換屆不到一年，他本是外界觀察下屆常委佈局的關鍵人物，被查前僅僅六天仍在公開調研。",
           "link": "https://www.bbc.com/zhongwen/articles/ck7v27vn9659o/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-11-24T14:54:54.000Z",
-          "wordCount": 2020,
+          "wordCount": 2106,
           "title": "陳吉寧：「清華系」失勢、「上海跳板」失靈與政治局委員落馬",
           "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/d057/live/8d390820-e80d-11f1-ab42-55d8d8278025.jpg"
         },
@@ -191,7 +191,7 @@
           "description": "輝達（Nvidia）共同創辦人黃仁勳辭職僅11天後突然重返公司，帶動輝達股價大幅反彈。董事會此前曾表明無意讓他復職。然而特朗普聲稱曾親自出面斡旋，促成黃仁勳本次回歸。這場復職風波也凸顯了科技巨頭與政治權力之間的複雜關係。",
           "link": "https://www.bbc.com/zhongwen/articles/cj5y1xdgv0x7o/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-11-24T09:56:39.000Z",
-          "wordCount": 1195,
+          "wordCount": 1199,
           "title": "黃仁勳回歸輝達 特朗普稱曾出手斡旋",
           "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/5058/live/4aef4820-e7d2-11f1-a094-5fdc692f3e33.jpg"
         },
@@ -201,7 +201,7 @@
           "description": "從實驗室試驗到終身的安全監測，疫苗在提供給民眾前後，都會經過多重檢驗。",
           "link": "https://www.bbc.com/zhongwen/articles/c6qj5772kl0go/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-11-24T00:27:20.000Z",
-          "wordCount": 2110,
+          "wordCount": 2255,
           "title": "我們如何知道疫苗安全？它們是如何經過測試？",
           "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/34df/live/e4f10aa0-e4e2-11f1-99b6-a35a62fa4264.jpg"
         },
@@ -211,7 +211,7 @@
           "description": "Anthropic公司或許已解決重大數學難題：黎曼猜想",
           "link": "https://www.bbc.com/zhongwen/articles/cwe85gr487dno/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-11-23T00:10:59.000Z",
-          "wordCount": 1993,
+          "wordCount": 2138,
           "title": "Anthropic公司或許已解決重大數學難題：黎曼猜想",
           "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/78a0/live/a0688a80-e531-11f1-99b6-a35a62fa4264.jpg"
         },
@@ -221,7 +221,7 @@
           "description": "父母可能會因為孩子撒謊而生氣，但專家解釋說，這是孩子人格成長的過程",
           "link": "https://www.bbc.com/zhongwen/articles/crvg2lyq7dxvo/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-11-23T00:10:13.000Z",
-          "wordCount": 2069,
+          "wordCount": 2214,
           "title": "你的孩子會說謊嗎？這或許並非壞事",
           "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/c771/live/6eeb3600-e3cf-11f1-a094-5fdc692f3e33.jpg"
         },
@@ -231,7 +231,7 @@
           "description": "說唱歌手出身的尼泊爾新總理沙哈首訪印度，盼重啟關係並爭取山洪重建援助，但邊界爭議與經驗不足成考驗",
           "link": "https://www.bbc.com/zhongwen/articles/c64gn9jl5lveo/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-11-23T00:09:54.000Z",
-          "wordCount": 2141,
+          "wordCount": 2286,
           "title": "說唱歌手出身尼泊爾新總理首訪印度：如何平衡對華關係",
           "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/6ce4/live/0cd0ed60-e3e9-11f1-a16c-7de3762c094b.jpg"
         },
@@ -241,7 +241,7 @@
           "description": "週四美國、中國和俄羅斯領導人的會晤將為普京（普丁）提供一個重要的舞台——但這並不會讓他離贏得烏克蘭戰爭更近一步。",
           "link": "https://www.bbc.com/zhongwen/articles/cq702kdw845ro/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-11-22T03:46:29.000Z",
-          "wordCount": 2157,
+          "wordCount": 2302,
           "title": "APEC上與習近平、特朗普歷史性會晤，對普京是一場重大勝利",
           "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/17b2/live/72c78770-e36f-11f1-a094-5fdc692f3e33.jpg"
         },
@@ -251,19 +251,9 @@
           "description": "BBC記者從深圳帶你回顧這場中美俄「三巨頭」峰會的台前幕後。",
           "link": "https://www.bbc.com/zhongwen/articles/cmn0d4pnrj31o/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-11-20T16:16:46.000Z",
-          "wordCount": 1118,
+          "wordCount": 1122,
           "title": "中美俄「三巨頭」會晤的台前幕後",
           "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/31c4/live/230c4ca0-e5a1-11f1-99b6-a35a62fa4264.jpg"
-        },
-        {
-          "id": "https://www.bbc.com/zhongwen/articles/cmp3vyl0x1x6o/trad#3",
-          "author": null,
-          "description": "11月28日，台灣將舉行「九合一」地方選舉。BBC中文走訪台北、新北與高雄三大關鍵戰場，解析藍綠激戰、中間選民崛起，以及中國因素對選情的影響。這場選舉不只關乎地方治理，也可能為2028年總統大選定下基調。",
-          "link": "https://www.bbc.com/zhongwen/articles/cmp3vyl0x1x6o/trad?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-11-20T15:55:24.000Z",
-          "wordCount": 1188,
-          "title": "台灣「九合一」選舉：有哪些看點？藍綠勝負如何影響2028大選佈局？",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/a036/live/c9da6df0-e4f2-11f1-a094-5fdc692f3e33.jpg"
         },
         {
           "id": "https://www.bbc.com/zhongwen/articles/cxq6e216p7ylo/trad#6",
@@ -271,7 +261,7 @@
           "description": "香港教育局提出小學二年級學生應該初步掌握以「漢語拼音輸入法」在電腦上輸入中文。打字方式的改變，會如何影響下一代學習語言？",
           "link": "https://www.bbc.com/zhongwen/articles/cxq6e216p7ylo/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-11-20T06:12:18.000Z",
-          "wordCount": 1997,
+          "wordCount": 2142,
           "title": "從倉頡換成漢語拼音：電腦輸入法會影響下一代學習中文嗎？",
           "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/7c0d/live/e9fc49e0-e4a8-11f1-a094-5fdc692f3e33.jpg"
         },
@@ -281,7 +271,7 @@
           "description": "會後發表的中俄美元首和平宣言顯示，三國領導人承諾就「減少核風險、防止核擴散」展開對話，並就聯合國改革、能源穩定和國際刑事法院管轄權等議題達成四點共識。",
           "link": "https://www.bbc.com/zhongwen/articles/c38x04eppnpdo/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-11-19T12:22:04.000Z",
-          "wordCount": 1931,
+          "wordCount": 2076,
           "title": "中美俄元首峰會：從烏克蘭、伊朗、和平宣言到承諾核對話",
           "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/1b0f/live/68aa4e30-e40f-11f1-b37c-b3a71d7200af.jpg"
         },
@@ -291,7 +281,7 @@
           "description": "「他們能坐下來，就說明這個世界還沒有到第一次或第二次世界大戰那個狀況。」香港科技大學榮休教授丁學良對BBC說。",
           "link": "https://www.bbc.com/zhongwen/articles/cvglr9r243x6o/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-11-19T00:11:57.000Z",
-          "wordCount": 1945,
+          "wordCount": 2090,
           "title": "中美俄「三巨頭」坐在了一起，世界正滑向大國共管嗎？",
           "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/ace6/live/728fbf50-e353-11f1-acd4-25eaaa5def63.jpg"
         },
@@ -301,7 +291,7 @@
           "description": "運動物理治療師珍妮薇芙·陶亞（Genevieve Tawiah）分享了她護理關節的秘訣；關節問題佔急診就診量的 5%。",
           "link": "https://www.bbc.com/zhongwen/articles/cwj05r347d0lo/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-11-18T00:29:38.000Z",
-          "wordCount": 2645,
+          "wordCount": 2790,
           "title": "身體最常受傷、卻很少人會刻意鍛鍊的部位：腳踝",
           "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/14f3/live/2e24a220-e0f8-11f1-97b9-9110abfffc70.jpg"
         },
@@ -311,19 +301,9 @@
           "description": "柯志恩以「知識藍」的姿態拉攏中間選民，支持度大幅追貼深耕高雄20年的賴瑞隆，選情咬緊。",
           "link": "https://www.bbc.com/zhongwen/articles/c6n4ex4y9837o/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-11-17T16:25:49.000Z",
-          "wordCount": 1868,
+          "wordCount": 2013,
           "title": "高雄選戰「知識藍」對決「新潮流」，國民黨能複製「韓流」嗎？",
           "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/df33/live/318af0f0-e2a0-11f1-99a1-253766e7ad8b.jpg"
-        },
-        {
-          "id": "https://www.bbc.com/zhongwen/articles/cme3d27d7lnpo/trad#1",
-          "author": null,
-          "description": "新竹市是民眾黨此前唯一贏得執政權的縣市，現任市長高虹安尋求連任，她這次雖已退出民眾黨、改以無黨籍身分參選，但學者指出其選情不僅將影響雙方未來合作模式能否延續，也可能牽動2028年全國大選的政治布局。",
-          "link": "https://www.bbc.com/zhongwen/articles/cme3d27d7lnpo/trad?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-11-17T09:49:49.000Z",
-          "wordCount": 2091,
-          "title": "「藍白合」示範區：新竹市選情如何透露台灣第三勢力的未來？",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/b97f/live/e9e2d1d0-e260-11f1-900c-895604014268.jpg"
         },
         {
           "id": "https://www.bbc.com/zhongwen/articles/c893rgw9zrxqo/trad#7",
@@ -331,7 +311,7 @@
           "description": "羅伯·派汀森（Robert Pattinson）早已在《暮光之城》系列、《蝙蝠俠》和《奧德賽》等電影，奠定了自己作為男主角、動作明星及演員的地位。如今，他接下詹姆士·龐德（James Bond；占士邦）一角，將使他的知名度更上一層樓。",
           "link": "https://www.bbc.com/zhongwen/articles/c893rgw9zrxqo/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-11-17T02:38:11.000Z",
-          "wordCount": 2335,
+          "wordCount": 2480,
           "title": "羅伯·派汀森：《暮光之城》男主角如何成為007",
           "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/5f95/live/31a7c6d0-e1e7-11f1-9f14-b33806cfd783.jpg"
         },
@@ -341,7 +321,7 @@
           "description": "台灣地方選舉即將到來，近年北京對台統戰工作重心從政商菁英轉向基層社會，而里長作為選舉期間的地方「樁腳」，就成為了北京的重要接觸對象。",
           "link": "https://www.bbc.com/zhongwen/articles/cm3elx8gxdn3o/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-11-16T09:03:22.000Z",
-          "wordCount": 2092,
+          "wordCount": 2237,
           "title": "里長赴中旅遊受關注：為何北京鎖定里長？里長怎麼看？",
           "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/7e59/live/86a92b40-d75d-11f1-b441-2b33b063138f.jpg"
         },
@@ -351,7 +331,7 @@
           "description": "台灣在過去七年間，幾乎每年都有大型選舉、罷免或公投。有學者形容台灣政治人物常處於「選舉模式」，在面對不同議題時往往急於回應。",
           "link": "https://www.bbc.com/zhongwen/articles/c63egjkzqpz2o/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-11-13T10:39:06.000Z",
-          "wordCount": 2256,
+          "wordCount": 2401,
           "title": "九合一前夕：台灣幾乎年年選舉，會引起「投票疲勞」嗎？",
           "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/7a49/live/c76f08c0-dcda-11f1-a8e1-e3454837ffc6.jpg"
         },
@@ -361,7 +341,7 @@
           "description": "黃仁勳光速跌落神壇的事件，讓台灣社會對他的崇拜、政治對他的政績綁定，以及產業對他個人的依賴重新校準。",
           "link": "https://www.bbc.com/zhongwen/articles/cmn80j39wq06o/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-11-13T09:51:11.000Z",
-          "wordCount": 2247,
+          "wordCount": 2392,
           "title": "「台灣乾爹」光環崩塌：黃仁勳事件如何震動產業、政治與社會？",
           "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/06bc/live/b968be70-df3b-11f1-b441-2b33b063138f.jpg"
         },
@@ -381,7 +361,7 @@
           "description": "從失禁到長期疼痛，數以百萬計的女性在分娩數十年後仍然飽受後遺症困擾。",
           "link": "https://www.bbc.com/zhongwen/articles/cwr7grvx00yxo/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-11-12T08:33:39.000Z",
-          "wordCount": 2096,
+          "wordCount": 2241,
           "title": "「你甚至不會告訴密友」：分娩後遺症，為何多年後仍揮之不去？",
           "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/ce3f/live/799f0070-dd7d-11f1-a701-fddedf244c16.jpg"
         },
@@ -391,7 +371,7 @@
           "description": "中美之間的博弈可能會對能源成本產生重大影響，但誰會最終獲勝？",
           "link": "https://www.bbc.com/zhongwen/articles/cmvg2er51z1wo/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-11-12T01:45:18.000Z",
-          "wordCount": 2130,
+          "wordCount": 2275,
           "title": "中美能源大戰如何影響你的帳單？",
           "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/9b1f/live/f53bf9d0-dc57-11f1-b441-2b33b063138f.jpg"
         },
@@ -401,9 +381,19 @@
           "description": "黃仁勳正因涉嫌與一名中國間諜出軌而接受調查，他對世界秩序的未來遠比其他科技巨頭老闆重要得多。",
           "link": "https://www.bbc.com/zhongwen/articles/cm36gnenlj59o/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-11-11T02:41:36.000Z",
-          "wordCount": 2160,
+          "wordCount": 2305,
           "title": "黃仁勳曾告訴我，那些關於中國與國家安全的問題",
           "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/7d5c/live/48fcfe10-dc9a-11f1-adfe-2165436acfb4.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/zhongwen/articles/c0rdle4l1lvo/trad#1",
+          "author": null,
+          "description": "「廢除非核家園」公投案在今年11月28日的九合一選舉同日投票。這是台灣相隔短短一年後再有公投，也是當地近8年來，第4度舉行關於核電公投。BBC中文整理此次公投的背景和重點。",
+          "link": "https://www.bbc.com/zhongwen/articles/c0rdle4l1lvo/trad?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-11-06T07:56:51.000Z",
+          "wordCount": 2253,
+          "title": "台灣時隔一年再「核電公投」：這次投什麼？通過門檻為何？",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/eb94/live/1c4078c0-9d39-11f1-bc05-aff3aa1f91c7.jpg"
         },
         {
           "id": "https://www.bbc.com/zhongwen/articles/c6gm0rdzm0rdo/trad#6",
@@ -411,7 +401,7 @@
           "description": "最近幾週，中國輿論場接連出現多宗被貼上「辱華」標籤的爭議事件：台灣藝人蔡康永、日本電視劇《VIVANT》以及法國球星姆巴佩。三宗事件看似性質相近，但官方反應與輿論熱度卻明顯不同，多位分析人士對BBC中文指出：這些差異背後是當局對於每個事件的定性並不相同。",
           "link": "https://www.bbc.com/zhongwen/articles/c6gm0rdzm0rdo/trad?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-11-06T00:21:23.000Z",
-          "wordCount": 1893,
+          "wordCount": 1979,
           "title": "從蔡康永、《VIVANT》到姆巴佩，北京為何區別處理「辱華」？",
           "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_zhongwen/744d/live/a1131d00-d8e9-11f1-8a29-751f921d505b.jpg"
         }
@@ -423,12 +413,92 @@
       "siteUrl": "https://www.cna.com.tw/list/acn.aspx",
       "articles": [
         {
+          "id": "CNA/2026-11-28/202611280057",
+          "author": null,
+          "description": "（中央社記者李雅雯上海28日電）中國湖北通城縣博物館展品疑為贗品。館方回應，率先下架爭議展品，後續有待專家確認，被質疑為假的展品從取得到展出，均不存在「以假充真」的主觀故意。",
+          "link": "https://www.cna.com.tw/news/acn/202611280057.aspx",
+          "publishedOn": "2026-11-28T04:32:43.000Z",
+          "wordCount": 820,
+          "title": "中國湖北縣級博物館疑展贗品　館方：有待專家確認",
+          "imageUrl": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg"
+        },
+        {
+          "id": "CNA/2026-11-27/202611270203",
+          "author": null,
+          "description": "（中央社記者李雅雯上海27日電）在貿易失衡疑慮聲中，中國國務院國資委黨委委員、副主任李鎮今天表示，央企要及時注意同質化競爭情況，合併精簡業務重疊、產能過剩、低價競爭的領域。",
+          "link": "https://www.cna.com.tw/news/acn/202611270203.aspx",
+          "publishedOn": "2026-11-27T09:56:12.000Z",
+          "wordCount": 820,
+          "title": "中國整頓央企　國資委：合併精簡產能過剩業務",
+          "imageUrl": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg"
+        },
+        {
+          "id": "CNA/2026-11-27/202611270168",
+          "author": null,
+          "description": "（中央社記者呂佳蓉台北27日電）中共中央政治局委員、中共上海市委書記陳吉寧落馬。海基會副秘書長黎寶文表示，重要的職位在無預警的情況下出現人事異動，不是一個尋常的現象，現階段無更多資訊可提供。",
+          "link": "https://www.cna.com.tw/news/acn/202611270168.aspx",
+          "publishedOn": "2026-11-27T08:41:54.000Z",
+          "wordCount": 822,
+          "title": "陳吉寧落馬　海基會：非尋常現象",
+          "imageUrl": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg"
+        },
+        {
+          "id": "CNA/2026-11-27/202611270166",
+          "author": null,
+          "description": "（中央社記者呂佳蓉台北27日電）陸委會昨日表示，「小三通」不是用來做國際旅遊的，會思考如何讓小三通走向正常化。海基會副秘書長兼發言人黎寶文今天說，海基會並不是這項政策的主要主管機關，但也會持續關注相關情況。。",
+          "link": "https://www.cna.com.tw/news/acn/202611270166.aspx",
+          "publishedOn": "2026-11-27T08:39:50.000Z",
+          "wordCount": 822,
+          "title": "陸委會檢討推動「小三通」正常化　海基會：持續關注",
+          "imageUrl": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg"
+        },
+        {
+          "id": "CNA/2026-11-27/202611270159",
+          "author": null,
+          "description": "（中央社記者呂佳蓉台北27日電）針對中共藉由機票補助等方式動員台商返台投票給特定候選人，海基會副秘書長兼發言人黎寶文表示，台商返台投票是依法享有國民權利，海基會尊重返台行使應有權利，但是法律非常清楚，任何透過金錢或不正當利益來影響投票的行為，都是被禁止的。",
+          "link": "https://www.cna.com.tw/news/acn/202611270159.aspx",
+          "publishedOn": "2026-11-27T08:33:35.000Z",
+          "wordCount": 826,
+          "title": "海基會：台商返台投票是國民權利　籲中共勿干預民主",
+          "imageUrl": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20261127/1024x768_wmky_0_C20261127000119.jpg"
+        },
+        {
+          "id": "CNA/2026-11-27/202611270143",
+          "author": null,
+          "description": "（中央社台北27日電）中國國務院常務會議（國常會）今天在股市盤中發聲，明確促進資本市場平穩健康發展，加強發揮「國家隊」穩市作用。中國學者分析指出，國常會的最新定調，事關經濟發展大局，釋放出資本市場已從單純的融資通道，躍升為宏觀經濟治理核心樞紐的強烈信號。",
+          "link": "https://www.cna.com.tw/news/acn/202611270143.aspx",
+          "publishedOn": "2026-11-27T07:58:01.000Z",
+          "wordCount": 820,
+          "title": "中國「國家隊」入市護盤　學者：資本市場躍升宏觀經濟治理核心",
+          "imageUrl": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg"
+        },
+        {
+          "id": "CNA/2026-11-27/202611270128",
+          "author": null,
+          "description": "（中央社台北27日電）中國國務院總理李強27日主持召開國務院常務會議。會議指出，資本市場攸關經濟發展大局，應強化「國家隊」穩定市場的作用，並進一步優化中央匯金公司的類「平準基金」功能，提供充足的流動性支持。國常會消息公布後，午後A股三大指數反彈。",
+          "link": "https://www.cna.com.tw/news/acn/202611270128.aspx",
+          "publishedOn": "2026-11-27T06:58:28.000Z",
+          "wordCount": 822,
+          "title": "中國國常會：強化「國家隊」穩市作用　午後A股反彈",
+          "imageUrl": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg"
+        },
+        {
+          "id": "CNA/2026-11-27/202611270108",
+          "author": null,
+          "description": "（中央社記者李雅雯上海27日電）中國駐韓大使戴兵表示，從去年APEC慶州峰會到今年深圳峰會，中韓兩國元首一年3次會晤，引領兩國關係改善發展；不希望韓美同盟成為制約中韓關係發展的因素。",
+          "link": "https://www.cna.com.tw/news/acn/202611270108.aspx",
+          "publishedOn": "2026-11-27T06:05:44.000Z",
+          "wordCount": 818,
+          "title": "中國駐韓大使：中韓元首一年3次會晤改善雙邊關係",
+          "imageUrl": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg"
+        },
+        {
           "id": "CNA/2026-11-27/202611270073",
           "author": null,
           "description": "（中央社記者張謙香港27日電）亞太經濟合作會議（APEC）在中國深圳舉行的峰會早已結束，但美俄元首在深圳期間喜愛吃什麼食物，連日來仍然是中國大陸和香港媒體熱議的新聞花絮。",
           "link": "https://www.cna.com.tw/news/acn/202611270073.aspx",
           "publishedOn": "2026-11-27T04:07:26.000Z",
-          "wordCount": 816,
+          "wordCount": 818,
           "title": "美俄元首APEC峰會喜愛食物成熱話",
           "imageUrl": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg"
         },
@@ -438,7 +508,7 @@
           "description": "（中央社記者李雅雯上海27日電）中國國家統計局最新統計數據顯示，10月全國規模以上（規上）工業企業利潤年增20.1%，主要是受到人工智慧算力需求增加影響，帶動電子行業利潤成長，成為工業企業利潤增加支撐。",
           "link": "https://www.cna.com.tw/news/acn/202611270062.aspx",
           "publishedOn": "2026-11-27T03:48:02.000Z",
-          "wordCount": 820,
+          "wordCount": 822,
           "title": "人工智慧拉動　中國10月工業利潤年增20.1%",
           "imageUrl": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg"
         },
@@ -448,7 +518,7 @@
           "description": "（中央社記者張謙香港27日電）據報導，中國四川一所學校的學生在課間休息期間講四川話，遭老師拍照蒐證並處罰，引發外界關注。當地官方其後通報，責令學校立即廢止不當規定，並對涉事教師通報批評。",
           "link": "https://www.cna.com.tw/news/acn/202611270056.aspx",
           "publishedOn": "2026-11-27T03:29:49.000Z",
-          "wordCount": 820,
+          "wordCount": 822,
           "title": "四川學生課間講四川話被罰  官方責令廢除不當校規",
           "imageUrl": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg"
         },
@@ -458,7 +528,7 @@
           "description": "（中央社記者李雅雯上海27日電）中國國務院總理李強在北京會晤亞洲開發銀行（ADB）行長神田真人。李強表示，國際局勢不確定性增多，對亞洲經濟造成衝擊，需要各方進一步加強區域合作。",
           "link": "https://www.cna.com.tw/news/acn/202611270040.aspx",
           "publishedOn": "2026-11-27T02:43:14.000Z",
-          "wordCount": 820,
+          "wordCount": 822,
           "title": "會晤亞銀行長　中國總理李強：進一步加強區域合作",
           "imageUrl": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg"
         },
@@ -468,7 +538,7 @@
           "description": "（中央社記者呂佳蓉台北27日電）中共中央政治局委員、中共上海市委書記陳吉寧落馬。學者分析指出，陳吉寧的落馬是一個非常臨時下的決定，而且事前完全沒有任何徵兆，應是上層領導人在某種情況下感到不滿，而採取行動。",
           "link": "https://www.cna.com.tw/news/acn/202611270038.aspx",
           "publishedOn": "2026-11-27T02:33:10.000Z",
-          "wordCount": 828,
+          "wordCount": 830,
           "title": "陳吉寧落馬  分析：完全無徵兆應是高層臨時下決定",
           "imageUrl": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20261127/1024x768_wmky_0_C20261127000011.jpg"
         },
@@ -478,7 +548,7 @@
           "description": "（中央社台北26日電）中國國家電網公司今天公布，中國首次進行省間省內綠電聯合交易，交易範圍涵蓋西北、華東10個省區市，總成交電量62億千瓦時（kWh，1度電）。",
           "link": "https://www.cna.com.tw/news/acn/202611260317.aspx",
           "publishedOn": "2026-11-26T14:35:23.000Z",
-          "wordCount": 818,
+          "wordCount": 820,
           "title": "中國綠電市場　首次進行一次申請、跨區交易",
           "imageUrl": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg"
         },
@@ -488,7 +558,7 @@
           "description": "（中央社記者張淑伶北京26日電）美國貿易代表署公布「結構性產能過剩」的301條款調查結果並公布擬議措施，業界評估中國的實際有效稅率預計由9月的19.9%升至24%–25%。",
           "link": "https://www.cna.com.tw/news/acn/202611260313.aspx",
           "publishedOn": "2026-11-26T14:20:14.000Z",
-          "wordCount": 845,
+          "wordCount": 847,
           "title": "美301產能過剩關稅影響　中國實際稅率可能升至25%",
           "imageUrl": "https://imgcdn.cna.com.tw/www/webphotos/WebOg/600/20261126/800x419_161939812114.jpg"
         },
@@ -498,7 +568,7 @@
           "description": "（中央社台北26日電）中共中央紀委及中國國家監委網站今天公布，退休10年的前中央宣傳部副部長、前國家新聞出版廣電總局黨組書記、局長蔡赴朝嚴重違反紀律，構成嚴重職務違法並涉嫌受賄，開除黨籍並取消退休待遇。",
           "link": "https://www.cna.com.tw/news/acn/202611260307.aspx",
           "publishedOn": "2026-11-26T13:59:01.000Z",
-          "wordCount": 818,
+          "wordCount": 820,
           "title": "中國前新聞廣電總局長蔡赴朝受賄　開除黨籍",
           "imageUrl": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg"
         },
@@ -508,7 +578,7 @@
           "description": "（中央社台北26日電）近日官宣落馬的中共中央政治局委員、上海市委書記陳吉寧曾任北京清華大學校長，陳吉寧「出事」後，清大官網「歷任領導」一欄急刪陳吉寧的資料，引發議論。",
           "link": "https://www.cna.com.tw/news/acn/202611260306.aspx",
           "publishedOn": "2026-11-26T13:57:59.000Z",
-          "wordCount": 820,
+          "wordCount": 822,
           "title": "前校長陳吉寧落馬  北京清大官網急刪資料",
           "imageUrl": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg"
         },
@@ -518,7 +588,7 @@
           "description": "（中央社記者廖文綺台北26日電）美中俄三方峰會日前落幕，學者認為象徵意義大於實質政策突破，三方各說各話，美國總統川普（Donald Trump）參與這場峰會的目的在分化中俄，主要競爭對手仍是中國。",
           "link": "https://www.cna.com.tw/news/acn/202611260285.aspx",
           "publishedOn": "2026-11-26T12:23:10.000Z",
-          "wordCount": 838,
+          "wordCount": 840,
           "title": "學者：美中俄峰會象徵大於實質　川普意在分化中俄",
           "imageUrl": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20261126/1024x768_wmky_0_C20261126000209.jpg"
         },
@@ -528,7 +598,7 @@
           "description": "（中央社記者李雅雯上海26日電）宇樹科技創辦人、董事長王興興今天在一場商業大會上表示，機器人生產工程環節較汽車稍微少一些，預估在5至10年內，中國機器人年產量有望超越汽車。",
           "link": "https://www.cna.com.tw/news/acn/202611260270.aspx",
           "publishedOn": "2026-11-26T11:31:38.000Z",
-          "wordCount": 816,
+          "wordCount": 818,
           "title": "宇樹科技王興興：5至10年內中國機器人產量超越汽車",
           "imageUrl": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg"
         },
@@ -538,89 +608,9 @@
           "description": "（中央社記者呂佳蓉台北26日電）陸委會發言人梁文傑今天表示，今年前10個月，台商赴陸投資占整體對外投資的比重已經降到1.1%。2013年這個比重曾經高達83%，現在降到1.1%，「降的比重非常驚人」。",
           "link": "https://www.cna.com.tw/news/acn/202611260263.aspx",
           "publishedOn": "2026-11-26T10:47:22.000Z",
-          "wordCount": 827,
+          "wordCount": 829,
           "title": "陸委會：台商赴中國投資比重降至1.1%　降幅驚人",
           "imageUrl": "https://imgcdn.cna.com.tw/www/webphotos/WebOg/600/20261126/1024x537_985731109251.jpg"
-        },
-        {
-          "id": "CNA/2026-11-26/202611260235",
-          "author": null,
-          "description": "（中央社記者張淑伶北京26日電）共軍先前對台進行一場大型、未預告的軍演，中國國防部發言人今天未否認「無聲軍演」的報導，但反對「渲染炒作」。",
-          "link": "https://www.cna.com.tw/news/acn/202611260235.aspx",
-          "publishedOn": "2026-11-26T09:26:19.000Z",
-          "wordCount": 832,
-          "title": "中國「無聲」軍演欲引關注  共軍稱反對炒作",
-          "imageUrl": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20261126/1152x768_wmky_0_C20261126000150.jpg"
-        },
-        {
-          "id": "CNA/2026-11-26/202611260228",
-          "author": null,
-          "description": "（中央社記者呂佳蓉台北26日電）九合一選舉將至。陸委會發言人梁文傑今天表示，最近這段時間，中共對台灣網路系統的侵擾幾乎每天都在發生，國安局資料顯示，每天遭受的侵擾大約258萬次。",
-          "link": "https://www.cna.com.tw/news/acn/202611260228.aspx",
-          "publishedOn": "2026-11-26T09:18:04.000Z",
-          "wordCount": 826,
-          "title": "地方選舉將至  梁文傑：中共對台網路侵擾每天達258萬次",
-          "imageUrl": "https://i.ytimg.com/vi/zyCZTBfbUBY/hqdefault.jpg?t=2611271508"
-        },
-        {
-          "id": "CNA/2026-11-26/202611260213",
-          "author": null,
-          "description": "（中央社記者呂佳蓉台北26日電）針對中共公布中央政治局委員、上海市委書記陳吉寧落馬，陸委會發言人梁文傑今天表示，對於中共內部官員落馬與相關狀況，向來不會特別評論，但會保持高度關注。",
-          "link": "https://www.cna.com.tw/news/acn/202611260213.aspx",
-          "publishedOn": "2026-11-26T09:11:32.000Z",
-          "wordCount": 824,
-          "title": "陳吉寧落馬　陸委會：不特別評論但保持高度關注",
-          "imageUrl": "https://imgcdn.cna.com.tw/www/webphotos/WebOg/600/20261126/1024x537_320055463973.jpg"
-        },
-        {
-          "id": "CNA/2026-11-26/202611260209",
-          "author": null,
-          "description": "（中央社記者廖文綺台北26日電）陸委會副主委沈有忠今天出席座談會表示，即使川習今年3度會面並宣稱建構「建設性戰略穩定關係」，美中競爭格局依舊沒有根本轉變，反而可看到川習三會後美國立即對中國採取經濟、軍事與科技制衡行動，顯示雙方競爭格局持續推進。",
-          "link": "https://www.cna.com.tw/news/acn/202611260209.aspx",
-          "publishedOn": "2026-11-26T09:06:24.000Z",
-          "wordCount": 833,
-          "title": "沈有忠：川習三會後  美中競爭格局無轉變且持續推進",
-          "imageUrl": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20261126/1024x768_wmky_0_C20261126000141.jpg"
-        },
-        {
-          "id": "CNA/2026-11-26/202611260197",
-          "author": null,
-          "description": "（中央社台北26日電）美國貿易代表署日前宣布「產能過剩」301調查結果並公布擬議措施，提出對包括中國在內的14個經濟體加徵301關稅。中國商務部今天表態堅決反對，並稱美國嚴重破壞國際經濟秩序，中方保留採取必要措施的權利。",
-          "link": "https://www.cna.com.tw/news/acn/202611260197.aspx",
-          "publishedOn": "2026-11-26T08:48:58.000Z",
-          "wordCount": 843,
-          "title": "美擬加徵301關稅  中國商務部：嚴重破壞國際經濟秩序",
-          "imageUrl": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg"
-        },
-        {
-          "id": "CNA/2026-11-26/202611260179",
-          "author": null,
-          "description": "（中央社記者廖文綺台北26日電）中共中央政治局委員、上海市委書記陳吉寧涉嫌嚴重違紀違法被調查，陸委會副主委沈有忠今天表示，此事反映中共目前對21大人事尚未形成完整方向與規劃，預料明年中共21大前，仍會有不少人事震動。",
-          "link": "https://www.cna.com.tw/news/acn/202611260179.aspx",
-          "publishedOn": "2026-11-26T07:50:19.000Z",
-          "wordCount": 824,
-          "title": "陳吉寧落馬  沈有忠：中共21大人事布局未明料仍有震動",
-          "imageUrl": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20261126/1001x768_wmky_0_C20261126000115.jpg"
-        },
-        {
-          "id": "CNA/2026-11-26/202611260160",
-          "author": null,
-          "description": "（中央社台北26日電）美中元首在半年內會面3次，北京釋出兩國關係緩和的訊息。但華府智庫史汀生中心（Stimson Center）中國項目主任孫韻指出，北京把握目前的契機，為美國總統川普卸任後，華府對中鷹派可能會反撲作準備，包括強化美中合作正當性，以及透過外交爭取美國民心等。",
-          "link": "https://www.cna.com.tw/news/acn/202611260160.aspx",
-          "publishedOn": "2026-11-26T06:58:37.000Z",
-          "wordCount": 827,
-          "title": "美智庫學者：北京強化美中關係　防範川普卸任後對中鷹派反撲",
-          "imageUrl": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg"
-        },
-        {
-          "id": "CNA/2026-11-26/202611260126",
-          "author": null,
-          "description": "（中央社記者張淑伶北京26日電）歐盟今天公告將中企玉沙集團移出涉俄出口管制制裁清單。中國商務部表示，中方也正在評估移出被列入出口管制名單的歐盟企業。有報導指出，這項制裁交換對象包括荷蘭半導體設備大廠艾司摩爾（ASML）的德國供應商。",
-          "link": "https://www.cna.com.tw/news/acn/202611260126.aspx",
-          "publishedOn": "2026-11-26T05:33:22.000Z",
-          "wordCount": 822,
-          "title": "歐盟中國制裁企業「一換一」 艾司摩爾供應商有望解除管制",
-          "imageUrl": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg"
         }
       ]
     },
@@ -630,404 +620,404 @@
       "siteUrl": "https://news.ltn.com.tw/list/breakingnews/world",
       "articles": [
         {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5655199",
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5656312",
           "author": null,
-          "description": "俄羅斯外交部26日首度正式承認，日本首相高市早苗與俄羅斯總統普廷18日在中國深圳舉行約30分鐘的會談，並表示期待這場睽違7年的日俄領袖對話，能為雙邊關係帶來一些改善...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5655199",
-          "publishedOn": "2026-11-27T04:57:25.000Z",
-          "wordCount": 11386,
-          "title": "俄羅斯證實高市與普廷會談 日方審慎回應",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/11/27/phpt6wH0G.jpg"
+          "description": "日本語能力試驗（JLPT）官方網站，疑似遭到第三方非法存取，目前已暫時關閉官網，JLPT的台灣網站也同樣停止對外服務，至於何時才會恢復尚不清楚。\r\n\r\n據《共同社》報導，JLPT...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5656312",
+          "publishedOn": "2026-11-28T06:23:34.000Z",
+          "wordCount": 11366,
+          "title": "日本語能力試驗官網 疑遭非法存取緊急關閉",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/11/28/phpecPlZJ.png"
         },
         {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5655097",
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5656276",
           "author": null,
-          "description": "美國與以色列2月28日空襲伊朗後，伊朗數次襲擊美國位於中東地區的美軍基地。有報導稱中國與俄羅斯協助伊朗鎖定美軍基地作為攻擊目標，對此美國總統川普26日淡化中俄對伊朗支持，稱中俄...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5655097",
-          "publishedOn": "2026-11-27T03:59:48.000Z",
-          "wordCount": 11388,
-          "title": "川普淡化中俄對伊朗支持 稱涉入美伊衝突程度極低",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/11/27/phpijHbRp.jpg"
+          "description": "英國凱特王妃（Catherine, Princess of Wales）的抗癌紀錄片《Heal》將於29日在英國首播。她在片中回憶，癌症治療期間曾一度意識時而清醒、時而模糊，在...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5656276",
+          "publishedOn": "2026-11-28T05:25:57.000Z",
+          "wordCount": 11383,
+          "title": "凱特王妃聽見3子女聲音落淚！抗癌紀錄片憶病房無聲牽手",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/11/28/php2Itd7y.jpg"
         },
         {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5655023",
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5656234",
           "author": null,
-          "description": "烏克蘭總統澤倫斯基23日宣布，烏軍22日出動7艘海上無人艇，對停泊在利比亞港市班加西（Benghazi）的俄羅斯船隻發動突襲，擊沉1艘俄國海軍最新型護衛艦「水星號」（Merku...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5655023",
-          "publishedOn": "2026-11-27T03:08:58.000Z",
-          "wordCount": 11400,
-          "title": "襲擊俄軍艦與貨船致利比亞士兵亡 烏克蘭稱無意將戰火擴大",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/11/27/phpEm4TXz.png"
+          "description": "日本靜岡縣靜岡市清水區，27日晚間6時20分許驚傳有野豬到處衝撞，一共造成7人受傷，所幸傷者都沒有生命危險，至於野豬已在今（28日）上午8時30分許遭到獵殺。\r\n\r\n據《產經新聞...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5656234",
+          "publishedOn": "2026-11-28T05:03:33.000Z",
+          "wordCount": 11359,
+          "title": "日本靜岡野豬四處衝撞！釀7人受傷",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/11/28/phpjF6W2t.png"
         },
         {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5654976",
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5656181",
           "author": null,
-          "description": "俄羅斯石油公司斯拉揚斯克ECO（Slavyansk ECO）26日在社群媒體上證實，位於該國南部克拉斯諾達邊疆區（Krasnodar）的1座煉油廠26日遭無人機攻擊後起火，造成嚴...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5654976",
-          "publishedOn": "2026-11-27T02:48:44.000Z",
-          "wordCount": 11389,
-          "title": "俄煉油廠又被轟！烏無人機猛攻1個月 業界：原油加工量已大減45％",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/11/27/phpU5VhBO.png"
-        },
-        {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5654925",
-          "author": null,
-          "description": "瑞典外交部表示，已於26日召見俄羅斯大使，抗議俄羅斯近期侵犯波蘭領空，以及涉嫌策劃在丹麥境內謀殺1名烏克蘭裔美國公民。\r\n\r\n根據《法新社》報導，3枚俄羅斯巡弋飛彈上週落入波蘭...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5654925",
-          "publishedOn": "2026-11-27T01:48:45.000Z",
-          "wordCount": 11389,
-          "title": "瑞典召見俄羅斯大使 抗議俄侵犯波蘭領空與丹麥暗殺陰謀",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/11/27/phpkR8zFx.jpg"
-        },
-        {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5654958",
-          "author": null,
-          "description": "美國總統川普26日向媒體指出，他不知道俄羅斯總統普廷（Vladimir Putin）是否會出席下個月在佛羅里達州舉行的20國集團（G20）峰會，但如果由他決定，只要普廷有意出席，...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5654958",
-          "publishedOn": "2026-11-27T01:44:34.000Z",
-          "wordCount": 11389,
-          "title": "普廷赴美出席G20峰會？川普：我希望他能來 克宮回應了",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/11/27/phpbUJ7aK.jpg"
-        },
-        {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5654870",
-          "author": null,
-          "description": "美國商務部例行修正經濟數據，大幅上修第3季國內生產毛額（GDP）成長率，總統川普26日指控選前公布的是「假數據」，要求立即進行追查。\r\n\r\n路透報導，美國商務部經濟分析局（BEA...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5654870",
-          "publishedOn": "2026-11-27T00:42:32.000Z",
-          "wordCount": 11389,
-          "title": "Q3美國GDP成長大幅上修！川普怒控「造假」：為何選前不公布？",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/11/27/phpF3V7Cu.jpg"
-        },
-        {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5654852",
-          "author": null,
-          "description": "繼中國上海市委書記陳吉寧被查之後，中國政商界再傳來重磅消息！印太戰略智庫執行長、日本資深媒體人矢板明夫指出，江蘇文峰集團董事長薛健26日在網路上發表萬言書，公開勸中國國家主席習近...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5654852",
-          "publishedOn": "2026-11-26T23:56:32.000Z",
-          "wordCount": 11390,
-          "title": "勸習近平別再連任！中國百億企業董座萬言書 矢板明夫：他已無路可走",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/11/27/php383F7B.png"
-        },
-        {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5654768",
-          "author": null,
-          "description": "首次上稿 11-26 22:04更新時間 11-27 06:59\r\n美國副總統范斯（JD Vance）與國務卿魯比歐（Marco Rubio）被視為2028年共和黨總統提名頭兩...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5654768",
-          "publishedOn": "2026-11-26T22:59:01.000Z",
-          "wordCount": 11410,
-          "title": "2028共主呼之欲出？共和黨勸進魯比歐角逐總統聲浪高漲",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/11/26/5654768_1_1.jpg"
-        },
-        {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5654857",
-          "author": null,
-          "description": "美國總統川普26日證實，他上週曾向俄羅斯總統普廷（Vladimir Putin）表明，希望俄羅斯停止對歐洲各地領土的軍事侵略行動，盼藉此促成俄烏戰爭迅速落幕。\r\n\r\n路透報導，川...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5654857",
-          "publishedOn": "2026-11-26T22:53:07.000Z",
-          "wordCount": 11402,
-          "title": "話鋒突變？川普轟俄烏戰爭「血腥屠殺」 籲普廷「停止侵略歐洲」",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/11/27/phpoXZCPr.png"
-        },
-        {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5654810",
-          "author": null,
-          "description": "首次上稿 11-26 23:31更新時間 11-27 06:42\r\n號稱「中國打假第一人」的王海30多年來致力揭露假貨、協助消費者求償，自稱憂心遭當局鎖定而逃離中國，如今與家...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5654810",
-          "publishedOn": "2026-11-26T22:42:50.000Z",
-          "wordCount": 11403,
-          "title": "「中國打假第1人」想潤！申請南韓庇護遭拒 美撤簽證恐遣返",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/11/26/5654810_1_1.jpg"
-        },
-        {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5654805",
-          "author": null,
-          "description": "首次上稿 11-26 23:17更新時間 11-27 06:20\r\n美國白宮特使、總統川普女婿庫希納（Jared Kushner）近日接受德國報業集團斯普林格（Axel Sp...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5654805",
-          "publishedOn": "2026-11-26T22:20:20.000Z",
-          "wordCount": 11422,
-          "title": "稱普廷「展現克制」  白宮特使否認施壓烏克蘭讓步",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/11/26/5654805_1_1.jpg"
-        },
-        {
-          "id": "https://news.ltn.com.tw/news/world/paper/1780018",
-          "author": null,
-          "description": "〔編譯林家宇／綜合報導〕在拒絕與美國總統川普會面後，北韓官方媒體朝鮮中央通訊社（KCNA）廿六日報導，北韓領導人金正恩廿五日視察核材料生產與研究設施，要求著重於在多個領域部署戰術核武，有系統地擴充核材料產能，並重申北韓的核武國家地位「不容置疑」，任何否認北韓核武地位的企圖，都將被視為「公開宣戰」。\r…",
-          "link": "https://news.ltn.com.tw/news/world/paper/1780018",
-          "publishedOn": "2026-11-26T21:30:00.000Z",
+          "description": "美國前總統拜登（Joe Biden）上週出版個人回憶錄《答應我，美國》（Promise Me, America，暫譯），不料反應平平，首週銷售2.1萬冊，遠低於歐巴馬、柯林頓等前...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5656181",
+          "publishedOn": "2026-11-28T04:58:58.000Z",
           "wordCount": 11381,
-          "title": "金正恩擴展多領域核武 核威脅加劇",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/11/27/37.jpg"
+          "title": "拜登回憶錄上架1週僅賣2.1萬本 遠低於歐巴馬、柯林頓",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/11/28/phpsLQdYd.jpg"
         },
         {
-          "id": "https://news.ltn.com.tw/news/world/paper/1780014",
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5656211",
           "author": null,
-          "description": "以加強拒止力、因應新型態戰爭為核心\r\n〔駐日特派員林翠儀／東京廿六日報導〕攸關日本未來五年防衛建設方向的「安保三文件」，將於年底修訂，日本媒體廿五日披露修訂草案，顯示新版安保三文件將以強化「拒止力」及因應「新型態戰爭」為核心，並擴大國產防衛裝備生產能力，以因應中國持續擴張軍事力量及西太平洋安全環境變…",
-          "link": "https://news.ltn.com.tw/news/world/paper/1780014",
-          "publishedOn": "2026-11-26T21:30:00.000Z",
-          "wordCount": 11391,
-          "title": "日新版安保3文件 強化抗中",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/11/27/33.jpg"
+          "description": "九合一選舉投開票今（28日）如火如荼地舉行，不過中國微博方面對此不知是否刻意壓制，在目前的50大熱搜裡只有1篇文章提及，而且還是在攻擊民進黨候選人。\r\n\r\n從中國微博可以看到，目...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5656211",
+          "publishedOn": "2026-11-28T04:39:36.000Z",
+          "wordCount": 11367,
+          "title": "中國微博冷處理台灣選舉 唯一熱搜在攻擊民進黨",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/11/28/php6HjRtE.jpg"
         },
         {
-          "id": "https://news.ltn.com.tw/news/world/paper/1780016",
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5656153",
           "author": null,
-          "description": "出身背景、經歷或個人特質齊備\r\n\r\n〔編譯林家宇／綜合報導〕美國副總統范斯（JD Vance）與國務卿魯比歐（Marco Rubio）被視為二〇二八年共和黨總統提名頭兩號人選。在本月初的期中選舉大敗後，聯邦眾議院共和黨人對魯比歐的勸進聲浪逐漸高漲，認為其出身背景、經歷或個人特質齊備，能夠帶領美國和共…",
-          "link": "https://news.ltn.com.tw/news/world/paper/1780016",
-          "publishedOn": "2026-11-26T21:30:00.000Z",
-          "wordCount": 11411,
-          "title": "挑戰2028白宮 共和黨勸進魯比歐",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/11/27/35.jpg"
+          "description": "日本神奈川縣橫濱市1名女高中生，於10月26日被通報失蹤，警方昨（27日）在宮城縣七宿町山區搜索時驚見2具身分不明的遺體，目前正在釐清其中1名死者是否就是失蹤的女學生。\r\n\r\n據...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5656153",
+          "publishedOn": "2026-11-28T04:00:36.000Z",
+          "wordCount": 11369,
+          "title": "日警搜索失蹤女高中生 在宮城山區驚見2具遺體",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/11/28/phpgpcY6O.jpg"
         },
         {
-          "id": "https://news.ltn.com.tw/news/world/paper/1780017",
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5656099",
           "author": null,
-          "description": "〔編譯管淑平／綜合報導〕俄羅斯今年大規模部署噴射動力無人機攻擊烏克蘭，由於其飛行速度更快、機動性更高，使烏方難以攔截。但烏國總統澤倫斯基的國防科技顧問貝斯克雷斯特諾夫（Serhii Beskrestnov）廿五日表示，已首次在實戰中使用雷射防空武器，攔截俄軍的噴射無人機，締造世界首例。\r\n\r\n貝斯克…",
-          "link": "https://news.ltn.com.tw/news/world/paper/1780017",
-          "publishedOn": "2026-11-26T21:30:00.000Z",
-          "wordCount": 11400,
-          "title": "全球首例! 攔截俄噴射無人機 烏雷射武器奏捷",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/11/27/36.jpg"
-        },
-        {
-          "id": "https://news.ltn.com.tw/news/world/paper/1780015",
-          "author": null,
-          "description": "〔駐日特派員林翠儀／東京廿六日報導〕面對中國核動力潛艦持續在西太平洋擴張活動，日本高市早苗政府正研議在年底修訂的「安保三文件」中，明確納入啟動核動力潛艦引進評估的方針。日本媒體報導，政府正協調採用「著手研究並得出結論」的表述，預計自明年度起編列調查研究預算，這將是日本戰後防衛政策的重要轉折。\r\n日戰…",
-          "link": "https://news.ltn.com.tw/news/world/paper/1780015",
-          "publishedOn": "2026-11-26T21:30:00.000Z",
-          "wordCount": 11385,
-          "title": "擴展西太防禦 日加速核潛艦引進評估",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/11/27/34.jpg"
-        },
-        {
-          "id": "https://news.ltn.com.tw/news/world/paper/1780052",
-          "author": null,
-          "description": "◎ 張沛元\r\n\r\nSouthwest Airlines is jumping into the airport lounge fray. \r\n西南航空公司正加入機場貴賓室大戰。\r\n\r\nThe airline will open swanky lounges in Austin, Texas; Bal…",
-          "link": "https://news.ltn.com.tw/news/world/paper/1780052",
-          "publishedOn": "2026-11-26T21:30:00.000Z",
-          "wordCount": 11706,
-          "title": "中英對照讀新聞》Southwest Airlines Jumps Into the Airport Lounge Competition 西南航空投身機場貴賓室競逐",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/11/27/71.jpg"
-        },
-        {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5654849",
-          "author": null,
-          "description": "美國商務部例行修正經濟數據，大幅上修第3季國內生產毛額（GDP）成長率，總統川普今天指控選前公布的是「假數據」，要求立即調查，延續他對期中選舉遭干預的無據指控。\n\n法新社報導，美國商務部（D...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5654849",
-          "publishedOn": "2026-11-26T21:00:07.000Z",
-          "wordCount": 11384,
-          "title": "美第3季GDP大幅上修　川普控選前數據造假要求調查",
-          "imageUrl": "https://news.ltn.com.tw/assets/images/all/250_ltn.png"
-        },
-        {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5654848",
-          "author": null,
-          "description": "沙烏地阿拉伯能源部發布聲明指出，沙烏地阿美石油公司（Saudi Aramco）位於吉贊的煉油廠今天遭敵方空中拋射物擊中，造成一名尼泊爾籍工人死亡和數人受傷，部分作業暫時停擺。\n\n路透社報導，...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5654848",
-          "publishedOn": "2026-11-26T20:45:04.000Z",
+          "description": "台灣九合一地方選舉28日投票，澳洲廣播公司（ABC）當天發表分析報導指出，這場選舉不只是縣市長及基層民意代表改選，更是總統賴清德政府的「期中考」，其結果將直接牽動2028年總統...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5656099",
+          "publishedOn": "2026-11-28T03:46:36.000Z",
           "wordCount": 11373,
-          "title": "沙烏地阿拉伯煉油廠遇襲　1死多傷部分停工",
-          "imageUrl": "https://news.ltn.com.tw/assets/images/all/250_ltn.png"
+          "title": "地方大選成賴清德期中考！澳媒解析九合一 直接牽動2028局勢",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/11/28/phpfpajme.jpg"
         },
         {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5654844",
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5656164",
           "author": null,
-          "description": "科威特今天遭無人機攻擊，造成兩名義大利人喪生。義大利與科威特均指控伊朗發動攻擊，但伊朗否認涉案。\n\n路透社報導，義大利外交部長塔加尼（Antonio Tajani）在羅馬向參議院表示，兩名死...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5654844",
-          "publishedOn": "2026-11-26T19:12:03.000Z",
-          "wordCount": 11384,
-          "title": "科威特遭無人機攻擊2義大利人喪生　伊朗否認涉案",
-          "imageUrl": "https://news.ltn.com.tw/assets/images/all/250_ltn.png"
+          "description": "九合一選舉今（28日）投開票，日本媒體也相當關注，直指民進黨、國民黨著眼於2028年總統大選，在這次的地方選舉中展開激戰，並點出中國持續施壓賴清德政府。\r\n\r\n據《共同社》報導，...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5656164",
+          "publishedOn": "2026-11-28T03:39:10.000Z",
+          "wordCount": 11369,
+          "title": "日媒關注台灣選舉 直指中國持續施壓",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/11/28/phppowfOB.jpg"
         },
         {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5654843",
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5656004",
           "author": null,
-          "description": "英國政府今天證實，首相柏南為重啟英歐關係，上週與歐盟達成的貿易協議設有10年終止條款。右派在野黨保守黨與英國改革黨領袖則暗示，若在下屆大選勝選，可能尋求廢除協議。\n\n法新社報導，英相柏南（A...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5654843",
-          "publishedOn": "2026-11-26T19:06:03.000Z",
-          "wordCount": 11392,
-          "title": "英國證實英歐協議設10年終止條款　在野黨勝選恐廢約",
-          "imageUrl": "https://news.ltn.com.tw/assets/images/all/250_ltn.png"
+          "description": "日本人氣女格鬥家岡本璃奈（ぱんちゃん璃奈）近日爆出，在住處對20多歲男友拳打腳踢，導致男方全身多處受傷，警方獲報已將她依傷害罪嫌逮捕。格鬥賽事主辦單位隨後也宣布，在案情釐清前無限...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5656004",
+          "publishedOn": "2026-11-28T03:38:26.000Z",
+          "wordCount": 11377,
+          "title": "格鬥女神拳打腳踢痛毆小6歲男友 遭警上門逮捕、無限期禁賽",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/11/28/phpsQRliD.jpg"
         },
         {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5654837",
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5656150",
           "author": null,
-          "description": "烏克蘭國防部情報總局（GUR）26日指出，北韓因與盟友俄羅斯之間出現外交緊張，已暫時中止部分對俄軍事合作，包括交付KN-23彈道飛彈。根據烏方說法，北韓外交部長崔善姬上月宣布...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5654837",
-          "publishedOn": "2026-11-26T18:48:13.000Z",
-          "wordCount": 11401,
-          "title": "鐵桿兄弟翻臉？傳俄朝出現外交摩擦 北韓暫停交付KN-23飛彈 擱置增兵5萬人請求",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/11/27/5654837_1_1.jpg"
+          "description": "【更多內容  請見影片】\r\n訂閱【自由追新聞】\r\n全新的視界！新聞話題不漏接，快訂閱YouTube 【自由追新聞】，記得開啟小鈴鐺哦！…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5656150",
+          "publishedOn": "2026-11-28T03:24:15.000Z",
+          "wordCount": 11383,
+          "title": "自由說新聞》烏克蘭「地獄」狂攻直搗俄地下命脈 俄再鬧油荒掀民怨：實在誇張",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/11/28/phpM0aIqX.jpg"
         },
         {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5654836",
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5656125",
           "author": null,
-          "description": "今天是感恩節，但極端天氣造成美國東岸停電及交通延誤，紐約具代表性的梅西感恩節大遊行延至28日舉行，是這項活動百年歷史上首度延期。\n\n法新社報導，這場「東北風暴」（Nor'easter）帶來強...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5654836",
-          "publishedOn": "2026-11-26T18:21:03.000Z",
-          "wordCount": 11381,
-          "title": "美東風暴釀停電　紐約梅西感恩節大遊行延至28日",
-          "imageUrl": "https://news.ltn.com.tw/assets/images/all/250_ltn.png"
+          "description": "美國航空2架波音737客機，27日晚間在距離華府最近的隆納·雷根華盛頓國家機場準備起飛時，驚傳機翼發生擦撞事故，所幸沒有造成人員傷亡。\r\n\r\n據《CNN》報導，從航空交通管制無線...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5656125",
+          "publishedOn": "2026-11-28T03:15:20.000Z",
+          "wordCount": 11369,
+          "title": "美國航空2架客機 驚傳在華盛頓機場擦撞",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/11/28/phpGh924m.jpg"
         },
         {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5654828",
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5656086",
           "author": null,
-          "description": "烏克蘭情報總局今天表示，北韓與盟友俄羅斯爆發外交摩擦後，已暫停部分對俄軍事合作，包括停止運交KN-23彈道飛彈。\n\n路透社報導，烏克蘭國防部情報總局（GUR）指出，北韓外交部長崔善姬（Cho...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5654828",
-          "publishedOn": "2026-11-26T17:21:03.000Z",
-          "wordCount": 11392,
-          "title": "烏情報機構：俄朝外交現裂痕　北韓暫停向俄運送飛彈",
-          "imageUrl": "https://news.ltn.com.tw/assets/images/all/250_ltn.png"
+          "description": "台灣九合一地方選舉28日登場，法新社選前發表專題報導，記錄台灣選民透過自製、交換「飄帶」（ribbons）表達政治認同的現象。從個人穿戴、店家裝飾到寵物配件，都可見不同設計的飄...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5656086",
+          "publishedOn": "2026-11-28T03:14:50.000Z",
+          "wordCount": 11402,
+          "title": "台灣選舉像嘉年華！法新社直擊選民瘋飄帶 綁上寵物與包包",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/11/28/phpP8jXCD.jpg"
         },
         {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5654819",
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5655988",
           "author": null,
-          "description": "以北京大學為首的高等院校聯名呼籲廢除國家主席無限期延任制，中國江蘇文峰集團董事長、A股上市公司「文峰股份」實際控制人薛健身在海外，26日委託他人在社群平台發表致中國國家主席習...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5654819",
-          "publishedOn": "2026-11-26T16:56:05.000Z",
-          "wordCount": 11414,
-          "title": "籲習近平放棄連任！ 中國企業家薛健公開信全文曝光",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/11/27/phpWpM1di.jpg"
+          "description": "近日適逢美國感恩節假期，美國總統川普與第一夫人梅蘭妮雅在感恩節（26日）當天向美國六大軍種的軍人進行感恩節致電，當川普在與美國空軍中校史密斯（Lt. Col. Brant Smi...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5655988",
+          "publishedOn": "2026-11-28T01:15:36.000Z",
+          "wordCount": 11383,
+          "title": "川普感恩節致電美軍飛官「哪架戰機最讚」  他推F-16「給我錢也不換」",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/11/28/phpmqWMGO.jpg"
         },
         {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5654816",
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5655997",
           "author": null,
-          "description": "俄羅斯對烏克蘭戰爭持續，加上美國總統川普對北大西洋公約組織（NATO）態度反覆，歐洲防務投資激增，各界疾呼共同籌資建構目前由美國提供的關鍵軍事能力。然而，就在歐盟針對下一期長...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5654816",
-          "publishedOn": "2026-11-26T16:09:46.000Z",
-          "wordCount": 11404,
-          "title": "歐盟防務預算大砍到920億歐元！法堅持買「歐製」武器 德領銜抵制",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/11/27/5654816_1_1.jpg"
+          "description": "英國智庫「國際戰略研究所」（IISS）近日發布報告指出，俄羅斯針對歐洲的破壞行動不斷提升，1年增加了16%，且針對的是鐵路、機場、能源供應網絡等重要基礎設施，背後目的則是想削弱歐...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5655997",
+          "publishedOn": "2026-11-28T01:01:16.000Z",
+          "wordCount": 11375,
+          "title": "俄羅斯對歐洲破壞行動不斷提升 英國智庫示警：想削弱對烏克蘭的支持",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/11/28/php0netwC.jpg"
         },
         {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5654772",
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5655980",
           "author": null,
-          "description": "中共中央紀委及中國國家監委網站今天公布，退休10年的前中央宣傳部副部長、前國家新聞出版廣電總局黨組書記、局長蔡赴朝嚴重違反紀律，構成嚴重職務違法並涉嫌受賄，開除黨籍並取消退休待遇。\r\n\r\n中...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5654772",
-          "publishedOn": "2026-11-26T15:47:56.000Z",
-          "wordCount": 11393,
-          "title": "前中宣部副部長蔡赴朝退休仍被查 狂收賄遭開除黨籍",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/11/26/phpcIYIph.jpg"
+          "description": "美國持續封鎖伊朗，美國中央司令部（CENTCOM）11月27日表示，美軍26日在阿曼灣癱瘓一艘試圖突破美國海軍封鎖的貨輪，過程中沒有造成人員傷亡。\r\n\r\n美軍中央司令部指出，懸掛...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5655980",
+          "publishedOn": "2026-11-27T23:47:32.000Z",
+          "wordCount": 11514,
+          "title": "持續封鎖伊朗 美軍開火癱瘓硬闖貨船",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/11/28/phpRhHpvP.jpg"
         },
         {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5654668",
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5655976",
           "author": null,
-          "description": "日本大阪府八尾市市立小學一年級女童遠足時水壺喝光了，向老師喊話「請幫我買茶」，卻沒能喝到水導致中暑，女童與父母向市府提告求償220萬日圓。大阪高等法院今（26日）作出二審判決，審...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5654668",
-          "publishedOn": "2026-11-26T15:28:55.000Z",
-          "wordCount": 11390,
-          "title": "日本小一女童遠足喊買茶遭拒中暑！市府挨告 逆轉判賠16.5萬日圓",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/11/26/phpoRYLnB.jpg"
+          "description": "美國政府與民間網路系統與資料庫近期頻頻傳出遭駭客入侵，知情人士透露，駭客入侵美國空軍最大的雲端運算平台，可能將危及大量敏感機密，涉及戰術、人員和後勤數據。\r\n\r\n根據《路透》報導...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5655976",
+          "publishedOn": "2026-11-27T23:24:48.000Z",
+          "wordCount": 11388,
+          "title": "美國空軍雲端平台遭駭客入侵 恐危及大量軍事機密",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/11/28/phpnXBvz5.jpg"
         },
         {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5654804",
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5655978",
           "author": null,
-          "description": "海豚或許也跟人一樣，需要有社交生活。澳洲研究人員分析將近40年的觀察紀錄，發現經常與較多同伴結伴活動，且社交群體規模維持穩定的海豚，往往活得更久。\r\n\r\n英國《衛報》25日報導...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5654804",
-          "publishedOn": "2026-11-26T15:21:48.000Z",
-          "wordCount": 11408,
-          "title": "海豚有「E人」優勢 研究揭露社交穩定與長壽關係",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/11/26/phpAppW1r.jpg"
+          "description": "烏克蘭國家支持的國防科技中心Brave1今天向法新社表示，烏克蘭首次使用雷射武器擊落一架俄羅斯噴射動力無人機。\r\n\r\n本週稍早，烏克蘭總統澤倫斯基（Volodymyr Zelenskyy）的...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5655978",
+          "publishedOn": "2026-11-27T22:55:08.000Z",
+          "wordCount": 11376,
+          "title": "烏克蘭雷射防空武器首傳戰果 擊落俄羅斯噴射無人機",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/11/28/phpmrGfbK.jpg"
         },
         {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5654767",
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5655975",
           "author": null,
-          "description": "美國總統川普川普過去一段時間設法安排與北韓領導人金正恩在上週舉行的中國深圳亞太經濟合作會議（APEC）峰會會晤，最終無法如願。川普近日接受紐約郵報訪問時，否認自己的善意遭平壤當...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5654767",
-          "publishedOn": "2026-11-26T14:24:13.000Z",
+          "description": "烏克蘭海上無人艇11月22日在利比亞班加西港（Benghazi port）擊沉一艘俄羅斯護衛艦「水星號」（Merkury），引起世界關注。3名軍方人士透露，一支航向利比亞、載有軍...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5655975",
+          "publishedOn": "2026-11-27T22:43:00.000Z",
+          "wordCount": 11375,
+          "title": "俄艦遭烏軍擊沉 航向利比亞的俄軍事貨運船隊聞訊折返",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/11/28/phpu8U7ry.jpg"
+        },
+        {
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5655970",
+          "author": null,
+          "description": "南韓「TV朝鮮電視台」26日獨家披露，南韓國家情報院（NIS）為營救2名在中國被拘留的情報員，在與北京交涉期間，竟提議將調查及監控台灣情報人員在南韓境內的活動，並將掌握的相關...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5655970",
+          "publishedOn": "2026-11-27T21:56:28.000Z",
+          "wordCount": 11370,
+          "title": "傳南韓國情院為營救情報員 擬向中國提供台灣情資惹美震怒",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/11/28/5655970_1_1.jpg"
+        },
+        {
+          "id": "https://news.ltn.com.tw/news/world/paper/1780139",
+          "author": null,
+          "description": "〔駐日特派員林翠儀／東京廿七日報導〕俄羅斯外交部廿六日首度正式承認，日本首相高市早苗與總統普廷十八日在中國深圳舉行約卅分鐘會談，並期待這場睽違七年的對話能為雙邊關係帶來改善。\r\nNHK報導，俄外交部發言人札哈羅娃廿六日在例行記者會回應日媒提問時證實，普廷是應日本首相高市主動邀請與她短暫接觸。札哈羅娃…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1780139",
+          "publishedOn": "2026-11-27T21:30:00.000Z",
+          "wordCount": 11374,
+          "title": "日俄領袖隔七年會談 莫斯科證實",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/11/28/48.jpg"
+        },
+        {
+          "id": "https://news.ltn.com.tw/news/world/paper/1780141",
+          "author": null,
+          "description": "〔編譯林家宇／綜合報導〕美國總統川普廿五日與北大西洋公約組織（NATO）秘書長呂特會晤，發表共同聲明呼籲俄羅斯避免擴大烏俄衝突後，廿六日進一步表示，上週在中國深圳與俄羅斯總統普廷會面時，敦促對方「停止對歐洲領土的軍事侵犯」，以加速推動烏俄和平進程。\r\n川普在真實社群發文提到，他花費許多時間告知普廷「…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1780141",
+          "publishedOn": "2026-11-27T21:30:00.000Z",
+          "wordCount": 11376,
+          "title": "上週見普廷 川普力勸停止侵犯歐洲",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/11/28/50.jpg"
+        },
+        {
+          "id": "https://news.ltn.com.tw/news/world/paper/1780137",
+          "author": null,
+          "description": "與安保三文件修訂 相互配合\r\n〔駐日特派員林翠儀／東京廿七日報導〕日本防衛省廿七日公布人工智慧（AI）戰略新方針「Defense AI Vision」，宣示將AI運用從個別業務輔助提升至改變自衛隊整體作戰模式。未來將整合陸海空自衛隊的情報與數據，運用AI加速戰場情勢分析、指揮決策及無人裝備運作，並與…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1780137",
+          "publishedOn": "2026-11-27T21:30:00.000Z",
           "wordCount": 11387,
-          "title": "川普坦承沒聯絡！金正恩不甩「去核化」 宣示核武國地位不容置疑",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/11/26/5654767_1_1.jpg"
+          "title": "日AI戰略新方針 強化無人協同作戰",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/11/28/46.jpg"
         },
         {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5654749",
+          "id": "https://news.ltn.com.tw/news/world/paper/1780138",
           "author": null,
-          "description": "根據獨立能源市場研究公司數據，在烏克蘭密集攻擊俄羅斯煉油設施之際，俄國原油加工量已銳減至20多年來最低水準，可能加劇其國內燃料短缺問題。\r\n\r\n彭博25日報導，獨立能源市場研究...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5654749",
-          "publishedOn": "2026-11-26T13:35:38.000Z",
-          "wordCount": 11399,
-          "title": "遭烏軍猛攻到「腰斬」 俄原油加工量創20多年新低",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/11/26/5654749_1_1.jpg"
+          "description": "中國智庫：美打造戰時非正式軍事據點\r\n〔編譯林家宇／綜合報導〕南華早報廿七日引述中國智庫「中國南海研究院」（NISCSS）廿五日發表的研究報告指出，美國近期以商業、民間活動名義，在菲律賓北部戰略港口「蘇比克灣」的一系列建設活動，判斷其目的是要打造戰時可無縫轉換為應對南海和台灣海峽衝突的「非正式軍事據…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1780138",
+          "publishedOn": "2026-11-27T21:30:00.000Z",
+          "wordCount": 11372,
+          "title": "撤出逾30年 美軍重建菲蘇比克灣",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/11/28/47.jpg"
         },
         {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5654565",
+          "id": "https://news.ltn.com.tw/news/world/paper/1780140",
           "author": null,
-          "description": "烏克蘭官員表示，首都基輔（Kyiv）在昨晚深夜到今（26）日清晨再度遭到俄羅斯空襲，造成7人受傷與3棟建築受損。俄羅斯則聲稱，攻擊目標為烏軍無人機生產設施。\r\n\r\n《路透》報導，...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5654565",
-          "publishedOn": "2026-11-26T12:12:08.000Z",
-          "wordCount": 11391,
-          "title": "俄羅斯連夜轟炸基輔 官員稱7人受傷3棟建築受損",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/11/26/phpx8DGyJ.jpg"
+          "description": "〔國際新聞中心／綜合報導〕烏克蘭國防部情報總局廿六日表示，北韓與俄國因南韓政策出現外交摩擦，在領導人金正恩下令後，已暫停部分對俄軍事合作，包括運交KN-23彈道飛彈及砲彈。\r\n烏克蘭國防部情報總局（GUR）指出，北韓外長崔善姬上月底要求俄方釐清對南韓政策，並宣布暫停部分軍事合作。導火線是俄羅斯副外長…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1780140",
+          "publishedOn": "2026-11-27T21:30:00.000Z",
+          "wordCount": 11374,
+          "title": "因南韓生隙 北韓飛彈暫停輸俄",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/11/28/49.jpg"
         },
         {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5654617",
+          "id": "https://news.ltn.com.tw/news/world/paper/1780202",
           "author": null,
-          "description": "英國情報機關24日才警告，俄羅斯升高對歐洲國防相關設施的破壞行動企圖，英國媒體25日即披露，皇家空軍（RAF）正加強軍機防護措施，包括在夜間將軍機移入機棚，以防範可能的無人機攻...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5654617",
-          "publishedOn": "2026-11-26T11:55:21.000Z",
-          "wordCount": 11398,
-          "title": "MI5才示警俄升高破壞行動  英基地軍機夜間入機棚",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/11/26/5654617_1_1.jpg"
+          "description": "◎國際新聞中心\r\nSenators want to scuttle President Donald Trump’s order to retrofit new aircraft carriers with old steam catapults to launch fighter jets, a …",
+          "link": "https://news.ltn.com.tw/news/world/paper/1780202",
+          "publishedOn": "2026-11-27T21:30:00.000Z",
+          "wordCount": 11717,
+          "title": "中英對照讀新聞》Trump faces GOP pushback to his order to use steam to launch jets from aircraft carriers川普下令航艦改用蒸氣彈射系統 共和黨議員反對",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/11/28/116.jpg"
         },
         {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5654441",
+          "id": "https://news.ltn.com.tw/news/world/paper/1780142",
           "author": null,
-          "description": "《北海道新聞社》記者今井裕紀自2024年起派駐俄國遠東薩哈林州，原定於10月13日結束2年特派員任期、經北京於14日返抵東京羽田機場，卻在啟程當天突遭俄方以涉間諜罪逮捕。今井的妻...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5654441",
-          "publishedOn": "2026-11-26T11:30:07.000Z",
-          "wordCount": 11388,
-          "title": "日本記者遭俄拘留1個月 妻子手寫信淚求：請把爸爸還給年幼女兒",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/11/26/phpAXyPRD.jpg"
+          "description": "〔編譯管淑平／綜合報導〕紐西蘭國會大選最終結果於廿七日出爐。現任總理盧克森領導的右翼執政聯盟以一席之差未能過半，中間偏左聯盟亦未贏得多數，使得奪得七席的新興中間派「機會黨」華裔黨魁黃秋蕾（Qiulae Wong）成為造王者。\r\n新興小黨奪7席成關鍵\r\n七日公布的初步結果顯示，國家黨原本可與傳統盟友合…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1780142",
+          "publishedOn": "2026-11-27T21:30:00.000Z",
+          "wordCount": 11377,
+          "title": "紐國會大選 執政聯盟差1席過半",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/11/28/51.jpg"
         },
         {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5654459",
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5655968",
           "author": null,
-          "description": "據俄國媒體報導，俄羅斯航空太空軍副司令格列霍夫（Yuriy Grekhov）已被軍事法院下令逮捕。\r\n\r\n《路透》引述俄羅斯「工商日報」（Kommersant）消息報導，格列霍夫...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5654459",
-          "publishedOn": "2026-11-26T10:09:18.000Z",
-          "wordCount": 11388,
-          "title": "俄航空太空軍副司令疑涉貪  軍事法院下令逮捕",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/11/26/phpW3i7xX.jpg"
+          "description": "感恩節風暴重創美國東部，造成數十萬美國民眾停電。這場風暴也迫使紐約知名的「梅西感恩節大遊行」（Macy's Thanksgiving Day Parade）罕見延期。\n\n法新社報導，昨天的風...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5655968",
+          "publishedOn": "2026-11-27T19:36:04.000Z",
+          "wordCount": 11362,
+          "title": "感恩節風暴襲美東造成數十萬戶停電　航班延誤、遊行改期",
+          "imageUrl": "https://news.ltn.com.tw/assets/images/all/250_ltn.png"
         },
         {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5654531",
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5655964",
           "author": null,
-          "description": "烏克蘭25日宣布，首度在實戰中以雷射武器擊落俄軍噴射動力無人機，並稱這是全球首例。俄軍今年大規模部署飛行速度較快、攔截難度較高的噴射動力無人機，烏國這次成功攔截，是抵禦俄軍空襲...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5654531",
-          "publishedOn": "2026-11-26T10:00:26.000Z",
-          "wordCount": 11419,
-          "title": "全球首例！烏克蘭「閃光」雷射武器 擊落俄噴射無人機",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/11/26/5654531_1_1.jpg"
+          "description": "聯合國秘書長古特瑞斯（Antonio Guterres）今天譴責一起被指控由伊朗發動的無人機攻擊事件。這起攻擊造成2名義大利人在科威特死亡。古特瑞斯呼籲「各方保持克制」。\n\n法新社報導，聯合...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5655964",
+          "publishedOn": "2026-11-27T18:30:04.000Z",
+          "wordCount": 11354,
+          "title": "無人機襲科威特釀2義大利人死亡　聯合國秘書長籲各方克制",
+          "imageUrl": "https://news.ltn.com.tw/assets/images/all/250_ltn.png"
         },
         {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5654350",
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5655951",
           "author": null,
-          "description": "馬來西亞內政部長賽夫丁（Saifuddin Nasution Ismail）週四（26日）在國會披露，馬國空軍設施近年遭販毒集團非法利用，走私至少3公噸毒品。當局正擴大偵辦這起軍...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5654350",
-          "publishedOn": "2026-11-26T09:06:01.000Z",
+          "description": "烏俄終戰斡旋陷入僵局之際，烏克蘭對俄羅斯的打擊行動，不僅頻率大增，範圍也擴大至遠離烏俄戰場的地中海。根據衝突監測機構數據，烏軍今年以來對500公里以外的俄國目標，發動將近500...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5655951",
+          "publishedOn": "2026-11-27T15:58:04.000Z",
+          "wordCount": 11372,
+          "title": "烏軍襲俄範圍、頻率雙增！西伯利亞到地中海都不放過",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/11/27/5655951_1_1.jpg"
+        },
+        {
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5655876",
+          "author": null,
+          "description": "烏克蘭總統澤倫斯基26日接受英國廣播公司（BBC）專訪時說，烏軍如今已有能力摧毀約7成的俄羅斯高速無人機，但抵禦俄國彈道飛彈的關鍵武器，愛國者防禦系統仍極度短缺，對於美國優先支...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5655876",
+          "publishedOn": "2026-11-27T15:11:31.000Z",
+          "wordCount": 11373,
+          "title": "烏克蘭可摧毀7成俄羅斯高速無人機 愛國者飛彈供應仍吃緊",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/11/27/5655876_1_1.jpg"
+        },
+        {
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5655875",
+          "author": null,
+          "description": "南華早報引述中國智庫「中國南海研究院」（NISCSS）25日發表的研究報告，判斷美國近期以商業、民間活動名義，在菲律賓北部戰略港口「蘇比克灣」（Subic Bay）的一系列建設...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5655875",
+          "publishedOn": "2026-11-27T14:51:24.000Z",
+          "wordCount": 11373,
+          "title": "美重建蘇比克灣  中國智庫揭應對南海、台海衝突「非正式軍事據點」",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/11/27/5655875_1_1.jpg"
+        },
+        {
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5655858",
+          "author": null,
+          "description": "紐西蘭國會大選最終結果27日出爐，首次進入國會的新興中間派「機會黨」（Opportunity Party），成為組閣關鍵。該黨去年8月民調支持率僅約1%，華裔黨魁黃秋蕾（Qiu...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5655858",
+          "publishedOn": "2026-11-27T13:33:32.000Z",
+          "wordCount": 11379,
+          "title": "看徵才廣告當上黨魁 紐西蘭華裔黃秋蕾1年逆襲成「造王者」",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/11/27/5655858_1_1.jpg"
+        },
+        {
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5655850",
+          "author": null,
+          "description": "11月初舉行的紐西蘭國會大選，最終結果27日出爐，現任總理盧克森（Christopher Luxon）領導的右翼執政聯盟，以一席之差未能過半，中間偏左聯盟也未能贏得多數席次，盧...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5655850",
+          "publishedOn": "2026-11-27T13:21:43.000Z",
           "wordCount": 11397,
-          "title": "軍機淪為販毒快遞！馬來西亞軍方走私逾3噸毒品  5軍官被捕",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/11/26/phpsO3Zy7.jpg"
+          "title": "紐西蘭大選「變盤」 執政聯盟未過半 華裔領軍小黨成組閣關鍵",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/11/27/5655850_1_1.jpg"
         },
         {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5654395",
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5655741",
           "author": null,
-          "description": "泰國曼谷1座油庫26日劇烈爆炸，《法新社》記者目擊火焰竄升空中，緊接著油庫上空冒出濃密黑煙。\r\n\r\n《法新社》報導，泰國曼谷邦納區（Bangna）辦公室在臉書發文說，曼差（Ba...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5654395",
-          "publishedOn": "2026-11-26T09:02:22.000Z",
-          "wordCount": 11414,
-          "title": "泰國曼谷油庫爆炸！火焰狂竄黑煙沖天畫面曝",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/11/26/php8AGzJ8.jpg"
+          "description": "日本「Suica企鵝」將於2027年3月底正式「畢業」，JR東日本證實，設置在JR新宿站新南閘口前的Suica企鵝銅像預計陸續結束展示，「Suica企鵝廣場」的名稱也將隨之變更，...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5655741",
+          "publishedOn": "2026-11-27T12:44:52.000Z",
+          "wordCount": 11381,
+          "title": "Suica企鵝2027年3月底畢業  新宿站銅像將撤、廣場也改名",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/11/27/phpPuC20m.jpg"
         },
         {
-          "id": "https://news.ltn.com.tw/news/world/breakingnews/5654420",
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5655592",
           "author": null,
-          "description": "泰國曼谷邦納區（Bangna）一處油庫今天下午發生爆炸。\r\n\r\n綜合民族報（The Nation）等泰國媒體報導，當局今天下午2時51分接獲油庫起火通報，民眾上傳至社群媒體的影片顯示，煉油廠...…",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5654420",
-          "publishedOn": "2026-11-26T08:51:20.000Z",
-          "wordCount": 11384,
-          "title": "泰國曼谷油庫爆炸濃煙竄天  當局籲居民撤離",
-          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/11/26/phpQIlJxo.jpg"
+          "description": "訂閱【自由追新聞】\r\n全新的視界！新聞話題不漏接，快訂閱YouTube 【自由追新聞】，記得開啟小鈴鐺哦！…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5655592",
+          "publishedOn": "2026-11-27T09:35:02.000Z",
+          "wordCount": 11379,
+          "title": "自由說新聞》俄誤擊自家高樓炸出大洞！外媒爆：普廷傳與鐵桿鬧翻",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/11/27/phpQnCnOR.jpg"
+        },
+        {
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5655517",
+          "author": null,
+          "description": "歐洲將在明年迎接選舉潮。為避免政權大幅變動，尤其是在極端政黨領袖可能掌權情況下，加深歐盟協商困難性，法國與德國呼籲今年底前通過2028至2034年總額超過1兆歐元的預算案。\r\n...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5655517",
+          "publishedOn": "2026-11-27T09:31:15.000Z",
+          "wordCount": 11375,
+          "title": "防極端領袖上位增添變數 法、德敦促歐盟年底前通過下屆總預算案",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/11/27/5655517_1_1.jpg"
+        },
+        {
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5655544",
+          "author": null,
+          "description": "美國總統川普日前與俄羅斯總統普廷會談時，將普廷稱為「我的朋友」。對此，烏克蘭總統澤倫斯基26日表示，川普稱普廷為「我的朋友」令他感到奇怪，就好比在第二次世界大戰期間，稱納粹德國...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5655544",
+          "publishedOn": "2026-11-27T09:13:14.000Z",
+          "wordCount": 11367,
+          "title": "川普稱普廷為朋友 澤倫斯基納悶：就像稱希特勒是好友",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/11/27/5655544_1_1.jpg"
+        },
+        {
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5655506",
+          "author": null,
+          "description": "美國總統川普19日在深圳與俄羅斯總統普廷會晤時，稱普廷為他的朋友，此言引發烏克蘭總統澤倫斯基不滿。澤倫斯基對此表示，川普將普廷稱為朋友很奇怪，並形容就像是有人在二戰時稱納粹領袖...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5655506",
+          "publishedOn": "2026-11-27T09:04:05.000Z",
+          "wordCount": 11369,
+          "title": "批評川普將普廷稱朋友 澤倫斯基：像二戰時稱希特勒為朋友般",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/11/27/phpRAtflp.png"
+        },
+        {
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5655392",
+          "author": null,
+          "description": "澳洲27日對2名男子實施反恐融資制裁，指控他們代表伊朗伊斯蘭革命衛隊，策劃並執行反猶太縱火攻擊。\r\n\r\n根據《法新社》報導，位於雪梨的劉易斯大陸廚房（Lewis Contine...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5655392",
+          "publishedOn": "2026-11-27T08:15:40.000Z",
+          "wordCount": 11389,
+          "title": "涉為伊朗策劃反猶太縱火攻擊 澳洲對2名男子實施反恐融資制裁",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/11/27/phpjZ0xqW.png"
+        },
+        {
+          "id": "https://news.ltn.com.tw/news/world/breakingnews/5655398",
+          "author": null,
+          "description": "南韓今年大學修學能力試驗（修能）作弊件數較去年暴增近7成，其中涉及智慧型裝置的查獲案件更是去年的3.6倍，逼近整體作弊案的4分之1。由於擔憂作弊歪風延燒至各大學獨立招生考試，教育...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5655398",
+          "publishedOn": "2026-11-27T08:10:38.000Z",
+          "wordCount": 11372,
+          "title": "南韓修能作弊暴增近7成！智慧型裝置查獲飆3.6倍 教育部要求重審考卷",
+          "imageUrl": "https://img.ltn.com.tw/Upload/news/600/2026/11/27/phpuhEa5E.jpg"
         }
       ]
     },
@@ -1037,26 +1027,6 @@
       "siteUrl": "https://cn.nytimes.com",
       "articles": [
         {
-          "id": "https://cn.nytimes.com/business/20261127/china-women-spending-entertainment/zh-hant/",
-          "author": "MURPHY ZHAO,艾莎",
-          "description": "收入上升的女性與人工智慧伴侶展開虛擬戀愛、玩迎合浪漫幻想的電玩遊戲、觀看大女主電視劇和小說。一些娛樂項目以展示男性魅力為賣點，顛覆了傳統的「男性凝視」。\n\n                    \nGilles Sabrié for The New York Times",
-          "link": "https://cn.nytimes.com/business/20261127/china-women-spending-entertainment/zh-hant/?utm_source=RSS",
-          "publishedOn": "2026-11-27T04:45:38.000Z",
-          "wordCount": 243,
-          "title": "在中國，「女凝」正在推動一場新的娛樂消費熱潮",
-          "imageUrl": "https://static01.nyt.com/images/2026/11/05/multimedia/Biz-Sheconomy-video-bpvg/Biz-Sheconomy-video-bpvg-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/business/20261127/huawei-trump-china-ai/zh-hant/",
-          "author": "KEITH BRADSHER,ADAM SATARIANO",
-          "description": "七年前，川普政府對華為的打壓威脅到該公司的生存。如今，華為已成為北京在人工智慧領域挑戰美國的核心。其晶片是中國目前最接近英偉達先進半導體的替代品。\n\n                    \nMatthew Lloyd/PA Wire, via Associated Press\n                    \n2015年，中國最高領導人習近平與華為創始人任正非在倫敦。",
-          "link": "https://cn.nytimes.com/business/20261127/huawei-trump-china-ai/zh-hant/?utm_source=RSS",
-          "publishedOn": "2026-11-27T04:23:47.000Z",
-          "wordCount": 278,
-          "title": "華為：從被美國制裁到成為中國人工智慧戰略的核心",
-          "imageUrl": "https://static01.nyt.com/images/2026/11/25/multimedia/Biz-China-Huawei-03-wcft/Biz-China-Huawei-03-wcft-articleLarge.jpg"
-        },
-        {
           "id": "https://cn.nytimes.com/business/20261127/trump-tariffs-asia/zh-hant/",
           "author": "艾莎",
           "description": "川普政府以產能過剩為由推出新關稅措施，再次凸顯了其對削弱中國在供應鏈中主導地位的重視。在美國政府解釋加徵關稅理由的報告中，中國被提及數百次。\n\n                    \nDoug Mills/The New York Times\n                    \n本月早些時候，川普總統與習近平在中國深圳。",
@@ -1065,16 +1035,6 @@
           "wordCount": 234,
           "title": "川普新關稅再將矛頭指向北京，旨在削弱中國供應鏈優勢",
           "imageUrl": "https://static01.nyt.com/images/2026/11/26/multimedia/26Biz-Asia-Tariffs-01-fzkq/26Biz-Asia-Tariffs-01-fzkq-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/china/20261127/hong-kong-fire-wang-fuk-court-anniversary/zh-hant/",
-          "author": "ANJALI TSUI",
-          "description": "一年前的火災造成168人遇難，是近80年來香港最致命的火災。港府未舉行官方紀念活動，但民眾仍然以自己的方式追思逝者，居民和遇難者家屬仍在等待真正的問責。\n\n                    \nChan Long Hei/Associated Press\n                    \n週四，人們在香港去年發生火災的公寓樓附近獻花。港府表示不會舉辦悼念活動。",
-          "link": "https://cn.nytimes.com/china/20261127/hong-kong-fire-wang-fuk-court-anniversary/zh-hant/?utm_source=RSS",
-          "publishedOn": "2026-11-27T02:32:33.000Z",
-          "wordCount": 233,
-          "title": "宏福苑大火一週年：民眾紀念逝者，北京警告「以災亂港」",
-          "imageUrl": "https://static01.nyt.com/images/2026/11/26/multimedia/26int-hongkong-fire-anniversary-01-fmwk/26int-hongkong-fire-anniversary-01-fmwk-articleLarge.jpg"
         },
         {
           "id": "https://cn.nytimes.com/business/20261127/nvidia-southeast-asia-sales/zh-hant/",
@@ -1095,6 +1055,36 @@
           "wordCount": 231,
           "title": "高市早苗訪問中國時是否遭到冷遇？",
           "imageUrl": "https://static01.nyt.com/images/2026/11/26/multimedia/2026-11-24-apec-greeting-index/2026-11-24-apec-greeting-index-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/china/20261127/hong-kong-fire-wang-fuk-court-anniversary/zh-hant/",
+          "author": "ANJALI TSUI",
+          "description": "一年前的火災造成168人遇難，是近80年來香港最致命的火災。港府未舉行官方紀念活動，但民眾仍然以自己的方式追思逝者，居民和遇難者家屬仍在等待真正的問責。\n\n                    \nChan Long Hei/Associated Press\n                    \n週四，人們在香港去年發生火災的公寓樓附近獻花。港府表示不會舉辦悼念活動。",
+          "link": "https://cn.nytimes.com/china/20261127/hong-kong-fire-wang-fuk-court-anniversary/zh-hant/?utm_source=RSS",
+          "publishedOn": "2026-11-26T21:35:45.000Z",
+          "wordCount": 233,
+          "title": "宏福苑大火一週年：民眾紀念逝者，北京警告「以災亂港」",
+          "imageUrl": "https://static01.nyt.com/images/2026/11/26/multimedia/26int-hongkong-fire-anniversary-01-fmwk/26int-hongkong-fire-anniversary-01-fmwk-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/business/20261127/china-women-spending-entertainment/zh-hant/",
+          "author": "MURPHY ZHAO,艾莎",
+          "description": "收入上升的女性與人工智慧伴侶展開虛擬戀愛、玩迎合浪漫幻想的電玩遊戲、觀看大女主電視劇和小說。一些娛樂項目以展示男性魅力為賣點，顛覆了傳統的「男性凝視」。\n\n                    \nGilles Sabrié for The New York Times",
+          "link": "https://cn.nytimes.com/business/20261127/china-women-spending-entertainment/zh-hant/?utm_source=RSS",
+          "publishedOn": "2026-11-26T19:48:10.000Z",
+          "wordCount": 243,
+          "title": "在中國，「女凝」正在推動一場新的娛樂消費熱潮",
+          "imageUrl": "https://static01.nyt.com/images/2026/11/05/multimedia/Biz-Sheconomy-video-bpvg/Biz-Sheconomy-video-bpvg-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/business/20261127/huawei-trump-china-ai/zh-hant/",
+          "author": "KEITH BRADSHER,ADAM SATARIANO",
+          "description": "七年前，川普政府對華為的打壓威脅到該公司的生存。如今，華為已成為北京在人工智慧領域挑戰美國的核心。其晶片是中國目前最接近英偉達先進半導體的替代品。\n\n                    \nMatthew Lloyd/PA Wire, via Associated Press\n                    \n2015年，中國最高領導人習近平與華為創始人任正非在倫敦。",
+          "link": "https://cn.nytimes.com/business/20261127/huawei-trump-china-ai/zh-hant/?utm_source=RSS",
+          "publishedOn": "2026-11-26T19:07:14.000Z",
+          "wordCount": 278,
+          "title": "華為：從被美國制裁到成為中國人工智慧戰略的核心",
+          "imageUrl": "https://static01.nyt.com/images/2026/11/25/multimedia/Biz-China-Huawei-03-wcft/Biz-China-Huawei-03-wcft-articleLarge.jpg"
         },
         {
           "id": "https://cn.nytimes.com/asia-pacific/20261127/china-taiwan-comedian-xi-jinping/zh-hant/",
